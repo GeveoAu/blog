@@ -7,7 +7,7 @@ description : SpaceX, Future, Space
 
 Ok. If you weren’t living under a rock the past few months, you might have seen (at least heard of) the Falcon Heavy rocket launch by SpaceX. In case you were living under a rock, here’s the live streamed video from SpaceX’s youtube channel.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 What’s the big deal? You might ask. People have been sending rockets for decades and we have even sent people ([12](https://en.wikipedia.org/wiki/Category:People_who_have_walked_on_the_Moon)) to the moon and brought them back. Alive!
 
@@ -69,7 +69,7 @@ Currently they are recovering the first stage boosters by landing them back on e
 
 SpaceX being the cool company it is has released this video of booster landing failure compilation. You wouldn’t want to miss that.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bvim4rsNHkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+><iframe width="560" height="315" src="https://www.youtube.com/embed/bvim4rsNHkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 And here’s a simplified graphic of the stages in a Falcon 9 launch including booster landing at sea.
 
