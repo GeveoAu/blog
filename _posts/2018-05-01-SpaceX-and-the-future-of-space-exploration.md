@@ -1,23 +1,23 @@
 ---
 title: SpaceX and the future of space exploration
 author: Amila Lakshitha Ariyarathna
-linkedin: 
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
 description : SpaceX, Future, Space
 ---
 
 Ok. If you weren’t living under a rock the past few months, you might have seen (at least heard of) the Falcon Heavy rocket launch by SpaceX. In case you were living under a rock, here’s the live streamed video from SpaceX’s youtube channel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 What’s the big deal? You might ask. People have been sending rockets for decades and we have even sent people ([12](https://en.wikipedia.org/wiki/Category:People_who_have_walked_on_the_Moon)) to the moon and brought them back. Alive!
 
 Well, the simple answer is the economics of space travel.
 
-Let’s do a quick comparison between the the most powerful rocket the world has seen yet, Saturn V, and the most powerful rocket we have at the moment, Falcon Heavy.
+Let’s do a quick comparison between the most powerful rocket the world has seen yet, Saturn V, and the most powerful rocket we have at the moment, Falcon Heavy.
 
 <img src="/img/amila_0.png" height="600" width="400" />
 
-<table border="1">
+<table border="1" border-collapse="collapse">
   <tr >
     <td border="1"></td>
     <td border="1">Saturn V</td>
@@ -121,7 +121,7 @@ These are just a few big fish in the pool of competition.
 
 Wow! Looks like there’s a lot to look forward in the next few years. Aren’t we lucky to be living in a such a time? So what does it all mean for you and me, the average Joes of this world? 
 
-Let me put it like this. Hundred years back, if I told you that you can go halfway around the world in a couple of hours, you would have laughed and though I’m a nutcase. Similarly, in a hundred years from now our grandchildren might be living on Mars! Future is going to be great!
+Let me put it like this. Hundred years back, if I told you that you can go halfway around the world in a couple of hours, you would have laughed and thought I’m a nutcase. Similarly, in a hundred years from now our grandchildren might be living on Mars! Future is going to be great!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t9c7aheZxls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
