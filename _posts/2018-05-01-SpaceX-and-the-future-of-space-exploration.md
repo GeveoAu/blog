@@ -16,7 +16,7 @@ Well, the simple answer is the economics of space travel.
 Let’s do a quick comparison between the most powerful rocket the world has seen yet, Saturn V, and the most powerful rocket we have at the moment, Falcon Heavy.
 
 <img src="/img/amila_0.png" height="600" width="400" />
-*source https://imgur.com/gallery/rAigm
+*source: https://imgur.com/gallery/rAigm
 
 <table border="1" border-collapse="collapse">
   <tr >
@@ -65,16 +65,18 @@ Ok. But what exactly is reused in these rockets and how do they do it?
 Currently they are recovering the first stage boosters by landing them back on either land or on a drone ship at sea. And SpaceX has successfully used many of these recovered boosters in subsequent launches.In fact, the very first Falcon Heavy launch used 2 previously used falcon 9 first stage boosters as side boosters. If you watched the above video and you are a space enthusiast like me, I’m sure you would have gotten goosebumps after watching the 2 side boosters land side by side. Personally for me, that’s the coolest part of the whole Falcon Heavy launch which included sending a cherry-red Tesla Roadster complete with a manikin into an orbit beyond the Mars orbit.
 
 <img src="/img/amila_1.jpg"  />
+*source: spaceX
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BezcvpzAgYI/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BezcvpzAgYI/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Starman in Red Roadster</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/elonmusk/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Elon Musk</a> (@elonmusk) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-02-05T05:50:31+00:00">Feb 4, 2018 at 9:50pm PST</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>  
 
 SpaceX being the cool company it is has released this video of booster landing failure compilation. You wouldn’t want to miss that.
 
-><iframe width="560" height="315" src="https://www.youtube.com/embed/bvim4rsNHkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bvim4rsNHkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 And here’s a simplified graphic of the stages in a Falcon 9 launch including booster landing at sea.
 
 <img src="/img/amila_2.jpg"  />
+*source: spaceX
 
 Cool, is that all they can recover and reuse?
 
@@ -97,6 +99,7 @@ If you are interested, here’s the main body tool (the actual body structure is
 And here’s the proposed stages of a Earth-Mars roundtrip.
 
 <img src="/img/amila_3.png"  />
+*source: http://www.stratolaunch.com/
 
 Good luck SpaceX! Is there anyone else doing the same thing?
 
@@ -124,5 +127,5 @@ Wow! Looks like there’s a lot to look forward in the next few years. Aren’t 
 
 Let me put it like this. Hundred years back, if I told you that you can go halfway around the world in a couple of hours, you would have laughed and thought I’m a nutcase. Similarly, in a hundred years from now our grandchildren might be living on Mars! Future is going to be great!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9c7aheZxls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/t9c7aheZxls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
