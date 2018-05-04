@@ -17,35 +17,37 @@ Let’s do a quick comparison between the most powerful rocket the world has see
 
 <img src="/img/amila_0.png" height="600" width="400" />
 <center> *source: https://imgur.com/gallery/rAigm </center>
+<br/>
+
 
 <table border="1">
   <tr >
     <td border="1"></td>
-    <td border="1">Saturn V</td>
-    <td border="1">Falcon Heavy</td>
+    <td border="1"><b>Saturn V</b></td>
+    <td border="1"><b>Falcon Heavy</b></td>
   </tr>
   <tr >
-    <td border="1">Purpose</td>
+    <td border="1"><b>Purpose</b></td>
     <td border="1">Built specially to send Apollo missions to the Moon</td>
     <td border="1">A general purpose rocket to serve a variety of missions</td>
   </tr>
   <tr >
-    <td border="1">Payload to low earth orbit</td>
+    <td border="1"><b>Payload to low earth orbit</b></td>
     <td border="1">140 tons</td>
     <td border="1">64 tons</td>
   </tr>
   <tr >
-    <td border="1">Payload to Moon orbit</td>
+    <td border="1"><b>Payload to Moon orbit</b></td>
     <td border="1">49 tons </td>
     <td border="1">23 tons</td>
   </tr>
   <tr >
-    <td border="1">Payload to Mars orbit</td>
+    <td border="1"><b>Payload to Mars orbit</b></td>
     <td border="1"></td>
     <td border="1">17 tons </td>
   </tr>
   <tr >
-    <td border="1">Launch price (2018 USD)</td>
+    <td border="1"><b>Launch price (2018 USD)</b></td>
     <td border="1">$1.2Billion</td>
     <td border="1">$90Million</td>
   </tr>
