@@ -18,7 +18,7 @@ Let’s do a quick comparison between the most powerful rocket the world has see
 <img src="/img/amila_0.png" height="600" width="400" />
 <center> *source: https://imgur.com/gallery/rAigm </center>
 
-<table border="1" border-collapse="collapse">
+<table border="1">
   <tr >
     <td border="1"></td>
     <td border="1">Saturn V</td>
@@ -90,6 +90,11 @@ So is that all SpaceX got?
 
 Again, definitely no. In 2016 Elon Musk [announced](https://youtu.be/H7Uyfqi_TE8?t=64) the next generation rocket that will eventually replace the existing Falcon 9 and Falcon Heavy rockets. The new rocket is aptly named BFR, Big Falcon Rocket (also dubbed as Big F------ Rocket). This too is designed as a multi purpose launch system with even more reusability and a low cost per a kilogram of payload. 
 
+<img src="/img/amila_5.png" />
+<img src="/img/amila_6.png" />
+<img src="/img/amila_7.png" />
+*source: SpaceX
+
 SpaceX and Elon Musk has set themselves a very ambitious goal of sending the first BFR to Mars within the next few years and according to the latest [news](http://money.cnn.com/2018/04/16/technology/future/spacex-port-of-los-angeles-bfr-mars/index.html) they seems to be working towards that goal.
 
 If you are interested, here’s the main body tool (the actual body structure is built around this tool by weaving carbon fiber/composite layers by laser guided robots).
@@ -99,7 +104,7 @@ If you are interested, here’s the main body tool (the actual body structure is
 And here’s the proposed stages of a Earth-Mars roundtrip.
 
 <img src="/img/amila_3.png"  />
-*source: http://www.stratolaunch.com/
+*source: SpaceX
 
 Good luck SpaceX! Is there anyone else doing the same thing?
 
@@ -109,17 +114,30 @@ Of course. Where’s the fun without a little competition? There’s quite a bit
 
 ULAs’ current heavy lift rocket is the [Delta-IV](https://www.ulalaunch.com/rockets/delta-iv) which costs around $350Million per launch. Since it can carry about half the payload of the Falcon Heavy at more that 3 times the cost, ULA has started working on a more powerful and partially reusable launch system called [Vulcan](https://www.ulalaunch.com/rockets/vulcan-centaur) which will recycle the engines of the boosters.
 
+<img src="/img/amila_8.png"  />
+*source: https://www.ulalaunch.com
+
 **[Blue Origin](https://www.blueorigin.com/)**
 
 Founded by Jeff Bezos (Amazon founder), the Blue Origin has announced plans for a reusable launch system called [New Glenn](https://www.blueorigin.com/new-glenn). They are planning to debut the new rocket in 2020 which will use a recoverable rocket booster similar to SpaceX.
+
+<img src="/img/amila_9.png"  />
+*source: https://www.blueorigin.com
+
 
 **[Stratolaunch](http://www.stratolaunch.com/)**
 
 Utilizing six Boeing 747 engines for a payload capacity of around 23 tons Stratolaunch will be capable of delivering payloads to multiple orbits and inclinations in a single mission. They are planning to have a fully capable system at the beginning of 2020.
 
+<img src="/img/amila_4.png"  />
+*source: http://www.stratolaunch.com/
+
 **[NASA](https://www.nasa.gov)**
 
 Although not necessarily a business competition, NASA has been working on it’s next generation Saturn V replacement for some time now. Named as [SLS (Space Launch System)](https://www.nasa.gov/exploration/systems/sls/index.html) it will be a Mammoth amongst all the other rockets ever built. Nasa is planning to launching the first SLS rocket in 2020.
+
+<img src="/img/amila_10.png"  />
+*source: https://www.nasa.gov/
 
 These are just a few big fish in the pool of competition.
 
