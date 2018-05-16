@@ -1,5 +1,5 @@
 ---
-title: Careers vs job - following your passion
+title: Career vs job - following your passion
 author: Ruwani Mithrasena
 linkedin: https://lk.linkedin.com/in/ruwanimithrasena
 description : Career, Job, Passion
