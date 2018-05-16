@@ -5,8 +5,6 @@ linkedin: https://lk.linkedin.com/in/ruwanimithrasena
 description : Career, Job, Passion
 ---
 
-**Careers vs job: following your passion**
-
 Passion -- Are we really passionate about everything we do? When do we feel passionate? When doing our jobs? When engaged in our hobbies?? What are we really passionate about? And if we are not really passionate about what we do, how can we incorporate passion to our life? Those are the few questions that came to my mind and which I hope to answer, by the end of this article.
 
  
