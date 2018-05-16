@@ -53,5 +53,5 @@ Your creativity will die when you are stuck doing a dead end job which you are n
 
 
 
-Always make sure you are happy on what you do and follow your passion. ** ****"Nothing is as important as passion. No matter what you want to do with your life, be passionate." —****_Jon Bon Jovi_**
+Always make sure you are happy on what you do and follow your passion. ****"Nothing is as important as passion. No matter what you want to do with your life, be passionate." —****_Jon Bon Jovi_
 
