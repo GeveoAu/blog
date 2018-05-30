@@ -1,4 +1,3 @@
-
 ---
 title: What is new in Angular 6.0 (Angular 2.0)
 author: Aruna Perera
