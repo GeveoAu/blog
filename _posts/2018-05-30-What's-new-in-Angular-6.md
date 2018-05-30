@@ -79,11 +79,13 @@ In Angular old versions, there is no direct way of knowing if navigation was tri
 
 As you know, when we introduce a service or annotated a class with @Injectable, we have to register in app module under providers section. With the new changes in Angular 6, you can specify "providedIn" and it will auto-register itself when the app bootstraps.
 
+```javascript
 @Injectable({
 
   providedIn: 'root'
 
 })
+```
 
 * Bazel and Closure Compiler
 
