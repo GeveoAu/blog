@@ -1,4 +1,10 @@
-What is new in Angular 6.0 (Angular 2.0)
+
+---
+title: What is new in Angular 6.0 (Angular 2.0)
+author: Aruna Perera
+linkedin: 
+description : Angular6, Angular
+---
 
 AngularJS is a JavaScript-based open-source front-end web application framework maintained by Google, which combines declarative templates, dependency injection, end-to-end tooling and integrated best practices to solve development challenges. In addition, Angular JavaScript components complement Apache Cordova, a framework used for developing cross-platform mobile apps. 
 
