@@ -1,7 +1,7 @@
 ---
 title: What is new in Angular 6.0 (Angular 2.0)
 author: Aruna Perera
-linkedin: 
+linkedin: https://lk.linkedin.com/in/anishantha87
 description : Angular6, Angular
 ---
 
@@ -9,7 +9,7 @@ AngularJS is a JavaScript-based open-source front-end web application framework 
 
 Google released the initial version on October 20, 2010, and the latest stable version was released on last May 11, 2018. Angular 2.0 was a complete re-write of the initial AngularJs version 1.0 entirely based on components. Most importantly, this release makes Angular lighter, faster and easier. Moreover, it will make developers’ life easier on upcoming Angular versions.
 
-As you many know Angular 6 is already out there as a preview version, let’s find out the upcoming features and enhancements.  
+As you may know Angular 6 is already out there as a preview version, let’s find out the upcoming features and enhancements.  
 
 * Angular Material (elements)
 
