@@ -38,7 +38,5 @@ What do we lack in our lives? Giving excuses & dreaming won’t work at all if w
 
 ** **
 
-**"Don’t be afraid to work, don’t be afraid to try, don’t be afraid to network & don’t be shy!"**
-
-**"Go out and try & you never know who you may inspire along the way." – Nick Vujicic**
+**"Don’t be afraid to work, don’t be afraid to try, don’t be afraid to network & don’t be shy! Go out and try & you never know who you may inspire along the way." – Nick Vujicic**
 
