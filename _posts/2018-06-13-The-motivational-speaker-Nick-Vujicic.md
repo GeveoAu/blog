@@ -7,7 +7,6 @@ description : Vujicic, motivational
 
 **_"If I fail, I try again, and again, and again. If you fail, are you going to try again? The human spirit can handle much worse than we realize. It matters how you are going to FINISH. Are you going to finish strong?"-Nick Vujicic._**
 
-![image alt text](shamini1.jpg)
 <img src="/img/shamini1.jpg" height="600" width="400" />
 
 "Are you going to finish it strong? Are you?" You may try couple of times but most of the time at some point you may abandon it. All of us have so many excuses for that.
