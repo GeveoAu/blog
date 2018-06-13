@@ -6,7 +6,7 @@ description : Vujicic, motivational
 ---
 
 
-**                           ****The motivational speaker - Nick Vujicic **
+**The motivational speaker - Nick Vujicic**
 
 **_"If I fail, I try again, and again, and again. If you fail, are you going to try again? The human spirit can handle much worse than we realize. It matters how you are going to FINISH. Are you going to finish strong?"-Nick Vujicic._**
 
@@ -42,5 +42,5 @@ What do we lack in our lives? Giving excuses & dreaming won’t work at all if w
 
 **"Don’t be afraid to work, don’t be afraid to try, don’t be afraid to network & don’t be shy!**
 
-**             Go out and try & you never know who you may inspire along the way." – Nick Vujicic**
+**Go out and try & you never know who you may inspire along the way." – Nick Vujicic**
 
