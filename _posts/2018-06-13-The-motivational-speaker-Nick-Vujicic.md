@@ -12,9 +12,9 @@ description : Vujicic, motivational
 
 "Are you going to finish it strong? Are you?" You may try couple of times but most of the time at some point you may abandon it. All of us have so many excuses for that.
 
-*I didn't come from a rich family so I didn't get the same opportunities. *
+*I didn't come from a rich family so I didn't get the same opportunities.*
 
-*I wasn't born attractive enough. *
+*I wasn't born attractive enough.*
 
 List of excuses will continue like that. But think about a person who has NO ARMS, NO LEGS. If I’m saying that there is a person who has born limbless & where he is the president of an international non-profit organization, and also has his own motivational speaking company- "**Attitude Is Altitude**". Do you believe a limbless person can do it? Most probably “No” right.
 
