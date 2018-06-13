@@ -5,6 +5,7 @@ linkedin: https://www.linkedin.com/in/shamini-mendis-515484148/
 description : Vujicic, motivational
 ---
 
+
 **_"If I fail, I try again, and again, and again. If you fail, are you going to try again? The human spirit can handle much worse than we realize. It matters how you are going to FINISH. Are you going to finish strong?"-Nick Vujicic._**
 
 <img src="/img/shamini1.jpg" height="600" width="400" />
