@@ -5,7 +5,7 @@ linkedin: https://lk.linkedin.com/in/sajitha-dharmasiri-87b465b3
 description : Right to Information, Law, Sri Lanka
 ---
 
-In Democratic Socialist Republic of Sri Lanka, as the name republic points out, the state belongs to the people and is maintained by the tax money of the people. Therefor people have the right to know information regarding the state and the institutions, which enables them to involve in the governance. However that has not been the case for few decades due to the lack of legislation towards the right to know information. There are lots of talks of corruption and inefficiency in state sector but people suffered the inability to get information on such matters. However, one of the most revolutionary developments of the past few decades, the Right to Information Act has emerged as the answer.
+In Democratic Socialist Republic of Sri Lanka, as the name 'republic' points out, the state belongs to the people and is maintained by the tax money of the people. Therefor people have the right to know information regarding the state and the institutions, which enables them to involve in the governance. However that has not been the case for few decades due to the lack of legislation towards the right to know information. There are lots of talks of corruption and inefficiency in state sector but people suffered the inability to get information on such matters. However, one of the most revolutionary developments of the past few decades, the Right to Information Act has emerged as the answer.
 
 **Brief history about Right to Information in Sri Lanka**
 
