@@ -1,6 +1,10 @@
-**Moving forward with Right to Information**
-
-**By: Sajitha Dharmasiri** 
+---
+title: Moving forward with Right to Information
+author: Sajitha Dharmasiri
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : Right to Information, Law, Sri Lanka
+---
+****
 
 In Democratic Socialist Republic of Sri Lanka, as name points out a republic, the state is belong to the people and is maintained by the tax monies of people. Therefor people have right to know information regarding the state and the institutions, which enables them to involve in the governance. However that has not been the case for few decades due to lack of legislation towards the right to know information. There are lot of talks of corruption and inefficiency in state sector but people suffered the inability to get information on such matters. However one of the most revolutionary developments of past few decades, the Right to Information Act has emerged as the answer.
 
@@ -48,9 +52,9 @@ The Act also describes when the access to information shall be refused. Personal
 
 **RTI Process**
 
-![image alt text](image_0.png)
+<img src="/img/sajitha1.png" height="600" width="400" />
 
-(Image source - https://www.rti.gov.lk/images/rti_faq.png)
+<center> *Image source: https://www.rti.gov.lk/images/rti_faq.png </center>
 
 The RTI process can be simplified in to following important steps. 
 
