@@ -91,7 +91,7 @@ Above are two simple suggestions that writer had when reading the publications a
 
 **Conclusion**
 
-*We have to pay our gratitude towards some personals and civil society organizations including civil rights activists, media organizations for the long struggle which spanning over a decade towards Right to Information. Since now it’s in implementation, the IT community also has a responsibility to finding and proposing the solutions to improve the implementation of Right to Information. *
+We have to pay our gratitude towards some personals and civil society organizations including civil rights activists, media organizations for the long struggle which spanning over a decade towards Right to Information. Since now it’s in implementation, the IT community also has a responsibility to finding and proposing the solutions to improve the implementation of Right to Information. 
 
 **Further Readings**
 
