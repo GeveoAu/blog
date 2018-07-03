@@ -54,7 +54,7 @@ The Act also describes when the access to information shall be refused. Personal
 <img src="/img/sajitha1.png" height="600" width="400" />
 
 <center> *Image source: https://www.rti.gov.lk/images/rti_faq.png </center>
-</br>
+<br/>
 
 The RTI process can be simplified in to following important steps. 
 
