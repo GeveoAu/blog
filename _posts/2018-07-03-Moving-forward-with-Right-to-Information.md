@@ -1,7 +1,7 @@
 ---
 title: Moving forward with Right to Information
 author: Sajitha Dharmasiri
-linkedin: 
+linkedin: https://lk.linkedin.com/in/sajitha-dharmasiri-87b465b3
 description : Right to Information, Law, Sri Lanka
 ---
 
