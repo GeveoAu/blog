@@ -1,3 +1,10 @@
+---
+title: Speedup your computer with a Solid State Drive(SSD)
+author: Prabath Sandaruwan
+linkedin: https://lk.linkedin.com/in/prabathcse
+description : SSD, Solid State Drive, Computer Performance
+---
+
 Do you feel like your computer is running slow? Ever thought to do an upgrade at a cheaper cost? Let’s see what we can do. Installing a SSD is the best way to increase the performance of your computer at a comparatively low price. So what is a Solid State Drive? As the name implies, solid-state drive is a device, which does not have any moving parts and uses integrated circuit assemblies as memory to store data persistently. On the other hand, traditional Hard Disk Drives (HDD), which we normally use in our computers, have moving parts like read/write head, platter, etc. Therefore, when we want to get some data from a HDD, read/write head has to move to the position in the platter where the data is stored and read the data. This process introduces latencies such as seek time (time taken by the head to travel to the track in the disk where the data is stored) and rotational latency (delay waiting for the rotation of the disk to bring the required disk sector under head) which reduce the performance of the computer.  
 
  
