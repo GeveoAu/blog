@@ -19,7 +19,7 @@ SSDs on the other hand do not have any moving parts and they store data in a poo
  
  As you can see in the above hierarchy, memory of a computer consists of several levels. CPU registers resides at the top of the hierarchy with super-fast performance as well as with super expense. Then there are CPU cache and RAM, again with fast performance and higher cost. Then there is SSD with reasonable price and bearable cost/capacity ratio. Then at last, we have HDD. So obviously, we can gain performance by using SSDs over HDDs.  
 
-# Advantages of Solid State Drives 
+* Advantages of Solid State Drives *
 
 Being faster than HDDs is not the only good thing about SSDs. SSDs also consume less amount of power compares to HDDs because, as explained earlier, HDDs have moving parts and those parts consume power. In addition, since the absence of moving parts SSDs do not produce noise while they operate and they are compact than HDDs. 
 
