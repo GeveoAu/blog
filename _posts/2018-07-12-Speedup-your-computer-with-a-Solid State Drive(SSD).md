@@ -1,14 +1,14 @@
 Do you feel like your computer is running slow? Ever thought to do an upgrade at a cheaper cost? Let’s see what we can do. Installing a SSD is the best way to increase the performance of your computer at a comparatively low price. So what is a Solid State Drive? As the name implies, solid-state drive is a device, which does not have any moving parts and uses integrated circuit assemblies as memory to store data persistently. On the other hand, traditional Hard Disk Drives (HDD), which we normally use in our computers, have moving parts like read/write head, platter, etc. Therefore, when we want to get some data from a HDD, read/write head has to move to the position in the platter where the data is stored and read the data. This process introduces latencies such as seek time (time taken by the head to travel to the track in the disk where the data is stored) and rotational latency (delay waiting for the rotation of the disk to bring the required disk sector under head) which reduce the performance of the computer.  
 
  
-<img src="/img/Prabath1.png" height="600" width="600" />
+<img src="/img/Prabath1.png" height="400" width="600" />
 
 Source:  https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hard_drive-en.svg/2000px-Hard_drive-en.svg.png
 
  
 SSDs on the other hand do not have any moving parts and they store data in a pool of NAND flash. Therefore, when you want to get some data from a SSD, it just fetches data from the block where the data is stored. Even though this is a simplified explanation, hope you can understand that SSD’s approach of fetching data is much easier and faster than that of HDD. 
  
-<img src="/img/Prabath2.PNG" height="600" width="600" />
+<img src="/img/Prabath2.PNG" height="400" width="600" />
  
  As you can see in the above hierarchy, memory of a computer consists of several levels. CPU registers resides at the top of the hierarchy with super-fast performance as well as with super expense. Then there are CPU cache and RAM, again with fast performance and higher cost. Then there is SSD with reasonable price and bearable cost/capacity ratio. Then at last, we have HDD. So obviously, we can gain performance by using SSDs over HDDs.  
 
