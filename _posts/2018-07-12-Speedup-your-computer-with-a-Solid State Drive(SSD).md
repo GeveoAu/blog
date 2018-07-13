@@ -19,15 +19,15 @@ SSDs on the other hand do not have any moving parts and they store data in a poo
  
  As you can see in the above hierarchy, memory of a computer consists of several levels. CPU registers resides at the top of the hierarchy with super-fast performance as well as with super expense. Then there are CPU cache and RAM, again with fast performance and higher cost. Then there is SSD with reasonable price and bearable cost/capacity ratio. Then at last, we have HDD. So obviously, we can gain performance by using SSDs over HDDs.  
 
-* Advantages of Solid State Drives *
+**Advantages of Solid State Drives**
 
 Being faster than HDDs is not the only good thing about SSDs. SSDs also consume less amount of power compares to HDDs because, as explained earlier, HDDs have moving parts and those parts consume power. In addition, since the absence of moving parts SSDs do not produce noise while they operate and they are compact than HDDs. 
 
-# Disadvantages of Solid State Drives 
+**Disadvantages of Solid State Drives** 
 
 However, no technology is perfect, so SSDs also have some downsides as well. First SSDs are way more expensive than HDDs. For the price of 128 GB SATA3 SSD, you can buy 1TB SATA3 HDD. These days even mobile phones have 128GB of memory. So obviously, 128GB is not enough for a computer. Moreover, another important thing is that SSDs have shorter lifespan than HDDs because the flash memory of a solid state drive can only be used for a finite number of writes. Though this is a large number, we have to consider it.  
 
-# Overcoming the Drawbacks 
+**Overcoming the Drawbacks** 
 
 So how can we overcome those drawbacks? One thing we can do is to use a SSD to store the Operating system and bulky software like development tools and use a HDD to store files such as movies, music, etc... This way we can reduce the cost by using a SSD with a lower capacity and it will reduce the number of writes on the SSD. In a normal desktop computer, we can easily do that. Even in Laptop computers, there are ways to install both SSD and HDD. As example, still most of our laptop computers have CD-ROM drives, which we hardly use, so what we can do is remove the CD-ROM drive and use that space to install a SSD (Some of my friends actually did this).  
 
