@@ -68,7 +68,7 @@ Value of the "run_value" should now be 1. External Scripts are enabled and you c
 ## Hello World with R and T-SQL
 
 Let’s see how the things are done in SQL Server Machine Learning Services. Execute the following script, which demonstrate the basic building blocks in executing R in SQL server (The same applies to executing Python in SQL Server 2017 as well).
-
+```sql
 EXEC sp_execute_external_script
 
   @language =N'R',
@@ -80,7 +80,7 @@ EXEC sp_execute_external_script
   WITH RESULT SETS (([Hello World] int));
 
 GO
-
+```
 ### Results:-
 
 <img src="/img/chamika_0.png" height="600" width="400" />
@@ -106,7 +106,7 @@ Now, as we know how R scripts are executed in SQL Server, Let’s try to do some
 Execute the attached [StudentMarks.sql](StudentMarks.sql) which will create a table named StudentMarks with 20 sample records of students’ marks. Using R lets calculate the mean and standard deviation of the marks.
 
 Execute the following script.
-
+```sql
 EXEC sp_execute_external_script
 
   @language =N'R',
@@ -128,7 +128,7 @@ EXEC sp_execute_external_script
   @input_data_1 =N'SELECT Mark FROM StudentMarks'  WITH RESULT SETS (([Standard Deviation] numeric(18,2), [Mean] numeric(18,2)))
 
 GO
-
+```
 ### Results:-
 
 <img src="/img/chamika_1.png" height="600" width="400" />
