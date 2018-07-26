@@ -15,7 +15,7 @@ There are two options for SQL Server Machine Learning Services:-
 
 In this article, the focus will be on the use of *SQL Server Machine Learning Services (In-Database)* with R.
 
-## Advantages of SQL Server Machine Learning Services
+**Advantages of SQL Server Machine Learning Services**
 
 Machine learning services in SQL Server are designed to provide strong integration with the database engine and the BI stack. Hence, it provides following key benefits to the users.
 
@@ -37,7 +37,7 @@ Machine learning services in SQL Server are designed to provide strong integrati
 
 * Developers can do all the analysis where the data resides without pulling data outside the database
 
-## Installation
+** Installation **
 
 In the SQL Server setup wizard, On the **Feature Selection** page, select the following options:
 
@@ -49,7 +49,7 @@ In the SQL Server setup wizard, On the **Feature Selection** page, select the 
 
 Continue with the setup.
 
-## Enable external script execution
+**Enable external script execution**
 
 * Execute the following in SSMS
 ```sql
@@ -100,7 +100,7 @@ Let’s take a look at the query.
 
 *InputDataSet* and *OutputDataSet* are the default R variables which the input and output datasets are stored retrieved by SQL Server.
 
-## Moving Forward with R in SQL Server
+**Moving Forward with R in SQL Server**
 
 Now, as we know how R scripts are executed in SQL Server, Let’s try to do some simple statistical calculations using R.
 
@@ -158,7 +158,7 @@ OutputDataSet <- as.data.frame(c(sdFrame, meanFrame))
 
 Finally the two frames are combined into one and stored in the OutputDataSet which will be returned to T-SQL.
 
-## Moving Forward with R
+**Moving Forward with R**
 
 As you can see, doing standard statistical computations with R is quite easy. Not just statistical computations, R is a very powerful language, which can be used for Analytics, Graphics and Visualizations, Data Mining and Machine learning, etc. You can even install any third party R packages, which provides many advance functionalities, and consume them via SQL Server Machine Learning services.
 
