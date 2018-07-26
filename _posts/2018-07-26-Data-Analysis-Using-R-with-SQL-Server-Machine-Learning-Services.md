@@ -15,29 +15,29 @@ There are two options for SQL Server Machine Learning Services:-
 
 In this article, the focus will be on the use of *SQL Server Machine Learning Services (In-Database)* with R.
 
-**Advantages of SQL Server Machine Learning Services**
+### Advantages of SQL Server Machine Learning Services
 
 Machine learning services in SQL Server are designed to provide strong integration with the database engine and the BI stack. Hence, it provides following key benefits to the users.
 
-### Security
+**Security**
 
 * As data is kept within the compliance boundary and use of data can be managed and monitored by SQL Server, DBAs have full control over who can access the data.
 
 * DBAs have full control over who can install packages or run scripts on the server. If so desired, they can also delegate permissions on a database level.
 
-### Usability
+**Usability**
 
 * Developers can use familiar tools such as Management Studio, Visual Studio or even Visual Studio Code to integrate the R or Python code with SQL Server.
 
 * Developers can easily expose the predictive solutions by using stored procedures.
 
-### Performance
+**Performance**
 
 * Solutions can be optimized using SQL Server technologies, such as columnstore indexes or partitioning, for better performance. Newer features let you batch-train many small models in parallel on partitioned data set, or score millions of rows in using native SQL code optimized for machine learning tasks.
 
 * Developers can do all the analysis where the data resides without pulling data outside the database
 
-** Installation **
+### Installation
 
 In the SQL Server setup wizard, On the **Feature Selection** page, select the following options:
 
@@ -49,7 +49,7 @@ In the SQL Server setup wizard, On the **Feature Selection** page, select the 
 
 Continue with the setup.
 
-**Enable external script execution**
+### Enable external script execution**
 
 * Execute the following in SSMS
 ```sql
@@ -65,7 +65,7 @@ RECONFIGURE
 
 Value of the "run_value" should now be 1. External Scripts are enabled and you can start executing R scripts.
 
-***Hello World with R and T-SQL***
+**Hello World with R and T-SQL**
 
 Let’s see how the things are done in SQL Server Machine Learning Services. Execute the following script, which demonstrate the basic building blocks in executing R in SQL server (The same applies to executing Python in SQL Server 2017 as well).
 ```sql
@@ -81,9 +81,9 @@ EXEC sp_execute_external_script
 
 GO
 ```
-***Results:-***
+**Results:-**
 
-<img src="/img/chamika_0.png" height="60" width="40" />
+<img src="/img/chamika_0.png" height="120" width="80" />
 
 For the first time, it might take some time to generate the results as it takes a little while to load the external script runtime.
 
@@ -99,7 +99,7 @@ Let’s take a look at the query.
 
 *InputDataSet* and *OutputDataSet* are the default R variables which the input and output datasets are stored retrieved by SQL Server.
 
-**Moving Forward with R in SQL Server**
+### Moving Forward with R in SQL Server
 
 Now, as we know how R scripts are executed in SQL Server, Let’s try to do some simple statistical calculations using R.
 
@@ -129,12 +129,12 @@ EXEC sp_execute_external_script
 
 GO
 ```
-### Results:-
+**Results:-**
 
-<img src="/img/chamika_1.png" height="60" width="40" />
+<img src="/img/chamika_1.png" height="120" width="80" />
 
 
-### Let’s go through the R script line by line to understand what it does.
+**Let’s go through the R script line by line to understand what it does.**
 ```sql
 InputMarks <- as.matrix(InputDataSet)
 ```
@@ -157,7 +157,7 @@ OutputDataSet <- as.data.frame(c(sdFrame, meanFrame))
 
 Finally the two frames are combined into one and stored in the OutputDataSet which will be returned to T-SQL.
 
-**Moving Forward with R**
+### Moving Forward with R
 
 As you can see, doing standard statistical computations with R is quite easy. Not just statistical computations, R is a very powerful language, which can be used for Analytics, Graphics and Visualizations, Data Mining and Machine learning, etc. You can even install any third party R packages, which provides many advance functionalities, and consume them via SQL Server Machine Learning services.
 
