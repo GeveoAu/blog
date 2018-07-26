@@ -5,8 +5,6 @@ linkedin: https://lk.linkedin.com/in/chamikagoonetilaka
 description : R, Machine Learning, SQL server
 ---
 
-# Data Analysis Using R with SQL Server Machine Learning Services
-
 SQL Server Machine Learning Services is an embedded, predictive analytics and data science engine that can execute R and Python scripts within SQL Server as T-SQL script containing R or Python statements, or as R or Python scripts containing T-SQL. The main advantage of it is, the ability to do such analysis where the data resides, eliminating the need to pull data outside the database.
 
 There are two options for SQL Server Machine Learning Services:-
