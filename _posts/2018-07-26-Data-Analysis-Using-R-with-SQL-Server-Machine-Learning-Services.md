@@ -131,7 +131,7 @@ GO
 ```
 **Results:-**
 
-<img src="/img/chamika_1.png" height="80" width="120" />
+<img src="/img/chamika_1.png" height="80" width="160" />
 
 
 **Let’s go through the R script line by line to understand what it does.**
