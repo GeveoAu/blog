@@ -60,13 +60,12 @@ Value of the "run_value" should be 0. (If it is 1, external scripts are already 
 * Execute the following script to enable external scripts.
 ```sql
 sp_configure  'external scripts enabled', 1
-
 RECONFIGURE
 ```
 
 Value of the "run_value" should now be 1. External Scripts are enabled and you can start executing R scripts.
 
-## Hello World with R and T-SQL
+***Hello World with R and T-SQL***
 
 Let’s see how the things are done in SQL Server Machine Learning Services. Execute the following script, which demonstrate the basic building blocks in executing R in SQL server (The same applies to executing Python in SQL Server 2017 as well).
 ```sql
@@ -82,7 +81,7 @@ EXEC sp_execute_external_script
 
 GO
 ```
-### Results:-
+***Results:-***
 
 <img src="/img/chamika_0.png" height="60" width="40" />
 
