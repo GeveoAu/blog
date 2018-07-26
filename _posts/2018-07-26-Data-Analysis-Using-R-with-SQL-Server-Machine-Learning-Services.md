@@ -52,16 +52,17 @@ Continue with the setup.
 ## Enable external script execution
 
 * Execute the following in SSMS
-
+```sql
 sp_configure  'external scripts enabled'
-
+```
 Value of the "run_value" should be 0. (If it is 1, external scripts are already enabled and you can simply skip this step).
 
 * Execute the following script to enable external scripts.
-
+```sql
 sp_configure  'external scripts enabled', 1
 
 RECONFIGURE
+```
 
 Value of the "run_value" should now be 1. External Scripts are enabled and you can start executing R scripts.
 
@@ -83,7 +84,7 @@ GO
 ```
 ### Results:-
 
-<img src="/img/chamika_0.png" height="600" width="400" />
+<img src="/img/chamika_0.png" height="60" width="40" />
 
 For the first time, it might take some time to generate the results as it takes a little while to load the external script runtime.
 
@@ -131,28 +132,29 @@ GO
 ```
 ### Results:-
 
-<img src="/img/chamika_1.png" height="600" width="400" />
+<img src="/img/chamika_1.png" height="60" width="40" />
 
 
 ### Let’s go through the R script line by line to understand what it does.
-
+```sql
 InputMarks <- as.matrix(InputDataSet)
-
+```
 Above code converts the input dataset to a matrix in R and stores in InputMarks variable. SQL Server always sends data as a **data.frame**. In order to do computations on it, you need to convert it into a vector or a matrix, or any suitable data type.
-
+```sql
 sd <- sd(InputMarks)
 
 mean <- mean(InputMarks)
-
+```
 This is where the actual computation happens. R computes and stores the standard deviation and mean of the dataset, in the variables sd and mean respectively.
-
+```sql
 sdFrame <- as.data.frame(sd)
 
 meanFrame <- as.data.frame(mean)
-
+```
 When your script returns results from R to SQL Server, it must return the data as a **data.frame**. Any other type of object that you generate in your script — whether that be a list, factor, vector, or binary data — must be converted to a data frame if you want to output it as part of the stored procedure results. The above code does just that.
-
+```sql
 OutputDataSet <- as.data.frame(c(sdFrame, meanFrame))
+```
 
 Finally the two frames are combined into one and stored in the OutputDataSet which will be returned to T-SQL.
 
