@@ -83,7 +83,7 @@ GO
 ```
 **Results:-**
 
-<img src="/img/chamika_0.png" height="80" width="120" />
+<img src="/img/chamika_0.png" height="57" width="120" />
 
 For the first time, it might take some time to generate the results as it takes a little while to load the external script runtime.
 
@@ -131,7 +131,7 @@ GO
 ```
 **Results:-**
 
-<img src="/img/chamika_1.png" height="80" width="180" />
+<img src="/img/chamika_1.png" height="57" width="180" />
 
 
 **Let’s go through the R script line by line to understand what it does.**
