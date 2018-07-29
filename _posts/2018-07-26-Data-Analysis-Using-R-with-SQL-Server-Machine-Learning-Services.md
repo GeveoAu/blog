@@ -167,3 +167,5 @@ Here onwards it is all about learning and understanding how R works. There are m
 
 * [R Tutorials](http://r-tutorials.com/)
 
+[Download result!](/img/chamika_0.png)
+
