@@ -49,7 +49,7 @@ In the SQL Server setup wizard, On the **Feature Selection** page, select the 
 
 Continue with the setup.
 
-### Enable external script execution**
+### Enable external script execution
 
 * Execute the following in SSMS
 ```sql
