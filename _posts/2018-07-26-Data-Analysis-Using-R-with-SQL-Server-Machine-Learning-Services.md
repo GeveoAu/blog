@@ -155,7 +155,7 @@ When your script returns results from R to SQL Server, it must return the data a
 OutputDataSet <- as.data.frame(c(sdFrame, meanFrame))
 ```
 
-Finally the two frames are combined into one and stored in the OutputDataSet which will be returned to T-SQL.
+Finally, the two frames are combined into one and stored in the OutputDataSet which will be returned to T-SQL.
 
 ### Moving Forward with R
 
