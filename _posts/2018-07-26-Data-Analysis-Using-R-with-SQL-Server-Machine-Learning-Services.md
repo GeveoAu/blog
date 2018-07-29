@@ -103,7 +103,7 @@ Let’s take a look at the query.
 
 Now, as we know how R scripts are executed in SQL Server, Let’s try to do some simple statistical calculations using R.
 
-Execute the attached [StudentMarks.sql](/img/chamika_0.png) which will create a table named StudentMarks with 20 sample records of students’ marks. Using R lets calculate the mean and standard deviation of the marks.
+Execute the attached [StudentMarks.sql](/resources/StudentMarks.sql) which will create a table named StudentMarks with 20 sample records of students’ marks. Using R lets calculate the mean and standard deviation of the marks.
 
 Execute the following script.
 ```sql
