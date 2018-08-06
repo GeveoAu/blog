@@ -1,7 +1,7 @@
 ---
 title: IoT Hub Communication
 author: Tharindu Subasith
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+linkedin: https://www.linkedin.com/in/tdiluksha/
 description : IoT Hub, Azure, IoT communication
 ---
 
