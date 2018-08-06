@@ -1,3 +1,10 @@
+---
+title: IoT Hub Communication
+author: Tharindu Subasith
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : IoT Hub, Azure, IoT communication
+---
+
 **IoT Hub communication**
 
 Internet of things (IoT) has become one of the most vital and useful technologies today. This technology is widely used in transportation, agriculture, healthcare, retail and energy industries. So, today IoT is used from your house electricity meter to MRI scanner in the hospital. With the evolvement of this technology many cloud solution providers like Amazon, Google and Azure started to provide the support for the IoT platform. Today I am going to give you an idea about how Azure IoT Hub provides the communication between the cloud and the device.
@@ -86,7 +93,7 @@ Cloud to device messages option is to send one-way notifications to the device. 
 
 To have a clear idea about the communication between device and cloud you need to know about the IoT Hub endpoints. The following diagram gives an idea about the endpoints available in IoT Hub.
 
-![image alt text](image_0.png)
+<img src="/img/tharindu_s.png" height="600" width="600" />
 
 Source: [https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-devguide-endpoints/endpoints.png](https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-devguide-endpoints/endpoints.png)
 
