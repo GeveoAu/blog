@@ -93,7 +93,7 @@ Cloud to device messages option is to send one-way notifications to the device. 
 
 To have a clear idea about the communication between device and cloud you need to know about the IoT Hub endpoints. The following diagram gives an idea about the endpoints available in IoT Hub.
 
-<img src="/img/tharindu_s.png" height="600" width="600" />
+<img src="/img/tharindus_0.png" height="600" width="600" />
 
 Source: [https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-devguide-endpoints/endpoints.png](https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-devguide-endpoints/endpoints.png)
 
