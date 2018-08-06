@@ -19,30 +19,30 @@ Let’s start with the communication protocols available for the communication b
 
 Each of the above protocols need specific port to be open for their communication. MQTT needs port 8883, AMQP needs port 5671 and HTTPS needs port 443. If the device cannot provide the specific port for MQTT and AMQP protocols due to the limitations of the device, those protocols can be run over WebSocket on port 443.
 
-<table border="1>
+<table border="1">
   <tr>
-    <td border="1>Protocol</td>
-    <td border="1>Port</td>
+    <td border="1">Protocol</td>
+    <td border="1">Port</td>
   </tr>
   <tr>
-    <td border="1>MQTT</td>
-    <td border="1>8883</td>
+    <td border="1">MQTT</td>
+    <td border="1">8883</td>
   </tr>
   <tr>
-    <td border="1>MQTT over WebSocket</td>
-    <td border="1>443</td>
+    <td border="1">MQTT over WebSocket</td>
+    <td border="1">443</td>
   </tr>
   <tr>
-    <td border="1>AMQP</td>
-    <td border="1>5671</td>
+    <td border="1">AMQP</td>
+    <td border="1">5671</td>
   </tr>
   <tr>
-    <td border="1>AMQP over WebSocket</td>
-    <td border="1>443</td>
+    <td border="1">AMQP over WebSocket</td>
+    <td border="1">443</td>
   </tr>
   <tr>
-    <td border="1>HTTPS</td>
-    <td border="1>443</td>
+    <td border="1">HTTPS</td>
+    <td border="1">443</td>
   </tr>
 </table>
 
