@@ -1,3 +1,10 @@
+---
+title: The psychology of colors
+author: Mishari Tamara
+linkedin: https://www.linkedin.com/in/mishari-tamara
+description : colors, ui, ux
+---
+
 **The Psychology of colors**
 
 Color is a universal language that can be used to communicate different emotions, cultures, values and ideas. Colors are all around us.  Everyday we are surrounded by many different colors.Whether we realized or not the colors have important impact on our behaviors, emotions, design decision making and user experience. 
@@ -22,7 +29,7 @@ Colors generally have different meanings in various cultures. In order to convey
 
 * Red can be good for food, fashion, entertainment, sports, marketing, advertising and emergency services.
 
-![image alt text](image_0.png)
+<img src="/img/mishari_0.png" height="600" width="400" />
 
 Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
 
@@ -34,7 +41,8 @@ Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
 
 * An effective color if the target audience is mostly girls and young women.
 
-![image alt text](image_1.png)
+<img src="/img/mishari_1.png" height="600" width="400" />
+
 
 Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
 
@@ -44,7 +52,8 @@ Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
 
 * It is an energetic and warm color which brings feelings of excitement with the combination of red’s power and yellow’s friendliness. 
 
-![image alt text](image_2.png)
+<img src="/img/mishari_2.png" height="600" width="400" />
+
 
 Source: [http://www.spacho.com/](http://www.spacho.com/)
 
@@ -56,7 +65,8 @@ Source: [http://www.spacho.com/](http://www.spacho.com/)
 
 * It is the most difficult color for the eye to take in. When overused yellow may gave a disturbing effect.
 
-![image alt text](image_3.png)
+<img src="/img/mishari_3.png" height="600" width="400" />
+
 
 Source: [http://festivefolks.com/](http://festivefolks.com/)
 
@@ -70,7 +80,8 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 
 * Symbolizes trust, loyalty, wisdom, intelligence and truth.
 
-![image alt text](image_4.png)
+<img src="/img/mishari_4.png" height="600" width="400" />
+
 
 ### Source: [http://www.elevenplantsfordumdums.com/](http://www.elevenplantsfordumdums.com/)
 
@@ -82,7 +93,8 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 
 * It commonly used for corporate branding since the blue is the color of trust. 
 
-![image alt text](image_5.png)Source: [https://www.decta.com/](https://www.decta.com/)
+<img src="/img/mishari_5.png" height="600" width="400" />
+Source: [https://www.decta.com/](https://www.decta.com/)
 
 **Black**
 
@@ -92,7 +104,8 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 
 * Black can be traditional modern and serious. But it is depends on how we employ and which colors we use with it.
 
-![image alt text](image_6.png)
+<img src="/img/mishari_6.png" height="600" width="400" />
+
 
 Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
 
@@ -106,7 +119,8 @@ Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
 
 * White is often used as the background color in design. 
 
-![image alt text](image_7.png)
+<img src="/img/mishari_7.png" height="600" width="400" />
+
 
 Source: [https://reign.co/](https://reign.co/)
 
