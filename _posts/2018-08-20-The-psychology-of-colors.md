@@ -73,9 +73,7 @@ Colors generally have different meanings in various cultures. In order to convey
 * Symbolizes trust, loyalty, wisdom, intelligence and truth.
 
 <img src="/img/mishari_4.png" height="400" width="600" />
-
-
-### Source: [http://www.elevenplantsfordumdums.com/](http://www.elevenplantsfordumdums.com/)
+<center> *source: http://www.elevenplantsfordumdums.com/ </center>
 
 **Blue**
 
