@@ -5,8 +5,6 @@ linkedin: https://www.linkedin.com/in/mishari-tamara
 description : colors, ui, ux
 ---
 
-**The Psychology of colors**
-
 Color is a universal language that can be used to communicate different emotions, cultures, values and ideas. Colors are all around us.  Everyday we are surrounded by many different colors.Whether we realized or not the colors have important impact on our behaviors, emotions, design decision making and user experience. 
 
 **What is color psychology?**
@@ -42,7 +40,7 @@ Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
 
 * An effective color if the target audience is mostly girls and young women.
 
-<img src="/img/mishari_1.png" height="600" width="400" />
+<img src="/img/mishari_1.png" height="400" width="600" />
 
 
 Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
@@ -53,7 +51,7 @@ Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
 
 * It is an energetic and warm color which brings feelings of excitement with the combination of red’s power and yellow’s friendliness. 
 
-<img src="/img/mishari_2.png" height="600" width="400" />
+<img src="/img/mishari_2.png" height="400" width="600" />
 
 
 Source: [http://www.spacho.com/](http://www.spacho.com/)
@@ -66,7 +64,7 @@ Source: [http://www.spacho.com/](http://www.spacho.com/)
 
 * It is the most difficult color for the eye to take in. When overused yellow may gave a disturbing effect.
 
-<img src="/img/mishari_3.png" height="600" width="400" />
+<img src="/img/mishari_3.png" height="400" width="600" />
 
 
 Source: [http://festivefolks.com/](http://festivefolks.com/)
@@ -81,7 +79,7 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 
 * Symbolizes trust, loyalty, wisdom, intelligence and truth.
 
-<img src="/img/mishari_4.png" height="600" width="400" />
+<img src="/img/mishari_4.png" height="400" width="600" />
 
 
 ### Source: [http://www.elevenplantsfordumdums.com/](http://www.elevenplantsfordumdums.com/)
@@ -94,7 +92,7 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 
 * It commonly used for corporate branding since the blue is the color of trust. 
 
-<img src="/img/mishari_5.png" height="600" width="400" />
+<img src="/img/mishari_5.png" height="400" width="600" />
 Source: [https://www.decta.com/](https://www.decta.com/)
 
 **Black**
@@ -120,7 +118,7 @@ Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
 
 * White is often used as the background color in design. 
 
-<img src="/img/mishari_7.png" height="600" width="400" />
+<img src="/img/mishari_7.png" height="400" width="600" />
 
 Source: [https://reign.co/](https://reign.co/)
 
