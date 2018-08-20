@@ -29,9 +29,10 @@ Colors generally have different meanings in various cultures. In order to convey
 
 * Red can be good for food, fashion, entertainment, sports, marketing, advertising and emergency services.
 
-<img src="/img/mishari_0.png" height="600" width="400" />
+<img src="/img/mishari_0.png" height="400" width="600" />
 
 Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
+<center> *source: https://sponge.degordian.com/ </center>
 
 **Pink**
 
@@ -120,7 +121,6 @@ Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
 * White is often used as the background color in design. 
 
 <img src="/img/mishari_7.png" height="600" width="400" />
-
 
 Source: [https://reign.co/](https://reign.co/)
 
