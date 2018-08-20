@@ -96,7 +96,7 @@ Colors generally have different meanings in various cultures. In order to convey
 
 * Black can be traditional modern and serious. But it is depends on how we employ and which colors we use with it.
 
-<img src="/img/mishari_6.png" height="600" width="400" />
+<img src="/img/mishari_6.png" height="400" width="600" />
 <center> *source: https://twochimpscoffee.com/ </center>
 
 **White**
