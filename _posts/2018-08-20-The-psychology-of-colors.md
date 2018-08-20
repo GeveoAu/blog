@@ -28,8 +28,6 @@ Colors generally have different meanings in various cultures. In order to convey
 * Red can be good for food, fashion, entertainment, sports, marketing, advertising and emergency services.
 
 <img src="/img/mishari_0.png" height="400" width="600" />
-
-Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
 <center> *source: https://sponge.degordian.com/ </center>
 
 **Pink**
@@ -41,9 +39,7 @@ Source: [https://sponge.degordian.com/](https://sponge.degordian.com/)
 * An effective color if the target audience is mostly girls and young women.
 
 <img src="/img/mishari_1.png" height="400" width="600" />
-
-
-Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
+<center> *source: https://beyond-beauty.co/ </center>
 
 **Orange**
 
@@ -52,9 +48,8 @@ Source: [https://beyond-beauty.co/](https://beyond-beauty.co/)
 * It is an energetic and warm color which brings feelings of excitement with the combination of red’s power and yellow’s friendliness. 
 
 <img src="/img/mishari_2.png" height="400" width="600" />
+<center> *source: http://www.spacho.com/ </center>
 
-
-Source: [http://www.spacho.com/](http://www.spacho.com/)
 
 **Yellow**
 
@@ -65,9 +60,7 @@ Source: [http://www.spacho.com/](http://www.spacho.com/)
 * It is the most difficult color for the eye to take in. When overused yellow may gave a disturbing effect.
 
 <img src="/img/mishari_3.png" height="400" width="600" />
-
-
-Source: [http://festivefolks.com/](http://festivefolks.com/)
+<center> *source: http://festivefolks.com/ </center>
 
 **Green**
 
@@ -93,7 +86,7 @@ Source: [http://festivefolks.com/](http://festivefolks.com/)
 * It commonly used for corporate branding since the blue is the color of trust. 
 
 <img src="/img/mishari_5.png" height="400" width="600" />
-Source: [https://www.decta.com/](https://www.decta.com/)
+<center> *source: https://www.decta.com/ </center>
 
 **Black**
 
@@ -104,9 +97,7 @@ Source: [https://www.decta.com/](https://www.decta.com/)
 * Black can be traditional modern and serious. But it is depends on how we employ and which colors we use with it.
 
 <img src="/img/mishari_6.png" height="600" width="400" />
-
-
-Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
+<center> *source: https://twochimpscoffee.com/ </center>
 
 **White**
 
@@ -119,8 +110,7 @@ Source: [https://twochimpscoffee.com/](https://twochimpscoffee.com/)
 * White is often used as the background color in design. 
 
 <img src="/img/mishari_7.png" height="400" width="600" />
-
-Source: [https://reign.co/](https://reign.co/)
+<center> *source: https://reign.co/ </center>
 
 **Points to consider**
 
