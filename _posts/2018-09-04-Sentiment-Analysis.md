@@ -17,7 +17,7 @@ Generally sentiment analysis has been investigated mainly at three levels. Which
 
 The task at this level is to classify whole opinion of a document and express a positive or negative sentiment. For an example, given a product review, sentiment analysis system determines whether the review expresses an overall positive or negative opinion about the product.
 
-Sentence level
+**Sentence level**
 
 The task at this level goes to the sentences and classifies whether each sentence expressed a positive, negative, or neutral opinion.
 
@@ -25,7 +25,7 @@ Classifying opinion (sentiment) texts at the document level or the sentence leve
 
 "Although the service is not that great, I still love this restaurant"
 
-Entity and Aspect level
+**Entity and Aspect level**
 
 Task at this level goes to identify opinion (sentiment) and opinion target/aspect and classify whether each opinion expressed a positive, negative, or neutral opinion.
 
