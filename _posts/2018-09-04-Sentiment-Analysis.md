@@ -9,6 +9,7 @@ Sentiment analysis is the field of study that analyzes people's opinions, sentim
 
 <img src="/img/akila_0.jpg" height="400" width="600" />
 <center> *source: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/performing-twitter-sentiment-analysis1.jpg </center>
+<br/>
 
 Generally sentiment analysis has been investigated mainly at three levels. Which are,
 
