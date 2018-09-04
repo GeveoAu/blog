@@ -5,7 +5,7 @@ linkedin: https://www.linkedin.com/in/akilairoshan/
 description : Sentiment Analysis
 ---
 
-<img src="/img/akila_0.png" height="400" width="600" />
+<img src="/img/akila_0.jpg" height="400" width="600" />
 <center> *source: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/performing-twitter-sentiment-analysis1.jpg </center>
 
 
