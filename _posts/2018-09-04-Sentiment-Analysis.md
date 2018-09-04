@@ -1,7 +1,7 @@
 ---
 title: Sentiment Analysis
-author: Akila Iroshana
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+author: Akila Iroshan
+linkedin: https://www.linkedin.com/in/akilairoshan/ 
 description : Sentiment Analysis
 ---
 
@@ -45,9 +45,7 @@ Aspect-based sentiment analysis process involves two major tasks. Which are,
 
 Extracting the explicit aspects is relatively easy task compared to the extracting implicit aspects.
 
-References
+**References**
 
 [1]	B. Liu, Sentiment analysis and opinion mining. Morgan & Claypool Publishers, 2012.
-
-LinkedIn : https://www.linkedin.com/in/akilairoshan/ 
 
