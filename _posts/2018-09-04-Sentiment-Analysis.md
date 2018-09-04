@@ -39,11 +39,9 @@ There are two types of aspects found in customer reviews. These are,
 
 Aspect-based sentiment analysis process involves two major tasks. Which are,
 
-* Aspect Extraction - In this task aspects which have been evaluated in reviews are extracted. In included extracting both explicit and implicit aspects.
+* Aspect Extraction - In this task aspects which have been evaluated in reviews are extracted. In included extracting both explicit and implicit aspects.Extracting the explicit aspects is relatively easy task compared to the extracting implicit aspects.
 
 * Aspect Sentiment Classification: This task determines whether the opinions on each extracted aspects are positive, negative, or neutral.
-
-Extracting the explicit aspects is relatively easy task compared to the extracting implicit aspects.
 
 **References**
 
