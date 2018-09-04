@@ -33,7 +33,7 @@ Entity is the target object that has been evaluated. An entity can have a set of
 
 There are two types of aspects found in customer reviews. These are,
 
-* Explicit Aspects - correspond to the specific words in the review. For an example in mobile phone review, if "battery life" literally mentioned in a review and customer mentioned his opinion on battery life the battery life can be consider as explicit aspect.
+* Explicit Aspects - correspond to the specific words in the review. For an example in mobile phone review, if "battery life" literally mentioned in a review and customer mentioned his opinion on battery life, the battery life can be consider as explicit aspect.
 
 * Implicit Aspects: not specified aspect word or word phrase in the review but indirectly it conveys an opinion about an aspect. For an example, "This phone is inexpensive" implies that the phone’s price aspect is positive.
 
