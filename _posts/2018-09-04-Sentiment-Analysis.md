@@ -5,11 +5,10 @@ linkedin: https://www.linkedin.com/in/akilairoshan/
 description : Sentiment Analysis
 ---
 
+Sentiment analysis is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written language[1]. It uses computational linguistics to determine attitudes of a source toward some target/aspect. Attitudes can be emotions such as love, hate, value, desire etc or simple weighted polarity like positive negative or neutral. 
+
 <img src="/img/akila_0.jpg" height="400" width="600" />
 <center> *source: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/performing-twitter-sentiment-analysis1.jpg </center>
-
-<br/>
-Sentiment analysis is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written language[1]. It uses computational linguistics to determine attitudes of a source toward some target/aspect. Attitudes can be emotions such as love, hate, value, desire etc or simple weighted polarity like positive negative or neutral. 
 
 Generally sentiment analysis has been investigated mainly at three levels. Which are,
 
