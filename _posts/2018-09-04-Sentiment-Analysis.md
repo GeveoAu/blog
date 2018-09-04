@@ -1,8 +1,13 @@
-**Sentiment analysis**
+---
+title: Sentiment Analysis
+author: Akila Iroshana
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : Sentiment Analysis
+---
 
-![image alt text](image_0.jpg)
+<img src="/img/akila_0.png" height="400" width="600" />
+<center> *source: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/performing-twitter-sentiment-analysis1.jpg </center>
 
-*source: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/performing-twitter-sentiment-analysis1.jpg
 
 Sentiment analysis is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written language[[1]](https://paperpile.com/c/Pjxied/7EBB). It uses computational linguistics to determine attitudes of a source toward some target/aspect. Attitudes can be emotions such as love, hate, value, desire etc or simple weighted polarity like positive negative or neutral. 
 
