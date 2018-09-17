@@ -60,7 +60,7 @@ Each item in a stream is represented by a blockchain transaction. Users who has 
 
 Each blockchain has an optional ‘root’ stream for initial data storing purposes, which is defined in its parameters and exists from the moment the chain is created. Streams provide a natural way to support encrypted data on a blockchain. 
 
-References
+### References
 
 1. D. G. Greenspan, "MultiChain Private Blockchain — White Paper," Coin Sciences Ltd, 2015.
 
