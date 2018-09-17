@@ -1,4 +1,9 @@
-# Multichain
+---
+title: Multichain
+author: Nadeeshani Dayarathna
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : multichain, blockchain
+---
 
 # Open source blockchain platform
 
