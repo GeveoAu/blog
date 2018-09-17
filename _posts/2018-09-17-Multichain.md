@@ -7,6 +7,7 @@ description : multichain, blockchain
 
 ## Open source blockchain platform
 
+
 Multichain is a private blockchain platform, which is open for creation and deployment of blockchain applications. It solves most of the drawbacks in public blockchains. Today Bitcoin is the most popular public blockchain platform. However, there are hundreds of public blockchains other than Bitcoin. Some of them are Ethereum, LISK, Litecoin, Namecoin, Nxt and BitShares. Each of these blockchains has its own cryptocurrency, network topology and mining algorithms.
 
 ## Features of Multichain
