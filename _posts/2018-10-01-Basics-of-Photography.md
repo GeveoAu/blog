@@ -65,7 +65,7 @@ With higher ISO values, photographs tend to be noisier (grainy images), so it’
 
 An image taken using a high ISO value at night without using the artificial flashers.
 
-<img src="/img/biman10.jpg" height="400" width="600" />
+<img src="/img/biman10.JPG" height="400" width="600" />
 
 To create great photographs, you should always have a good combination of these three basic factors to get the ideal exposure for the photo.
 
@@ -87,11 +87,11 @@ Capturing animals from their eye level always provides you better photos that wh
 
 <img src="/img/biman12.jpg" height="400" width="600" />
 
-<img src="/img/biman13.jpg" height="400" width="600" />
+<img src="/img/biman13.JPG" height="400" width="600" />
 
-<img src="/img/biman14.jpg" height="400" width="600" />
+<img src="/img/biman14.JPG" height="400" width="600" />
 
-<img src="/img/biman15.jpg" height="400" width="600" />
+<img src="/img/biman15.JPG" height="400" width="600" />
 
 **Symmetry**
 
@@ -109,13 +109,13 @@ In the photo below, I have used the window of a train to frame the sunset over t
 
 Leading lines help lead the viewer through the image and focus attention on important elements. Anything from paths, walls or patterns can be used as leading lines. Take a look at the example below. In this image I wanted the viewer to focus on the far horizon at the end of the road. For that I have used the two edges of the road to lead the viewer towards the main subject. Notice that this is a symmetrically balanced photo as well.
 
-<img src="/img/biman18.jpg" height="400" width="600" />
+<img src="/img/biman18.JPG" height="400" width="600" />
 
 **Simplicity and minimalism through leaving negative space**
 
 Leaving a lot of empty or ‘negative’ space around your subject can be very attractive. It creates a sense of simplicity and minimalism. It also helps the viewer focus on the main subject without distractions. In the photo below, I have made use of a very simple and uncluttered background to focus attention on the couple. Notice that I have also focused the couple according to the rule of thirds to get more attention.
 
-<img src="/img/biman19.jpg" height="400" width="600" />
+<img src="/img/biman19.JPG" height="400" width="600" />
 
 **Golden triangles and golden ratio**
 
