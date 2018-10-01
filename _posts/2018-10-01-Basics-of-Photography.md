@@ -1,7 +1,7 @@
 ---
 title: Basics of Photography
 author: Biman Pathirage
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+linkedin: https://www.linkedin.com/in/bimanpathirage/
 description : Photography
 ---
 
@@ -11,7 +11,7 @@ Not simple enough? Finish the article and you will see how simple it actually is
 
 **What you need to start photography.**
 
-A camera. That is all. You will only need a camera to start photography. However, it’s good if you can use a camera that allows the photographer to adjust the **shutter speed, aperture, **and** ISO**. These three settings are the main pillars of a good photograph. Although most of us use our smart phone cameras to take instant photos, some of them might not have options to adjust these three settings. So its recommended that you have at least the most basic DSLR or Bridge cameras to get into photography more seriously. 
+A camera. That is all. You will only need a camera to start photography. However, it’s good if you can use a camera that allows the photographer to adjust the **shutter speed, aperture, and ISO**. These three settings are the main pillars of a good photograph. Although most of us use our smart phone cameras to take instant photos, some of them might not have options to adjust these three settings. So its recommended that you have at least the most basic DSLR or Bridge cameras to get into photography more seriously. 
 
 **Exposure**
 
@@ -35,7 +35,7 @@ Aperture also helps to alter the amount of blurring of the unfocused parts of th
 
 The following photo was taken using a very high aperture. Therefore the front part of the small body of this ant is focused and the latter part is blurred. This is a great example for a photo with a small depth of field.
 
-<img src="/img/biman4.png" height="400" width="600" />
+<img src="/img/biman4.jpg" height="400" width="600" />
 
 **Shutter speed**
 
@@ -45,15 +45,15 @@ After the light passes through the lens aperture, it reaches the shutter of the 
 
 Different shutter speeds will complement different scenarios. If you want to capture a fast moving object to a still photo, you will have to use a very small shutter speed (about 1/900 seconds).  If you use a higher shutter speed for such instances, you will be able to capture more artistic photos with motion blurring. Following are some examples of images taken with higher shutter speeds.
 
-<img src="/img/biman6.png" height="400" width="600" />
+<img src="/img/biman6.jpg" height="400" width="600" />
 
 For the photo above, I have used a shutter speed of 1/80 seconds. Since the car is moving at a considerable speed, it moves from one position to another during 1/80 seconds, therefore the image gets a nice motion blur.
 
-<img src="/img/biman7.png" height="400" width="600" />
+<img src="/img/biman7.jpg" height="400" width="600" />
 
 Similarly, the water flows at a considerable speed in this river. I have used a shutter speed of 1/4 seconds to get the silky effect of water flowing. If I had used a lower shutter speed of about 1/300 seconds, photo would look more artificial since it will not get the silky effect. Following image will provide more insights in to shutter speed controlling. 
 
-<img src="/img/biman8.png" height="400" width="600" />
+<img src="/img/biman8.jpg" height="400" width="600" />
 
 **ISO**
 
@@ -65,7 +65,7 @@ With higher ISO values, photographs tend to be noisier (grainy images), so it’
 
 An image taken using a high ISO value at night without using the artificial flashers.
 
-<img src="/img/biman10.png" height="400" width="600" />
+<img src="/img/biman10.jpg" height="400" width="600" />
 
 To create great photographs, you should always have a good combination of these three basic factors to get the ideal exposure for the photo.
 
@@ -97,7 +97,7 @@ Capturing animals from their eye level always provides you better photos that wh
 
 Try to use symmetric compositions whenever there is no main subject in your photo. The perfect example of balance is symmetry where one half (top/bottom, left/right, diagonal split) of an image is identical—or nearly identical—to the other. There are many examples of symmetry, in both nature and the manmade world. Sometimes the slightest misalignment can be very distracting in an image. For example, if you are creating a symmetrical photograph of a building, be sure to stand precisely at a center point and keep the camera perpendicular to the face of the building. If you are half a step off to one side, or have the camera just off the 90-degree angle, lines will deflect in the image.
 
-<img src="/img/biman16.png" height="400" width="600" />
+<img src="/img/biman16.jpg" height="400" width="600" />
 
 **A frame within a frame**
 
