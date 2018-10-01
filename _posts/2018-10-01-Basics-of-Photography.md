@@ -49,7 +49,7 @@ Different shutter speeds will complement different scenarios. If you want to cap
 
 For the photo above, I have used a shutter speed of 1/80 seconds. Since the car is moving at a considerable speed, it moves from one position to another during 1/80 seconds, therefore the image gets a nice motion blur.
 
-<img src="/img/biman7.jpg" height="400" width="600" />
+<img src="/img/biman7.JPG" height="400" width="600" />
 
 Similarly, the water flows at a considerable speed in this river. I have used a shutter speed of 1/4 seconds to get the silky effect of water flowing. If I had used a lower shutter speed of about 1/300 seconds, photo would look more artificial since it will not get the silky effect. Following image will provide more insights in to shutter speed controlling. 
 
