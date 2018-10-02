@@ -89,7 +89,7 @@ Capturing animals from their eye level always provides you better photos that wh
 
 <img src="/img/biman13.JPG" height="400" width="600" />
 
-<img src="/img/biman14.JPG" height="400" width="600" />
+<img src="/img/biman14.JPG" height="400" width="400" />
 
 <img src="/img/biman15.JPG" height="400" width="600" />
 
@@ -115,7 +115,7 @@ Leading lines help lead the viewer through the image and focus attention on impo
 
 Leaving a lot of empty or ‘negative’ space around your subject can be very attractive. It creates a sense of simplicity and minimalism. It also helps the viewer focus on the main subject without distractions. In the photo below, I have made use of a very simple and uncluttered background to focus attention on the couple. Notice that I have also focused the couple according to the rule of thirds to get more attention.
 
-<img src="/img/biman19.JPG" height="400" width="600" />
+<img src="/img/biman19.JPG" height="400" width="450" />
 
 **Golden triangles and golden ratio**
 
