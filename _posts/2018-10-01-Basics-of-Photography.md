@@ -27,7 +27,7 @@ Following image depicts how these three factors control the exposure of an image
 
 **Aperture**
 
-Aperture is the hole inside the lens through which the lens passes, similar to the pupil of a human eye. Wider the aperture, more light it will allow to pass through. The aperture scales for most of the cameras are as follows: f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, and f/22, f/22 being the smallest aperture allowing a very small amount of light in to the lens. 
+Aperture is the hole inside the lens through which the light passes, similar to the pupil of a human eye. Wider the aperture, more light it will allow to pass through. The aperture scales for most of the cameras are as follows: f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, and f/22, f/22 being the smallest aperture allowing a very small amount of light in to the lens. 
 
 Aperture also helps to alter the amount of blurring of the unfocused parts of the photograph, which is also known as the depth of field. The more the aperture, the more it will blur the background.
 
