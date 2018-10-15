@@ -17,7 +17,7 @@ Working as Quality Assurance Engineer in an Agile environment is challenging. Th
 
 The very essence of agile development is [delivering working software frequently](https://www.testingexcellence.com/best-practices-for-continuous-testing-in-agile/) each time adding or enhancing a small feature which is of value to the customer. That it poses a lot of challenge not only for testers but also developers and anyone else involved in the delivery of application.
 
-![Alt Text](https://giphy.com/gifs/sLJcUkl0idZBu/html5)
+![Alt Text](https://giphy.com/gifs/sLJcUkl0idZBu/html5.gif)
 
 In this article, list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
 
@@ -27,7 +27,7 @@ In Agile development environment software testing is not done in phases or after
 
 Testers are left with the last 2 to 3 days of the sprint to test the entire sprint backlog. This results in less time for testing, sometimes compromising on the scope and quality of testing. This happens because the team adopts the process but not the Agile mindset.
 
-[https://giphy.com/gifs/gw3IWyGkC0rsazTi/html5](https://giphy.com/gifs/gw3IWyGkC0rsazTi/html5)
+<img src="https://giphy.com/gifs/gw3IWyGkC0rsazTi/html5.gif" height="400" width="600" />
 
 To overcome this challenge following steps can be followed
 
