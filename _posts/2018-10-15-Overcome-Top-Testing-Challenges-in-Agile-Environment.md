@@ -5,7 +5,9 @@ linkedin: https://www.linkedin.com/in/amilaariyarathna/
 description : Agile, Testing, Challenges
 ---
 
-Source - https://www.netsolutions.com/insights/agile-testing
+
+<img src="/img/amila_0.png" height="400" width="600" />
+<center> *source: https://www.netsolutions.com/insights/agile-testing </center>
 
 Agile Software Development introduces a very different way of working from Traditional Software Development. The main differences can be seen in the way IT Professionals collaborate with each other when developing and testing software by adopting to new and improved technologies and new technical practices to create smart solutions with the focus of delivering products and services related to software for a delightful customer experience.
 
@@ -15,7 +17,7 @@ Working as Quality Assurance Engineer in an Agile environment is challenging. Th
 
 The very essence of agile development is [delivering working software frequently](https://www.testingexcellence.com/best-practices-for-continuous-testing-in-agile/) each time adding or enhancing a small feature which is of value to the customer. That it poses a lot of challenge not only for testers but also developers and anyone else involved in the delivery of application.
 
-[https://giphy.com/gifs/sLJcUkl0idZBu/html5](https://giphy.com/gifs/sLJcUkl0idZBu/html5)
+<img src="https://giphy.com/gifs/sLJcUkl0idZBu/html5" height="400" width="600" />
 
 In this article, list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
 
