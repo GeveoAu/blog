@@ -1,7 +1,7 @@
 ---
 title: Overcome Top Testing Challenges in Agile Environment
 author: Kavindra Lunuwilage
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+linkedin: https://www.linkedin.com/in/kavindralunuwilage-90587a11a/
 description : Agile, Testing, Challenges
 ---
 
@@ -17,7 +17,7 @@ Working as Quality Assurance Engineer in an Agile environment is challenging. Th
 
 The very essence of agile development is [delivering working software frequently](https://www.testingexcellence.com/best-practices-for-continuous-testing-in-agile/) each time adding or enhancing a small feature which is of value to the customer. That it poses a lot of challenge not only for testers but also developers and anyone else involved in the delivery of application.
 
-<img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="200" height="200" />
+<img src="https://media.giphy.com/media/sLJcUkl0idZBu/giphy.gif" width="200" height="200" />
 
 In this article, list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
 
@@ -27,7 +27,7 @@ In Agile development environment software testing is not done in phases or after
 
 Testers are left with the last 2 to 3 days of the sprint to test the entire sprint backlog. This results in less time for testing, sometimes compromising on the scope and quality of testing. This happens because the team adopts the process but not the Agile mindset.
 
-<img src="https://giphy.com/gifs/gw3IWyGkC0rsazTi/html5.gif" height="400" width="600" />
+<img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="200" height="200" />
 
 To overcome this challenge following steps can be followed
 
@@ -45,7 +45,7 @@ To overcome this challenge following steps can be followed
 
 Agile without automation has limited success. Cost reduction and speed being high on the management executive's agenda, there is no other alternative to automation. This leaves no room for having a mix of Manual and Automation Test Engineers. Keeping pace with fast changing technology is another challenge. Upskilling remains one of the hardest challenges for Test Engineers. Often it is observed that upskilling is more of a mental block than capability issue and it takes time and patience to bring in this change. These changes are real and Test Engineers have no choice but to learn new skills. They have to go through learning new languages, different automation tools, understand automation frameworks and technical practices such as Test Driven Development (TDD), Behavior Driven Development (BDD), and Acceptance Test Driven Development (ATDD).
 
-[https://giphy.com/gifs/XPmVwGTPC149a/html5](https://giphy.com/gifs/XPmVwGTPC149a/html5)
+<img src="https://media.giphy.com/media/XPmVwGTPC149a/giphy.gif" width="200" height="200" />
 
 To overcome this challenge following steps can be followed
 
@@ -77,7 +77,7 @@ Automation is not limited only to testing but extends all the way from continuou
 
 * Training Requirements.
 
-[https://giphy.com/gifs/l2JdThIw8nSCDyrVC/html5](https://giphy.com/gifs/l2JdThIw8nSCDyrVC/html5)
+<img src="https://media.giphy.com/media/l2JdThIw8nSCDyrVC/giphy.gif" width="200" height="200" />
 
 Automation is a big change that involves huge effort and the complexity is also very high. Organizations usually look for internal experts and start with trial and error knowing that some of the decisions can go wrong or they hire experts who have deep understanding and expertise in the area. Once the decision is taken easily can follow following steps to overcome this challenge
 
@@ -95,7 +95,7 @@ Automation is a big change that involves huge effort and the complexity is also 
 
 Changing requirements or dropping stories mid-sprint is not uncommon in agile projects. This can be a nightmare for the whole team as it means that the work already carried out might be scrapped completely or changes should be made to what’s already half done.
 
-[https://giphy.com/gifs/3orieNh0CW69CKn80U/html5](https://giphy.com/gifs/3orieNh0CW69CKn80U/html5)
+<img src="https://media.giphy.com/media/EriPNV1whwKac/giphy.gif" width="200" height="200" />
 
 These requirement changes and last minute requests can affect the scope of testing which can frustrate testers. This can be overcome with following ways. 
 
@@ -111,7 +111,7 @@ There will be times when a product owner who writes user stories, has some idea 
 
 This creates a challenge for testers because there is a lack of understanding and requirements, so proper test cases can’t be constructed.
 
-[https://giphy.com/gifs/3o6Mb4HXeVEtVKCUq4/html5](https://giphy.com/gifs/3o6Mb4HXeVEtVKCUq4/html5)
+<img src="https://media.giphy.com/media/xT5LMLMPdRh2VRNVLi/giphy.gif" width="200" height="200" />
 
 To overcome this challenge following steps can be followed
 
@@ -125,7 +125,7 @@ In Agile testing is not a phase it’s an activity. Testing starts from the very
 
 Providing early feedback to developers is crucial and challenging for testers. As testers not only we have to make sure that the new feature works as specified according to its acceptance criteria, we have to also make sure that the new code hasn’t broken existing functionality.
 
-[https://giphy.com/gifs/Ib2vLSkDlST9S/html5](https://giphy.com/gifs/Ib2vLSkDlST9S/html5)
+<img src="https://media.giphy.com/media/7MZ0v9KynmiSA/giphy.gif" width="200" height="200" />
 
 To overcome this challenge following steps can be followed
 
@@ -143,7 +143,7 @@ Nowadays the architecture of many websites consists of a Back End and a Front En
 
 Ensuring that a website functions as expected in all major browsers and popular mobile devices or tablets is indeed a top challenge for testers in Agile projects.
 
-[https://giphy.com/gifs/5S3ieVupmEI5q/html5](https://giphy.com/gifs/5S3ieVupmEI5q/html5)
+<img src="https://media.giphy.com/media/5S3ieVupmEI5q/giphy.gif" width="200" height="200" />
 
 To overcome this challenge following steps can be followed
 
@@ -155,7 +155,7 @@ To overcome this challenge following steps can be followed
 
 No matter how good the process is or how well the above items are carried out, if there is a lack of communication among the team members or with Product Owners or Developers nothing will work.
 
-[https://giphy.com/gifs/26BRQaiZM0IeyoJfa/html5](https://giphy.com/gifs/26BRQaiZM0IeyoJfa/html5)
+<img src="https://media.giphy.com/media/26BRQaiZM0IeyoJfa/giphy.gif" width="200" height="200" />
 
 To overcome communication issues following steps can be followed.
 
@@ -167,13 +167,10 @@ To overcome communication issues following steps can be followed.
 
 Quality Assurance Engineers are now shouldering increased responsibilities and they are dealing with complex environments all the time, collaborating very frequently with different teams. This leaves them with stretched bandwidth to complete their tasks. Strong support and cooperation from others is what they need for them to be successful. Proper time management and effective communication are key factors for successful deliveries and overcoming these challenges. If above mentioned problems are managed properly there is no any reason why Quality Assurance Engineers won't succeed in an Agile environment. 
 
-[https://i.gifer.com/GNKw.gif](https://i.gifer.com/GNKw.gif)
+<img src="https://i.gifer.com/GNKw.gif" width="200" height="200" />
 
 **_Happy Testing!_**
 
-Kavindra Lunuwilage
-
-LinkedIn Account - [https://www.linkedin.com/in/kavindralunuwilage-90587a11a/](https://www.linkedin.com/in/kavindralunuwilage-90587a11a/)
 
 **References**
 
