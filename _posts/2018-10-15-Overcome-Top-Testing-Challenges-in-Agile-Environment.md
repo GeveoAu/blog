@@ -8,7 +8,7 @@ description : Agile, Testing, Challenges
 
 <img src="/img/Kavindra0.jpg" height="400" width="600" />
 <center> *source: https://www.netsolutions.com/insights/agile-testing </center>
-</br>
+<br/>
 
 Agile Software Development introduces a very different way of working from Traditional Software Development. The main differences can be seen in the way IT Professionals collaborate with each other when developing and testing software by adopting to new and improved technologies and new technical practices to create smart solutions with the focus of delivering products and services related to software for a delightful customer experience.
 
