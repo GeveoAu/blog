@@ -22,7 +22,7 @@ The very essence of agile development is [delivering working software frequently
 
 In this article, I list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
 
-1. **Waterfall Type Sprints**
+**1.Waterfall Type Sprints**
 
 In Agile development environment, software testing is not done in phases or after the entire development is done. Instead it is a continuous activity, right from the start of the project until the end of it and goes on in iterations. For teams that are new to Agile, often these iterations become mini-waterfalls, making the testers wait until the user stories are developed. 
 
@@ -42,7 +42,7 @@ To overcome this challenge following steps can be followed
 
 * When user stories are ready start testing incrementally, communicate the results to Developers and the Product Owner and seek their feedback. Continue with this approach and testers won’t be left with a long backlog to finish in a hurry.
 
-2. **Upskilling to Automation in Testing**
+**2.Upskilling to Automation in Testing**
 
 Agile without automation has limited success. Cost reduction and speed being high on the management executive's agenda, there is no other alternative to automation. This leaves no room for having a mix of Manual and Automation Test Engineers. Keeping pace with fast changing technology is another challenge. Upskilling remains one of the hardest challenges for Test Engineers. Often it is observed that upskilling is more of a mental block than capability issue and it takes time and patience to bring in this change. These changes are real and Test Engineers have no choice but to learn new skills. They have to go through learning new languages, different automation tools, understand automation frameworks and technical practices such as Test Driven Development (TDD), Behavior Driven Development (BDD), and Acceptance Test Driven Development (ATDD).
 
@@ -60,7 +60,7 @@ To overcome this challenge, following steps can be followed
 
 *  Make continuous learning a habit and with time they will be transformed into complete Test Engineers.
 
-3. **Poor Automation Strategies**
+**3.Poor Automation Strategies**
 
 Automation is not limited only to testing but extends all the way from continuous code integration to continuous deployment. Poor automation strategy can defeat the very purpose of going Agile. Automation can take months when envisioned poorly. Building, testing, deploying and monitoring are the important functions for automation. Often it is observed that each of these functions define their own automation strategy which could be completely disjointed from each other. Other issues include
 
@@ -92,7 +92,7 @@ Automation is a big challenge that involves huge effort and the complexity is al
 
 * Lessons from Pilots have always helped to Fine Tune the Strategy and Bring in More Areas under Automation.
 
-4. **Changing Requirements and Last Minute Changes in Requirements**
+**4.Changing Requirements and Last Minute Changes in Requirements**
 
 Changing requirements or dropping stories mid-sprint is not uncommon in agile projects. This can be a nightmare for the whole team as it means that the work already carried out might be scrapped completely or changes should be made to what’s already half done.
 
@@ -106,7 +106,7 @@ These requirement changes and last minute requests can affect the scope of testi
 
 * Try getting the developers involved in testing as well, as testing and quality should be the whole team responsibility.
 
-5. **Not Enough Information on the Stories / PBIs**
+**5.Not Enough Information on the Stories / PBIs**
 
 There will be times when a product owner who writes user stories, has some idea about a new feature but doesn’t have all the details to write a good set of acceptance criteria to fully define the behavior of the feature. They ask the development team to create a prototype so they can get more ideas about the functionality and behavior of the feature.
 
@@ -120,7 +120,7 @@ To overcome this challenge, following steps can be followed
 
 * By drafting high level test scenarios, even when the details change, the context should still be the same.
 
-6. **Continuous Testing**
+**6.Continuous Testing**
 
 Agile testing is not a phase it’s an activity. Testing starts from the very beginning even before the development starts. In order to have a smooth ride during the sprint, the stories in the backlog should have been elaborated during the story grooming sessions. This means the Quality Assurance Engineer should collaborate with the team to learn the details of the story and then help write good acceptance criteria.
 
@@ -138,7 +138,7 @@ To overcome this challenge, following steps can be followed
 
 * Automate regression tests to alleviate some of the testing effort and liberate your time for exploratory testing.
 
-7. **Multiple Browsers and Multiple Devices Compatibility**
+**7.Multiple Browsers and Multiple Devices Compatibility**
 
 Nowadays the architecture of many websites consists of a Back End and a Front End. The Front End piece is largely based on JavaScript and CSS which could potentially behave differently when viewed from different browsers or devices.
 
@@ -152,7 +152,7 @@ To overcome this challenge following steps can be followed
 
 * You can use Selenium Grid with Docker to manage and run your automated tests in parallel on multiple browsers. Other great tools out there for multi-browser testing are BrowserSync and Test Project
 
-8. **Lack of Communication**
+**8.Lack of Communication**
 
 No matter how good the process is or how well the above items are carried out, if there is a lack of communication among the team members or with Product Owners or Developers, nothing will work.
 
