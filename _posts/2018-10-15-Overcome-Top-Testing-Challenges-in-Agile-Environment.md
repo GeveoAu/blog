@@ -12,19 +12,19 @@ description : Agile, Testing, Challenges
 
 Agile Software Development introduces a very different way of working from Traditional Software Development. The main differences can be seen in the way IT Professionals collaborate with each other when developing and testing software by adopting to new and improved technologies and new technical practices to create smart solutions with the focus of delivering products and services related to software for a delightful customer experience.
 
-Agile software development lies in delivering working software frequently with preference to shorter iterations. Unlike traditional ways, developers and testers work together continuously and in parallel. While this methodology works wonders for organizations as it benefits their customers, embracing. Agile is not an easy task for most of the Agile teams and even more difficult for the testing community.
+Agile software development lies in delivering working software frequently with preference to shorter iterations. Unlike traditional ways, developers and testers work together continuously and in parallel. While this methodology works wonders for organizations as it benefits their customers, embracing Agile is not an easy task for most of the Agile teams and even more difficult for the testing community.
 
-Working as Quality Assurance Engineer in an Agile environment is challenging. The expectations from this role have changed and evolved over last decade and still continuously changing. Quality Assurance Engineers in Agile teams have faced challenges such as frequently changing requirements, incomplete and unclear requirements, lack of focused testing, insufficient unit testing by developers, less examples and scenarios by Product Owner and etc. Apart from these common challenges below are other challenges that do not get highlighted but have larger impact on the overall software delivery.
+Working as a Quality Assurance Engineer in an Agile environment is challenging. The expectations from this role have changed and evolved over the last decade and still continuously changing. Quality Assurance Engineers in Agile teams have faced challenges such as frequently changing requirements, incomplete and unclear requirements, lack of focused testing, insufficient unit testing by developers, less examples and scenarios by Product Owner etc... Apart from these common challenges, below are other challenges that do not get highlighted but have larger impact on the overall software delivery.
 
-The very essence of agile development is [delivering working software frequently](https://www.testingexcellence.com/best-practices-for-continuous-testing-in-agile/) each time adding or enhancing a small feature which is of value to the customer. That it poses a lot of challenge not only for testers but also developers and anyone else involved in the delivery of application.
+The very essence of agile development is [delivering working software frequently](https://www.testingexcellence.com/best-practices-for-continuous-testing-in-agile/) each time adding or enhancing a small feature which is of value to the customer that it poses a lot of challenge not only for testers but also developers and anyone else involved in the delivery of application.
 
 <img src="https://media.giphy.com/media/sLJcUkl0idZBu/giphy.gif" width="200" height="200" />
 
-In this article, list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
+In this article, I list some of the most common Agile Testing Challenges for Quality Assurance Engineers in Agile projects and how to overcome these challenges successfully.
 
 1. **Waterfall Type Sprints**
 
-In Agile development environment software testing is not done in phases or after the entire development is done. Instead it is a continuous activity, right from the start of the project until the end of it and goes on in iterations. For teams that are new to Agile, often these iterations become mini-waterfalls, making the testers wait until the user stories are developed. 
+In Agile development environment, software testing is not done in phases or after the entire development is done. Instead it is a continuous activity, right from the start of the project until the end of it and goes on in iterations. For teams that are new to Agile, often these iterations become mini-waterfalls, making the testers wait until the user stories are developed. 
 
 Testers are left with the last 2 to 3 days of the sprint to test the entire sprint backlog. This results in less time for testing, sometimes compromising on the scope and quality of testing. This happens because the team adopts the process but not the Agile mindset.
 
@@ -48,7 +48,7 @@ Agile without automation has limited success. Cost reduction and speed being hig
 
 <img src="https://media.giphy.com/media/XPmVwGTPC149a/giphy.gif" width="200" height="200" />
 
-To overcome this challenge following steps can be followed
+To overcome this challenge, following steps can be followed
 
 * Quality Assurance Engineers should be put through a time bound and systematic training plan. Management support is most crucial during this transition. Leverage in-house competency centers and training academies to facilitate training. 
 
@@ -58,7 +58,7 @@ To overcome this challenge following steps can be followed
 
 * Management may also consider making a repository of knowledge and FAQs or conducting knowledge sharing sessions periodically.
 
-*  Make continuous learning a habit and with time they will be transformed into a complete Test Engineer.
+*  Make continuous learning a habit and with time they will be transformed into complete Test Engineers.
 
 3. **Poor Automation Strategies**
 
@@ -80,7 +80,7 @@ Automation is not limited only to testing but extends all the way from continuou
 
 <img src="https://media.giphy.com/media/l2JdThIw8nSCDyrVC/giphy.gif" width="200" height="200" />
 
-Automation is a big change that involves huge effort and the complexity is also very high. Organizations usually look for internal experts and start with trial and error knowing that some of the decisions can go wrong or they hire experts who have deep understanding and expertise in the area. Once the decision is taken easily can follow following steps to overcome this challenge
+Automation is a big challenge that involves huge effort and the complexity is also very high. Organizations usually look for internal experts and start with trial and error knowing that some of the decisions can go wrong or they hire experts who have deep understanding and expertise in the area. Once the decision is taken easily can follow following steps to overcome this challenge
 
 * Create a Task Committee who will be authorized to drive the Change. 
 
@@ -114,7 +114,7 @@ This creates a challenge for testers because there is a lack of understanding an
 
 <img src="https://media.giphy.com/media/xT5LMLMPdRh2VRNVLi/giphy.gif" width="200" height="200" />
 
-To overcome this challenge following steps can be followed
+To overcome this challenge, following steps can be followed
 
 * You don’t need very detailed requirements to start testing, so start by thinking about high level scenarios that test the concept of the story, rather than waiting to get full clarification about the feature. 
 
@@ -122,13 +122,13 @@ To overcome this challenge following steps can be followed
 
 6. **Continuous Testing**
 
-In Agile testing is not a phase it’s an activity. Testing starts from the very beginning even before the development starts. In order to have a smooth ride during the sprint the stories in the backlog should have been elaborated during the story grooming sessions. This means the Quality Assurance Engineer should collaborate with the team to learn the details of the story and then help write good acceptance criteria.
+Agile testing is not a phase it’s an activity. Testing starts from the very beginning even before the development starts. In order to have a smooth ride during the sprint, the stories in the backlog should have been elaborated during the story grooming sessions. This means the Quality Assurance Engineer should collaborate with the team to learn the details of the story and then help write good acceptance criteria.
 
 Providing early feedback to developers is crucial and challenging for testers. As testers not only we have to make sure that the new feature works as specified according to its acceptance criteria, we have to also make sure that the new code hasn’t broken existing functionality.
 
 <img src="https://media.giphy.com/media/7MZ0v9KynmiSA/giphy.gif" width="200" height="200" />
 
-To overcome this challenge following steps can be followed
+To overcome this challenge, following steps can be followed
 
 * Ensure each story has adequate acceptance criteria and that the context of the story is well understood by everyone before starting work on development. 
 
@@ -150,15 +150,15 @@ To overcome this challenge following steps can be followed
 
 * Automation is key here. Writing a test and running it on multiple browsers is what automation does best. 
 
-* You can use Selenium Grid with Docker to manage and run your automated tests in parallel on multiple browsers. Another great tool out there for multi-browser testing are BrowserSync and Test Project
+* You can use Selenium Grid with Docker to manage and run your automated tests in parallel on multiple browsers. Other great tools out there for multi-browser testing are BrowserSync and Test Project
 
 8. **Lack of Communication**
 
-No matter how good the process is or how well the above items are carried out, if there is a lack of communication among the team members or with Product Owners or Developers nothing will work.
+No matter how good the process is or how well the above items are carried out, if there is a lack of communication among the team members or with Product Owners or Developers, nothing will work.
 
 <img src="https://media.giphy.com/media/26BRQaiZM0IeyoJfa/giphy.gif" width="200" height="200" />
 
-To overcome communication issues following steps can be followed.
+To overcome communication issues, following steps can be followed.
 
 * Make sure there is effective communication among the team. 
 
