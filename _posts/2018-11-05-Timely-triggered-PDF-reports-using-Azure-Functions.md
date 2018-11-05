@@ -12,7 +12,7 @@ For any kind of system, reports are essential. It provides statistical analysis 
 First, we will create an azure function in visual studio. You can follow this [link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) to learn how to create an azure function and publish it to azure. When adding a new Azure function to the azure function project, select Time Trigger as shown in the below diagram.
 
 
-<img src="/img/ravidu1.png" height="277" width="426" />
+<img src="/img/ravidu0.PNG" height="277" width="426" />
 
 
 It will create the following piece of code.
