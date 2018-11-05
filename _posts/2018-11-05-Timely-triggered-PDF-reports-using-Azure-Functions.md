@@ -7,7 +7,7 @@ description : Azure Functions, PDF Reporting
 
 For any kind of system, reports are essential. It provides statistical analysis about the system which could be used to make managerial decisions about a business, help to attract investors and help to provide useful information about the system to the end users. In this blog post, I’m going to talk about how to create a PDF report in a specific time of the day using an Azure Function. For example, people who are handling e-commerce web sites would like to have a report about total product clicks at the end of each day. Sellers would like to have a report of their total sales at the end of each day etc. 
 
-## Creating azure function
+## Creating Azure Functions
 
 First, we will create an azure function in visual studio. You can follow this [link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) to learn how to create an azure function and publish it to azure. When adding a new Azure function to the azure function project, select Time Trigger as shown in the below diagram.
 
