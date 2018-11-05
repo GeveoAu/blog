@@ -9,7 +9,7 @@ For any kind of system, reports are essential. It provides statistical analysis 
 
 ### Creating Azure Functions
 
-First, we will create an azure function in visual studio. You can follow this [link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) to learn how to create an azure function and publish it to azure. When adding a new Azure function to the azure function project, select Time Trigger as shown in the below diagram.
+First, we will create an Azure Function in visual studio. You can follow this [link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) to learn how to create an Azure Function and publish it to Azure. When adding a new Azure Function to the Azure Function project, select Time Trigger as shown in the below diagram.
 
 
 <img src="/img/ravidu0.PNG" height="277" width="426" />
@@ -149,7 +149,7 @@ public static void Run([TimerTrigger("0 0 0 * * *")]TimerInfo myTimer, TraceWrit
 }
 ```
 
-This function will run on midnight of everyday and generate the PDF report. One thing to keep in mind is that by default azure functions run on Coordinated Universal Time (UTC). To run the Azure function in specific time zone, add a new app setting named WEBSITE_TIME_ZONE and set the value as shown in the [Microsoft Time Zone Index](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-vista/cc749073(v=ws.10)). By changing the cron expression ("0 0 0 * * *") you can change the execution time of the azure function.
+This function will run on midnight of everyday and generate the PDF report. One thing to keep in mind is that by default Azure Functions run on Coordinated Universal Time (UTC). To run the Azure Function in specific time zone, add a new app setting named WEBSITE_TIME_ZONE and set the value as shown in the [Microsoft Time Zone Index](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-vista/cc749073(v=ws.10)). By changing the cron expression ("0 0 0 * * *") you can change the execution time of the Azure Function.
 
 ### References
 
