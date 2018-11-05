@@ -1,4 +1,9 @@
-# Creating PDF reports using timely triggered Azure Functions V2
+---
+title: Creating PDF reports using timely triggered Azure Functions V2
+author: Ravidu Lashan
+linkedin: https://www.linkedin.com/in/ravidulashan
+description : Azure Functions, PDF Reporting
+---
 
 For any kind of system, reports are essential. It provides statistical analysis about the system which could be used to make managerial decisions about a business, help to attract investors and help to provide useful information about the system to the end users. In this blog post, I’m going to talk about how to create a PDF report in a specific time of the day using an Azure Function. For example, people who are handling e-commerce web sites would like to have a report about total product clicks at the end of each day. Sellers would like to have a report of their total sales at the end of each day etc. 
 
@@ -8,21 +13,16 @@ First, we will create an azure function in visual studio. You can follow this [l
 
 It will create the following piece of code.
 
+```csharp
 public static class Function1
-
+{
+    [FunctionName("Function1")]
+    public static void Run([TimerTrigger("0 */5 * * * *")]TimerInfo myTimer,    TraceWriter log)
     {
-
-        [FunctionName("Function1")]
-
-public static void Run([TimerTrigger("0 */5 * * * *")]TimerInfo myTimer,    TraceWriter log)
-
-        {
-
-            log.Info($"C# Timer trigger function executed at: {DateTime.Now}");
-
-        }
-
+        log.Info($"C# Timer trigger function executed at: {DateTime.Now}");
     }
+}
+```
 
 ## Issues in generating PDF reports in Azure environment
 
@@ -36,82 +36,48 @@ Before starting coding there are few challenges to overcome when you publish the
 
 The next problem you come across when you work with the Azure Functions is the dependency injection. Currently Azure Functions does not have built-in support for dependency injection. So, you can use the following approach to inject your dependencies.
 
+```csharp
 public static class IocHelper
-
+{
+    private static IServiceCollection _serviceCollection = null;
+    private static IServiceProvider _rootServiceProvider = null;
+    
+    public static async Task<IServiceProvider> GetRootServiceProviderAsync()
     {
-
-        private static IServiceCollection _serviceCollection = null;
-
-        private static IServiceProvider _rootServiceProvider = null;
-
-        public static async Task<IServiceProvider> GetRootServiceProviderAsync()
-
+        if (_rootServiceProvider == null)
         {
-
-            if (_rootServiceProvider == null)
-
-            {
-
-                if (_serviceCollection == null)
-
-                {
-
-                    var sc = new ServiceCollection();
-
-                    await ConfigureServicesAsync(sc);
-
-                    _serviceCollection = sc;
-
-                }
-
-                _rootServiceProvider = _serviceCollection.BuildServiceProvider();
-
-            }
-
-            return _rootServiceProvider;
-
+        if (_serviceCollection == null)
+        {
+        var sc = new ServiceCollection();
+        await ConfigureServicesAsync(sc);
+         _serviceCollection = sc;
         }
-
-public static async Task ExecuteInScopeAsync(string functionName, Func<IServiceProvider, Task> action)
-
-        {
-
-            var serviceProvider = await GetRootServiceProviderAsync();
-
-            using (var scope = serviceProvider.CreateScope())
-
-            {
-
-                try
-
-                {
-
-                    await action(scope.ServiceProvider);
-
-                }
-
-                catch (Exception ex)
-
-                {
-
-                    throw;
-
-                }
-
-            }
-
+        _rootServiceProvider = _serviceCollection.BuildServiceProvider();
         }
-
-private static async Task ConfigureServicesAsync(IServiceCollection services)
-
-        {
-
-services.AddScoped<IDataContext, DataContext>();
-
-  }
-
+        return _rootServiceProvider;
     }
 
+    public static async Task ExecuteInScopeAsync(string functionName, Func<IServiceProvider, Task> action)
+    {
+        var serviceProvider = await GetRootServiceProviderAsync();
+        using (var scope = serviceProvider.CreateScope())
+        {
+        try
+        {
+        await action(scope.ServiceProvider);
+        }
+        catch (Exception ex)
+        {
+        throw;
+        }
+        }
+    }
+    private static async Task ConfigureServicesAsync(IServiceCollection services)
+    {
+        services.AddScoped<IDataContext, DataContext>();
+    }
+}
+```
 You can configure your dependencies in ConfigureServicesAsync static method.
 
 ## Approach
@@ -120,99 +86,63 @@ You can configure your dependencies in ConfigureServicesAsync static method.
 
 Create a singleton instance of the pechkin converter as shown below
 
+```csharp
 public static class PechkinConverter
-
+{
+    private static IConverter converter =
+    new ThreadSafeConverter(
+    new PdfToolset(
+    new WinAnyCPUEmbeddedDeployment (
+    new TempFolderDeployment())));
+    public static byte[] Convert(HtmlToPdfDocument document)
     {
-
-        private static IConverter converter =
-
-            new ThreadSafeConverter(
-
-            new PdfToolset(
-
-            new WinAnyCPUEmbeddedDeployment (
-
-            new TempFolderDeployment())));
-
-        public static byte[] Convert(HtmlToPdfDocument document)
-
+        byte[] result = new byte[1];
+        lock (converter)
         {
-
-            byte[] result = new byte[1];
-
-            lock (converter)
-
-            {
-
-                result = converter.Convert(document);
-
-            }
-
-            return result;
-
+        result = converter.Convert(document);
         }
-
+         return result;
     }
+}
+```
 
 ### Step 02
 
 Create the pdf document as shown below.
 
+
 [FunctionName("PDFGenerator")]
 
-        public static void Run([TimerTrigger("0 0 0 * * *")]TimerInfo myTimer, TraceWriter log)
-
+```csharp
+public static void Run([TimerTrigger("0 0 0 * * *")]TimerInfo myTimer, TraceWriter log)
+{
+    await IocHelper.ExecuteInScopeAsync("PDF Generator", async (services) =>
+    {
+        var dataContext = services.GetService<IDataContext>();
+        var data = dataContext.Sales(); // query database according to need
+        var result = // generate the html string here
+        var document = new HtmlToPdfDocument
         {
-
-            await IocHelper.ExecuteInScopeAsync("PDF Generator", async (services) =>
-
+            GlobalSettings =
             {
-
-  var dataContext = services.GetService<IDataContext>();
-
-var data = dataContext.Sales(); // query database according to need
-
-var result = // generate the html string here
-
-                var document = new HtmlToPdfDocument
-
-            {
-
-                GlobalSettings =
-
-                                    {
-
-                                        ProduceOutline = true,
-
-                                        DocumentTitle = "Invoice Report",
-
-                                        PaperSize = PaperKind.A4,
-
-                                        Margins =
-
-                                           {
-
-                                                All = 1.375,
-
-                                                Unit = Unit.Centimeters
-
-                                            }
-
-                                    },
-
-                Objects = {
-
-                        new ObjectSettings { HtmlText = result
-
-                        }
-
-                    }
-
-            };
-
+                ProduceOutline = true,
+                DocumentTitle = "Invoice Report",
+                PaperSize = PaperKind.A4,
+                Margins =
+                {
+                    All = 1.375,
+                    Unit = Unit.Centimeters
+                }
+                },
+                    Objects = {
+                    new ObjectSettings { HtmlText = result
+                }
+            }
+        };
         byte[] result = PechkinConverter.Convert(document);
-
-            });        }
+    });        
+}
+```
 
 This function will run on midnight of everyday and generate the PDF report. One thing to keep in mind is that by default azure functions run on Coordinated Universal Time (UTC). To run the Azure function in specific time zone, add a new app setting named WEBSITE_TIME_ZONE and set the value as shown in the [Microsoft Time Zone Index](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-vista/cc749073(v=ws.10)). By changing the cron expression ("0 0 0 * * *") you can change the execution time of the azure function.
 
