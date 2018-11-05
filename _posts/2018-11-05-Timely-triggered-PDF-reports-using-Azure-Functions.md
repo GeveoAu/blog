@@ -32,11 +32,11 @@ public static class Function1
 
 Before starting coding there are few challenges to overcome when you publish the Azure Function in Azure environment. All azure web apps (as well as Mobile App/Services, WebJobs and Functions) run in Azure sandbox which provide limited access to the resources of the deployed machine. The sandbox prevents an app from using most of the kernel’s graphics API, which many pdf generators use either directly or indirectly. You can read more about the Azure sandbox from [here](https://github.com/projectkudu/kudu/wiki/Azure-Web-App-sandbox).
 
-## Solution to overcome the issue
+### Solution to overcome the issue
 
  The same document lists some pdf generators which are allowed by the sandbox environment when you have Basic or higher app service plan. So, if you are using Consumption plan, to succeed in creating PDF reports you must upgrade to basic or higher app service plan. One library which is listed directly or indirectly in the list is wkhtmltopdf. In our attempt we will be using a wrapper around wkhtmltopdf. I could not find a better wrapper implemented in .Net Core which provides our needs. Therefore, I used Tuespechkin library which is a .Net wrapper for wkhtmltopdf library which hides all the P/Invoke messiness. With the Tuespechkin Nuget, you have to install TuesPechkin.Wkhtmltox.AnyCPU Nuget which provides the wkhtmltox.dll for Tuespechkin which enables it to run without any hassle.
 
-## Dependency Injection in Azure function
+### Dependency Injection in Azure function
 
 The next problem you come across when you work with the Azure Functions is the dependency injection. Currently Azure Functions does not have built-in support for dependency injection. So, you can use the following approach to inject your dependencies.
 
@@ -84,9 +84,9 @@ public static class IocHelper
 ```
 You can configure your dependencies in ConfigureServicesAsync static method.
 
-## Approach
+### Approach
 
-### Step 01
+**Step 01**
 
 Create a singleton instance of the pechkin converter as shown below
 
@@ -110,14 +110,15 @@ public static class PechkinConverter
 }
 ```
 
-### Step 02
+**Step 02**
 
 Create the pdf document as shown below.
 
 
-[FunctionName("PDFGenerator")]
+
 
 ```csharp
+[FunctionName("PDFGenerator")]
 public static void Run([TimerTrigger("0 0 0 * * *")]TimerInfo myTimer, TraceWriter log)
 {
     await IocHelper.ExecuteInScopeAsync("PDF Generator", async (services) =>
