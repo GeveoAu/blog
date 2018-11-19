@@ -1,4 +1,9 @@
-# 8 reasons why you should pay attention to Google Flutter
+---
+title: 8 reasons why you should pay attention to Google Flutter
+author: Asanka Indrajith
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : Google, Flutter
+---
 
 Flutter is Google’s latest cross-platform mobile app SDK for creating native applications for iOS and android. Cross-platform SDK’s are predominately having two approaches:
 
