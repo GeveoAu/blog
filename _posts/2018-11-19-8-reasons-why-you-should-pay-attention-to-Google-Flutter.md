@@ -1,7 +1,7 @@
 ---
 title: 8 reasons why you should pay attention to Google Flutter
 author: Asanka Indrajith
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+linkedin: https://lk.linkedin.com/in/asanka-indrajith-9510a025
 description : Google, Flutter
 ---
 
