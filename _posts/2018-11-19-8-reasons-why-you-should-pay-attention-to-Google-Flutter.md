@@ -11,13 +11,13 @@ Flutter is Google’s latest cross-platform mobile app SDK for creating native a
 
 2. Wrap native platform controls and provide a cross-platform abstraction over them.
 
-Both of this approach there is an involvement of a bridge that act as a mediator to provide device features and services.
+In both of this approaches, there is an involvement of a bridge that act as a mediator to provide device features and services.
 
 However, Flutter follows a completely new approach as a cross platform mobile development framework. It provides a framework that application developers work against and an engine with a portable runtime to host applications. The framework builds upon the Skia graphics library, providing a new set of widgets that actually rendered, as opposed to being just wrappers on native controls. Therefore, let us just take look at eight reasons that I think why you should pay attention to Google Flutter.
 
 **1. Easy to learn**
 
-One of the first thing most developers consider before switching into a new mobile development framework is the learning curve. Leaving a framework that you have mastered after so many years of hard work and migrating to a completely new framework is not easy. Also developers have to start from scratch which make them afraid to switch technologies. However thankfully, Flutter has a small learning curve, which makes it easier for developers to switch into Google flutter. In fact, I would say that it’s piece of cake, if any of you have any experience with native or hybrid mobile application development. 
+One of the first things most developers consider before switching into a new mobile development framework is the learning curve. Leaving a framework that you have mastered after so many years of hard work and migrating to a completely new framework is not easy. Also developers have to start from scratch which makes them afraid to switch technologies. However thankfully, Flutter has a small learning curve, which makes it easier for developers to switch into Google flutter. In fact, I would say that it’s a piece of cake, if any of you have any experience with native or hybrid mobile application development. 
 
 Actually all you have to learn is Dart. Dart is a programming language originally developed by Google. Dart offers an intersection of features that should be familiar to developers coming from a variety of languages, such as C#, JavaScript, F#, Swift, and Java. Actually it only took me couple of days to master Dart. As both Flutter and Dart are open-source, there is extensive documentation and excellent community support to help you out with learning and any issue you would encounter.
 
@@ -27,7 +27,7 @@ Dart compiles into native code and there is no need to access OEM widgets as Flu
 
 **3. Very easy to develop UI**
 
-In Google flutter creating UI is very easy. It’s all thanks to the core principle of Flutter, where everything is a widget. Your app class is a widget; your whole layout structure is a widget (Scaffold); basically, everything is a widget (AppBar, Drawer, SnackBar, etc.). For an example, if you want your control to be centered? All you have to do is wrap it with a Center widget. Thanks to this, Entire app can be represented as a widget hierarchy and creating UI is as simple as composing layouts with many different small parts, which have their own properties.
+In Google flutter, creating UI is very easy. It’s all thanks to the core principle of Flutter, where everything is a widget. Your app class is a widget; your whole layout structure is a widget (Scaffold); basically, everything is a widget (AppBar, Drawer, SnackBar, etc.). For an example, if you want your control to be centered? All you have to do is wrap it with a Center widget. Thanks to this, Entire app can be represented as a widget hierarchy and creating UI is as simple as composing layouts with many different small parts, which have their own properties.
 
 Since Flutter does not make use of the Platform OEM Widgets and provide full access to its UI framework, it extremely easy for developers to customize their UI and widgets while increasing their flexibility.
 
