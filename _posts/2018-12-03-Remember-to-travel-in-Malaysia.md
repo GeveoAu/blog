@@ -1,6 +1,12 @@
-**Remember to Travel in Malaysia** *(In summary)*
+---
+title: Remember to Travel in Malaysia (In summary)
+author: Heashan Fernando
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
+description : Malaysia, travel
+---
 
-        ![image alt text](image_0.jpg)
+        
+<img src="/img/heashan_0.jpg" height="400" width="600" />
 
           This blog is to highlight the key values of visiting Malaysia, rather than discussing the general information, which you can easily search over the internet throughout millions of resources. Frankly, I am not well educated enough to talk about the entire Malaysia, since I have visited only Kuala Lumpur & Penang island for several times. 
 
