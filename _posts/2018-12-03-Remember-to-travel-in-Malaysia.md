@@ -9,8 +9,6 @@ description : Malaysia, travel
 
                 
 
-
-
    This blog is to highlight the key values of visiting Malaysia, rather than discussing the general information, which you can easily search over the internet throughout millions of resources. Frankly, I am not well educated enough to talk about the entire Malaysia, since I have visited only Kuala Lumpur & Penang island for several times. 
    
    Malaysia is situated in the midst of the Asia Pacific region, bordering to Thailand, Singapore & Myanmar. Malaysia enjoys a strategic location and a year-round tropical climate. With 13 states, three Federal Territories and a population that currently stands at more than 28 million, Malaysia combines the best of Asia and is well known for its diverse cultural landscape, which includes three of Asia’s oldest civilizations – Malay, Chinese and Indian – and the unique ethnic communities of Sabah and Sarawak. Malaysia is a cosmopolitan country.
@@ -28,6 +26,8 @@ description : Malaysia, travel
    This blog is mainly to help you to plan your trip schedule in Kuala Lumpur, and It was a difficult task for me to stick to 7days travel itinerary when writing this document, since there are thousands of places to visit. However, I chose the key places only to fit to 7days. 
 
 **Kuala Lumpur in 7 days**
+
+<img src="/img/heashan_1.png" height="400" width="600" />
 
 **Day 1:-**
 
@@ -230,6 +230,8 @@ description : Malaysia, travel
 * Go to Level 3 for the Departure flight
 
 **This is only a summary, highlighting a few places in Kuala Lumpur. There are many more than this that you could visit if time permits with you. **
+
+<img src="/img/heashan_2.png" height="400" width="600" />
 
 **Thank You**
 
