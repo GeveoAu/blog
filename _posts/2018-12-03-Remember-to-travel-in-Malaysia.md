@@ -132,6 +132,7 @@ description : Malaysia, travel
 * **Sunway Pyramid shopping mall**(Near the Sunway Lagoon)
 
     * Open Hours (10 am – 10 pm)
+    * Ice-skating is available (weekdays - RM20, weekends - RM25)
 
 **Day 5:-**
 
@@ -169,7 +170,7 @@ description : Malaysia, travel
 
     * From hotel Walk(290m / 4 min)
 
-    * Go to NU Sentral hun & take the Monorail to Berjaya. 
+    * Go to NU Sentral transportation hub & take the Monorail to Berjaya. 
 
     * Open Hours(10 am – 10 pm)
 
@@ -181,7 +182,7 @@ description : Malaysia, travel
 
         * Archery(Next to Bowling)
 
-* **Bukit Bintang **
+*  **Bukit Bintang **
 
     * 5 min walk from the Berjaya Times Square
 
