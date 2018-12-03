@@ -1,7 +1,7 @@
 ---
 title: Remember to Travel in Malaysia (In summary)
 author: Heashan Fernando
-linkedin: https://www.linkedin.com/in/amilaariyarathna/
+linkedin: https://lk.linkedin.com/in/heashan-fernando-aba1a9a9
 description : Malaysia, travel
 ---
         
