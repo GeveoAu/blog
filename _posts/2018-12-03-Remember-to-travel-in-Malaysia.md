@@ -9,7 +9,7 @@ description : Malaysia, travel
 
                 
 
-   This blog is to highlight the key values of visiting Malaysia, rather than discussing the general information, which you can easily search over the internet throughout millions of resources. Frankly, I am not well educated enough to talk about the entire Malaysia, since I have visited only Kuala Lumpur & Penang island for several times. 
+   This blog is to highlight the key values of visiting Malaysia, rather than discussing the general information, which you can easily search over the internet throughout millions of resources. Frankly, I am not well-known enough to talk about the entire Malaysia, since I have visited only Kuala Lumpur & Penang island for several times. 
    
    Malaysia is situated in the midst of the Asia Pacific region, bordering to Thailand, Singapore & Myanmar. Malaysia enjoys a strategic location and a year-round tropical climate. With 13 states, three Federal Territories and a population that currently stands at more than 28 million, Malaysia combines the best of Asia and is well known for its diverse cultural landscape, which includes three of Asia’s oldest civilizations – Malay, Chinese and Indian – and the unique ethnic communities of Sabah and Sarawak. Malaysia is a cosmopolitan country.
          
@@ -17,7 +17,7 @@ description : Malaysia, travel
    
    You go and discover the many wonders of Malaysia and peel the many layers of this fascinating country. Be prepared to be amazed experience, which I had in several times, because there is just so much more to Malaysia than meets the eye.
    
-   I know many of you at Geveo, have already touched this wonderful paradise at least once in their life time. However, now my intension is to promote this country among the rest of the staff at Geveo, who has not yet planned to visit Malaysia. Up to now, I have visited Malaysia, nearly 8 times during past couple of years, as a tourist, which brings me an enjoyable & relax time.
+   I know many of you in Geveo, have already touched this wonderful paradise at least once in their life time. However, now my intension is to promote this country among the rest of the staff in Geveo, who has not yet planned to visit Malaysia. Up to now, I have travelled in Malaysia, nearly 8 times during past couple of years, as a tourist, which brings me an enjoyable & relax time.
      
   Based on my past experience, I have created a travel itinerary named “Kuala Lumpur in 7 days” , which suites for anyone, who is looking for to make a 7days complete tour in the Kuala Lumpur (mainly), without missing the valuable places which you should definitely visit. This itinerary would definitely help you to make a success tour in Kuala Lumpur.
   
@@ -57,7 +57,8 @@ description : Malaysia, travel
 
 **Day 2:-**
 
-* **KL City Gallery **
+* 
+#KL City Gallery#
 
     * From Hotel Sentral (2.7 km/ 10 min)
 
