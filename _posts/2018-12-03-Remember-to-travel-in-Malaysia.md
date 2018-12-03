@@ -29,7 +29,7 @@ description : Malaysia, travel
 
 <img src="/img/heashan_1.png" height="400" width="600" />
 
-**Day 1:-**
+<span style="color:blue" **Day 1:-** </span>
 
 * Arrival to Kuala Lumpur International Airport (**KLIA 1**) OR **KLIA 2** depends on your flight selection.
 
