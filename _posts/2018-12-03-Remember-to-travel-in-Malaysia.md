@@ -182,7 +182,7 @@ description : Malaysia, travel
 
         * Archery(Next to Bowling)
 
-*  **Bukit Bintang **
+*   **Bukit Bintang **
 
     * 5 min walk from the Berjaya Times Square
 
