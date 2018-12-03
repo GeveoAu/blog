@@ -58,7 +58,7 @@ description : Malaysia, travel
 **Day 2:-**
 
 * 
-#KL City Gallery#
+**KL City Gallery**
 
     * From Hotel Sentral (2.7 km/ 10 min)
 
