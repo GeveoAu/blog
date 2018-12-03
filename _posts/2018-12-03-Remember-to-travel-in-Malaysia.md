@@ -182,8 +182,7 @@ description : Malaysia, travel
 
         * Archery(Next to Bowling)
 
-*   
-**Bukit Bintang **
+* **Bukit Bintang**
 
     * 5 min walk from the Berjaya Times Square
 
@@ -196,7 +195,7 @@ description : Malaysia, travel
 **Day 7:-**
 
 * 
-**Sri Maha Mariamman **hindu temple
+**Sri Maha Mariamman** hindu temple
 
     * Open Hours(6 am – 9pm)
 
@@ -232,7 +231,7 @@ description : Malaysia, travel
 
 * Go to Level 3 for the Departure flight
 
-##This is only a summary, highlighting a few places in Kuala Lumpur. There are many more than this that you could visit if time permits with you. ##
+**This is only a summary, highlighting a few places in Kuala Lumpur. There are many more than this that you could visit if time permits with you.**
 
 <img src="/img/heashan_2.png" height="400" width="600" />
 
