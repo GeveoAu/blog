@@ -1,4 +1,9 @@
-**Blockchain Consensus Mechanisms**
+---
+title: Blockchain Consensus Mechanism
+author: Priyadharsun Sivadasan
+linkedin: https://lk.linkedin.com/in/priyadharsun-sivadasan-a1676247
+description : Blockchain, Consensus
+---
 
 Blockchain is a secure, shared, distributed ledger that is used to maintain a continuously growing list of records, called blocks. 
 
