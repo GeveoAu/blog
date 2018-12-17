@@ -25,7 +25,7 @@ There are many ways to reach consensus, here we will discuss most famous mechani
 
 **Proof of Work (POW)**
 
-This is known as mining and the nodes are known as miners. The miners solve cryptographic puzzles to "mine" a block in order to add to the blockchain. It is not possible to solve the puzzles quicker using any other method than trial and error. This also means that the if one wants to find the solution to the puzzle faster, they would need more computational power, which can get very costly. When a miner solves the puzzle, they present their block to the network for verification. Verifying whether the block belongs to the chain or not is an extremely simple process.
+This is known as mining and the nodes are known as miners. The miners solve cryptographic puzzles to "mine" a block in order to add to the blockchain. It is not possible to solve the puzzles quicker using any other method than trial and error. This also means that if one wants to find the solution to the puzzle faster, they would need more computational power, which can get very costly. When a miner solves the puzzle, they present their block to the network for verification. Verifying whether the block belongs to the chain or not is an extremely simple process.
 
 **Proof of Stake (POS)**
 
