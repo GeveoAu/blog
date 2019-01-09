@@ -1,4 +1,9 @@
-**Hype vs Fact: Walking 10,000 Steps a Day.**
+---
+title: Hype vs Fact: Walking 10,000 Steps a Day
+author: Nalin Marambe
+linkedin: 
+description : Walking
+---
 
 These days it is hard to walk the streets without running into someone who is anxiously looking at their wrist to see if they are on target to reach the magic 10,000 steps.
 
@@ -36,13 +41,13 @@ During the past 3 years, I have been walking without considering 10,000 steps a 
 
  (+) Daily distance would be recorded on a spreadsheet.
 
-![image alt text](image_0.jpg)
+<img src="/img/nalin0.jpg" height="400" width="600" />
 
   At the end of the month :
 
-![image alt text](image_1.jpg)
+<img src="/img/nalin1.jpg" height="400" width="600" />
 
-![image alt text](image_2.jpg)
+<img src="/img/nalin2.jpg" height="400" width="600" />
 
 There are 12 sheets in a workbook containing distances for each month.
 
@@ -90,7 +95,7 @@ Yes, walking had a positive impact on my metabolism without any aid from smartph
 
 Loaded with apps, pedometers or similar devices.
 
-![image alt text](image_3.gif)
+<img src="/img/nalin3.jpg" height="400" width="600" />
 
 *Learn from yesterday, live today, hope for tomorrow. 		*
 
