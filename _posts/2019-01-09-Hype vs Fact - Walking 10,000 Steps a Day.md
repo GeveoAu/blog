@@ -1,8 +1,8 @@
 ---
 title: Hype vs Fact: Walking 10,000 Steps a Day
 author: Nalin Marambe
-linkedin: 
-description : Walking
+linkedin: #
+description : Walking, Steps
 ---
 
 These days it is hard to walk the streets without running into someone who is anxiously looking at their wrist to see if they are on target to reach the magic 10,000 steps.
