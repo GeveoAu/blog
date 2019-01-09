@@ -32,13 +32,9 @@ It was clearly a great marketing success. But is it still the most effective way
 During the past 3 years, I have been walking without considering 10,000 steps a day. Designed my own game plan based on following parameters.   
 
 (+) The entire story is based on an old school thought of pedestrianism.
-
 (+) Google maps were used identify distances between locations.
-
 (+) The idea is to walk briskly, minimum of 45-60 minutes a day, reaching a target of 4 kilometers from point A to B in a continuous time line.
-
 (+) Whatever the rest, that is from point B to C is an accumulation of short distances (such as from home to bus stand and Bus stand to office, to shops and back) will get added on to the daily distance.
-
  (+) Daily distance would be recorded on a spreadsheet.
 
 <img src="/img/nalin_0.jpg" height="400" width="600" />
@@ -60,11 +56,8 @@ Such walks are better than being stationery for long time.
 But :
 
 (+) Number of steps is a byproduct of distance that you do.
-
 (+) The heart rate during a brisk walk matters a lot.
-
 (+) A brisk walk for 30 to 45 minutes and casual walks for a day for all week long had a positive impact.
-
 (+) Streets were my treadmill.
 
 **A social issue.**
@@ -76,29 +69,21 @@ World Health Organization had their own survey in Sri Lanka, in 2015.
 Following points were highlighted:
 
 (*) 75 percent of all deaths are due to non-communicable diseases (NCD)
-
 (*) More than 100,000 die each year due to NCD.
-
 (*) 40 Percent of 75 percent are due to coronary heart disease.
-
 (*) More than 10,000 people die due to diabetes.
-
 (*) 1.16 Million people suffer from Diabetes due to poor eating habits and leading sedentary life styles.
-
 (*) Majority of hospitals in Sri Lanka both in public and private sector does not publish the causes of deaths.
 
 **Crux of the matter.**
 
 In my case, walking has been a constant companion, something to look forward to.
 
-Yes, walking had a positive impact on my metabolism without any aid from smartphones
-
-Loaded with apps, pedometers or similar devices.
+Yes, walking had a positive impact on my metabolism without any aid from smartphones loaded with apps, pedometers or similar devices.
 
 <img src="/img/nalin_3.gif" height="400" width="600" />
 
 *Learn from yesterday, live today, hope for tomorrow.*
-
 *The most important thing is not to stop questioning.*
 
 *-Albert Einstein.-*
