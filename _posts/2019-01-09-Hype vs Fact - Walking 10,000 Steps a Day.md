@@ -51,7 +51,7 @@ During the past 3 years, I have been walking without considering 10,000 steps a 
 
 There are 12 sheets in a workbook containing distances for each month.
 
-**Conclusion **
+**Conclusion**
 
 Walking 10,000 steps a day means casual walking for many.
 
@@ -97,9 +97,9 @@ Loaded with apps, pedometers or similar devices.
 
 <img src="/img/nalin_3.gif" height="400" width="600" />
 
-*Learn from yesterday, live today, hope for tomorrow. 		*
+*Learn from yesterday, live today, hope for tomorrow.*
 
 *The most important thing is not to stop questioning.*
 
-*-Albert Einstein. -*
+*-Albert Einstein.-*
 
