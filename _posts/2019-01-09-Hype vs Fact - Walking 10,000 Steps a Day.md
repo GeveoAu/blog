@@ -47,7 +47,7 @@ During the past 3 years, I have been walking without considering 10,000 steps a 
 
 <img src="/img/nalin_1.jpg" height="400" width="600" />
 
-<img src="/img/nalin_2.jpg" height="300" width="600" />
+<img src="/img/nalin_2.jpg" height="250" width="600" />
 
 There are 12 sheets in a workbook containing distances for each month.
 
