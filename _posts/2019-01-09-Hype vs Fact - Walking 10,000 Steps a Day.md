@@ -1,5 +1,5 @@
 ---
-title: Hype vs Fact: Walking 10,000 Steps a Day
+title: Hype vs Fact - Walking 10,000 Steps a Day
 author: Nalin Marambe
 linkedin: http://blog.geveo.com/
 description : Walking, Steps
