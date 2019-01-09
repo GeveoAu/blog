@@ -95,7 +95,7 @@ Yes, walking had a positive impact on my metabolism without any aid from smartph
 
 Loaded with apps, pedometers or similar devices.
 
-<img src="/img/nalin_3.jpg" height="400" width="600" />
+<img src="/img/nalin_3.gif" height="400" width="600" />
 
 *Learn from yesterday, live today, hope for tomorrow. 		*
 
