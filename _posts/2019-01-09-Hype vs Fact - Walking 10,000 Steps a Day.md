@@ -41,13 +41,13 @@ During the past 3 years, I have been walking without considering 10,000 steps a 
 
  (+) Daily distance would be recorded on a spreadsheet.
 
-<img src="/img/nalin0.jpg" height="400" width="600" />
+<img src="/img/nalin_0.jpg" height="400" width="600" />
 
   At the end of the month :
 
-<img src="/img/nalin1.jpg" height="400" width="600" />
+<img src="/img/nalin_1.jpg" height="400" width="600" />
 
-<img src="/img/nalin2.jpg" height="400" width="600" />
+<img src="/img/nalin_2.jpg" height="400" width="600" />
 
 There are 12 sheets in a workbook containing distances for each month.
 
@@ -95,7 +95,7 @@ Yes, walking had a positive impact on my metabolism without any aid from smartph
 
 Loaded with apps, pedometers or similar devices.
 
-<img src="/img/nalin3.jpg" height="400" width="600" />
+<img src="/img/nalin_3.jpg" height="400" width="600" />
 
 *Learn from yesterday, live today, hope for tomorrow. 		*
 
