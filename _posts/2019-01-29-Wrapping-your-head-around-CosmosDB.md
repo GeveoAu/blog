@@ -17,17 +17,17 @@ We all know what this is. Copies of your data are kept around the world and user
 
 This is not something we hear with lot of other database providers. What Microsoft has done here is, providing several independent database concepts under one roof. In plain English, Cosmos DB supports 3 database types. 
 
-1. JSON Document database
+ 1. JSON Document database
 
-You have 2 choices here. You can create your database with SQL API support which is more suitable for people familiar with SQL. Or you can create MongoDB compatible database which is more suitable as a drop-in replacement for existing applications written for MongoDB.
+ You have 2 choices here. You can create your database with SQL API support which is more suitable for people familiar with SQL. Or you  can create MongoDB compatible database which is more suitable as a drop-in replacement for existing applications written for MongoDB.
 
-2. Key-value pair database
+ 2. Key-value pair database
 
-You can create an Azure Table Storage-like database or Apache Casandra database under Cosmos DB.
+ You can create an Azure Table Storage-like database or Apache Casandra database under Cosmos DB.
 
-3. Graph database
+ 3. Graph database
 
-A graph database which supports Apache Gremlin API.
+ A graph database which supports Apache Gremlin API.
 
 ```
 Possible confusion: SQL API vs DocumentDB vs MongoDB
