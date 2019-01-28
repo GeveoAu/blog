@@ -31,7 +31,7 @@ A graph database which supports Apache Gremlin API.
 
 Note box:
 
-```
+``
 Possible confusion: SQL API vs DocumentDB vs MongoDB
 
 When you look at Cosmos DB-related documentation on the web, you will stumble upon these terms which makes it difficult to choose what you want. There's some history associated with these terms knowing which can clear the picture.
@@ -47,7 +47,7 @@ Then, after a while, to attract SQL Server developers, they renamed DocumentDB t
 	
 
 MongoDB is Microsoft's MongoDB provider under Cosmos DB. It's purpose is to attract existing MongoDB developers into Azure Cosmos DB platform.
-```
+``
 
 **Containers, Partitions and Throughput**
 
