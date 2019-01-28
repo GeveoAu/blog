@@ -70,15 +70,15 @@ You have to tell Cosmos DB how much computing resources to allocate for your con
 ```
 Is it expensive?
 
-Cosmos DB is inherently a high-performance database engine. So the minimum resource allocation 
+ Cosmos DB is inherently a high-performance database engine. So the minimum resource allocation 
 allowed starts from around 24 USD a month. This is bit off-putting for newcomers who just want 
 to store a simple set of data in a NoSQL database under Azure platform. The truth is, Cosmos DB
 is like a high performance sports car. You should not complain that a sports car is expensive. 
-There are no cheap commodity versions available. In contrast, Azure SQL allows you to start from 
-$5 a month and go up to very expensive configurations. However, this cannot be compared with 
-Cosmos DB since it is infinitely scalable and for the money you pay, you get 
-super-high-performance (sub 10ms latency globally). Overall, it offers better value-for-money 
-than high-performance SQL Server configurations.
+There are no cheap commodity versions available. In contrast, Azure SQL allows you to start 
+from $5 a month and go up to very expensive configurations. However, this cannot be compared 
+with Cosmos DB since it is infinitely scalable and for the money you pay, you get 
+super-high-performance (sub 10ms latency globally). Overall, it offers better 
+value-for-money than high-performance SQL Server configurations.
 ```
 
 **Achieving high-performance**
