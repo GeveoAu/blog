@@ -49,6 +49,7 @@ New documents will call it as "SQL API". Also know that the term "SQL API" actua
 
 MongoDB is Microsoft's MongoDB provider under Cosmos DB. It's purpose is to attract existing 
 MongoDB developers into Azure Cosmos DB platform.
+
 ```
 
 **Containers, Partitions and Throughput**
