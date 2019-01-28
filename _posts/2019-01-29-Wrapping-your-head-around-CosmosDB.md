@@ -11,7 +11,7 @@ Let's take CosmosDB features and limitations which are worth explaining one by o
 
 <h3>Marketing keyword: Globally-distributed</h3>
 
-We all know what this is. Copies of your data are kept around the world and users from different regions of the world can receive the data from the closest copy. You can use this feature for improving performance and also use it for high-availability fail-over regions. One question I had was what if we want to restrict data for one country? (for data-sovereignty requirements). Well, you can do that by selecting the regions you data is available in.
+We all know what this is. Copies of your data are kept around the world and users from different regions of the world can receive the data from the closest copy. You can use this feature for improving performance and also use it for high-availability fail-over regions. One question I had was what if we want to restrict data for one country? (for data-sovereignty requirements). Well, you can do that by selecting the regions your data is available in.
 
 <h3>Marketing keyword: Multi-model</h3>
 
