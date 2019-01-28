@@ -13,7 +13,7 @@ Let's take CosmosDB features and limitations which are worth explaining one by o
 
 We all know what this is. Copies of your data are kept around the world and users from different regions of the world can receive the data from the closest copy. You can use this feature for improving performance and also use it for high-availability fail-over regions. One question I had was what if we want to restrict data for one country? (for data-sovereignty requirements). Well, you can do that by selecting the regions you data is available in.
 
-**Marketing keyword: Multi-model**
+<h3>Marketing keyword: Multi-model</h3>
 
 This is not something we hear with lot of other database providers. What Microsoft has done here is, providing several independent database concepts under one roof. In plain English, Cosmos DB supports 3 database types. 
 
@@ -44,7 +44,7 @@ MongoDB is Microsoft's MongoDB provider under Cosmos DB. It's purpose is to attr
 
 ---
 
-**Containers, Partitions and Throughput**
+<h3>Containers, Partitions and Throughput</h3>
 
 In Cosmos DB, you store all your items within containers. You can have several containers per database. SQL developers may tend to think of containers as Tables in a relational database, but this thinking can lead to lot of confusion. Just think of them as folders where you can put any kind of object. Since you get charged per container and they are not cheap, it's usually a good idea to put multiple types of your objects in a single container and manually filter the object type when you query.
 
@@ -69,15 +69,15 @@ Cosmos DB is inherently a high-performance database engine. So the minimum resou
 
 ---
 
-**Achieving high-performance**
+<h3>Achieving high-performance</h3>
 
 Cosmos DB pricing model and internal data storage architecture is designed to build high-performance databases from the ground up. However, as the developer, you also play an important role in that. Just like a sports car needs a skilled mechanic and driver to realize its true potential, the decisions taken by you as the developer impacts a lot to your Cosmos DB performance. Mainly you have to help Cosmos DB by choosing the right partition key design. Furthermore, just as a sports car should ideally be driven in a race track, the kind of data and the business problem you are trying to solve might make it difficult for you to harness the full power of Cosmos DB.
 
-**Using SQL API on .Net**
+<h3>Using SQL API on .Net</h3>
 
 Cosmos DB has decent .Net wrappers for its rest API. For the SQL API (JSON NoSQL documents) specifically, it also offers support for LINQ translations. However, it's not fully mature like LINQ/EntityFramework support for SQL Server. Most Cosmos DB documentation examples use plain text SQL for queries, but I highly recommend to use LINQ if at all possible. We've had to apply workarounds for some limitations in the current LINQ provider but it has mostly worked out well for us in terms of type safety and code maintainability. A side benefit of using LINQ is it enables you to mock your Cosmos DB data access code for in-memory data storage, so you can easily unit test you business code.
 
-**Further reading:**
+<h3>Further reading:</h3>
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/partition-data
 
