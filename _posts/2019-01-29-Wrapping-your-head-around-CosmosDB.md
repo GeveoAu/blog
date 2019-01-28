@@ -32,13 +32,23 @@ A graph database which supports Apache Gremlin API.
 ```
 Possible confusion: SQL API vs DocumentDB vs MongoDB
 
-When you look at Cosmos DB-related documentation on the web, you will stumble upon these terms which makes it difficult to choose what you want. There's some history associated with these terms knowing which can clear the picture.	
+When you look at Cosmos DB-related documentation on the web, you will stumble upon these terms 
+which makes it difficult to choose what you want. There's some history associated with these 
+terms knowing which can clear the picture.	
 
-SQL API and DocumentDB means the same thing. The term DocumentDB was the old marketing term Microsoft used to name their JSON document database. Before introducing Cosmos DB service, DocumentDB NoSQL database service was Microsoft's competitor for MongoDB. When they came up with Cosmos DB, Microsoft moved DocumentDB under the roof of Cosmos DB to be a member of their "multi-model" offering.	
+SQL API and DocumentDB means the same thing. The term DocumentDB was the old marketing term 
+Microsoft used to name their JSON document database. Before introducing Cosmos DB service, 
+DocumentDB NoSQL database service was Microsoft's competitor for MongoDB. When they came up 
+with Cosmos DB, Microsoft moved DocumentDB under the roof of Cosmos DB to be a member of 
+their "multi-model" offering.	
 
-Then, after a while, to attract SQL Server developers, they renamed DocumentDB to "SQL API". So, when you look for Cosmos DB documents, you will encounter the old term "DocumentDB". New documents will call it as "SQL API". Also know that the term "SQL API" actually means "SQL-like query language for NoSQL JSON documents", NOT an actual relational/SQL database.	
+Then, after a while, to attract SQL Server developers, they renamed DocumentDB to "SQL API". 
+So, when you look for Cosmos DB documents, you will encounter the old term "DocumentDB". 
+New documents will call it as "SQL API". Also know that the term "SQL API" actually means 
+"SQL-like query language for NoSQL JSON documents", NOT an actual relational/SQL database.	
 
-MongoDB is Microsoft's MongoDB provider under Cosmos DB. It's purpose is to attract existing MongoDB developers into Azure Cosmos DB platform.
+MongoDB is Microsoft's MongoDB provider under Cosmos DB. It's purpose is to attract existing 
+MongoDB developers into Azure Cosmos DB platform.
 ```
 
 **Containers, Partitions and Throughput**
@@ -60,7 +70,15 @@ You have to tell Cosmos DB how much computing resources to allocate for your con
 ```
 Is it expensive?
 
-Cosmos DB is inherently a high-performance database engine. So the minimum resource allocation allowed starts from around 24 USD a month. This is bit off-putting for newcomers who just want to store a simple set of data in a NoSQL database under Azure platform. The truth is, Cosmos DB is like a high performance sports car. You should not complain that a sports car is expensive. There are no cheap commodity versions available. In contrast, Azure SQL allows you to start from $5 a month and go up to very expensive configurations. However, this cannot be compared with Cosmos DB since it is infinitely scalable and for the money you pay, you get super-high-performance (sub 10ms latency globally). Overall, it offers better value-for-money than high-performance SQL Server configurations.
+Cosmos DB is inherently a high-performance database engine. So the minimum resource allocation 
+allowed starts from around 24 USD a month. This is bit off-putting for newcomers who just want 
+to store a simple set of data in a NoSQL database under Azure platform. The truth is, Cosmos DB
+is like a high performance sports car. You should not complain that a sports car is expensive. 
+There are no cheap commodity versions available. In contrast, Azure SQL allows you to start from 
+$5 a month and go up to very expensive configurations. However, this cannot be compared with Cosmos DB
+since it is infinitely scalable and for the money you pay, you get super-high-performance 
+(sub 10ms latency globally). Overall, it offers better value-for-money than high-performance 
+SQL Server configurations.
 ```
 
 **Achieving high-performance**
