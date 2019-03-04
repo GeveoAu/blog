@@ -1,4 +1,9 @@
-# Our place in the Universe
+---
+title: Our place in the Universe
+author: Hethu Nanayakkara
+linkedin: https://lk.linkedin.com/in/hethu
+description : universe, intelligent life
+---
 
 Most of us have looked in to the night sky and wondered how many stars are out there. On a clear night sky, we see about 2,500 stars with our naked eye. Our Milky Way galaxy has about 400 billion stars, so we are seeing just a faction of our galaxy in the night sky.
 
@@ -44,7 +49,7 @@ The Kardashev scale is a method of measuring a civilization's level of technolog
 
 * **Type III** civilization—also called a galactic civilization—can control energy on the scale of its entire host galaxy
 
-![image alt text](image_0.png)
+<img src="/img/hethu1.png" height="400" width="600" />
 
 Given enough time, scientists think that most intelligent civilizations would move from Type I to Type II and ultimately to Type III.  But we don’t see any Type II or III civilizations roaming in our skies, so where is everybody?
 
@@ -66,7 +71,7 @@ Where is everyone? There are two broad possibilities:
 
 * Super-intelligent life could very well have already visited Earth, but before we were here. Humans have lived only a fraction of the time in the lifespan of Earth. Besides, we only have recorded history of around 5000 years and that is a tiny time-slice in the earth’s timeline to witness an alien encounter.
 
-![image alt text](image_1.gif)
+<img src="/img/hethu2.png" height="400" width="600" />
 
 Earth’s timeline mapped to 24-hours. Humans arrived in the last 77 seconds
 
@@ -76,7 +81,7 @@ Earth’s timeline mapped to 24-hours. Humans arrived in the last 77 seconds
 
 * There are scary predator civilizations out there, and most intelligent life knows better than to broadcast any outgoing signals and advertise their location. So, everyone keeps quiet and stays low-key.
 
-![image alt text](image_2.jpg)
+<img src="/img/hethu3.png" height="400" width="600" />
 
 * There’s only one instance of higher-intelligent life—a "superpredator" civilization (like humans are here on Earth)—that is far more advanced than everyone else and keeps it that way by exterminating all other intelligent civilizations that may become a threat to them. This certainly is not good news for us!
 
