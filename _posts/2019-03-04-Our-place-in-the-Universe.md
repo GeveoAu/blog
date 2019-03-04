@@ -13,7 +13,7 @@ To understand the massive scale of the observable universe, watch this Google Co
 
 (note that the zooming is not in a linear scale but in an exponential scale)
 
-## Intelligent life
+### Intelligent life
 
 Now an interesting question is, how many of those stars would have a planet capable of having intelligent life?  "Intelligent life" means some advanced species that can ask similar questions to what we just asked.  On planet Earth, this is only us, Humans.  No other life on Earth is comparable to humans and is intelligent enough to ponder such big questions.
 
@@ -23,13 +23,13 @@ Without going in to details, doing the math with the most conservative estimates
 
 But we haven’t seen any. So where is everybody?
 
-## The Fermi Paradox
+### The Fermi Paradox
 
 Fermi Paradox states the apparent contradiction between high estimates of the probability of the existence of extraterrestrial civilizations and the lack of evidence for such civilizations.
 
 SETI (Search for Extraterrestrial Intelligence) program is dedicated to listening for signals from other intelligent life. If we’re right that there are 100,000 or so intelligent civilizations in our galaxy, and even a fraction of them are sending out radio waves or laser beams or other modes of attempting to contact others, SETI’s satellite dishes should have picked up something. But so far, they have not. This is the Fermi Paradox.
 
-## Plenty of time to Evolve
+### Plenty of time to Evolve
 
 Our sun is relatively young in the lifespan of the universe. There are far older stars with far older Earth-like planets, which should in theory mean civilizations far more advanced than our own. 
 
@@ -39,7 +39,7 @@ The technology and knowledge of a civilization only 1,000 years ahead of us coul
 
 Given enough time, intelligent civilizations would figure out technology to harness the power of their own planet, then their host star and finally their host galaxy.
 
-## Kardashev scale
+### Kardashev scale
 
 The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy a civilization is able to use. The scale has three designated categories: 
 
@@ -53,7 +53,7 @@ The Kardashev scale is a method of measuring a civilization's level of technolog
 
 Given enough time, scientists think that most intelligent civilizations would move from Type I to Type II and ultimately to Type III.  But we don’t see any Type II or III civilizations roaming in our skies, so where is everybody?
 
-## Where Are They?
+### Where Are They?
 
 Some explanations might sound like science fiction, in fact most of what follows have already been taken as the basis for sci-fi books and movies.  We do not have evidence to prove the explanations, but what follows are based on logical reasoning.
 
