@@ -61,7 +61,7 @@ So one might ask which of these two frameworks is best to follow? Well the answe
 
 Seeing how popular Agile development has become among most software companies in the modern world, one might ask what the reason for this popularity is. The answer is quite simple: with Agile you have much less to worry about, and more room to change. You don’t need to go through the hassle of changing an entire codebase just because you already developed the whole thing and when you show it to the customers they change their mind about something. You progress through a software project in iterations, similar to writing the chapters of a storybook, where you can always make changes to the overall story along the way. Above all else, it values the individuals that take part in it, allowing them to develop themselves while contributing positively to the project, which guarantees overall success for the effort.
 
-For further reference, listed below are the **12 principles that should be followed by agile software **as set forth by the authors of the Agile Manifesto:
+For further reference, listed below are the **12 principles that should be followed by agile software** as set forth by the authors of the Agile Manifesto:
 
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
