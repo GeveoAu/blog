@@ -1,3 +1,10 @@
+---
+title: The Agile Dynamic
+author: Chinthaka Chandrasekara
+linkedin: https://lk.linkedin.com/in/chinthakachandrasekara
+description : Agile, Agile Dynamic
+---
+
 We at Geveo are very familiar with the Agile methodology for software development, experiencing it practically every day of our professional lives. However, it is important to be aware of not just the concepts of Agile, but also the core values and reasons behind doing what we do. In order to get that understanding, the best place to start is by taking a glimpse into history. Hence:
 
 **A bit of history**
@@ -14,19 +21,23 @@ But the real origin or ‘inception’ of Agile development happened in 2001, wh
 
 This directly ties in with the concept of the Agile development team. The productivity and overall success of the project would depend on the team and the interactions of its members, more than relying on the effectiveness of certain processes and tools/techniques.
 
-**_Working software over comprehensive documentation_**
+
+**_Working software over comprehensive documentation_**
 
 Documentation is good. There is no doubt about that. It helps someone who reads through it to understand the features of a system. However, an even better demonstrative tool would be the actual working software, no matter how small a distinct feature may be.
 
-**_Customer collaboration over contract negotiation_**
+
+**_Customer collaboration over contract negotiation_**
 
 To play it safe, we would want to sign hard and fast contracts with customers for extended time periods. However, by allowing a certain level of flexibility from both sides, and keeping the negotiation table open at all times, it helps to create more understanding and trust between all parties involved, and ultimately has a very positive impact on the project.
 
-**_Responding to change over following a plan_**
+
+**_Responding to change over following a plan_**
 
 We definitely need to have a plan when starting any project in life. But having a strict, immutable plan would result in various undesirable results when faced with unforeseen external factors and impediments. Allowing and responding to change helps to accommodate and compensate for such unavoidable circumstances, and sometimes even shape the path of a project to an even better outcome than previously expected.
 
-The 4 concepts explained above make up the core of the Agile development framework. While the more traditional concepts do indeed have value, the key thing to note is that the more modern 'Agile’ concepts are valued more.
+
+The 4 concepts explained above make up the core of the Agile development framework. While the more traditional concepts do indeed have value, the key thing to note is that the more modern 'Agile’ concepts are valued more.
 
 **The Team**
 
