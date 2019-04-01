@@ -15,19 +15,22 @@ After resting for couple of hours, since it was a long flight, the first place I
    <img src="/img/kawshi_0.jpg" height="400" width="600" />     
    <img src="/img/kawshi_1.jpg" height="400" width="600" />                                                                                 <img src="/img/kawshi_2.jpg" height="400" width="600" />      
    <img src="/img/kawshi_3.jpg" height="400" width="600" />      
-<center> Bryggen </center>
+<center> Bryggen </center>  
+
 
 
 Since it was the Christmas season, Bergen people had some special events going on in their city. At the center of the city there was a Christmas market which was called as the **Julemarked**. Even though there are fewer people on the streets on winter, Julemarked was always crowded with so many people. At this market they had local food restaurants and foreign food restaurants. 
 
 <img src="/img/kawshi_4.jpg" height="400" width="600" /> 
-<center> Julemarked </center>
+<center> Julemarked </center>  
+
 
 At this season Bergen people (specially children) create the whole Bergen city with ginger bread. This is the world’s largest Gingerbread town and it’s called as **Pepperkakebyen**. Even they have the actual train tracks in this handmade city. And it was so amazing to see how they have created all those things, even the tiny houses using ginger bread.
 
 <img src="/img/kawshi_5.jpg" height="400" width="600" /> 
 <img src="/img/kawshi_6.jpg" height="400" width="600" /> 
-<center> Pepperkakebyen </center>
+<center> Pepperkakebyen </center>  
+
 
 
 Now comes the next breathtaking place I visited in Bergen. This is called as **Floyen** and it’s one of the City Mountains in Bergen. To reach to the summit of Floyen we took a funicular which is known as Foibanen. Also you can go on a hike to reach the top of Floyen without taking the funicular. 
@@ -40,7 +43,8 @@ This photo of Foibanen was taken in a sunny day. When we were travelling in this
 
 <img src="/img/kawshi_8.jpg" height="400" width="600" />    
 <img src="/img/kawshi_9.jpg" height="400" width="600" /> 
-<center> View from Floyen at night </center>
+<center> View from Floyen at night </center>  
+
 
 
 At the top of this mountain we were freezing because it was around -5 degrees and the stone cold wind was blowing really fast through the mountain. But there were some warm restaurants at the top and having a hot cup of coffee in one of those cozy restaurants in that cold with the breathtaking view was an unforgettable experience.
@@ -53,21 +57,23 @@ In the next day we went to visit the Bergen aquarium. An aquarium which features
 <img src="/img/kawshi_13.jpg" height="400" width="600" /> 
 <img src="/img/kawshi_14.jpg" height="400" width="600" />    
 <img src="/img/kawshi_15.jpg" height="400" width="600" /> 
-<center> Bergen aquarium </center>
-<br/>
+<center> Bergen aquarium </center>  
+
+
 
 Now it’s time to write about the most costly but totally worth boat ride I have ever experienced in my life. This was a small cruise ride through the magnificent fjords in Norway. The fjords in Bergen are voted as the world’s most unspoiled tourist destination by the National Geographic. You can explore giant mountains covered in snow and waterfalls that are frozen by the winter when you travel in this amazing cruise. 
 
 <img src="/img/kawshi_16.jpg" height="400" width="600" /> 
 <img src="/img/kawshi_17.jpg" height="400" width="600" /> 
 <img src="/img/kawshi_18.jpg" height="400" width="600" /> 
-<center> Fjords </center>
-<br/>
+<center> Fjords </center>  
+
 Skiing is one of the best adventure games I have ever tried. And I got the chance to do it in this trip. To go to the ski resort we had to take a train. The train was full of people with ski equipment and they all were travelling to Voss to go on skiing. In Voss they have lots of ski slopes. Since I have never tried skiing before I went for a really small ski slope where even 3 years, 4 years old kids were learning how to ski. And the ski boots were the heaviest boots I have ever wore and I found it hard even to walk with those boots. But once you get use to all those things you realize that skiing is an amazing sport and should do it at least once in a while.
 
 <img src="/img/kawshi_19.jpg" height="400" width="600" />          
 <img src="/img/kawshi_20.jpg" height="400" width="600" /> 
-<center> Voss skii resort </center>
+<center> Voss skii resort </center>  
+
 
 The cables that are there in the photo takes people to the higher slopes. But when you go up you cannot walk down the slopes. You have to ski from the top to bottom. So if you are not sure about your skiing skills I don’t recommend you to go up from the cables until you are confident about that.
 
