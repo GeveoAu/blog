@@ -70,8 +70,8 @@ Now it’s time to write about the most costly but totally worth boat ride I hav
 
 Skiing is one of the best adventure games I have ever tried. And I got the chance to do it in this trip. To go to the ski resort we had to take a train. The train was full of people with ski equipment and they all were travelling to Voss to go on skiing. In Voss they have lots of ski slopes. Since I have never tried skiing before I went for a really small ski slope where even 3 years, 4 years old kids were learning how to ski. And the ski boots were the heaviest boots I have ever wore and I found it hard even to walk with those boots. But once you get use to all those things you realize that skiing is an amazing sport and should do it at least once in a while.
 
-<img src="/img/kawshi_18.jpg" height="400" width="600" />          
-<img src="/img/kawshi_19.jpg" height="400" width="600" /> 
+<img src="/img/kawshi_18.jpg" height="400" width="420" />          
+<img src="/img/kawshi_19.jpg" height="400" width="420" /> 
 <center> Voss skii resort </center>  
 <br/>
 
