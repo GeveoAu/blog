@@ -35,7 +35,7 @@ At this season Bergen people (specially children) create the whole Bergen city w
 
 Now comes the next breathtaking place I visited in Bergen. This is called as **Floyen** and it’s one of the City Mountains in Bergen. To reach to the summit of Floyen we took a funicular which is known as Foibanen. Also you can go on a hike to reach the top of Floyen without taking the funicular. 
 
-<img src="/img/kawshi_7.jpg" height="400" width="600" /> 
+<img src="/img/kawshi_20.png" height="400" width="600" /> 
 <center> Foibanen </center>
 
 
