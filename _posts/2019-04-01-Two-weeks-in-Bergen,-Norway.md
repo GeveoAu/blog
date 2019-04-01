@@ -21,7 +21,7 @@ After resting for couple of hours, since it was a long flight, the first place I
 
 Since it was the Christmas season, Bergen people had some special events going on in their city. At the center of the city there was a Christmas market which was called as the **Julemarked**. Even though there are fewer people on the streets on winter, Julemarked was always crowded with so many people. At this market they had local food restaurants and foreign food restaurants. 
 
-<img src="/img/kawshi_4.jpg" height="400" width="600" /> 
+<img src="/img/kawshi_4.jpg" height="400" width="420" /> 
 <center> Julemarked </center>  
 <br/>
 
