@@ -1,6 +1,9 @@
-Modern HR Trends
-
-By Hasini Senarathne
+---
+title: Modern HR Trends
+author: Hasini Senarathn
+linkedin: https://lk.linkedin.com/in/hasini-senarathne-8a7061175
+description : HR Trends
+---
 
 The role of HR has been transformed to be more demanding and agile one. So, there are several modern HR trends that can be identified. 
 
@@ -34,9 +37,10 @@ Experimenting with new technologies and new innovative HR solutions can be enhan
 
 Organizations, and specially HR in organizations, sometimes seems to change slowly. So, we have to sense the trends and use them to accelerate the procedures. 
 
-References
+###References###
 
-https://www.15five.com/blog/employee-performance-management-trends-2019/https://learn.g2crowd.com/2019-hr-trends
+https://www.15five.com/blog/employee-performance-management-trends-2019/
+https://learn.g2crowd.com/2019-hr-trends
 
 https://www.forbes.com/sites/adp/2017/04/18/trends-in-corporate-culture-focus-on-the-employee-experience/#51f7e8646cc2
 
