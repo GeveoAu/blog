@@ -37,7 +37,7 @@ Experimenting with new technologies and new innovative HR solutions can be enhan
 
 Organizations, and specially HR in organizations, sometimes seems to change slowly. So, we have to sense the trends and use them to accelerate the procedures. 
 
-###References###
+###References
 
 https://www.15five.com/blog/employee-performance-management-trends-2019/
 https://learn.g2crowd.com/2019-hr-trends
