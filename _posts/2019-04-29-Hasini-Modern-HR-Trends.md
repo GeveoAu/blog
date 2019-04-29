@@ -1,6 +1,6 @@
 ---
 title: Modern HR Trends
-author: Hasini Senarathn
+author: Hasini Senarathne
 linkedin: https://lk.linkedin.com/in/hasini-senarathne-8a7061175
 description : HR Trends
 ---
