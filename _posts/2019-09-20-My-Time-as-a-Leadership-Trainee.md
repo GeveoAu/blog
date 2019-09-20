@@ -1,14 +1,9 @@
-\---
-
-title: My Time as a Leadership Trainee
-
+---
+title: My Time as a Leadership Trainee 
 author: Muhammed Adheeb
-
 linkedin: https://www.linkedin.com/in/adheeb-fazlul-haq-239a3492/
-
 description : Leadership, Experience
-
-\---
+---
 
 If you are familiar with the term 'Future Leaders', you probably can relate to
 the experiences described below. If not, then you might have heard about
