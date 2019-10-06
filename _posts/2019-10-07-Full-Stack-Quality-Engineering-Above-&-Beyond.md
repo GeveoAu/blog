@@ -50,7 +50,7 @@ In a recent article I have seen a quote “Testers aren’t judged by the progre
 
 **Anything that can go wrong will go wrong ???**
 
-If you ask ‘who is the natural enemy of a full stack tester’? the answer would be the Murphy & his infamous law “Anything that can go wrong will go wrong”. Someone who is truly dedicated and responsible for the quality of a software product doesn’t want everything that can go wrong to actually go wrong!!! This is exactly what he/she tries to prevent. Each and every stage of the product life cycle & and each and every layer of the application as well as the system infrastructure, (simply every nook and corners of the project), the full stack tester keeps assuring the quality. You’d say, “Definitely a nosy guy…!!”  :D
+If you ask ‘who is the natural enemy of a full stack tester’? the answer would be the Murphy & his infamous law “Anything that can go wrong will go wrong”. Someone who is truly dedicated and responsible for the quality of a software product doesn’t want everything that can go wrong to actually go wrong!!! This is exactly what he/she tries to prevent. Each and every stage of the product life cycle & and each and every layer of the application as well as the system infrastructure, (simply every nook and corner of the project), the full stack tester keeps assuring the quality. You’d say, “Definitely a nosy guy…!!”  :D
 
 **Priorities of a full stack tester**
 
