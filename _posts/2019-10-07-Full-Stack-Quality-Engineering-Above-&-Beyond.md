@@ -65,7 +65,7 @@ Full stack QA Engineers should have straight priorities.
 Now it's time to explore new ventures of quality engineering by embracing the concept of full stack quality engineering. Please remember this is not about mastering only the breadth but also explore the depth. Go exploring and have fun. 
 And happy testing!! :)
 
-<img src="/img/NadeeshaQE3.jpg" width="600" height="400" />
+<img src="/img/NadeeshaQE3.jpg" width="500" height="300" />
 
 
 
