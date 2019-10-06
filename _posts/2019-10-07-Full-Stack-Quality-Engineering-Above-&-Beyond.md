@@ -19,7 +19,7 @@ Simply full stack quality engineers should have the capability of working on all
 <img src="/img/NadeeshaQE2.png" width="600" height="400" />
 
 
-**Why full stack quality engineering? **
+**Why full stack quality engineering?**
 
 With the adoption of Agile & DevOps culture, a story is not complete without testing. Moreover, the full stack quality engineering focus on proactively looking for defects throughout planning, design & development stages of the software. Ultimately testing becomes a process which focuses on defect prevention rather than defect detection. 
 Apart from the product quality, it provides with efficiency which means there’ll be less wait time between testing cycles. Reason is, a full stack quality engineers take care of every aspect of the quality scattered across different layers of the software. 
