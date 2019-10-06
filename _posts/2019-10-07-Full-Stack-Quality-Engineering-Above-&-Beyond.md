@@ -1,5 +1,14 @@
+---
+title: Full Stack Quality Engineering Above & Beyond
+author: Nadeesha Gnanaratne
+linkedin: https://www.linkedin.com/in/nadeeshapra/
+description : Quality Engineering, Full Stack, Agile
+---
+
+
 In the field of software engineering “full-stack developer” is a known term used for a software engineer who is dealing with various layers of software and performs diverse technical tasks. Designing and developing backend, front-end, build & deployment, DevOps & monitoring are few of them to mention. 
-<img src="/img/NadeeshaQE1.jpg" width="640" height="480" />
+
+<img src="/img/NadeeshaQE1.jpg" width="500" height="400" />
 
 This kind of concept is required for QA Engineers as well…...!
 
@@ -7,7 +16,7 @@ This kind of concept is required for QA Engineers as well…...!
 Once Upon a time we had a segregation like functional testers, performance testers, security testers & test automation specialists etc. Gone are those days, the fast moving industry trends require QA Engineers who expand their abilities and play different roles to deliver a quality product. Ultimately deal with various stacks related to quality engineering and help to release product faster with quality. In full stack quality engineering, the tester should be able to perform functional testing, performance testing, back-end(API)testing etc. 
 Simply full stack quality engineers should have the capability of working on all aspects of quality across all the application layers using different testing methods. They should think about different aspects of software quality such as usability, functionality, performance, security and automation strategies. 
 
-<img src="/img/NadeeshaQE2.jpg" width="640" height="480" />
+<img src="/img/NadeeshaQE2.png" width="600" height="400" />
 
 
 **Why full stack quality engineering? **
@@ -55,7 +64,8 @@ Full stack QA Engineers should have straight priorities.
 
 Now it's time to explore new ventures of quality engineering by embracing the concept of full stack quality engineering. Please remember this is not about mastering only the breadth but also explore the depth. Go exploring and have fun. 
 And happy testing!! :)
-<img src="/img/NadeeshaQE3.jpg" width="640" height="480" />
+
+<img src="/img/NadeeshaQE3.jpg" width="600" height="400" />
 
 
 
