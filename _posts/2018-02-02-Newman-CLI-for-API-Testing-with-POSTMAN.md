@@ -49,7 +49,7 @@ Environment options. From MANAGE ENVIRONMENTS modal click on add button.
 Add an environment name & add key value pairs. These key value pairs
 could be used as {{key}} within the environment.
 
-<img src="/img/Nadeesha1.jpg" width="624" height="580" />
+<img src="/img/Nadeesha1.png" width="624" height="580" />
 
 -   Enter {{urlAuthentication}}/SignIn POST request in the URL field or
     you can use the entire
@@ -64,7 +64,7 @@ could be used as {{key}} within the environment.
     SignInOperationResultValue(authentication token) has been received
     which have to be send in the header of other requests.
 
-<img src="/img/Nadeesha3.jpg" width="624" height="191" />
+<img src="/img/Nadeesha3.png" width="624" height="191" />
 
 STEP 2 – Script to add dynamic behavior to requests
 
