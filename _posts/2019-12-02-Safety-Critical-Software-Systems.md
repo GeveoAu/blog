@@ -1,12 +1,12 @@
 \---
 
-title: Full Stack Quality Engineering Above & Beyond
+title: Safety Critical Software Systems
 
-author: Nadeesha Gnanaratne
+author: Dinithi Weerabahu
 
-linkedin: https://www.linkedin.com/in/nadeeshapra/
+linkedin: https://www.linkedin.com/in/dinithi-weerabahu/
 
-description : Quality Engineering, Full Stack, Agile
+description : Quality Assurance, Safety Critical Systems
 
 \---
 
