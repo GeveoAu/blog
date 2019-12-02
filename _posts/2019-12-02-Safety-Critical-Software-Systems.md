@@ -26,7 +26,7 @@ during a system’s operation is to eliminate or minimize dangers during the
 design and development not afterwards. This diagram illustrates the
 characteristics of a critical system.
 
-\<img src="/img/Dinithi_1.PNG" width="500" height="400" /\>
+<img src="/img/Dinithi_1.PNG" width="500" height="400" />
 
 Safety Critical Systems are strongly related to engineering and increasingly
 computer based systems. Developing such systems require significant advances in
@@ -44,7 +44,7 @@ such systems. More than 50% of the total system goes to development cost. In
 that case, formal methods help to minimize the amount of testing required for
 safety critical systems.
 
-\*\*Real world examples of Safety Critical Software Systems\*\*
+**Real world examples of Safety Critical Software Systems**
 
 Medicine
 
@@ -108,7 +108,7 @@ Infrastructure
 
  Emergency dispatch services
 
-\*\*Testing concerns related to Safety Critical Software Systems\*\*
+**Testing concerns related to Safety Critical Software Systems**
 
 Due to the growing complexity of control systems, testing process will become
 unmanageable in the future if only conventional techniques are used.
@@ -144,13 +144,13 @@ how the product should look like. Verification subsumes all formal and informal
 techniques such as reviews, audits, walk through which are applicable to ensure
 the system correctness.
 
-\*\*Glitches in Safety Critical Software\*\*
+**Glitches in Safety Critical Software**
 
 A safety critical software system’s sole purpose is to ensure safety. Having
 said that, let’s look into history to find out scenarios where it failed to
 serve the purpose.
 
-\*Lion Air 737 MAX 8 crashed into the Java Sea off Indonesia,\*
+*Lion Air 737 MAX 8 crashed into the Java Sea off Indonesia,*
 
 This happened due to a “glitch” in the plane’s flight-control software. 189
 passengers and crew were reported killed by the accident. Following the crash,
@@ -160,9 +160,9 @@ sensor readings could cause the flight crew to have difficulty controlling the
 airplane. And then it happened again. Ethiopian Airlines 737 MAX 8 went down
 under similar circumstances, killing all 157 people aboard.
 
-\<img src="/img/Dinithi_2.jpg" width="500" height="400" /\>
+<img src="/img/Dinithi_2.jpg" width="500" height="400" />
 
-\*Chernobyl Disaster\*
+*Chernobyl Disaster*
 
 In 1986 at the Chernobyl nuclear power station in the Soviet Union, the worst
 disaster in the history of nuclear power generation. It happened as technicians
@@ -172,9 +172,9 @@ for any civilian operation, and large quantities of radioactive substances were
 released into the air for about 10 days. This caused serious social and economic
 disruption for large populations in Belarus, Russia, and Ukraine.
 
-\<img src="/img/Dinithi_3.jpg" width="500" height="400" /\>
+<img src="/img/Dinithi_3.jpg" width="500" height="400" />
 
-\*The Explosion of the Ariane 5\*
+*The Explosion of the Ariane 5*
 
 On June 4, 1996 Ariane 5 was launched by the European Space Agency, exploded
 just forty seconds after its lift-off. It turned out that the cause of the
@@ -184,9 +184,9 @@ respect to the platform was converted to a 16 bit signed integer. The number was
 larger than 32,767, the largest integer storable in a 16 bit signed integer, and
 thus the conversion failed.
 
-\<img src="/img/Dinithi_4.jpeg" width="500" height="400" /\>
+<img src="/img/Dinithi_4.jpeg" width="500" height="400" />
 
-\*\*How to avoid catastrophic failures?\*\*
+**How to avoid catastrophic failures?**
 
 Now that, you have seen, Software quality is a matter of life and death, let’s
 find out how to build better safety critical software. People look for software
@@ -205,7 +205,7 @@ Today, there are thousands of work related to designing more effective and
 efficient safety-critical systems. Not only are our lives depending on doctors
 and pilots, but also on engineers and programmers as well.
 
-\*\*References\*\*
+**References**
 
 https://www.researchgate.net/publication/260055261_How_to_design_and_test_safety_critical_software_systems
 
