@@ -1,4 +1,4 @@
-\---
+---
 
 title: Safety Critical Software Systems
 
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/dinithi-weerabahu/
 
 description : Quality Assurance, Safety Critical Systems
 
-\---
+---
 
 Safety Critical Systems are computer systems whose failure can lead to a loss of
 life, serious economic consequences or environmental damage. There are many
