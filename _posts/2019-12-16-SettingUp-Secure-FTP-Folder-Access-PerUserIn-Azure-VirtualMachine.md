@@ -95,6 +95,8 @@ Happy FTP!!!
 
 **References**
 
+https://sandunangelo.blogspot.com/2019/07/ftp-connection-modes-active-vs-passive.html
+
 http://www.intstrings.com/ramivemula/articles/enable-ftp-access-on-windows-azure-vm/
 
 https://itq.nl/walkthrough-hosting-ftp-on-iis-7-5-a-windows-azure-vm-2/
@@ -107,4 +109,4 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/9769/69/ssl-for-ftp
 
 https://support.winhost.com/kb/a666/how-to-set-up-filezilla-to-use-ftp-over-ssl.aspx
 
-https://sandunangelo.blogspot.com/2019/07/ftp-connection-modes-active-vs-passive.html
+
