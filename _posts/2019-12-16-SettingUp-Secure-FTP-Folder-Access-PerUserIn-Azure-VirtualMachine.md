@@ -38,18 +38,26 @@ One user should be able to access only a specific folder for them. That will be 
 Go to the root folder/drive properties > **Security** tab.
 Leave only the below listed user groups/users only and remove others.
 
-•         CREATOR OWNER
-•         SYSTEM
-•         Administrators (\Administrators)
-•         **FTP Users (\FTP Users)**
+ CREATOR OWNER
+
+ SYSTEM
+
+ Administrators (\Administrators)
+
+**FTP Users (\FTP Users)**
 
 While others having their default permissions, allow **permissions to FTP Users group as below, and nothing should deny.**
 
 •         Full control – **False**
+
 •         Modify – **False**
+
 •         Read & Execute – **True**
+
 •         List folder contents – **True**
+
 •         Read – **True**
+
 •         Write – **False**
 
 With above permissions, clients in the FTP Users group will see the content inside the root location but they cannot do any modifications.
@@ -58,17 +66,25 @@ Now create individual folders per user account. Select each folder and go to its
 Leave only the below listed user groups/users only and remove others.
 
 •         CREATOR OWNER
+
 •         SYSTEM
+
 •         Administrators (\Administrators)
+
 •         **Client 1 (\Client 1)**
 
 While others having their default permissions, allow **permissions to Client 1 user** as below, and **nothing should deny.**
 
 •         Full control – **False**
+
 •         Modify – **True**
+
 •         Read & Execute – **True**
+
 •         List folder contents – **True**
+
 •         Read – **True**
+
 •         Write – **True**
 
 Now the configurations are completed for an on premise server. Since we are talking about an Azure VM in cloud, it has a **Network Security Group** resource associated to the VM. In there also you have to allow the incoming request filtering, allowing/denying ports, etc. just like another firewall.
