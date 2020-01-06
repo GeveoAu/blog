@@ -100,4 +100,4 @@ a lot of walking to do. Stay hydrated as it gets hot even at night.
 
 <img src="/img/Chandula_5.jpg" width="500" height="400" />
 
-So there you have it. My favorites from the trip .
+So there you have it. My favorites from the trip .😊
