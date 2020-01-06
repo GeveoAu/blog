@@ -1,6 +1,6 @@
 ---
 
-title: Exploring US west coast - Highlights
+title: Exploring US West Coast 
 
 author: Chandula Bulathsinhala
 
