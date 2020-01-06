@@ -1,4 +1,4 @@
-\---
+---
 
 title: Exploring US west coast - Highlights
 
@@ -8,14 +8,14 @@ linkedin: https://www.linkedin.com/in/chandulab/
 
 description : Travel, Explore, US
 
-\---
+---
 
 Not so long ago I got the opportunity to travel to USA with a friend of mine.
 Given how complex the process is for some people I thought it would be helpful
 to jot down few tips and tricks along the way. So buckle up. Flight to LA will
 take off shortly!!
 
-\*\*Visa and air tickets\*\*
+**Visa and air tickets**
 
 The process of obtaining US visa for Sri Lankans is no walk in the park. We were
 lucky enough to have sponsors from USA, yet the number of documents needed was
@@ -31,13 +31,13 @@ we contacted many agents and airlines and finally settled for findmyfare.com.
 Before you make a booking double check with an agent if any transit visa is
 required as it would be quite a hassle to make changes afterwards.
 
-\*\*Getting around in USA\*\*
+**Getting around in USA**
 
 For long distances (SFO to LA, LA to Vegas, Vegas to SFO) we took domestic
 flights. Other than that we mainly took trains, bus or metro and occasional
 uber.
 
-\*\*Disney world California\*\*
+**Disney world California**
 
 This will take you an entire day at least. There are two parks, Disneyland Park
 and Disney California Adventure Park. Chose according to your preference. Since
@@ -56,9 +56,9 @@ queue for rides queue up in the singles line if your group is less than 4. It’
 not every day that you get to visit a place like this so try and get the maximum
 out of it.
 
-\<img src="/img/Chandula_1.png" width="500" height="400" /\>
+<img src="/img/Chandula_1.png" width="500" height="400" />
 
-\*\*Universal Studios Hollywood\*\*
+**Universal Studios Hollywood**
 
 Again, this will take you an entire day. Arrive early before the security queues
 get too long. The studio tour is a must if you visit this place. I would suggest
@@ -72,20 +72,20 @@ adventure) So you might want to save those for last. My favorites were the
 studio tour, Harry Potter rides and Animal show. A little heads up, I found that
 Harry Potter Wand show tour was a waste of time 😐
 
-\<img src="/img/Chandula_2.png" width="500" height="400" /\>
+<img src="/img/Chandula_2.png" width="500" height="400" />
 
-\<img src="/img/Chandula_3.png" width="500" height="400" /\>
+<img src="/img/Chandula_3.png" width="300" height="400" />
 
-\*\*Warner Bros. Studio Tour Hollywood\*\*
+**Warner Bros. Studio Tour Hollywood**
 
 There seems to be quite a lot of Hollywood studio tours. Make sure you book your
 slot for the real deal. If you are a massive fan of the sitcom “F.R.I.E.N.D.S”
 this is something you should not miss. Make sure you book your tour via the
 official website.
 
-img src="/img/Chandula_4.jpg" width="500" height="400" /\>
+<img src="/img/Chandula_4.jpg" width="500" height="200" />
 
-\*\*Las Vegas\*\*
+**Las Vegas**
 
 Truly is the city that never sleeps. If I had a chance to visit any place again
 this would probably be it. We were a bit taken back at first as it was just two
@@ -98,6 +98,6 @@ are shows done by various artists do check them out and try and go if your
 favorite is in town. Make sure to wear your comfortable pair of shoes as there’s
 a lot of walking to do. Stay hydrated as it gets hot even at night.
 
-img src="/img/Chandula_5.jpg" width="500" height="400" /\>
+<img src="/img/Chandula_5.jpg" width="500" height="400" />
 
 So there you have it. My favorites from the trip .
