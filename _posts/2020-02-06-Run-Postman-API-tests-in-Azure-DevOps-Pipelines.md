@@ -224,4 +224,4 @@ test results file generated.
 Now it’s all set to go. Once you create the release you will be able to see the
 test results as below.
 
-<img src="/img/Thilanka_18.png" width="700" height="300" />
+<img src="/img/Thilanaka_18.png" width="700" height="300" />
