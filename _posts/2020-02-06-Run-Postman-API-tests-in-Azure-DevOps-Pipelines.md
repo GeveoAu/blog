@@ -38,25 +38,25 @@ artifacts. Exported postman scripts and environment variables should be added to
 the source controller and in the build pipeline it should be copy and published
 as aftifacts.
 
-1. Export postman scripts
+1.Export postman scripts
 
 Your postman collection which you wanted to run in the Azure DevOps pipeline
 should be exported.
 
 <img src="/img/Thilanka_1.png" width="400" height="500" />
 
-2. Export environment variables
+2.Export environment variables
 
 Environment variable which supports postman scripts should export as well.
 
 <img src="/img/Thilanka_2.png" width="500" height="200" />
 
-3. Add it to source control
+3.Add it to source control
 
 Exported postman and environment variable scripts should be added to the source
 control in order to access them in the pipeline.
 
-4. Create build pipeline
+4.Create build pipeline
 
 If there is no exiting pipeline to create artifacts then create a new build
 pipeline to create the artifacts using following steps.
