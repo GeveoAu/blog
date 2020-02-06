@@ -43,13 +43,13 @@ as aftifacts.
 Your postman collection which you wanted to run in the Azure DevOps pipeline
 should be exported.
 
-<img src="/img/Thilanka_1.png" width="500" height="400" />
+<img src="/img/Thilanka_1.png" width="400" height="500" />
 
 2. Export environment variables
 
 Environment variable which supports postman scripts should export as well.
 
-<img src="/img/Thilanka_2.png" width="500" height="400" />
+<img src="/img/Thilanka_2.png" width="500" height="200" />
 
 3. Add it to source control
 
@@ -63,11 +63,11 @@ pipeline to create the artifacts using following steps.
 
 i. Select pipeline option of under pipelines menu
 
-<img src="/img/Thilanka_3.png" width="500" height="400" />
+<img src="/img/Thilanka_3.png" width="400" height="600" />
 
 ii. Click on New Pipeline button
 
-<img src="/img/Thilanka_4.png" width="500" height="400" />
+<img src="/img/Thilanka_4.png" width="800" height="300" />
 
 iii. Select **‘Use the Classic editor ‘** link
 
@@ -78,20 +78,20 @@ iv. Select the source
 If the source is Azure Repos Git then project, repository and default branch
 should be selected
 
-<img src="/img/Thilanka_6.png" width="500" height="400" />
+<img src="/img/Thilanka_6.png" width="500" height="200" />
 
 v. Click on **Empty job**
 
 Empty job option needs to be selected to create the pipeline.
 
-<img src="/img/Thilanka_7.png" width="500" height="400" />
+<img src="/img/Thilanka_7.png" width="500" height="300" />
 
 5.Copy postman scripts and environment variables
 
 This task will copy relevant files to specific folder which you can be access in
 the release pipeline.
 
-<img src="/img/Thilanka_8.png" width="500" height="400" />
+<img src="/img/Thilanka_8.png" width="400" height="200" />
 
 i. Contents: File paths to copy
 
@@ -102,7 +102,7 @@ ii. Target Folder: Target folder which files needs to be copied
 Copied files will be published as artifacts folder called “drop” in order to
 access from the release pipeline.
 
-<img src="/img/Thilanka_9.png" width="500" height="400" />
+<img src="/img/Thilanka_9.png" width="600" height="300" />
 
 i. Path to Publish: Path which will publish the artifacts
 
@@ -118,7 +118,7 @@ If postman scripts are maintained in a different repository it can be downloaded
 directly to the release pipeline. In this scenario edit the release pipeline and
 select that artifacts from relevant repository.
 
-<img src="/img/Thilanka_10.png" width="500" height="400" />
+<img src="/img/Thilanka_10.png" width="600" height="300" />
 
 **02. Run scripts in release pipeline**
 
@@ -139,7 +139,7 @@ ii. Click **New** button
 
 iii. Select **New release pipeline** option
 
-<img src="/img/Thilanka_11.png" width="500" height="400" />
+<img src="/img/Thilanka_11.png" width="400" height="300" />
 
 iv. Select template as **Empty job**
 
@@ -155,11 +155,11 @@ i. Click Add button of Artifacts
 ii. If from build pipeline: Select relevant project and build pipeline and give
 a source alias
 
-<img src="/img/Thilanka_12.png" width="500" height="400" />
+<img src="/img/Thilanka_12.png" width="600" height="300" />
 
 3.Create a stage by clicking Add button
 
-<img src="/img/Thilanka_13.png" width="500" height="400" />
+<img src="/img/Thilanka_13.png" width="700" height="300" />
 
 4.Create task to Install newman
 
@@ -171,7 +171,7 @@ agent machine before running postman scripts.
 
 i. Add command line task
 
-<img src="/img/Thilanka_14.png" width="500" height="400" />
+<img src="/img/Thilanka_14.png" width="700" height="300" />
 
 ii. Configure it to install newman
 
@@ -181,7 +181,7 @@ npm install -g newman
 
 ```
 
-<img src="/img/Thilanka_15.png" width="500" height="400" />
+<img src="/img/Thilanka_15.png" width="700" height="300" />
 
 5.Create task to run postman scripts
 
@@ -210,7 +210,7 @@ TestProject_QA_Enviornment.postman_environment.json --env-var
 Working directly should be clearly mentioned according to the place which has
 postman scripts
 
-<img src="/img/Thilanka_16.png" width="500" height="400" />
+<img src="/img/Thilanka_16.png" width="700" height="300" />
 
 **03. Generate report**
 
@@ -219,9 +219,9 @@ test results file generated.
 
 1. Add publish test results task
 
-<img src="/img/Thilanka_17.png" width="500" height="400" />
+<img src="/img/Thilanka_17.png" width="700" height="300" />
 
 Now it’s all set to go. Once you create the release you will be able to see the
 test results as below.
 
-<img src="/img/Thilanka_18.png" width="500" height="400" />
+<img src="/img/Thilanka_18.png" width="700" height="300" />
