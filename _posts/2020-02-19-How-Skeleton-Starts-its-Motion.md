@@ -1,4 +1,4 @@
-\---
+---
 
 title: How a Skeleton Starts its Motion
 
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/sithara-kalpani-5977b5116/
 
 description : MovieMagic, Movies, VisualSimulation
 
-\---
+---
 
 Starting from the first ever animated movie, we have grown up with quite a lot
 of such fascinating imaginations that look alive by now. Not only that, the
@@ -19,7 +19,7 @@ creatures acting. So as the video game industry. The game characters you play
 with behave just as real human beings. Secret behind this is the development of
 simulation strategies and technology.
 
-\<img src="/img/Sithara_1.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_1.jpg" width="800" height="300" />
 
 How the topic of this post relates to the movies and games is ‘Motion Capture’.
 Motion capture in its real essence is capturing a real motion or behavior and
@@ -35,7 +35,7 @@ industry jump into a black suit with dots everywhere with mostly a camera fixed
 in front of the dotted face. And their motions are recorded, and fed real time
 into a skeleton. (This is not the only methodology for motion capture.)
 
-\<img src="/img/Sithara_2.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_2.jpg" width="600" height="400" />
 
 So, this is a skeleton. Using tools like MotionBuilder, Maya, 3ds Max, FBX,
 Unity and Unreal you can easily construct a skeletal as shown. It can be
@@ -53,7 +53,7 @@ skeleton begins to move with the help of some sophisticated algorithms developed
 by the engineers. As per the below image, if the human bends his knee, the robot
 too will do the same. Simple as that.
 
-\<img src="/img/Sithara_3.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_3.jpg" width="500" height="400" />
 
 I did mention at a point about the dots in the face. Why do they capture the
 motion in a face? It is just because the face muscles motion tremendously when
@@ -62,9 +62,9 @@ animator if those motions too can be captivated rather than developing by
 himself. Obviously, there may be some modifications done, by the emotions of the
 final outcome would be very realistic in this case.
 
-\<img src="/img/Sithara_4.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_4.jpg" width="700" height="400" />
 
-\<img src="/img/Sithara_5.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_5.jpg" width="700" height="400" />
 
 This article is just a glimpse of how the marker-based motion capture is done
 with magnetic system. There are some other methodologies namely acoustical,
@@ -76,7 +76,7 @@ to my knowledge it is only being used in the movie industry. That is a very good
 trend though. You will witness the Sri Lankan’s performances in motion capture
 with the upcoming animation movie ‘Gajaman’ in the near future.
 
-\<img src="/img/Sithara_6.jpg" width="500" height="400" /\>
+<img src="/img/Sithara_6.jpg" width="700" height="400" />
 
 There’s a very outstanding and amazing performance done by Benedict Cumberbatch
 in the movie ‘The Hobbit’ as the Smaug. If you are really interested in this
@@ -84,7 +84,7 @@ topic you can watch it from the below link;
 
 [[Watch the video]](https://www.youtube.com/watch?v=sXN9IHrnVVU)
 
-\*\*References\*\*
+**References**
 
 https://www.ign.com/articles/2014/07/11/a-brief-history-of-motion-capture-in-the-movies
 
