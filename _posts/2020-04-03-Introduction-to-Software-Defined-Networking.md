@@ -1,4 +1,4 @@
-\---
+---
 
 title: Introduction to Software Defined Networking (SDN)
 
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/kasunprabath/
 
 description : Networking, SDN
 
-\---
+---
 
 Software-Defined Networking (SDN) terminology is in the networking industry for
 nearly just over a decade now and it is getting more popular every year. We can
@@ -27,19 +27,19 @@ Openflow is the software-defined network. Here I hope to explain the difference
 between both entities also. For a start let's start with explaining traditional
 networking architecture.
 
-\*\*Traditional Networking\*\*
+**Traditional Networking**
 
 Networking has always been very traditional. We have specific network devices
 like routers, switches, and firewalls that are used for specific tasks.
 
-\<img src="/img/Kasun1.jpg" width="800" height="300" /\>
+<img src="/img/Kasun1.jpg" width="600" height="300" />
 
 These network devices are sold by networking vendors like Cisco and often use
 proprietary hardware. Most of these devices are primarily configured through the
 CLI (Command Line Interface), although there are some GUI products like CCP
 (Cisco Configuration Protocol) for the routers.
 
-\<img src="/img/Kasun2.jpg" width="800" height="300" /\>
+<img src="/img/Kasun2.jpg" width="600" height="500" />
 
 When we consider a network device, for example, a router has different functions
 that it has to perform. Think for a moment about some of the things that a
@@ -68,7 +68,7 @@ planes:
 
 ● Management plane
 
-\*\*Control Plane\*\*
+**Control Plane**
 
 The function of the control plane is exchanging routing information,
 constructing the ARP table, Learning MAC addresses to build a switch MAC address
@@ -76,7 +76,7 @@ table, Running routing protocols and building the routing table. Etc.. Basically
 control plane defined the software installed in the router(The brain of the
 network device) which tightly coupled with the hardware.
 
-\*\*Data Plane\*\*
+**Data Plane**
 
 The function of the data plane is forwarding traffic listed below and It relies
 on the information that the control plane supplies,
@@ -96,13 +96,13 @@ on the information that the control plane supplies,
 The tasks of the data plane have to be performed as fast as possible so that it
 is implemented in the hardware level using specialized hardware.
 
-\*\*Management Plane\*\*
+**Management Plane**
 
 The management plane is known for the access and management of our network
 devices. For example, accessing our device through telnet, SSH or the console
 port.
 
-\# Software-Defined Networking (SDN)
+# Software-Defined Networking (SDN)
 
 Every organization or vendor has a different opinion about what SDN exactly is
 and the different products that they offer.
@@ -124,7 +124,7 @@ paired with network function virtualization (NFV), which separates network
 functions like firewalling, Natting, Dynamic routing from hardware in the form
 of virtualized network functions (VNFs).
 
-\<img src="/img/Kasun3.jpg" width="800" height="300" /\>
+<img src="/img/Kasun3.jpg" width="600" height="300" />
 
 In the above image, you can see an SDN controller that is responsible for the
 control plane. The switches are now just “dumb” devices that only have a data
@@ -141,7 +141,7 @@ time which gives more advantages in a data center level implementation.
 
 The SDN controller uses two special interfaces as shown below,
 
-\<img src="/img/Kasun4.jpg" width="800" height="300" /\>
+<img src="/img/Kasun4.jpg" width="300" height="500" />
 
 The interfaces are called the northbound interface (NBI) and the southbound
 interface (SBI). Also, we can address them as APIs.
