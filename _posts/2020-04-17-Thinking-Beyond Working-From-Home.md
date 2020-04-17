@@ -10,6 +10,7 @@ description : Productivity, HRM
 
 ---
 
+
 The Coronavirus pandemic has forced all of us (individually and collectively) to
 re-think every aspect of our lives. One such aspect is our approach to work.
 Currently, businesses are forced to change traditional modes of operations for
