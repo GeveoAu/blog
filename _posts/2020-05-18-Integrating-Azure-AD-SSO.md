@@ -27,7 +27,7 @@ So we can integrate Azure SSO service with our application and provide ability
 to access Microsoft users to access our application. Which we will be disusing
 within this blog post.
 
-<img src="/img/Chalith1.png" width="600" height="300" />
+<img src="/img/Chalith1.png" width="400" height="200" />
 
 # What is Azure AD ?
 
@@ -38,7 +38,7 @@ within the organization. Users can be assigned to the user groups and those
 groups can be used as permission groups to give group level access. Active
 Directory users and groups can be viewed in the Azure Portals Active Directory.
 
-<img src="/img/Chalith2.png" width="600" height="300" />
+<img src="/img/Chalith2.png" width="200" height="100" />
 
 # What is Graph API ?
 
@@ -60,7 +60,7 @@ registration in the following steps.
 **App registrations** and click **New registration** to register the
 application
 
-<img src="/img/Chalith3.png" width="600" height="300" />
+<img src="/img/Chalith3.png" width="600" height="50" />
 
 * Provide a name (Ex: DemoApp)
 
