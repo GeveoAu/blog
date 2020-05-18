@@ -83,7 +83,7 @@ http://localhost/testwebapp)
 
 * Register the app
 
-<img src="/img/Chalith4.png" width="600" height="300" />
+<img src="/img/Chalith4.png" width="700" height="600" />
 
 * Go to the created **App registration** (in our example DemoApp), then go
 to **Authentication**
@@ -95,7 +95,7 @@ otherwise you won’t need this in localhost)**
 
 * In **Implicit grant** section enable **Access tokens** and **Id tokens** and save the changed settings
 
-<img src="/img/Chalith5.png" width="600" height="300" />
+<img src="/img/Chalith5.png" width="700" height="600" />
 
 * Now you need to give Graph API permissions to the application
 
@@ -125,7 +125,7 @@ groups
 
 * Then click on **Update permissions**
 
-<img src="/img/Chalith6.png" width="600" height="300" />
+<img src="/img/Chalith6.png" width="900" height="500" />
 
 * Click on **Grant admin consent for Directory** in order to consent
 permissions you have provided
@@ -134,7 +134,7 @@ permissions you have provided
 create **New client secret** and copy the secret value once it's been
 created, otherwise later it'll be hidden you wont able to see it.
 
-<img src="/img/Chalith7.png" width="600" height="300" />
+<img src="/img/Chalith7.png" width="700" height="300" />
 
 * From side panel go to **Overview** and copy the **Application (client) ID** and **Directory (tenant) ID** values
 
