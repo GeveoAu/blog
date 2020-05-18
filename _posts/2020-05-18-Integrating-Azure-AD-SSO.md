@@ -164,7 +164,68 @@ create one.
 
 - AADInstane = ‘https://login.microsoftonline.com/’
 
-<img src="/img/Chalith9.png" width="900" height="700" />
+```csharp
+using Microsoft.Owin.Security.Cookies;
+using Microsoft.Owin.Security.OpenIdConnect;
+using Owin;
+using System.Configuration;
+using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
+
+[assembly: OwinStartup(typeof(TestWebApp.Startup))]
+namespace TestWebApp
+{
+	public partial class Startup
+	{
+		private static readonly string clientId = ConfigurationManager.AppSettings["ClientId"];
+		private static readonly string tenantId = ConfigurationManager.AppSettings["TenantId"];
+		private static readonly string loginRedirectUri = ConfigurationManager.AppSettings["RedirectUri"];
+		private static readonly string aadInstance = ConfigurationManager.AppSettings["AADInstance"];
+		private static readonly string authority = $"{aadInstance.TrimEnd('/')}/{tenantId}";
+
+		app.SetDefaultSignInAsAuthenticationType(CookieAuthenticationDefaults.AuthenticationType);
+
+		app.UseCookieAuthentication(new CookieAuthenticationOptions()
+		{
+		    SlidingExpiration = true,
+		    ExpireTimeSpan = new System.TimeSpan(7, 0, 0, 0)
+		});
+
+		app.UseOpenIdConnectAuthentication(new OpenIdConnectAuthenticationOptions
+		{
+		    ClientId = clientId,
+		    Authority = authority,
+		    RedirectUri = loginRedirectUri,
+		    PostLogoutRedirectUri = loginRedirectUri,
+
+		    Notifications = new OpenIdConnectAuthenticationNotifications()
+		    {
+		        AuthenticationFailed = (context) =>
+		        {
+		            return Task.FromResult(0);
+		        },
+		        SecurityTokenValidated = (context) =>
+		        {
+		            var claims = context.AuthenticationTicket.Identity.Claims;
+		            var groups = from c in claims
+		                            where c.Type == "groups"
+		                            select c;
+
+		            foreach (var group in groups)
+		            {
+		                context.AuthenticationTicket.Identity.AddClaim(new Claim(ClaimTypes.Role, group.Value));
+		            }
+		            return Task.FromResult(0);
+		        }
+		    }
+		});
+
+		// This makes any middleware defined above this line run before the Authorization rule is applied in web.config
+		app.UseStageMarker(PipelineStage.Authenticate);
+	}
+}
+```
 
 You can handle claims Inside the SecurityTokenValdated callback.
 
@@ -187,14 +248,32 @@ the Microsoft login and if we login again we’ll be redirected to our site agai
 authenticated and get your identity details. If you are not authenticated we can
 reauthentcate with **GetOwinContext().Authentication.Challenge()**
 
-<img src="/img/Chalith11.png" width="600" height="300" />
+```csharp
+public string GetUserName()
+{
+    if (HttpContext.Current.User.Identity.IsAuthenticated)
+    {
+        return HttpContext.Current.User.Identity.Name;
+    }
+    else
+    {
+        HttpContext.GetOwinContext().Authentication.Challenge();
+        return null;
+    }
+}
+```
 
 **How to implement LogOut**
 
 * If you want to implement logout, you can just do that with
 **GetOwinContext().Authentication.SignOut()**
 
-<img src="/img/Chalith12.png" width="600" height="300" />
+```csharp
+public string SignOut()
+{
+    HttpContext.GetOwinContext().Authentication.SignOut();
+}
+```
 
 # *Congratulations!! You have integrated SSO authentication for your application.*
 
@@ -219,7 +298,28 @@ application.**
 
 * **Now we are going to initiate a GraphApi client to access the Active Directory**
 
-<img src="/img/Chalith13.png" width="600" height="300" />
+```csharp
+string tenantId = ConfigurationManager.AppSettings["TenantId"];
+string clientId = ConfigurationManager.AppSettings["ClientId"];
+string clientSecret = ConfigurationManager.AppSettings["ClientSecret"];
+string graphUrl = ConfigurationManager.AppSettings["GraphUrl"];
+
+var clientApplication = ConfidentialClientApplicationBuilder.Create(clientId)
+    .WithClientSecret(clientSecret)
+    .WithClientId(clientId)
+    .WithTenantId(tenantId)
+    .Build();
+
+var authResult = clientApplication.AcquireTokenForClient(new string[] { $"{graphUrl.TrimEnd('/')}/.default" })
+    .ExecuteAsync().GetAwaiter().GetResult();
+            
+var graphClient = new GraphServiceClient(new DelegateAuthenticationProvider((request) =>
+    {
+        request.Headers.Add("Authorization", authResult.CreateAuthorizationHeader());
+        return Task.FromResult(0);
+    }));
+
+```
 
 * **Simple as that you just initiated a graph client. Now the hard part is done & let’s play with the Active Directory**
 
@@ -227,7 +327,13 @@ application.**
 
 * **Let’s see how to get all the users in the active directory.**
 
-<img src="/img/Chalith14.png" width="600" height="300" />
+```csharp
+    var users = graphClient.Users.Request().GetAsync()
+    .CurrentPage.Select(u => 
+    {
+        return u as User;        
+    }).ToList();
+```
 
 * **Here you might be wondering why we are using CurrentPage. It’s because the response comes as pages. So you need to get User objects from the page.You’ll see this in next example too.**
 
@@ -235,7 +341,30 @@ application.**
 
 * **Last but not least lets see how to get all the groups and there users**
 
-<img src="/img/Chalith15.png" width="600" height="300" />
+```csharp
+    var groupName = 'UserGroup'; //Whichever a group you have defined in AD
+
+var groups = await graphClient.Groups[group.Id].Members.Request().GetAsync();
+
+var group = groups.FirstOrDefault(g => g.DisplayName == groupName);
+
+var users = new List<User>();
+
+if (group != null)
+{
+    var result = await graphClient.Groups[group.Id].Members.Request().GetAsync();
+
+    do
+    {
+        users.AddRange(result.Select(u =>
+            {
+                return u as User;
+            }).ToList());
+    }
+    while (result.NextPageRequest != null && (result = await result.NextPageRequest.GetAsync()).Count > 0);
+}
+
+```
 
 *Wolaa All done!! Now you have successfully integrated SSO and accessed Active
 Directory via Graph API*
