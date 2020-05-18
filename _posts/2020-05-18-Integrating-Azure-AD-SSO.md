@@ -134,11 +134,11 @@ permissions you have provided
 create **New client secret** and copy the secret value once it's been
 created, otherwise later it'll be hidden you wont able to see it.
 
-<img src="/img/Chalith7.png" width="700" height="300" />
+<img src="/img/Chalith7.png" width="900" height="500" />
 
 * From side panel go to **Overview** and copy the **Application (client) ID** and **Directory (tenant) ID** values
 
-<img src="/img/Chalith8.png" width="600" height="300" />
+<img src="/img/Chalith8.png" width="900" height="150" />
 
 * For the later implementations you need above copied values.
 
@@ -164,7 +164,7 @@ create one.
 
 - AADInstane = ‘https://login.microsoftonline.com/’
 
-<img src="/img/Chalith9.png" width="600" height="300" />
+<img src="/img/Chalith9.png" width="900" height="700" />
 
 You can handle claims Inside the SecurityTokenValdated callback.
 
@@ -175,7 +175,7 @@ Microsoft credentials you’ll be redirected to the **RedirectUri** that you
 have provided (In this case your application url) with a authentication cookie
 and your context will be authenticated by the middleware simple as that.
 
-<img src="/img/Chalith10.png" width="600" height="300" />
+<img src="/img/Chalith10.png" width="450" height="400" />
 
 * **PostLogoutRedirectUri** is where you define which URL you should be
 redirected when you are logged out and login again otherwise login does not have
