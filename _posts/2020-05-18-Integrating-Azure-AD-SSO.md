@@ -46,7 +46,7 @@ Graph API is the API which can be used to access the Azure Active Directory from
 outside of Azure Portal. We need to integrate Graph API to list users or groups
 within the Active Directory.
 
-## _Okay! Let’s move on to the step by step guidance._
+### _Okay! Let’s move on to the step by step guidance._
 
 **Now we’ll see how to use Azure AD SSO within our application**
 
@@ -142,7 +142,7 @@ created, otherwise later it'll be hidden you wont able to see it.
 
 * For the later implementations you need above copied values.
 
- ## _Now app registration is done. Let’s move on to the cool part. Let’s code_
+ ### _Now app registration is done. Let’s move on to the cool part. Let’s code_
 
 **We’ll discuss how to setup SSO with your .NET core applications**
 
@@ -275,7 +275,7 @@ public string SignOut()
 }
 ```
 
-## *Congratulations!! You have integrated SSO authentication for your application.*
+### *Congratulations!! You have integrated SSO authentication for your application.*
 
 **Lets see how to use GraphAPI to fetch AD users and groups in your
 application.**
