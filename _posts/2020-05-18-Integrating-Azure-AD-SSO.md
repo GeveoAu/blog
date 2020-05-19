@@ -16,7 +16,7 @@ access AD user from the application. Here I’ll be guiding you step by step wit
 the code samples. But before that let’s get brief idea about terms we are going
 to use.
 
-# What is SSO ?
+## What is SSO ?
 
 Have you ever login to a website with your Gmail or Facebook account. If yes
 with or without intention you have used a SSO(Single Sign On) service. Which
@@ -29,7 +29,7 @@ within this blog post.
 
 <img src="/img/Chalith1.png" width="400" height="200" />
 
-# What is Azure AD ?
+## What is Azure AD ?
 
 AD(Active Directory) is the Microsoft's cloud based identity service.
 Organizations can setup their own Active Directory and register users with their
@@ -40,13 +40,13 @@ Directory users and groups can be viewed in the Azure Portals Active Directory.
 
 <img src="/img/Chalith2.png" width="200" height="100" />
 
-# What is Graph API ?
+## What is Graph API ?
 
 Graph API is the API which can be used to access the Azure Active Directory from
 outside of Azure Portal. We need to integrate Graph API to list users or groups
 within the Active Directory.
 
- **_Okay! Let’s move on to the step by step guidance._**
+## _Okay! Let’s move on to the step by step guidance._
 
 **Now we’ll see how to use Azure AD SSO within our application**
 
@@ -142,7 +142,7 @@ created, otherwise later it'll be hidden you wont able to see it.
 
 * For the later implementations you need above copied values.
 
- **_Now app registration is done. Let’s move on to the cool part. Let’s code_**
+ ## _Now app registration is done. Let’s move on to the cool part. Let’s code_
 
 **We’ll discuss how to setup SSO with your .NET core applications**
 
@@ -275,7 +275,7 @@ public string SignOut()
 }
 ```
 
-# *Congratulations!! You have integrated SSO authentication for your application.*
+## *Congratulations!! You have integrated SSO authentication for your application.*
 
 **Lets see how to use GraphAPI to fetch AD users and groups in your
 application.**
