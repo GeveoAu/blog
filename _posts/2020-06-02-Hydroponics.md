@@ -1,4 +1,4 @@
-\---
+---
 
 title: Hydroponics
 
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/iranganavaratna/
 
 description : Hydroponics, Agriculture
 
-\---
+---
 
 Agriculture is the science that is related to cultivating plants and livestock.
 It has been one of the most important parts of the human livelihood since the
@@ -27,7 +27,7 @@ plants are placed in a way that the roots are in contact with water. The water
 is usually mixed with nutrient solutions so that the plants can absorb the
 necessary minerals from it.
 
-\#\#\#\# Variations of hydroponic systems
+#### Variations of hydroponic systems
 
 There are different types of hydroponic systems based on how the plant is
 exposed to the nutrient solution. The most common methods include deepwater
@@ -35,25 +35,25 @@ culture, wicking, aeroponics, Ebb and flow, dripping system and nutrient film
 technique. A hybrid hydroponic system can also be made by combining different
 methods according to the requirement.
 
-\*\*Deepwater culture\*\*
+**Deepwater culture**
 
 This is one of the cheapest and easiest methods of hydroponics. In this method,
 a tank is used to store the nutrient solution. The solution in the tank needs to
 maintain a constant oxygen level. This is accomplished using an air pump. The
 plants are put in net pots and the net pots are immersed in water.
 
-\<img src="/img/Iranga_1.jpg" width="600" height="300" /\>
+<img src="/img/Iranga_1.jpg" width="600" height="300" />
 
-\*\*Wicking\*\*
+**Wicking**
 
 In these systems, the plants do not come in contact with the nutrient solution
 directly. The plants are placed on a grow tray which contains a growing medium
 such as perlite. Wicks are used for taking the nutrient solution from the tank
 to the growing medium using capillary action.
 
-\<img src="/img/Iranga_2.png" width="600" height="300" /\>
+<img src="/img/Iranga_2.png" width="600" height="300" />
 
-\*\*Drip system\*\*
+**Drip system**
 
 In drip systems, the nutrient solution flows slowly across the growing medium.
 Growing mediums such as rockwool or peat moss can be used in these systems. The
@@ -61,25 +61,25 @@ medium should be able to hold the nutrient solution for a while so that the
 plants can absorb them. The excess water can be collected and reused in these
 systems.
 
-\<img src="/img/Iranga_3.png" width="600" height="300" /\>
+<img src="/img/Iranga_3.png" width="600" height="300" />
 
-\*\*Aeroponics\*\*
+**Aeroponics**
 
 This method exposes the roots of the plants to a mist of nutrient solution. The
 plants are kept inside a chamber where there are nozzles to spray water. Pond
 foggers can also be used for creating the mist.
 
-\<img src="/img/Iranga_4.jpg" width="600" height="300" /\>
+<img src="/img/Iranga_4.jpg" width="600" height="300" />
 
-\*\*Nutrient film technique\*\*
+**Nutrient film technique**
 
 This method uses a continuous flow of nutrient solution through the system which
 is reused. The plants are kept on a tilted plane so that the water flows back to
 the tank.
 
-\<img src="/img/Iranga_5.jpg" width="600" height="300" /\>
+<img src="/img/Iranga_5.jpg" width="600" height="300" />
 
-\*\*Advantages of hydroponics\*\*
+**Advantages of hydroponics**
 
 1. Since no fertile land is needed, cultivation can be done anywhere.
 
@@ -103,7 +103,7 @@ controlled environments.
 crops. After the plants are placed all that needs to be done is to maintain the
 nutrient levels, temperature and light.
 
-\*\*Disadvantages of hydroponics\*\*
+**Disadvantages of hydroponics**
 
 1. High initial investment.
 
@@ -112,7 +112,7 @@ required to set the best environment for the plants.
 
 3. Risk of power outage and system failures.
 
-\#\#\#\# Conclusion
+#### Conclusion
 
 Hydroponics is a concept which is been there for a while but, in the recent
 past, it has become popular The main reason for this is that hydroponic systems
@@ -131,7 +131,7 @@ than traditional agricultural methods. Usage of less land and water is vital
 since both of them are scarce resources. Therefore, hydroponics can become the
 future of agriculture.
 
-\#\#\#\# References
+#### References
 
 • https://www.fullbloomgreenhouse.com/hydroponic-systems-101/
 
