@@ -2,7 +2,7 @@
 
 title: Hydroponics
 
-author: Iranga Navarathna
+author: Iranga Navaratna
 
 linkedin: https://www.linkedin.com/in/iranganavaratna/
 
