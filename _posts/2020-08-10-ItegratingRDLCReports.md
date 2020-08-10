@@ -79,147 +79,84 @@ There are lot of customizations can be done with the RDLC designer. I&#39;m assu
 
 Report Controller class
 ```csharp
-[Route(&quot;api/[controller]&quot;)]
+public class ReportController : Controller
+    {
+        private IReportService _reportService;
 
-publicclassReportController : Controller
+        public ReportController(IReportService reportService)
+        {
+            _reportService = reportService;
+        }
 
-{
-
-private IReportService \_reportService;
-
-public ReportController(IReportService reportService)
-
-{
-
-\_reportService = reportService;
-
-}
-
-[HttpGet(&quot;{reportName}&quot;)]
-
-public ActionResult Get(string reportName)
-
-{
-
-var returnString = \_reportService.GenerateReportAsync(reportName);
-
-return File(returnString, System.Net.Mime.MediaTypeNames.Application.Octet, reportName + &quot;.pdf&quot;);
-
-}
-
-}
-
+        [HttpGet("{reportName}")]
+        public ActionResult Get(string reportName)
+        {
+            var returnString = _reportService.GenerateReportAsync(reportName);
+            return File(returnString, System.Net.Mime.MediaTypeNames.Application.Octet, reportName + ".pdf");
+        }
+    }
 Report Service class
+public class ReportService : IReportService
+    {
+        public byte[] GenerateReportAsync(string reportName)
+        {
+            string fileDirPath = Assembly.GetExecutingAssembly().Location.Replace("ReportAPI.dll", string.Empty);
+            string rdlcFilePath = string.Format("{0}ReportFiles\\{1}.rdlc", fileDirPath, reportName);
+            Dictionary<string, string> parameters = new Dictionary<string, string>();
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+            Encoding.GetEncoding("windows-1252");
+            LocalReport report = new LocalReport(rdlcFilePath);
 
-publicclassReportService : IReportService
+            List<UserDto> userList = new List<UserDto>();
+            userList.Add(new UserDto
+            {
+                FirstName = "Alex",
+                LastName = "Smith",
+                Email = "alex.smith@gmail.com",
+                Phone = "2345334432"
+            });
 
-{
+            userList.Add(new UserDto
+            {
+                FirstName = "John",
+                LastName = "Legend",
+                Email = "john.legend@gmail.com",
+                Phone = "5633435334"
+            });
 
-publicbyte[] GenerateReportAsync(string reportName)
+            userList.Add(new UserDto
+            {
+                FirstName = "Stuart",
+                LastName = "Jones",
+                Email = "stuart.jones@gmail.com",
+                Phone = "3575328535"
+            });
 
-{
+            report.AddDataSource("dsUsers", userList);
+            var result = report.Execute(GetRenderType("pdf"), 1, parameters);
+            return result.MainStream;
+        }
 
-string fileDirPath = Assembly.GetExecutingAssembly().Location.Replace(&quot;ReportAPI.dll&quot;, string.Empty);
+        private RenderType GetRenderType(string reportType)
+        {
+            var renderType = RenderType.Pdf;
+            switch (reportType.ToLower())
+            {
+                default:
+                case "pdf":
+                    renderType = RenderType.Pdf;
+                    break;
+                case "word":
+                    renderType = RenderType.Word;
+                    break;
+                case "excel":
+                    renderType = RenderType.Excel;
+                    break;
+            }
 
-string rdlcFilePath = string.Format(&quot;{0}ReportFiles\\{1}.rdlc&quot;, fileDirPath, reportName);
-
-Dictionary\&lt;string, string\&gt; parameters = new Dictionary\&lt;string, string\&gt;();
-
-Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-
-Encoding.GetEncoding(&quot;windows-1252&quot;);
-
-LocalReport report = new LocalReport(rdlcFilePath);
-
-List\&lt;UserDto\&gt; userList = new List\&lt;UserDto\&gt;();
-
-userList.Add(new UserDto
-
-{
-
-FirstName = &quot;Alex&quot;,
-
-LastName = &quot;Smith&quot;,
-
-Email = &quot;alex.smith@gmail.com&quot;,
-
-Phone = &quot;2345334432&quot;
-
-});
-
-userList.Add(new UserDto
-
-{
-
-FirstName = &quot;John&quot;,
-
-LastName = &quot;Legend&quot;,
-
-Email = &quot;john.legend@gmail.com&quot;,
-
-Phone = &quot;5633435334&quot;
-
-});
-
-userList.Add(new UserDto
-
-{
-
-FirstName = &quot;Stuart&quot;,
-
-LastName = &quot;Jones&quot;,
-
-Email = &quot;stuart.jones@gmail.com&quot;,
-
-Phone = &quot;3575328535&quot;
-
-});
-
-report.AddDataSource(&quot;dsUsers&quot;, userList);
-
-var result = report.Execute(GetRenderType(&quot;pdf&quot;), 1, parameters);
-
-return result.MainStream;
-
-}
-
-private RenderType GetRenderType(string reportType)
-
-{
-
-var renderType = RenderType.Pdf;
-
-switch (reportType.ToLower())
-
-{
-
-default:
-
-case&quot;pdf&quot;:
-
-renderType = RenderType.Pdf;
-
-break;
-
-case&quot;word&quot;:
-
-renderType = RenderType.Word;
-
-break;
-
-case&quot;excel&quot;:
-
-renderType = RenderType.Excel;
-
-break;
-
-}
-
-return renderType;
-
-}
-
-}
+            return renderType;
+        }
+    }
 ```
 If you follow the steps correctly now you can call your controller method by browser url and the browser will give you the pdf generated as below.
 
