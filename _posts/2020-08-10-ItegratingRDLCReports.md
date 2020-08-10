@@ -29,44 +29,44 @@ Create .NET core API project.
 
 First you need to create your .NET core Project. (API or Azure Function app)
 
-<img src="/img/tj_01_2020_08.png" height="600" width="315" />
+<img src="/img/tj_01_2020_08.png" height="315" width="600" />
 
 Go to manage nuget packages and Install AspNetCore.Reporting library to the project.
 
-<img src="/img/tj_02_2020_08.png" height="600" width="315" />
+<img src="/img/tj_02_2020_08.png" height="315" width="600" />
 
 You also need to add the System.Drawing.Common Nuget package into your project.
 
-<img src="/img/tj_03_2020_08.png" height="650" width="260" />
+<img src="/img/tj_03_2020_08.png" height="260" width="650" />
 
 Also add System.Text.Encoding.CodePages Nuget to your project.
 
-<img src="/img/tj_04_2020_08.png" height="650" width="260" />
+<img src="/img/tj_04_2020_08.png" height="260" width="650" />
 
 Now you can create your RDLC and generate a pdf out of it. In VS you don&#39;t get templates for RDLC files yet. So assume you have a RDLC file which supported in .NET framework. Copy it to your project. Make sure you set the property of RDLC file to copy always. This way if there are changes to the rdlc file the changed rdlc file will also be there in the output folder.
 
-<img src="/img/tj_05_2020_08.png" height="600" width="250" />
+<img src="/img/tj_05_2020_08.png" height="250" width="600" />
 Following is my Solution file structure.
 
-<img src="/img/tj_06_2020_08.png" height="432" width="662" />
+<img src="/img/tj_06_2020_08.png" height="662" width="432" />
 
 In order to add dataset to your rdlc file using a Dto Object that you have created you need to create a separate project with the Dtos and add a reference to the Api project. In my example I have a created a **Report.Data (.NET Standard)** project and added a reference to my Report Api Project.
 
 Here&#39;s how to add DataSet using the Dtos you have created.
 
-<img src="/img/tj_07_2020_08.png" height="750" width="302" />
-<img src="/img/tj_08_2020_08.png" height="490" width="386" />
-<img src="/img/tj_09_2020_08.png" height="490" width="386" />
-<img src="/img/tj_10_2020_08.png" height="680" width="505" />
+<img src="/img/tj_07_2020_08.png" height="302" width="750" />
+<img src="/img/tj_08_2020_08.png" height="386" width="490" />
+<img src="/img/tj_09_2020_08.png" height="386" width="490" />
+<img src="/img/tj_10_2020_08.png" height="505" width="680" />
 
 Once you add the dataset you can set the dataset fields to a table as shown below.
 
-<img src="/img/tj_11_2020_08.png" height="750" width="370" />
+<img src="/img/tj_11_2020_08.png" height="370" width="750" />
 
 There are lot of customizations can be done with the RDLC designer. I&#39;m assuming you are already familiar with it. If not please follow a tutorial regarding rdlc report designing. Now let&#39;s look at more importantly how you can call this rdlc file to generate a pdf file.
 
 Report Controller class
-
+```csharp
 [Route(&quot;api/[controller]&quot;)]
 
 publicclassReportController : Controller
@@ -208,7 +208,7 @@ return renderType;
 }
 
 }
-
+```
 If you follow the steps correctly now you can call your controller method by browser url and the browser will give you the pdf generated as below.
 
-<img src="/img/tj_12_2020_08.png" height="933" width="422" />
+<img src="/img/tj_12_2020_08.png" height="422" width="933" />
