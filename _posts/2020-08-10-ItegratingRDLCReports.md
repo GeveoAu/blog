@@ -1,3 +1,15 @@
+---
+
+title: Integrating RDLC reports to .NET Core
+
+author: Tharindu Jayasinghe
+
+linkedin: https://www.linkedin.com/in/tharindu-jayasinghe-0b734817/
+
+description : One of the biggest challenges faces by many developers when moving from standard .NET framework to .NET CORE is the lack of support for RDLC reports. Microsoft has not come up with a solution for this yet. (The time I write this). There are lot of discussions going on many forums asking Microsoft to come up with a solution for this.
+
+---
+
 Integrating RDLC reports to .NET Core
 
 One of the biggest challenges faces by many developers when moving from standard .NET framework to .NET CORE is the lack of support for RDLC reports. Microsoft has not come up with a solution for this yet. (The time I write this). There are lot of discussions going on many forums asking Microsoft to come up with a solution for this.
