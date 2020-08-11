@@ -16,7 +16,7 @@ One of the biggest challenges faces by many developers when moving from standard
 
 [https://forums.asp.net/t/2156712.aspx?Calling+RDLC+in+asp+net+core](https://forums.asp.net/t/2156712.aspx?Calling+RDLC+in+asp+net+core)
 
-There are couple of solutions available at the moment as mentioned in here. But is no end to end solution how you are supposed to do that.
+There are couple of solutions available at the moment as mentioned in here. But there is no end to end solution how you are supposed to do that.
 
 Out of this solutions I have picked ASP.NET Core reporting library in order to cater my requirement. [https://www.nuget.org/packages/AspNetCore.Reporting](https://www.nuget.org/packages/AspNetCore.Reporting)
 
