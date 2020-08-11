@@ -1,16 +1,16 @@
 ---
 
-title: Integrating RDLC reports to .NET Core
+title: Integrating RDLC reports to .NET Core Projects
 
 author: Tharindu Jayasinghe
 
-linkedin: https://www.linkedin.com/in/tharindu-jayasinghe-0b734817/
+linkedin: https://www.linkedin.com/in/tharindu-b-jayasinghe/
 
 description : One of the biggest challenges faces by many developers when moving from standard .NET framework to .NET CORE is the lack of support for RDLC reports. Microsoft has not come up with a solution for this yet. (The time I write this). There are lot of discussions going on many forums asking Microsoft to come up with a solution for this.
 
 ---
 
-Integrating RDLC reports to .NET Core
+Integrating RDLC reports to .NET Core Projects
 
 One of the biggest challenges faces by many developers when moving from standard .NET framework to .NET CORE is the lack of support for RDLC reports. Microsoft has not come up with a solution for this yet. (The time I write this). There are lot of discussions going on many forums asking Microsoft to come up with a solution for this.
 
@@ -29,9 +29,8 @@ The benefit of this library:
 
 Issues in the library
 
-- Issue related to Caching when there are multiple RDLC files.
-
-When there are multiple rdlc files available, the render function does not use the correct rdlc file. It mixes the content with the first ran rdlc file. It seems to be like a caching issue in the memory used to render the rdlc file.
+- Issue related to Caching when there are multiple RDLC files (When there are multiple rdlc files available, the render function does not use the correct rdlc file. It mixes the content with the first ran rdlc file.
+It seems to be like a caching issue in the memory used to render the rdlc file).
 
 How to overcome the issue
 
@@ -95,7 +94,10 @@ public class ReportController : Controller
             return File(returnString, System.Net.Mime.MediaTypeNames.Application.Octet, reportName + ".pdf");
         }
     }
+```
 Report Service class
+
+```csharp
 public class ReportService : IReportService
     {
         public byte[] GenerateReportAsync(string reportName)
