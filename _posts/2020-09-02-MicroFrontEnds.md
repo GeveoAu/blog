@@ -2,7 +2,7 @@
 
 title: Micro Frontends
 
-author: Chamika Goonatilaka
+author: Chamika Goonetilaka
 
 linkedin: https://lk.linkedin.com/in/chamikagoonetilaka
 
