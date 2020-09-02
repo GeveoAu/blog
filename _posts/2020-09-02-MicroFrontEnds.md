@@ -1,3 +1,15 @@
+---
+
+title: Micro Frontends
+
+author: Chamika Goonatilaka
+
+linkedin: https://lk.linkedin.com/in/chamikagoonetilaka
+
+description : Good frontend development is hard. Scaling frontend development so that many teams can work simultaneously on a large and complex product is even harder. Hence, the idea of breaking up frontend monoliths into many smaller, more manageable pieces is gaining lot of attention within the tech community.
+
+---
+
 # Micro Frontends
 
 Good frontend development is hard. Scaling frontend development so that many teams can work simultaneously on a large and complex product is even harder. Hence, the idea of breaking up frontend monoliths into many smaller, more manageable pieces is gaining lot of attention within the tech community.
