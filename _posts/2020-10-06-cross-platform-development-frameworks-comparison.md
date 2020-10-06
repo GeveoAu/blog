@@ -110,8 +110,8 @@ _**Cons:**_
 
 Table 2 is shown a summary of top 4 cross platform development frameworks
 
- **Flutter** | **React Native** | **Xamarin** | **Ionic** 
- --- | --- | --- | --- 
+|**Flutter** | **React Native** | **Xamarin** | **Ionic** |
+|--- | --- | --- | --- |
 | Dart and OOP concepts | JS, Typescript | C# with .NET environments | HTML, CSS, JS |
 | Almost native performance | Close to native performance | Moderate | Moderate |
 | Lower Community support | Very strong community support | Strong community support | Strong community support |
