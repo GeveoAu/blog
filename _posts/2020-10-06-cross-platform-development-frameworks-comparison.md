@@ -6,15 +6,9 @@ author: Tharindu Lakshan
 
 linkedin: https://www.linkedin.com/in/kat-lakshan/
 
-description : Mobile application development has become one of the critical areas in software development industry. In the earlier days, only option was to develop mobile apps using native development frameworks. If an App is intended to publish in both IOS and Android environments then it should be developed separately. For that developers should have the knowledge of both ISO and Android development stacks. But that was a quite expensive and time-consuming task. Because of that developers started looking for alternative solutions. As a result of that cross platform mobile development frameworks were created.
+description : Today we have many options for cross platform mobile application development. Let's find out how they compare to each other!
 
 ---
-
-|
- |
- |
- |
-| --- | --- | --- |
 
 **Cross-platform Mobile App Development Frameworks Comparison in 2020**
 
