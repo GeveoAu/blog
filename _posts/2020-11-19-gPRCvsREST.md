@@ -27,8 +27,8 @@ Below are the architectural constraints, that needs to follow to make a system R
 - _Client-server architecture_: The client and the server must be independent of each other, and the client should only know the URIs to the resource it needs to communicate with.
 - _Statelessness:_ The server must not store information related to the client&#39;s request. It is the client&#39;s responsibility to maintain the state of the application.
 - _Cacheable_: As on the World Wide Web, clients and intermediaries can cache the responses.
-- _Layered system _
-- _Uniform interface _
+- _Layered system_
+- _Uniform interface_
 - _Code on demand (optional)_
 
 **RPC Architecture in a nutshell**
