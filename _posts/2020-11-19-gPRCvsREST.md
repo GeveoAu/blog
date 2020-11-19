@@ -1,6 +1,6 @@
 ---
 
-title: Cross-platform Mobile App Development Frameworks Comparison in 2020
+title: gPRC vs REST
 
 author: Hirunika Karunathilaka
 
