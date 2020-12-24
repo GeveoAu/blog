@@ -50,13 +50,13 @@ Here you have to implement 2 methods.
 
 each of these methods accept property named paint to define styles of the drawing.
 
-<img src="/img/ad_2_2020_12_10.jpg" height="601" width="618" />
+<img src="/img/ad_2_2020_12_10.jpg" height="388" width="85" />
 
 **Simple example**
 
 In this example you can see how to draw a bell curve shape according to the mean and standard deviation of a particular dataset.
 
-<img src="/img/ad_3_2020_12_10.jpg" height="789" width="1213" />
+<img src="/img/ad_3_2020_12_10.jpg" height="398" width="606" />
 
 **ClipPath**
 
@@ -85,7 +85,7 @@ Here also you need to implement 2 methods.
 
 In this example you can see how to clip and redesign default card view to a custom shape.
 
-<img src="/img/ad_5_2020_12_10.jpg" height="728" width="1148" />
+<img src="/img/ad_5_2020_12_10.jpg" height="364" width="574" />
 
 **References**
 
