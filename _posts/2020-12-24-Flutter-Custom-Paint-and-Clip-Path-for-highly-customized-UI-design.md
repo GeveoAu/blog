@@ -50,7 +50,7 @@ Here you have to implement 2 methods.
 
 each of these methods accept property named paint to define styles of the drawing.
 
-<img src="/img/ad_2_2020_12_10.jpg" height="388" width="85" />
+<img src="/img/ad_2_2020_12_10.jpg" height="85" width="388" />
 
 **Simple example**
 
