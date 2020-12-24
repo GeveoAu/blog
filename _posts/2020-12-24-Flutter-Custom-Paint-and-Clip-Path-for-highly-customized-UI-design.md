@@ -6,7 +6,7 @@ author: Amith Dissanayaka
 
 linkedin: https://www.linkedin.com/in/amith1316s/
 
-description : Even though REST is the most preferred architecture for today&#39;s web applications, it is always better to compare with other technologies and find the best approach that suits your application. This article provides a high-level comparison between the REST architecture and gRPC
+description : Let's find out how to use CustomPaint and ClipPath for highly customized UI's in Flutter!
 
 ---
 
