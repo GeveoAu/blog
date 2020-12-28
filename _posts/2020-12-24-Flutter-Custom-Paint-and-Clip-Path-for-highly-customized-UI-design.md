@@ -58,6 +58,51 @@ In this example you can see how to draw a bell curve shape according to the mean
 
 <img src="/img/ad_3_2020_12_10.jpg" height="398" width="606" />
 
+```dart
+class MyPainter extends CustomPainter {
+ @override
+  void paint(Canvas canvas, Size size) {
+    final curve = Paint()
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 4.0
+      ..color =  Colors.black;
+      
+    var containerHeight = size.height;
+
+    var heightbase = containerHeight - 5;
+
+    final path = Path();
+    var mean = 100.0;
+    var stdDeviation = 6.0;
+    var variance = stdDeviation * stdDeviation;
+
+    int start = 0;
+    int end = 200;
+
+    path.moveTo(0, heightbase);
+
+    var lowestValue = math.pow(
+        math.exp(-(((mean) * (mean)) / ((2 * variance)))),
+        1 / (stdDeviation * math.sqrt(2 * math.pi)));
+
+    for (int x = start; x < end; x++) {
+      var temp = math.pow(
+          math.exp(-(((x - mean) * (x - mean)) / ((2 * variance)))),
+          1 / (stdDeviation * math.sqrt(2 * math.pi)));
+      var y = (temp - lowestValue) * containerHeight / 100;
+      path.lineTo(x / 1.0, heightbase - y * 75.0);
+    }
+
+    canvas.drawPath(path, curve);
+  }
+
+  @override
+  bool shouldRepaint(CustomPainter old) {
+    return true;
+  }
+}
+```
+
 **ClipPath**
 
 CustomClipper widget allow custom clipper to clip area to any custom shape.
@@ -86,6 +131,37 @@ Here also you need to implement 2 methods.
 In this example you can see how to clip and redesign default card view to a custom shape.
 
 <img src="/img/ad_5_2020_12_10.jpg" height="364" width="574" />
+
+```dart
+class BackgroundClipper extends CustomClipper<Path> {
+  @override
+  Path getClip(Size size) {
+    var path = Path();
+    var roundnessFactor = 30.0;
+
+    path.moveTo(0, size.height * 0.33);
+    path.lineTo(0, size.height - roundnessFactor);
+    path.quadraticBezierTo(0, size.height, roundnessFactor, size.height);
+    path.lineTo(size.width - roundnessFactor, size.height);
+    path.quadraticBezierTo(
+        size.width, size.height, size.width, size.height - roundnessFactor);
+    path.lineTo(size.width, roundnessFactor * 2);
+    path.quadraticBezierTo(size.width - 10, roundnessFactor,
+        size.width - roundnessFactor * 1.5, roundnessFactor * 1.5);
+    path.lineTo(
+        roundnessFactor * 0.6, size.height * 0.33 - roundnessFactor * 0.3);
+    path.quadraticBezierTo(
+        0, size.height * 0.33, 0, size.height * 0.33 + roundnessFactor);
+
+    return path;
+  }
+
+  @override
+  bool shouldReclip(CustomClipper<Path> oldClipper) {
+    return true;
+  }
+}
+```
 
 **References**
 
