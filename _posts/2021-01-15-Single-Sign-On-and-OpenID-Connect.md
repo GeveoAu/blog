@@ -12,7 +12,7 @@ description : With the growing number of applications, it’s impossible to reme
 
 **Single Sign-On and OpenID Connect**
 
-<img src="/img/ha_01_2021_01_15.jpg" height="600" width="618" />
+<img src="/img/ha_1_2021_01_15.jpg" height="600" width="618" />
 
 Every application requires some form of authentication to secure their domain. The most common way is to use a user name and password with additional configuration such as 2FA and Biometrics. With the growing number of applications, it’s impossible to remember different credentials to individual applications and that demands for a centralized credentials management/authentication system. For instance, your single Google account can be used to access multiple applications such a YouTube, Gmail, Google maps etc. At the same time, we could use our social media account credentials such as Facebook and Twitter to log in to millions of web/mobile applications. Hence, it’s imperative to understand how single sign-on works.
 
