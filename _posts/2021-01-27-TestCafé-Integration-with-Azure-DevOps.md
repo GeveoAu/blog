@@ -10,13 +10,13 @@ description : The necessity of doing End to End Testing is getting more powerful
 
 ---
 
-# **TestCafé Integration with Azure DevOps**
+**TestCafé Integration with Azure DevOps**
 
 <img src="/img/kl_01_2021_01_29.png"/>
 
 The necessity of doing End to End Testing is getting more powerful each day. Development speed is evolving and the right way to keep riding that speed boost wave is to utilize End to End Testing for your applications. TestCafé is a Node.js tool for automated End to End Web Testing. It is free and open-source, easy to set up and it is working on all popular environments.
 
-## **Why TestCafé for End to End Testing?**
+### **Why TestCafé for End to End Testing?**
 
 Like Cypress, TestCafé scripts can be written in Javascript and Javascript is one of the languages that most IT professionals are familiar.
 
@@ -24,7 +24,7 @@ TestCafé provides great browser support and works in all popular environments. 
 
 TestCafé provides mobile browser test execution for Google Chrome and Safari. TestCafé has this transferring test execution to your mobile devices by simply scanning a QR code.
 
-## **TestCafé Architecture**
+### **TestCafé Architecture**
 
 <img src="/img/kl_02_2021_01_29.png"/>
 
@@ -32,7 +32,7 @@ TestCafé runs the test code written by the user in Node.js environment on the s
 
 This architecture is a hybrid approach which combines browser scripts and standalone server-side code. Here the browser scripts consist of built-in waitings, XHR testing, mobile testing etc.
 
-## **TestCafé Features**
+### **TestCafé Features**
 
 - Inbuilt User Role mechanism to handle authentication
 - Inbuilt Assertion Library
@@ -43,36 +43,37 @@ This architecture is a hybrid approach which combines browser scripts and standa
 - Inbuilt Debugging Mode
 - Tests can run in Mobile Browsers
 
-## **Installation Steps**
+### **Installation Steps**
 
 Installing TestCafé is a very simple task. As a prerequisite, node.js should be installed in the machine. First, create the package.json file inside your folder. Then use the following npm command.
+
 ```sh
 $ npm install testcafe
 ```
-## **TestCafé Framework**  
+### **TestCafé Framework**  
 
 <img src="/img/kl_03_2021_01_29.png"/>
 
 Once the installation is completed, open the project folder in the Visual Studio Code or any other Javascript supported IDE. To write TestCafé scripts, the above framework structure can be used. The advantage of using a structured framework is to get the highest benefit of the Page Object Model.
 
-**Fixtures** — Consider as the parent of a group of test & sits at the top of every file
-**Test Hooks** — Actions to perform at the start and end of the test scenario
-**Test Function** — A set of instructions provided to perform on the system under test. Test controller object is declared when test function is created.
-**Test Action** — An action performed by identifying a web element state
+- **Fixtures** — Consider as the parent of a group of test & sits at the top of every file
+- **Test Hooks** — Actions to perform at the start and end of the test scenario
+- **Test Function** — A set of instructions provided to perform on the system under test. Test controller object is declared when test function is created.
+- **Test Action** — An action performed by identifying a web element state
 
-## **TestCafé Selectors**
+### **TestCafé Selectors**
 
 To observe Page States and Elements, TestCafé provides “Selector” method. If the result of the Selector is not an induvial node, then TestCafé provides helper methods to further search and filter.
 
 To capture element states, inside the test scripts first need to import the Selector from TestCafé library.
 
-```js 
+```javascript 
 import { Selector} from ‘testcafe’;
 ```
 
 Like cypress, identifying elements are easy with TestCafé. CSS Selectors are more reliable and stable to use in TestCafé.
 
-## **Sample TestCafé Script**
+### **Sample TestCafé Script**
 
 After importing Selector to the TestCafé test file, let’s write a simple TestCafé script for a Login Function.
 
@@ -120,7 +121,7 @@ fixture`Getting Started with TestCafe`
 })
 ```
 
-## **Run TestCafé Script**
+### **Run TestCafé Script**
 
 Running TestCafé in the command line is easy. Just give the following command with your file name and relevant browser you need to run the tests.
 ```sh
@@ -145,37 +146,38 @@ For this tutorial, xUnit is used as the reporter plugin. To run the tests in CI/
 ```sh
 $ testcafe firefox:headless ‘path/to/test/file.js’ — — reporter xunit
 ```
+---
 
-# **Integration with Azure DevOps**
+## **Integration with Azure DevOps**
 By following the above steps carefully, TestCafé scripts can be run in the local environment. But once the scripting is done, testers need to push the scripts and integrate them with CI/CD pipelines.
 
 So let’s integrate TestCafé with Azure DevOps CI/CD pipeline from there onward.
 
-## Step 1-
+### Step 1-
 
 Login to Azure DevOps portal and create a Repo for your project. Then click on Pipelines section to create a new CI/CD pipeline.
 
 <img src="/img/kl_04_2021_01_29.png"/>
 
-## Step 2-
+### Step 2-
 
 Click on Create New Pipeline and following window will load. Then select the Repo where your code is. For this tutorial, Azure Repos are used. Select the Azure Repos Git from the list.
 
 <img src="/img/kl_05_2021_01_29.png"/>
 
-## Step 3-
+### Step 3-
 
 Now select the repository for your new pipeline.
 
 <img src="/img/kl_06_2021_01_29.png"/>
 
-## Step 4-
+### Step 4-
 
 After selecting the repository, the user will be navigated to the configure section. This tutorial is about creating a node.js project for TestCafé. Let’s select Node.js project.
 
 <img src="/img/kl_07_2021_01_29.png"/>
 
-## Step 5-
+### Step 5-
 
 After completing the Configure section, it will be redirected to the Review sections. Here you have to create the azure-pipelines.yml file. Be careful and mindful when creating this file. Because all your efforts will go in vain unless you do this part carefully.
 
@@ -189,7 +191,7 @@ Let’s configure this yml file to cater to our requirements.
 
 Inside the Scripts section, installing node.js to running TestCafé file steps should be included as above. Once script section is finished add the test report file configuration inside the Settings section.
 
-## Step 6-
+### Step 6-
 
 Now click Save and Run. Then it will automatically start running the task and after that publishing the results.
 
@@ -203,13 +205,13 @@ Once the test script finishes running, the following output will be displayed wi
 
 <img src="/img/kl_12_2021_01_29.png"/>
 
-## Step 7-
+### Step 7-
 
 Now it’s the time to view Test Results. This can be done by navigating inside the pipeline and selecting the relevant build.
 
 <img src="/img/kl_13_2021_01_29.png"/>
 
-# **Conclusion**
+### **Conclusion**
 
 Until now the experience of using TestCafé looks really great. With all in-built features and user-friendliness make TestCafé a winning automation framework against all most all the tools available in the industry.
 
@@ -218,6 +220,7 @@ TestCafé does not have direct support to use XPaths to define selectors. But CS
 TestCafé is a good alternative for Selenium and Cypress. Even feature-wise TestCafé is similar to Cypress Framework, there are more reliable in-built features than Cypress.
 
 Happy Testing!
+
 Stay Safe!!!
 
 
