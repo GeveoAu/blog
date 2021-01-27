@@ -47,7 +47,7 @@ This architecture is a hybrid approach which combines browser scripts and standa
 
 Installing TestCafé is a very simple task. As a prerequisite, node.js should be installed in the machine. First, create the package.json file inside your folder. Then use the following npm command.
 
-```sh
+```
 $ npm install testcafe
 ```
 **TestCafé Framework**  
@@ -124,14 +124,17 @@ fixture`Getting Started with TestCafe`
 **Run TestCafé Script**
 
 Running TestCafé in the command line is easy. Just give the following command with your file name and relevant browser you need to run the tests.
+
 ```sh
 $ testcafe chrome ./tests/my-fixture.js
 ```
 Apart from the above command, there is another method to run the scripts by specifying the command in the package.json file.
+
 ```sh
 $ “test:Login”: “testcafe firefox ./tests/login.test.js”
 ```
 Inside scripts section copy and paste the above command and customize according to your requirements. Then easily run the script in the command line using the following command.
+
 ```sh
 $ npm run test:Login
 ```
@@ -143,41 +146,45 @@ To generate a test report with the test results, there are plugins available and
 - JSON
 
 For this tutorial, xUnit is used as the reporter plugin. To run the tests in CI/CD pipeline headless mode is used. By the running following command, we can create a report with test results in headless browser mode.
+
 ```sh
 $ testcafe firefox:headless ‘path/to/test/file.js’ — — reporter xunit
 ```
+
 ---
 
-#### **Integration with Azure DevOps**
+
+### **Integration with Azure DevOps**
+
 By following the above steps carefully, TestCafé scripts can be run in the local environment. But once the scripting is done, testers need to push the scripts and integrate them with CI/CD pipelines.
 
 So let’s integrate TestCafé with Azure DevOps CI/CD pipeline from there onward.
 
-Step 1-
+**Step 1-**
 
 Login to Azure DevOps portal and create a Repo for your project. Then click on Pipelines section to create a new CI/CD pipeline.
 
 <img src="/img/kl_04_2021_01_29.png"/>
 
-Step 2-
+**Step 2-**
 
 Click on Create New Pipeline and following window will load. Then select the Repo where your code is. For this tutorial, Azure Repos are used. Select the Azure Repos Git from the list.
 
 <img src="/img/kl_05_2021_01_29.png"/>
 
-Step 3-
+**Step 3-**
 
 Now select the repository for your new pipeline.
 
 <img src="/img/kl_06_2021_01_29.png"/>
 
-Step 4-
+**Step 4-**
 
 After selecting the repository, the user will be navigated to the configure section. This tutorial is about creating a node.js project for TestCafé. Let’s select Node.js project.
 
 <img src="/img/kl_07_2021_01_29.png"/>
 
-Step 5-
+**Step 5-**
 
 After completing the Configure section, it will be redirected to the Review sections. Here you have to create the azure-pipelines.yml file. Be careful and mindful when creating this file. Because all your efforts will go in vain unless you do this part carefully.
 
@@ -191,7 +198,7 @@ Let’s configure this yml file to cater to our requirements.
 
 Inside the Scripts section, installing node.js to running TestCafé file steps should be included as above. Once script section is finished add the test report file configuration inside the Settings section.
 
-Step 6-
+**Step 6-**
 
 Now click Save and Run. Then it will automatically start running the task and after that publishing the results.
 
@@ -205,7 +212,7 @@ Once the test script finishes running, the following output will be displayed wi
 
 <img src="/img/kl_12_2021_01_29.png"/>
 
-Step 7-
+**Step 7-**
 
 Now it’s the time to view Test Results. This can be done by navigating inside the pipeline and selecting the relevant build.
 
