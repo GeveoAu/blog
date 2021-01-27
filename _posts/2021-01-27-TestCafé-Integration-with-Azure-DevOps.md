@@ -12,7 +12,7 @@ description : The necessity of doing End to End Testing is getting more powerful
 
 # **TestCafé Integration with Azure DevOps**
 
-<img src="/img/kl_01_2021_01_29.png" height="600" width="618" />
+<img src="/img/kl_01_2021_01_29.png"/>
 
 The necessity of doing End to End Testing is getting more powerful each day. Development speed is evolving and the right way to keep riding that speed boost wave is to utilize End to End Testing for your applications. TestCafé is a Node.js tool for automated End to End Web Testing. It is free and open-source, easy to set up and it is working on all popular environments.
 
@@ -26,7 +26,7 @@ TestCafé provides mobile browser test execution for Google Chrome and Safari. T
 
 ## **TestCafé Architecture**
 
-<img src="/img/kl_02_2021_01_29.png" height="600" width="618" />
+<img src="/img/kl_02_2021_01_29.png"/>
 
 TestCafé runs the test code written by the user in Node.js environment on the server-side. Scripts that emulate user activity run inside the tested page (client-side) in the browser on the same or different device.
 
@@ -51,7 +51,7 @@ $ npm install testcafe
 ```
 ## **TestCafé Framework**  
 
-<img src="/img/kl_03_2021_01_29.png" height="600" width="618" />
+<img src="/img/kl_03_2021_01_29.png"/>
 
 Once the installation is completed, open the project folder in the Visual Studio Code or any other Javascript supported IDE. To write TestCafé scripts, the above framework structure can be used. The advantage of using a structured framework is to get the highest benefit of the Page Object Model.
 
