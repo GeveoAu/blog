@@ -50,33 +50,33 @@ There are three main testing types supported by flutter
 
 **Steps to follow;**
 
-1. Need to install the flutter SDK. Go to this link and install the latest flutter SDK 
+- Need to install the flutter SDK. Go to this link and install the latest flutter SDK 
 https://flutter.dev/docs/get-started/install/windows
 The documentation in this link explain everything that you need to follow. Please read it. Make sure update the environment variables as mentioned in this document
 
-2. Open the VS code editor and create a new flutter project
+- Open the VS code editor and create a new flutter project
 
-3. Once you have created the flutter project, go the extension and install “Flutter and DART”
+- Once you have created the flutter project, go the extension and install “Flutter and DART”
 
 <img src="/img/rm_2_2021_02_08.png" />
 
 <img src="/img/rm_3_2021_02_08.png" />
 
-4. Add the flutter_driver dependency to pubsec.yaml file
+- Add the flutter_driver dependency to pubsec.yaml file
 flutter_driver:
     sdk: flutter
 test: any
 
 <img src="/img/rm_4_2021_02_08.png" />
 
-5. Once you add this, flutter pub gets command will automatically runs to install all the flutter packages to your project
+- Once you add this, flutter pub gets command will automatically runs to install all the flutter packages to your project
 
-6. Create the test files.
+- Create the test files.
 You need two files. One is app.dart and a test file (app_test.dart). App.dart file helps to instrument the app and enable the flutter driver extension and calls the main functions of the app
 
 <img src="/img/rm_5_2021_02_08.png" />
 
-7. Then write your tests in the test folder
+- Then write your tests in the test folder
 
 ```dart
 // Imports the Flutter Driver API.
@@ -122,16 +122,16 @@ void main() {
 
 ```
 
-8. Project folder structure
+- Project folder structure
 
 <img src="/img/rm_6_2021_02_08.png" />
 
 - Under the test_driver folder we write all our test scripts. There are three sub folders as scripts, test_resources and tests. Under scripts we write all the common methods and the keys that we are going to use in our tests. Test_resource folder helps to store the all data values that we need to use in our tests. Test folder contains the tests.
 
-9. Finally run the test.
+- Finally run the test.
 We can use two commands to run the test;
-- flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
-- flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
+- - flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
+- - flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
 
 - ``` --no-build ``` command helps to run the test without building the app from the scratch while the other commands runs the app by building the app from the beginning.
 
