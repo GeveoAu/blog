@@ -130,8 +130,8 @@ void main() {
 
 - Finally run the test.
 We can use two commands to run the test;
-- - flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
-- - flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
+    - flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
+    - flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
 
 - ``` --no-build ``` command helps to run the test without building the app from the scratch while the other commands runs the app by building the app from the beginning.
 
