@@ -10,7 +10,7 @@ description : Flutter Driver is a testing framework specially made to test the f
 
 ---
 
-# **Mobile UI Automation Using Flutter Driver**
+**Mobile UI Automation Using Flutter Driver**
 
 Before starting to know about how to do the UI automation using flutter driver, let’s see what is flutter and why we need to choose flutter to you app?
 
@@ -31,7 +31,7 @@ It’s really important to choose flutter for mobile application development sin
 
 **Flutter Driver** is a testing framework specially made to test the flutter apps, it’s very similar to testing frameworks such as Selenium driver, Protractor and Google espresso. Can use to test various UI elements and helps to write end to end integrations test. To write the test have to use DART language.
 
-## **How does UI testing works in flutter?**
+**How does UI testing works in flutter?**
 
 •	Flutter UI tests run as a black boxes
 •	Flutter UI tests cannot access the data or API of the main Flutter apps which brings additional challenges to testing the UI of Flutter apps
@@ -46,7 +46,7 @@ There are three main testing types supported by flutter
 2.	Widget Testing :- Widget tests do exactly what they imply: test widgets
 3.	Integration Testing :-  An integration test checks a complete app or large part of the app
 
-## **Let’s Start Writing Our First Script!!!!!**
+**Let’s Start Writing Our First Script!!!!!**
 
 **Steps to follow;**
 1.	Need to install the flutter SDK. Go to this link and install the latest flutter SDK 
@@ -133,7 +133,7 @@ We can use two commands to run the test;
 - --no-build command helps to run the test without building the app from the scratch while the other commands runs the app by building the app from the beginning.
 
 
-## **Limitations**
+**Limitations**
 
 - Flutter UI tests take a lot of time to execute.
 - Flutter UI tests aren't supported by any real device testing providers
