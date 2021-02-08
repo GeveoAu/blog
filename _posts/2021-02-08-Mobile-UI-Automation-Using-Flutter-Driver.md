@@ -16,27 +16,27 @@ Before starting to know about how to do the UI automation using flutter driver, 
 
 **Flutter is;**
 
-•	Free and open source project developed and maintain by Google
-•	Flutter uses “DART” as the programming language
-•	Flutter is fast, smooth and capable of running apps in 120fps
-•	Since it has its own widgets, its highly customizable
+- Free and open source project developed and maintain by Google
+- Flutter uses “DART” as the programming language
+- Flutter is fast, smooth and capable of running apps in 120fps
+- Since it has its own widgets, its highly customizable
 
 It’s really important to choose flutter for mobile application development since it’s gives benefits such as;
 
-•	**Great for MVP** – Developers just need to create the MVP architecture and start coding
-•	**Single code for multiple platforms** – There will be no compatible issues. Can use one code base to  develop both android and IOS applications 
-•	**Faster QA Process** – Since there is only one version develop for both android and IOS developments testing time get reduce.
-•	**Engaging design** – Have multiply widgets which can be easily customizable as per the customer requirement
-•	**Rapid App Development** – Easily see the changes done in the development by hot reloading the pages
+- **Great for MVP** – Developers just need to create the MVP architecture and start coding
+- **Single code for multiple platforms** – There will be no compatible issues. Can use one code base to  develop both android and IOS applications 
+- **Faster QA Process** – Since there is only one version develop for both android and IOS developments testing time get reduce.
+- **Engaging design** – Have multiply widgets which can be easily customizable as per the customer requirement
+- **Rapid App Development** – Easily see the changes done in the development by hot reloading the pages
 
 **Flutter Driver** is a testing framework specially made to test the flutter apps, it’s very similar to testing frameworks such as Selenium driver, Protractor and Google espresso. Can use to test various UI elements and helps to write end to end integrations test. To write the test have to use DART language.
 
 **How does UI testing works in flutter?**
 
-•	Flutter UI tests run as a black boxes
-•	Flutter UI tests cannot access the data or API of the main Flutter apps which brings additional challenges to testing the UI of Flutter apps
-•	Flutter UI tests work as a pair
-•	Flutter Driver tests start a local server where you can see the test logs as follows;
+- Flutter UI tests run as a black boxes
+- Flutter UI tests cannot access the data or API of the main Flutter apps which brings additional challenges to testing the UI of Flutter apps
+- Flutter UI tests work as a pair
+- Flutter Driver tests start a local server where you can see the test logs as follows;
 
 <img src="/img/rm_1_2021_02_08.PNG" />
 
@@ -130,8 +130,8 @@ void main() {
 
 9.	Finally run the test.
 We can use two commands to run the test;
-•	flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
-•	flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
+- flutter drive --target=test_driver/app.dart --driver=test_driver/app_test.dart
+- flutter drive --no-build --target=test_driver/app.dart --driver=test_driver/app_test.dart
 
 - ```bash --no-build ``` command helps to run the test without building the app from the scratch while the other commands runs the app by building the app from the beginning.
 
