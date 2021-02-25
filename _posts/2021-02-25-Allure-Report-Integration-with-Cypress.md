@@ -44,6 +44,8 @@ From the dev/qa perspective Allure reports shorten common defect lifecycle: test
 -	Clear and nice reporting UI
 -	Can easily investigate test runs
 
+---
+
 ### **Allure Report Installation with Cypress Method 1**
 
 Installing Allure Reporter is very straightforward with Cypress. After creating the project run the following npm command
@@ -75,6 +77,8 @@ To enable intelliSense in your IDE use following reference and add in to plugins
 /// <reference types="@shelex/cypress-allure-plugin" />
 ```
 
+---
+
 ### **Allure Report Installation with Cypress Method 2 -**
 
 Installing Allure Reporter is very straightforward with Cypress. After creating the project run the following npm command
@@ -82,6 +86,8 @@ Installing Allure Reporter is very straightforward with Cypress. After creating 
 ```bash
 npm install --save-dev mocha-allure-reporter allure-commandline
 ```
+
+---
 
 ### **Configuring Allure Reports using Method 1 -**
 
@@ -96,6 +102,8 @@ Once setting up the project, run the following command to obtain test results as
 ```bash
 npx cypress run --env allure=true
 ```
+
+---
 
 ### **Configuring Allure Reports using Method 2 -**
 
@@ -117,11 +125,14 @@ Create a custom command to run the scripts and generate the reports
 "test:allure": "npm run cy:clientLogin && npm run report:allure"
 ```
 
+---
+
 ### **Sample Allure Report Features**
 
 <img src="/img/sm_1_2021_02_25.png"/>
 
 <img src="/img/sm_2_2021_02_25.png"/>
+
 
 ### **Allure Report Structure**
 
