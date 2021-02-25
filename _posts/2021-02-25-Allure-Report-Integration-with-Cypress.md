@@ -79,7 +79,7 @@ To enable intelliSense in your IDE use following reference and add in to plugins
 
 ---
 
-### **Allure Report Installation with Cypress Method 2 -**
+### **Allure Report Installation with Cypress Method 2**
 
 Installing Allure Reporter is very straightforward with Cypress. After creating the project run the following npm command
 
@@ -89,7 +89,7 @@ npm install --save-dev mocha-allure-reporter allure-commandline
 
 ---
 
-### **Configuring Allure Reports using Method 1 -**
+### **Configuring Allure Reports using Method 1**
 
 The easiest way to configure Allure Reports for your series of tests using command line method. Simply passing Allure Environment variables as follows.
 
@@ -105,7 +105,7 @@ npx cypress run --env allure=true
 
 ---
 
-### **Configuring Allure Reports using Method 2 -**
+### **Configuring Allure Reports using Method 2**
 
 First create a custom command to run the test script in Package.json file
 
