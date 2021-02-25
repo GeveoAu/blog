@@ -12,9 +12,9 @@ description : There are lots of cool testing frameworks for different programmin
 
 **Allure Report Integration with Cypress**
 
-There are lots of cool testing frameworks for different programming languages. Unfortunately, only a few of them can provide good representation of test execution output. An open-source framework designed to create test execution reports that are clear to everyone in the team.
+There are lots of cool testing frameworks for different programming languages. Unfortunately, only a few of them can provide good representation of test execution output. Allure Report Framework is an open-source framework designed to create test execution reports that are clear to everyone in the team.
 
-### **What is Allure Reports?**
+### **What is Allure Report?**
 
 Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form.
 
