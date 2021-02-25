@@ -10,17 +10,17 @@ description : There are lots of cool testing frameworks for different programmin
 
 ---
 
-# **Allure Report Integration with Cypress**
+**Allure Report Integration with Cypress**
 
 There are lots of cool testing frameworks for different programming languages. Unfortunately, only a few of them can provide good representation of test execution output. An open-source framework designed to create test execution reports that are clear to everyone in the team.
 
-## **What is Allure Reports?**
+### **What is Allure Reports?**
 
 Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form.
 
 Allure reports allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests.
 
-## **Why Allure Reports?**
+### **Why Allure Reports?**
 
 There are lots of cool testing frameworks for different programming languages. Unfortunately, only a few of them can provide good representation of test execution output.
 
@@ -28,7 +28,7 @@ An open-source framework designed to create test execution reports that are clea
 
 From the dev/qa perspective Allure reports shorten common defect lifecycle: test failures can be divided on bugs and broken tests, also logs, steps, fixtures, attachments, timings, history and integrations with TMS and bug-tracking systems can be configured, so the responsible developers and testers will have all information at hand.
 
-## **Features of Allure Reports**
+### **Features of Allure Reports**
 
 -	Users can group tests by stories or features or assertions
 -	User can mark Flaky Tests easily and it will display on the report
@@ -36,7 +36,7 @@ From the dev/qa perspective Allure reports shorten common defect lifecycle: test
 -	Interactive User Interface
 -	Support for languages like Java, Python, Javascript, PHP, .NET and etc
 
-## **Why Allure Reporting to Cypress?**
+### **Why Allure Reporting to Cypress?**
 
 -	Cypress does not have an inbult reporting solution
 -	Allure reports provide great presentational diagrams
@@ -44,7 +44,7 @@ From the dev/qa perspective Allure reports shorten common defect lifecycle: test
 -	Clear and nice reporting UI
 -	Can easily investigate test runs
 
-## **Allure Report Installation with Cypress Method 1**
+### **Allure Report Installation with Cypress Method 1**
 
 Installing Allure Reporter is very straightforward with Cypress. After creating the project run the following npm command
 
@@ -75,7 +75,7 @@ To enable intelliSense in your IDE use following reference and add in to plugins
 /// <reference types="@shelex/cypress-allure-plugin" />
 ```
 
-## **Allure Report Installation with Cypress Method 2 -**
+### **Allure Report Installation with Cypress Method 2 -**
 
 Installing Allure Reporter is very straightforward with Cypress. After creating the project run the following npm command
 
@@ -83,7 +83,7 @@ Installing Allure Reporter is very straightforward with Cypress. After creating 
 npm install --save-dev mocha-allure-reporter allure-commandline
 ```
 
-## **Configuring Allure Reports using Method 1 -**
+### **Configuring Allure Reports using Method 1 -**
 
 The easiest way to configure Allure Reports for your series of tests using command line method. Simply passing Allure Environment variables as follows.
 
@@ -97,7 +97,7 @@ Once setting up the project, run the following command to obtain test results as
 npx cypress run --env allure=true
 ```
 
-## **Configuring Allure Reports using Method 2 -**
+### **Configuring Allure Reports using Method 2 -**
 
 First create a custom command to run the test script in Package.json file
 
@@ -117,13 +117,13 @@ Create a custom command to run the scripts and generate the reports
 "test:allure": "npm run cy:clientLogin && npm run report:allure"
 ```
 
-## **Sample Allure Report Features**
+### **Sample Allure Report Features**
 
 <img src="/img/sm_1_2021_02_25.png"/>
 
 <img src="/img/sm_2_2021_02_25.png"/>
 
-## **Allure Report Structure**
+### **Allure Report Structure**
 
 Whenever you have the thought what the report looks like. You will most likely need to get more information rich reports. You may need to consider utilizing one of the Allure connectors for your testing structure, which will permit to gather substantially more data. Leap to the mixes area to study combination with testing systems.
 
@@ -162,6 +162,6 @@ Graphs allow you to see different statistics collected from the test data: statu
 
 <img src="/img/sm_6_2021_02_25.png"/>
 
-## **References**
+### **References**
 
 https://demo.qameta.io/allure/ (Sample Allure Report)
