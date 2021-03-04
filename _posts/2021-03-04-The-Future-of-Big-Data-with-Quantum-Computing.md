@@ -26,15 +26,15 @@ It starts with deciding how we will define a binary digit, or bit, when using a 
 
 The electron follows quantum laws and can therefore exist with its spin undefined in a "superposition" state that is a complex combination of the 0 and 1 states. It will only become defined (as 0 or 1) if it interacts strongly with something in its environment, an interaction that quantum physicists often refer to as a measurement.
 
-<img src="/img/as_2_2021_03_04.jpg"/>
+<img src="/img/as_2_2021_03_04.PNG"/>
 
 The process of defining the final outcome can change what you get. That process is called "interference." When you assemble multiple qubits together, it's possible to apply a certain set of starting conditions to each of those qubits — creating what quantum physicists call "interference effects" — that skew the undefined spins and set their interactions off on a particular course. Like waves rippling together on an ocean, they head toward an increased likelihood of the qubits arriving at a particular final state.
 
-<img src="/img/as_3_2021_03_04.jpg"/>
+<img src="/img/as_3_2021_03_04.PNG"/>
 
 Superposition and interference alone are not quite enough to allow a quantum computer to beat a classical one. The vital third phenomena is known as “entanglement”. Entanglement arises between quantum particles that interact in particular ways, causing all their properties to become shared between the particles. The result is that measurements on one particle can affect the outcome of subsequent measurements on any particles entangled with it, even when they are not physically connected.
 
-<img src="/img/as_4_2021_03_04.jpg"/>
+<img src="/img/as_4_2021_03_04.PNG"/>
 
 #### **What is Big Data?**
 
