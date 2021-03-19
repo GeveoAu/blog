@@ -159,10 +159,10 @@ There are lot more features in Flask that cannot be wrap into a single blog post
 
 ### **Reference**
 
-Flask Official Documentation [ https://flask.palletsprojects.com/en/1.1.x/ ]
-Flask Tutorials [ https://www.tutorialspoint.com/flask/index.htm ]
-Wikipedia [ https://en.wikipedia.org/wiki/Flask_(web_framework) ]
-Jinja Templating Engine [ https://jinja.palletsprojects.com/en/2.11.x/ ]
-Flask intro source code [ https://github.com/shakthisachintha/Flask-Demo ]
+- Flask Official Documentation [ https://flask.palletsprojects.com/en/1.1.x/ ]
+- Flask Tutorials [ https://www.tutorialspoint.com/flask/index.htm ]
+- Wikipedia [ https://en.wikipedia.org/wiki/Flask_(web_framework) ]
+- Jinja Templating Engine [ https://jinja.palletsprojects.com/en/2.11.x/ ]
+- Flask intro source code [ https://github.com/shakthisachintha/Flask-Demo ]
 
 
