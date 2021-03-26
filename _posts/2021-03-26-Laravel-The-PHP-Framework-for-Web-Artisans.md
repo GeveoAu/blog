@@ -6,9 +6,7 @@ author: Harin Samaranayake
 
 linkedin: https://www.linkedin.com/in/harinsamaranayake/
 
-description : Laravel is considered the PHP Framework for Web Artisans. According to hackr.io, it is the best PHP
-framework in 2021. It was developed by Taylor Otwell in June 2011. Laravel is free and open-source. It
-follows the Model–View–Controller (MVC) architectural pattern.
+description : Laravel is considered the PHP Framework for Web Artisans. According to hackr.io, it is the best PHP framework in 2021. It was developed by Taylor Otwell in June 2011. Laravel is free and open-source. It follows the Model–View–Controller (MVC) architectural pattern.
 
 ---
 
@@ -23,20 +21,28 @@ In this blog post, you will learn how to create a simple CRUD application using 
 Before we dig into the application there are several prerequisites.
 
 **XAMPP** - Apache PHP MySQL (https://www.apachefriends.org/index.html)
+
 **Composer** - PHP Dependency Manager (https://getcomposer.org)
+
 **VSCode** - Editor (https://code.visualstudio.com)
 
 Common terms used in the Laravel eco system.
 
 **Composer** - PHP dependency manager
+
 **Artisan** - Command Line Interface (CLI)
+
 **Tinker** - CLI to interact with the Database
+
 **Eloquent** - Object Relational Mapper (ORM)
+
 **Blade** - PHP templating engine
+
 
 Once you have set up the above-mentioned requisites a Laravel application can be created.
 
 ### **Setup**
+
 - Navigate to the htdocs folder in the xampp using the intergraded terminal of VSCode.
 - Execute the following command to create a new app.
 ``` 
