@@ -314,7 +314,7 @@ This blog post explained the basics of the Laravel framework with the related co
 1. https://laravel.com
 1. https://getbootstrap.com
 1. https://stackoverflow.com
-1. Traversy Media | https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+1. https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 1. https://pixabay.com
 1. https://www.presentationgo.com
 
