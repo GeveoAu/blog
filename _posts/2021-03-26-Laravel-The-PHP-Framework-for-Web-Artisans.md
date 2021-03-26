@@ -26,7 +26,9 @@ Before we dig into the application there are several prerequisites.
 
 **VSCode** - Editor (https://code.visualstudio.com)
 
-Common terms used in the Laravel eco system.
+
+### **Common terms used in the Laravel eco system.**
+
 
 **Composer** - PHP dependency manager
 
@@ -74,39 +76,43 @@ There are mainly four types of routes in Laravel.
 
 The route structure is shown below. route_type defines the type of the route. URL defines the pointing URL while the action defines the activity to be carried out once the endpoint is hit.
 
-**Structure**
+### **Structure**
 ```php
 Route::route_type(url, action);
 ```
 Routes reside in the /routes/web.php file. Below is an example of a simple GET and a POST route.
 
-**GET**
+### **GET**
 ```php
 Route::get('/', function () { return view('index');});
 ```
 
-**POST**
+### **POST**
 ```php
 Route::post('/', function () { return view('index');});
 ```
 
 In the action, you can return different things or call a controller function.
 
-**Returning a string**
+### **Returning a string**
 ```php
 Route::get('/', function () { return ‘Hello World’;});
 ```
 
-**Returning a html string**
+### **Returning a html string**
 ```php
 Route::get('/', function () { return ‘<h1>Hello World</h1>’;});
 ```
 
-**Returning a .blade view**
+### **Returning a .blade view**
+```php
 Route::get('/', function () { return view('index');});
+```
 
-**Calling a controller function**
+### **Calling a controller function**
+```php
 Route::get('/shop', [ItemController::class, 'index']);
+```
 
 The following command will return all the routes available in the application:
 
