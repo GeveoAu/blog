@@ -6,7 +6,9 @@ author: Harin Samaranayake
 
 linkedin: https://www.linkedin.com/in/harinsamaranayake/
 
-description : Laravel is considered the PHP Framework for Web Artisans. According to hackr.io, it is the best PHP framework in 2021. It was developed by Taylor Otwell in June 2011. Laravel is free and open-source. It follows the Model–View–Controller (MVC) architectural pattern.
+description : Laravel is considered the PHP Framework for Web Artisans. According to hackr.io, it is the best PHP
+framework in 2021. It was developed by Taylor Otwell in June 2011. Laravel is free and open-source. It
+follows the Model–View–Controller (MVC) architectural pattern.
 
 ---
 
@@ -21,30 +23,20 @@ In this blog post, you will learn how to create a simple CRUD application using 
 Before we dig into the application there are several prerequisites.
 
 **XAMPP** - Apache PHP MySQL (https://www.apachefriends.org/index.html)
-
 **Composer** - PHP Dependency Manager (https://getcomposer.org)
-
 **VSCode** - Editor (https://code.visualstudio.com)
-
-
-### **Common terms used in the Laravel eco system.**
-
-
-**Composer** - PHP dependency manager
-
-**Artisan** - Command Line Interface (CLI)
-
-**Tinker** - CLI to interact with the Database
-
-**Eloquent** - Object Relational Mapper (ORM)
-
-**Blade** - PHP templating engine
-
 
 Once you have set up the above-mentioned requisites a Laravel application can be created.
 
-### **Setup**
+Common terms used in the Laravel eco system.
 
+**Composer** - PHP dependency manager
+**Artisan** - Command Line Interface (CLI)
+**Tinker** - CLI to interact with the Database
+**Eloquent** - Object Relational Mapper (ORM)
+**Blade** - PHP templating engine
+
+### **Setup**
 - Navigate to the htdocs folder in the xampp using the intergraded terminal of VSCode.
 - Execute the following command to create a new app.
 ``` 
@@ -59,11 +51,13 @@ php artisan serve
 
 Commonly used files in the Laravel framework and their locations are listed below.
 
-1. models /app/Models
-1. views /resources/views
-1. controllers /app/Http/Controllers
-1. routes /routes/web.php
-1. database /.env
+| Files | Locations |
+| --- | ----------- |
+| models | /app/Models |
+| views | /resources/views |
+| controllers | /app/Http/Controllers |
+| routes | /routes/web.php |
+| database | /.env |
  
 ### **Routes**
 
@@ -74,42 +68,42 @@ There are mainly four types of routes in Laravel.
 1. PUT
 1. DELETE
 
-The route structure is shown below. route_type defines the type of the route. URL defines the pointing URL while the action defines the activity to be carried out once the endpoint is hit.
+The route structure is shown below. **route_type** defines the type of the route. URL defines the pointing **URL** while the **action** defines the activity to be carried out once the endpoint is hit.
 
-### **Structure**
+**Structure**
 ```php
 Route::route_type(url, action);
 ```
-Routes reside in the /routes/web.php file. Below is an example of a simple GET and a POST route.
+Routes reside in the **/routes/web.php** file. Below is an example of a simple GET and a POST route.
 
-### **GET**
+**GET**
 ```php
 Route::get('/', function () { return view('index');});
 ```
 
-### **POST**
+**POST**
 ```php
 Route::post('/', function () { return view('index');});
 ```
 
 In the action, you can return different things or call a controller function.
 
-### **Returning a string**
+**Returning a string**
 ```php
 Route::get('/', function () { return ‘Hello World’;});
 ```
 
-### **Returning a html string**
+**Returning a html string**
 ```php
 Route::get('/', function () { return ‘<h1>Hello World</h1>’;});
 ```
 
-### **Returning a .blade view**
+**Returning a .blade view**
 ```php
 Route::get('/', function () { return view('index');});
 ```
 
-### **Calling a controller function**
+**Calling a controller function**
 ```php
 Route::get('/shop', [ItemController::class, 'index']);
 ```
@@ -122,7 +116,7 @@ php artisan route:list
 
 ### **Views**
 
-In Laravel .blade files provide the functionality to use PHP code within HTML code sippets.
+In Laravel **.blade** files provide the functionality to use PHP code within HTML code sippets.
 ```php
 <h1><?php $var = 'test' ?></h1>
 ```
@@ -136,7 +130,7 @@ In blade, three main methods reduce code redundancy:
 
 ### **Controllers**
 
-In the Laravel framework Controllers are created under app/Http/Controllers folder. Controllers can be generated using the following artisan command.
+In the Laravel framework Controllers are created under **app/Http/Controllers** folder. Controllers can be generated using the following artisan command.
 
 ```php
 php artisan make:controller NameController
@@ -147,7 +141,7 @@ A simple controller structure.
 class ItemController extends Controller
 {
 public function index(){
-return view('shop');
+    return view('shop');
 }
 }
 ```
@@ -183,14 +177,16 @@ Route::resource('item','App\Http\Controllers\ItemController');
 ### **Setting up database**
 
 Database settings are stored in a .env file. As an example, you can connect to a SQL database as follows.
-```php
-DB_CONNECTION = mysql - database connection type
-DB_HOST = 127.0.0.1 - database host url
-DB_PORT = 3306 - database port
-DB_DATABASE = laravel - database name
-DB_USERNAME = root - database username
-DB_PASSWORD = password - database password
-```
+
+| Settings | Values |  |
+| --- | ----------- | -----|
+| DB_CONNECTION | mysql | database connection type|
+| DB_HOST | 127.0.0.1 | database host url|
+| DB_PORT | 3306 | database port|
+| DB_DATABASE | laravel | database name|
+| DB_USERNAME | root | database username|
+| DB_PASSWORD | password | database password|
+
 
 ### **Models**
 
@@ -225,11 +221,11 @@ Once we execute the above commands a migration file is generated. A migration fi
 public function up()
 {
 Schema::create('items', function (Blueprint $table) {
-$table->id();
-$table->string('title');
-$table->string('description');
-$table->string('url');
-$table->timestamps();
+    $table->id();
+    $table->string('title');
+    $table->string('description');
+    $table->string('url');
+    $table->timestamps();
 });
 }
 ```
@@ -239,17 +235,17 @@ Once the migrations are setup you can execute the migrations using the following
 ```php
 php artisan migrate
 ```
-Already created migration can be updated using the table() function as follows.
+Already created migration can be updated using the **table()** function as follows.
 
 ```php
 public function up()
 {
 Schema::create('items', function (Blueprint $table) {
-$table->id();
+    $table->id();
 …
 });
 Schema::table('items', function (Blueprint $table) {
-$table->integer('price');
+    $table->integer('price');
 });
 }
 ```
@@ -314,8 +310,6 @@ This blog post explained the basics of the Laravel framework with the related co
 1. https://laravel.com
 1. https://getbootstrap.com
 1. https://stackoverflow.com
-1. https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
-1. https://pixabay.com
-1. https://www.presentationgo.com
+1. Traversy Media | https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 
