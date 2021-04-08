@@ -63,6 +63,7 @@ The features may vary for the type of model you are trying to build. For example
 Training means feeding the dataset to the machine learning model, so it can learn using the features in the images fed. The target is to train that model so it can solve a fresh problem.
 
 -	**Model Extraction**
+
 Then the model is tested using some testing data that weren’t used in the training phase. By doing so, the accuracy of the training model can be tested.
 
 ### **Commercial Applications**
