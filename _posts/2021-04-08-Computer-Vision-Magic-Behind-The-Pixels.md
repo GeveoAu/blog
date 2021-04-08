@@ -1,6 +1,6 @@
 ---
 
-title: Computer Vision: Magic Behind The Pixels
+title: Computer Vision - Magic Behind The Pixels
 
 author: Harsha Silva
 
