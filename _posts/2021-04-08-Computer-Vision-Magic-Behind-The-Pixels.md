@@ -49,25 +49,25 @@ Object tracking is tracking the motion of an object utilizing consecutive video 
 
 Modern computer vision relies on deep learning. There are few steps when using a deep neural network for building a computer vision model. This approach is known as supervised training. 
 
-1.	**Collecting Data**
+- **Collecting Data**
 
 First, you would need a data set with annotated images. You can have your data set or use an existing one. Annotation is adding metadata to the image. It is the process of labeling or classifying an image using text, drawing tools, or both to show the data features you want your model to recognize on its own. For example, if you want the model to detect a certain image you have to first collect a training dataset containing images with that particular data set and draw bounding boxes and label objects in those images using an annotation tool.
 
-2.	**Extract Features**
+- **Extract Features**
 
 Feature extraction is a key point of the model. The entire deep learning model works around the idea of extracting useful features which help to identify the objects in an image. A feature in machine learning is an individual measurable property or characteristics of the problem instances that are considered. Those features are fed to the model as inputs when training the model. These features may include specific shaped colors or sizes and should be unique for that particular scenario. 
 The features may vary for the type of model you are trying to build. For example, features needed for a face recognition problem differ from features needed for an object detection problem. 
 
-3.	**Model Training**
+- **Model Training**
 
 Training means feeding the dataset to the machine learning model, so it can learn using the features in the images fed. The target is to train that model so it can solve a fresh problem.
 
-4.	**Model Extraction**
+-	**Model Extraction**
 Then the model is tested using some testing data that weren’t used in the training phase. By doing so, the accuracy of the training model can be tested.
 
 ### **Commercial Applications**
 
-1.	**Face Recognition by Facebook**
+- **Face Recognition by Facebook**
 
 This is a computer vision application that almost everybody is familiar with. This technology is beneficial against cyber-harassment and protecting the privacy of people.
 
@@ -76,11 +76,11 @@ This is a computer vision application that almost everybody is familiar with. Th
 <img src="/img/hs_3_2021_04_09.jpg" height="428" width="796 " />
 
 
-2.	**Visual Search**
+-	**Visual Search**
 
 Visual search engines like Google Images, Yahoo Image Search can retrieve images based on a provided image instead of keywords. Applications like Google Lens use computer vision to provide detailed information about a given image.
 
-3.	**Tesla Autopilot**
+-	**Tesla Autopilot**
 
 Tesla Autopilot is an advanced driver assistance system introduced by Tesla. In there, they perform semantic segmentation, object detection, and monocular depth estimation to the row input obtained from cameras and use them to control the car. Thanks to this, the cars can adjust their speed depending on traffic conditions, brake when approaching obstacles, maintain or change lanes, take a fork in the road, and park smoothly. 
 
