@@ -2,7 +2,7 @@
 
 title: Computer Vision - Magic Behind The Pixels
 
-author: Harsha Silva
+author: Harsha De Silva
 
 linkedin: https://www.linkedin.com/in/harsha-silva/
 
@@ -31,12 +31,12 @@ This is probably the simplest scenario. It categorizes a given set of images int
 1.	Localization
 The target in the localization problem is to locate the given object in an image. For example, in the given image, the ball has been localized. The typical way used to locate the object is to define a bounding box enclosing the object in the image.
 
-<img src=" hs_1_2021_04_09.jpg" height="1080 " width="1920" />
+<img src="/img/hs_1_2021_04_09.jpg" />
 
 3.	Object Detection
 This is a bit complex. The purpose of object detection is to localize and classify the objects in a given image. 
 
-<img src=" hs_2_2021_04_09.jpg" height="571 " width="846" />
+<img src="/img/hs_2_2021_04_09.jpg" height="571 " width="846" />
 
 4.	Object Identification
 Object Identification is almost the same as object detection. But in this case, the goal is to find the instances of a given specific object in an image.
@@ -69,7 +69,7 @@ This is a computer vision application that almost everybody is familiar with. Th
 
     Face recognition is used in many scenarios beyond social media such as security systems, mobile phones unlocking, smart advertising and attendance marking systems. 
 
-<img src=" hs_3_2021_04_09.jpg" height="428" width="796 " />
+<img src="/img/hs_3_2021_04_09.jpg" height="428" width="796 " />
 
 
 2.	**Visual Search**
