@@ -79,7 +79,7 @@ Face recognition is used in many scenarios beyond social media such as security 
 
 -	**Visual Search**
 
-Visual search engines like Google Images, Yahoo Image Search can retrieve images based on a provided image instead of keywords. Applications like Google Lens use computer vision to provide detailed information about a given image.
+Visual search engines like [Google Images] (https://www.google.com/imghp), [Yahoo Image Search] (https://images.search.yahoo.com/) can retrieve images based on a provided image instead of keywords. Applications like [Google Lens] (https://lens.google.com/) use computer vision to provide detailed information about a given image.
 
 -	**Tesla Autopilot**
 
@@ -91,7 +91,7 @@ YOLO, (You Only Look Once) is a highly accurate and fast object detection techno
 
 For simplicity, we are using an available pre-trained model to identify objects without training our image. 
 
-Since this involves machine learning and deep learning, an environment with high GPU power is required. You can use Google Collaboratory or your machine with Linux OS to try out the following example. 
+Since this involves machine learning and deep learning, an environment with high GPU power is required. You can use [Google Collaboratory] (https://colab.research.google.com/) or your machine with Linux OS to try out the following example. 
 
 1.	First You should have OpenCV, CUDA Installed in your environment. 
 
@@ -122,7 +122,7 @@ Simple as that!
 
 The above-used model is trained to identify 80 objects. (The list can be found in obj.names file)
 
-You can use your dataset and train new models to detect any object you want. Additional Details can be found here.
+You can use your dataset and train new models to detect any object you want. Additional Details can be found [here] (https://pjreddie.com/darknet/yolo/).
 
 ### **Conclusion**
 
