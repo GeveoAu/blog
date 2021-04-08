@@ -25,23 +25,23 @@ A neural network contains layers of interconnected neurons. A neuron in a neural
  
 ### **Typical Computer Vision Problems**
 
-1. Image classification:
+- Image classification:
 This is probably the simplest scenario. It categorizes a given set of images into pre-defined categories. For example, images with cats and dogs. 
 
-1.	Localization
+-	Localization
 The target in the localization problem is to locate the given object in an image. For example, in the given image, the ball has been localized. The typical way used to locate the object is to define a bounding box enclosing the object in the image.
 
 <img src="/img/hs_1_2021_04_09.png" />
 
-3.	Object Detection
+-	Object Detection
 This is a bit complex. The purpose of object detection is to localize and classify the objects in a given image. 
 
 <img src="/img/hs_2_2021_04_09.png" height="571 " width="846" />
 
-4.	Object Identification
+-	Object Identification
 Object Identification is almost the same as object detection. But in this case, the goal is to find the instances of a given specific object in an image.
 
-5.	Object Tracking
+-	Object Tracking
 Object tracking is tracking the motion of an object utilizing consecutive video frames as the input. For this, comparatively high computational power is needed. This can be done either by locating the object in each video frame and connecting them or locating the object once and learning the movement of the object. 
 
 
@@ -50,13 +50,16 @@ Object tracking is tracking the motion of an object utilizing consecutive video 
 Modern computer vision relies on deep learning. There are few steps when using a deep neural network for building a computer vision model. This approach is known as supervised training. 
 
 1.	**Collecting Data**
+
 First, you would need a data set with annotated images. You can have your data set or use an existing one. Annotation is adding metadata to the image. It is the process of labeling or classifying an image using text, drawing tools, or both to show the data features you want your model to recognize on its own. For example, if you want the model to detect a certain image you have to first collect a training dataset containing images with that particular data set and draw bounding boxes and label objects in those images using an annotation tool.
 
 2.	**Extract Features**
+
 Feature extraction is a key point of the model. The entire deep learning model works around the idea of extracting useful features which help to identify the objects in an image. A feature in machine learning is an individual measurable property or characteristics of the problem instances that are considered. Those features are fed to the model as inputs when training the model. These features may include specific shaped colors or sizes and should be unique for that particular scenario. 
 The features may vary for the type of model you are trying to build. For example, features needed for a face recognition problem differ from features needed for an object detection problem. 
 
 3.	**Model Training**
+
 Training means feeding the dataset to the machine learning model, so it can learn using the features in the images fed. The target is to train that model so it can solve a fresh problem.
 
 4.	**Model Extraction**
@@ -65,6 +68,7 @@ Then the model is tested using some testing data that weren’t used in the trai
 ### **Commercial Applications**
 
 1.	**Face Recognition by Facebook**
+
 This is a computer vision application that almost everybody is familiar with. This technology is beneficial against cyber-harassment and protecting the privacy of people.
 
     Face recognition is used in many scenarios beyond social media such as security systems, mobile phones unlocking, smart advertising and attendance marking systems. 
@@ -73,9 +77,11 @@ This is a computer vision application that almost everybody is familiar with. Th
 
 
 2.	**Visual Search**
+
 Visual search engines like Google Images, Yahoo Image Search can retrieve images based on a provided image instead of keywords. Applications like Google Lens use computer vision to provide detailed information about a given image.
 
 3.	**Tesla Autopilot**
+
 Tesla Autopilot is an advanced driver assistance system introduced by Tesla. In there, they perform semantic segmentation, object detection, and monocular depth estimation to the row input obtained from cameras and use them to control the car. Thanks to this, the cars can adjust their speed depending on traffic conditions, brake when approaching obstacles, maintain or change lanes, take a fork in the road, and park smoothly. 
 
 ### **Simple Exercise to try out: YOLO**
