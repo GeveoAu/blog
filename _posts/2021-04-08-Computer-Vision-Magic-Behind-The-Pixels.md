@@ -17,13 +17,13 @@ One-third of the human brain is devoted exclusively to the task of parsing visua
 From a biological point of view, computer vision aims to come up with a computational model similar to the human visual system. From an engineering point of view, computer vision aims to build autonomous systems which could perform some of the tasks which the human visual system can perform. It tries to extract details from the pixels. In this aspect, Computer Vision is a subdomain of a broad area of Artificial Intelligence and Machine Learning.
 .
 
-#### **Deep Vision**
+### **Deep Vision**
 
 However, within the machine learning field, there is an area often referred to as brain-inspired computation or neural networks which is inspired by the human brain since it is the best ‘machine’ for learning and solving problems. The human brain consists of billions of neurons that altogether connect to form a network. These neurons do the basis of all the decisions made based on the various information gathered. This is exactly what's behind the Artificial Neural Network technique. 
 
 A neural network contains layers of interconnected neurons. A neuron in a neural network is a mathematical function that extracts and classifies information. When the number of “neuron layers” increases in a neural network, it is known as deep learning. This emergence of deep learning has added a huge boost to the already developing field of Computer Vision. Besides, the availability of large data sets, the invention of computers with higher GPU power, bigger networks, and faster machines have an impact on this advancement. 
  
-#### **Typical Computer Vision Problems**
+### **Typical Computer Vision Problems**
 
 1. Image classification:
 This is probably the simplest scenario. It categorizes a given set of images into pre-defined categories. For example, images with cats and dogs. 
@@ -31,12 +31,12 @@ This is probably the simplest scenario. It categorizes a given set of images int
 1.	Localization
 The target in the localization problem is to locate the given object in an image. For example, in the given image, the ball has been localized. The typical way used to locate the object is to define a bounding box enclosing the object in the image.
 
-<img src="/img/hs_1_2021_04_09.jpg" />
+<img src="/img/hs_1_2021_04_09.png" />
 
 3.	Object Detection
 This is a bit complex. The purpose of object detection is to localize and classify the objects in a given image. 
 
-<img src="/img/hs_2_2021_04_09.jpg" height="571 " width="846" />
+<img src="/img/hs_2_2021_04_09.png" height="571 " width="846" />
 
 4.	Object Identification
 Object Identification is almost the same as object detection. But in this case, the goal is to find the instances of a given specific object in an image.
@@ -45,7 +45,7 @@ Object Identification is almost the same as object detection. But in this case, 
 Object tracking is tracking the motion of an object utilizing consecutive video frames as the input. For this, comparatively high computational power is needed. This can be done either by locating the object in each video frame and connecting them or locating the object once and learning the movement of the object. 
 
 
-#### **How does it Work**
+### **How does it Work**
 
 Modern computer vision relies on deep learning. There are few steps when using a deep neural network for building a computer vision model. This approach is known as supervised training. 
 
@@ -62,7 +62,7 @@ Training means feeding the dataset to the machine learning model, so it can lear
 4.	**Model Extraction**
 Then the model is tested using some testing data that weren’t used in the training phase. By doing so, the accuracy of the training model can be tested.
 
-#### **Commercial Applications**
+### **Commercial Applications**
 
 1.	**Face Recognition by Facebook**
 This is a computer vision application that almost everybody is familiar with. This technology is beneficial against cyber-harassment and protecting the privacy of people.
@@ -78,7 +78,7 @@ Visual search engines like Google Images, Yahoo Image Search can retrieve images
 3.	**Tesla Autopilot**
 Tesla Autopilot is an advanced driver assistance system introduced by Tesla. In there, they perform semantic segmentation, object detection, and monocular depth estimation to the row input obtained from cameras and use them to control the car. Thanks to this, the cars can adjust their speed depending on traffic conditions, brake when approaching obstacles, maintain or change lanes, take a fork in the road, and park smoothly. 
 
-#### **Simple Exercise to try out: YOLO**
+### **Simple Exercise to try out: YOLO**
 
 YOLO, (You Only Look Once) is a highly accurate and fast object detection technology you can use easily. It applies a neural network to the entire image and divides the image into regions to predict the objects in it and their bounding boxes. Let’s try out a simple exercise with YOLO-V3 object detector to get a hands-on experience on object detection. 
 
@@ -117,6 +117,6 @@ The above-used model is trained to identify 80 objects. (The list can be found i
 
 You can use your dataset and train new models to detect any object you want. Additional Details can be found here.
 
-#### **Conclusion**
+### **Conclusion**
 
 The world is undergoing a deep digital transformation and computer vision plays an important role in it. But, despite all the technological advancements, the field of computer vision has many unsolved areas. Besides, one should give special consideration to ethical and privacy violations when using these technologies.
