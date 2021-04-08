@@ -72,7 +72,7 @@ Then the model is tested using some testing data that weren’t used in the trai
 
 This is a computer vision application that almost everybody is familiar with. This technology is beneficial against cyber-harassment and protecting the privacy of people.
 
-    Face recognition is used in many scenarios beyond social media such as security systems, mobile phones unlocking, smart advertising and attendance marking systems. 
+Face recognition is used in many scenarios beyond social media such as security systems, mobile phones unlocking, smart advertising and attendance marking systems. 
 
 <img src="/img/hs_3_2021_04_09.jpg" height="428" width="796 " />
 
