@@ -16,18 +16,25 @@ The members of the ETF do not have to wait until they complete a specific age to
 
 #### **Benefits can also be obtained in the following situations (Regardless of the Duration of Service)**
 
-1.	Reaching 60 years of age
-1.	Migrating to another country
-1.	Getting a government job with a pension
-1.	Resigning from the job because of permanent disability
-1.	Death of the member
+- Reaching 60 years of age
+
+- Migrating to another country
+
+- Getting a government job with a pension
+
+- Resigning from the job because of permanent disability
+
+- Death of the member
 
 #### **What to submit when applying for an ETF Claim**
 
-1.	The claim application form should be legibly and correctly filled to avoid data errors. A separate application must be submitted for each company certified by the employer.  [Click Here to Download the Application](http://www.etfb.lk/pdf/ClaimApplicationFormVI.pdf?fbclid=IwAR0Yq5XeF2nj9itCdleI3QLrUGyDzeI9v24bbmUMmzciEgBWgnop6YV5ufY)
-1.	A photocopy of the NIC certified by the employer
-1.	A copy of the bank account book (Name, Account Number, Address Page)
-1.	If the member’s name given in the claim application is different from that appearing in the returns, annual member statement, NIC, or bank account, a letter should be submitted from the employer certifying that those names refer to one and the same person.
+- The claim application form should be legibly and correctly filled to avoid data errors. A separate application must be submitted for each company certified by the employer.  [Click Here to Download the Application](http://www.etfb.lk/pdf/ClaimApplicationFormVI.pdf?fbclid=IwAR0Yq5XeF2nj9itCdleI3QLrUGyDzeI9v24bbmUMmzciEgBWgnop6YV5ufY)
+
+- A photocopy of the NIC certified by the employer
+
+- A copy of the bank account book (Name, Account Number, Address Page)
+
+- If the member’s name given in the claim application is different from that appearing in the returns, annual member statement, NIC, or bank account, a letter should be submitted from the employer certifying that those names refer to one and the same person.
 
 #### **Claim Process:**
 
