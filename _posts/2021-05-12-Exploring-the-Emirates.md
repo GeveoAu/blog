@@ -39,8 +39,9 @@ The Dubai Fountain is the world’s largest musical fountain. It can spray 22,00
 
 We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It has one of the best views but before every performance, people from the mall and other areas gather there in huge numbers. The water at the Dubai Fountain dances to various choreographed melodies which leave us mesmerized.
 
-
-<img align="left" src="/img/ip_033_2021_05_12.gif"/> <img align="center" src="/img/ip_04_2021_05_12.png"/> <img align="right" src="/img/ip_05_2021_05_12.png"/>
+<p align="center">
+  <img src="/img/ip_033_2021_05_12.gif" width="300" height="300"/> <img src="/img/ip_04_2021_05_12.png" width="300" height="300"/> <img src="/img/ip_05_2021_05_12.png" width="300" height="300"/>
+</p>
 
 
 ### **Desert Safari -**
