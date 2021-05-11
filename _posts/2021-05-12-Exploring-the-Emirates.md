@@ -61,8 +61,9 @@ After 30 minutes of Dune Bashing, we reached a camp in the middle of the desert.
 It was one of the unforgettable experience in my life. I think Dubai tour without going on a desert safari with BBQ Dinner is incomplete. 
 
 <p align="center">
-  <img align="left" src="/img/ip_07_2021_05_12.png" width="300" height="300"/> <img align="right" src="/img/ip_08_2021_05_12.jpg" width="300" height="300"/>
+  <img align="left" src="/img/ip_07_2021_05_12.png" width="500" height="500"/> <img align="right" src="/img/ip_08_2021_05_12.jpg" width="500" height="500"/>
 </p>
+
 
 ### **At the top of Burj Khalifa -**
 
