@@ -17,7 +17,7 @@ There is a saying that “Once a year go somewhere you have never been before.�
 When the early morning sunlight touches the ground, my Emirates EK 649 flight was in Emirate’s Airspace. To the horizon what I can see is endlessly long & impressive sand valleys and lights of the highways in the middle of the desert. It was quite a nice scenery. 
 
 <p align="center">
-  <img src="/img/ip_01_2021_05_12.jpg"/>
+  <img src="/img/ip_01_2021_05_12.jpg" width="800" height="500"/>
 </p>
 
 ### **Al Ain -**
