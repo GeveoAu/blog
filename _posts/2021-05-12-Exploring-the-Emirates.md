@@ -101,7 +101,8 @@ We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterf
 
 <p align="center">
 <img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"/> <img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"/>
-<span align="left"> Dates of the Waterfront Market </span> <span align="right"> Dubai Skylines from the distance </span>
+<span align="left"> Dates of the Waterfront Market </span> 
+<span align="right"> Dubai Skylines from the distance </span>
 </p>
 
 These are some of the highlights of my tour. With the time limitations and other planned works, I missed to visit the places like Dubai Museum, Jumeirah Mosque and to get Desert Quad Bike riding experience. They are already on my list for the next visit, and I am sure there are much more. Dubai can offer the kind of experience you should definitely have.
