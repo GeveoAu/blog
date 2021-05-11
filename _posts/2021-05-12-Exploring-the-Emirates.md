@@ -33,8 +33,8 @@ After coming back to Dubai from Al Ain, first place we went to see is the Dubai 
 
 <table>
   <tr>
-    <td><img src="/img/ip_02_2021_05_12.jpg" width="300" height="500"/></td>
-    <td><img src="/img/ip_03_2021_05_12.gif" width="300" height="500"/></td>
+    <td><img src="/img/ip_02_2021_05_12.jpg" width="300" height="500"></td>
+    <td><img src="/img/ip_03_2021_05_12.gif" width="300" height="500"></td>
   </tr>
  </table>
 
