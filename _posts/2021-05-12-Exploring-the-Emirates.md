@@ -92,7 +92,7 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 **Queen Elizabeth 2**, often referred to simply as **QE2**, is a 293.5 m long retired British luxury cruise ship active from 1969 to 2008. She had been acquired by the private equity arm of Dubai and now reopened as a floating hotel in Port Rashid. We had our dinner on the ship, and it was a quite nice experience. Visitors can tour around the ship and get a glimpse of what life was like onboard the iconic QE2 during her sailing days. 
 
 <p align="center">
-<img src="/img/ip_12_2021_05_12.png" width="300" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="300" height="300"/>
+<img src="/img/ip_12_2021_05_12.png" width="325" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="325" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="325" height="300"/>
 <span> Tour of QE II </span>
 </p>
 
