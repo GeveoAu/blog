@@ -69,6 +69,7 @@ It was one of the unforgettable experience in my life. I think Dubai tour withou
 
 <p align="center">
   <img src="/img/ip_07_2021_05_12.png" width="500" height="500"/> <img src="/img/ip_08_2021_05_12.jpg" width="500" height="500"/>
+  <span> Desert Safari Moments </span>
 </p>
 
 <p>
@@ -82,6 +83,7 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 <p align="center">
 <img src="/img/ip_09_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_10_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_11_2021_05_12.jpg" width="300" height="300"/>
+  <span> Dubai city view from top of Burj Khalifa </span>
 </p>
 
 
@@ -91,6 +93,7 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 <p align="center">
 <img src="/img/ip_12_2021_05_12.png" width="300" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="300" height="300"/>
+  <span> Tour of QE II </span>
 </p>
 
 
@@ -98,6 +101,7 @@ We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterf
 
 <p align="center">
 <img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"/> <img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"/>
+  <span> Dates of the Waterfront Market </span> <span> Dubai Skylines from the distance </span>
 </p>
 
 These are some of the highlights of my tour. With the time limitations and other planned works, I missed to visit the places like Dubai Museum, Jumeirah Mosque and to get Desert Quad Bike riding experience. They are already on my list for the next visit, and I am sure there are much more. Dubai can offer the kind of experience you should definitely have.
