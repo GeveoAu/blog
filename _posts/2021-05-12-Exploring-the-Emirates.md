@@ -32,7 +32,7 @@ Al-Ain is known as the "Garden City" of the UAE and It is the largest inland cit
 After coming back to Dubai from Al Ain, first place we went to see is the Dubai Mall. It is the largest mall in the world by total land area. In 2019, 84 Million visitors visited the Dubai Mall. Dubai Mall has so much more to offer than just shopping. Dubai Mall Waterfall and The Aquarium enough to kill most of our time there. 
 
 <p align="center">
-  <img src="/img/ip_02_2021_05_12.jpg" width="200" height="500" /> <img src="/img/ip_03_2021_05_12.gif" width="200" height="500" />
+  <img src="/img/ip_02_2021_05_12.jpg" width="100" height="500" /> <img src="/img/ip_03_2021_05_12.gif" width="100" height="500" />
 </p>
 
 ### **The Dubai Fountain -**
