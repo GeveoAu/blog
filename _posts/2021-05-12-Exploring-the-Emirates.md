@@ -73,7 +73,10 @@ The Burj Khalifa has been the tallest structure and building in the world since 
 
 We went the Burj Khalifa tour in the morning. On the lower levels, there were several educational presentations about information regarding Burj Khalifa and how they built it, etc. The Burj Khalifa elevator took only one minute to take us to the 124th floor where the observation point was placed. Speed is 10 meters per second, making the elevators among the fastest in the world. We were able to observe the city of Dubai, Desert and Sea and can buy souvenirs from there. 
 
-<img align="left" src="/img/ip_09_2021_05_12.jpg" width="800" height="800"/> <img align="center" src="/img/ip_10_2021_05_12.jpg" width="800" height="800"/> <img align="right" src="/img/ip_11_2021_05_12.jpg" width="800" height="800"/>
+<p align="center">
+<img src="/img/ip_09_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_10_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_11_2021_05_12.jpg" width="300" height="300"/>
+</p>
+
 
 ### **Queen Elizabeth 2 -**
 
