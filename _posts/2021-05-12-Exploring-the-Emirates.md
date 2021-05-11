@@ -88,7 +88,7 @@ It was one of the unforgettable experience in my life. I think Dubai tour withou
 </p>
 
 
-### **At the top of Burj Khalifa -**
+### **At the Top of Burj Khalifa -**
 
 The Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009. It is three times as tall as the Eiffel Tower and nearly twice as tall as the Empire State Building. One of the lesser known and more interesting facts about Burj Khalifa is that the tip of the sphere of the Burj Khalifa can be seen from up to 95 kilometers away. 
 
@@ -132,11 +132,13 @@ We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterf
     <td><img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"></td>
   </tr>
   <tr>
-    <td>Dates of the Waterfront Market</td>
-     <td>Dubai Skylines from the Distance</td>
+    <td align="center">Dates of the Waterfront Market</td>
+     <td align="center">Dubai Skylines from the Distance</td>
   </tr>
  </table>
 
+<p>
+  </p>
 
 These are some of the highlights of my tour. With the time limitations and other planned works, I missed to visit the places like Dubai Museum, Jumeirah Mosque and to get Desert Quad Bike riding experience. They are already on my list for the next visit, and I am sure there are much more. Dubai can offer the kind of experience you should definitely have.
 
