@@ -46,7 +46,7 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
 
 ### **Desert Safari -**
 
-<img align="right" src="/img/ip_06_2021_05_12.gif" width="300" height="600"/>
+<img align="right" src="/img/ip_06_2021_05_12.gif" width="300" height="500"/>
 
 Desert Safari was the unique experience in our journey. These Safaris are designed to offer you an electrifying and thrilling experience in the safest and most convenient way.
 
@@ -60,7 +60,9 @@ After 30 minutes of Dune Bashing, we reached a camp in the middle of the desert.
 
 It was one of the unforgettable experience in my life. I think Dubai tour without going on a desert safari with BBQ Dinner is incomplete. 
 
-<img align="left" src="/img/ip_07_2021_05_12.png"/> <img align="right" src="/img/ip_08_2021_05_12.jpg"/>
+<p align="center">
+  <img align="left" src="/img/ip_07_2021_05_12.png" width="500" height="500"/> <img align="right" src="/img/ip_08_2021_05_12.jpg" width="500" height="500"/>
+</p>
 
 ### **At the top of Burj Khalifa -**
 
