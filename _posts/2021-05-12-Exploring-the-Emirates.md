@@ -33,8 +33,8 @@ After coming back to Dubai from Al Ain, first place we went to see is the Dubai 
 
 <table>
   <tr>
-    <td><img src="/img/ip_02_2021_05_12.jpg" width="300" height="500"></td>
-    <td><img src="/img/ip_03_2021_05_12.gif" width="300" height="500"></td>
+    <td><img src="/img/ip_02_2021_05_12.jpg" width="500" height="500"></td>
+    <td><img src="/img/ip_03_2021_05_12.gif" width="500" height="500"></td>
   </tr>
  </table>
 
@@ -48,8 +48,14 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
 <img src="/img/ip_033_2021_05_12.gif" width="1000" height="300"/>
 </p>
 
+<table>
+  <tr>
+    <td><img src="/img/ip_04_2021_05_12.png" width="500" height="300"></td>
+    <td><img src="/img/ip_05_2021_05_12.png" width="500" height="300"></td>
+  </tr>
+ </table>
+
 <p align="center">
-   <img src="/img/ip_04_2021_05_12.png" width="500" height="300"/> <img src="/img/ip_05_2021_05_12.png" width="500" height="300"/>
    <span> Dancing glory of The Dubai Fountain </span>
 </p>
 
