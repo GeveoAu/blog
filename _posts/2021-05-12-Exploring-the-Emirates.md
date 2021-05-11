@@ -20,14 +20,14 @@ When the early morning sunlight touches the ground, my Emirates EK 649 flight wa
   <img src="/img/ip_01_2021_05_12.jpg" width="800" height="500"/>
 </p>
 
-### **Al Ain -**
+## **Al Ain -**
 
 As we came out of the Dubai International Airport, first place we went was Al Ain. 
 Since some of my relatives are there, before exploring Dubai, We have spent a couple of days in Al ain as well. The Distance to Al Ain from Dubai is 152km but It only took less than 2 hours to Al Ain via E66 highway. 
 
 Al-Ain is known as the "Garden City" of the UAE and It is the largest inland city in the Emirates. During my stay we went to Bawadi Mall which is one of the largest mall in Al Ain and Al Ain Zoo which is the United Arab Emirates' largest zoo.
 
-### **Dubai Mall -**
+## **Dubai Mall -**
 
 After coming back to Dubai from Al Ain, first place we went to see is the Dubai Mall. It is the largest mall in the world by total land area. In 2019, 84 Million visitors visited the Dubai Mall. Dubai Mall has so much more to offer than just shopping. Dubai Mall Waterfall and The Aquarium enough to kill most of our time there. 
 
@@ -38,7 +38,7 @@ After coming back to Dubai from Al Ain, first place we went to see is the Dubai 
   </tr>
  </table>
 
-### **The Dubai Fountain -**
+## **The Dubai Fountain -**
 
 The Dubai Fountain is the world’s largest musical fountain. It can spray 22,000 gallons (83,000 liters) of water in the air at any moment. More than 6,600 lights and 25 color projectors have been installed. Shows are there daily 6PM to 11PM (Every 30 minutes) 
 
@@ -60,7 +60,7 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
 </p>
 
 
-### **Desert Safari -**
+## **Desert Safari -**
 
 <img align="right" src="/img/ip_06_2021_05_12.gif" width="300" height="500"/>
 
@@ -88,7 +88,7 @@ It was one of the unforgettable experience in my life. I think Dubai tour withou
 </p>
 
 
-### **At the Top of Burj Khalifa -**
+## **At the Top of Burj Khalifa -**
 
 The Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009. It is three times as tall as the Eiffel Tower and nearly twice as tall as the Empire State Building. One of the lesser known and more interesting facts about Burj Khalifa is that the tip of the sphere of the Burj Khalifa can be seen from up to 95 kilometers away. 
 
@@ -107,7 +107,7 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 </p>
 
 
-### **Queen Elizabeth 2 -**
+## **Queen Elizabeth 2 -**
 
 **Queen Elizabeth 2**, often referred to simply as **QE2**, is a 293.5 m long retired British luxury cruise ship active from 1969 to 2008. She had been acquired by the private equity arm of Dubai and now reopened as a floating hotel in Port Rashid. We had our dinner on the ship, and it was a quite nice experience. Visitors can tour around the ship and get a glimpse of what life was like onboard the iconic QE2 during her sailing days. 
 
