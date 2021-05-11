@@ -82,11 +82,16 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 **Queen Elizabeth 2**, often referred to simply as **QE2**, is a 293.5 m long retired British luxury cruise ship active from 1969 to 2008. She had been acquired by the private equity arm of Dubai and now reopened as a floating hotel in Port Rashid. We had our dinner on the ship, and it was a quite nice experience. Visitors can tour around the ship and get a glimpse of what life was like onboard the iconic QE2 during her sailing days. 
 
-<img align="left" src="/img/ip_12_2021_05_12.png"/> <img align="center" src="/img/ip_13_2021_05_12.jpg"/> <img align="right" src="/img/ip_14_2021_05_12.png"/>
+<p align="center">
+<img src="/img/ip_12_2021_05_12.png" width="300" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="300" height="300"/>
+</p>
+
 
 We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterfront Market.
 
-<img align="left" src="/img/ip_15_2021_05_12.jpg" width="800" height="800"/> <img align="right" src="/img/ip_16_2021_05_12.jpg"/>
+<p align="center">
+<img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"/> <img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"/>
+</p>
 
 These are some of the highlights of my tour. With the time limitations and other planned works, I missed to visit the places like Dubai Museum, Jumeirah Mosque and to get Desert Quad Bike riding experience. They are already on my list for the next visit, and I am sure there are much more. Dubai can offer the kind of experience you should definitely have.
 
