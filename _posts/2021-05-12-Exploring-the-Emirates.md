@@ -103,8 +103,6 @@ We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterf
 <img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"/> <img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"/>
   <p align="left">
     <span> Dates of the Waterfront Market </span> 
-  </p>
-  <p align="right">
     <span> Dubai Skylines from the distance </span>
   </p>
 </p>
