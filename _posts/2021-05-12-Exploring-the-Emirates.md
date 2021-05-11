@@ -52,7 +52,7 @@ Desert Safari was the unique experience in our journey. These Safaris are design
 
 Next day, since we have planned to go for Desert Safari, we spent the morning in the hotel, near bazaar. Our Desert Safari driver with his Toyota Land Cruiser V8 came to pick us from the hotel around 3 pm. We travelled around one hour from Dubai city through the highway. Then we reached a camping area with full of tourists. While our driver reduced tire pressure to enter the sandy desert, we have taken photos with falcons. Falcon is the national Emblem of the United Arab Emirates. Tourists can get Desert Quad Bike riding experience in there which we did not have the chance due to time limitation. 
 
-<img src="/img/ip_06_2021_05_12.gif"/>
+<img src="/img/ip_06_2021_05_12.gif" width="800" height="800"/>
 
 We have entered the sandy desert after another short distance drive. It was like a boat navigating through rough seas. The SUV is going over the dunes at varying speeds and flying up into the air as you bash against the golden dunes.  
 
@@ -72,11 +72,11 @@ The Burj Khalifa has been the tallest structure and building in the world since 
 
 We had a Burj Khalifa tour in the morning. There were several educational presentations about information regarding Burj Khalifa and how they built it, etc. The Burj Khalifa elevator took only one minute to take us to the 124th floor where the observation point was placed. Speed is 10 meters per second, making the elevators among the fastest in the world. We were able to observe the city of Dubai, Desert and Sea and can buy souvenirs from there. 
 
-<img src="/img/ip_09_2021_05_12.jpg"/>
+<img src="/img/ip_09_2021_05_12.jpg" width="800" height="800"/>
 
-<img src="/img/ip_10_2021_05_12.jpg"/>
+<img src="/img/ip_10_2021_05_12.jpg" width="800" height="800"/>
 
-<img src="/img/ip_11_2021_05_12.jpg"/>
+<img src="/img/ip_11_2021_05_12.jpg" width="800" height="800"/>
 
 ### **Queen Elizabeth 2 -**
 
@@ -90,7 +90,7 @@ We had a Burj Khalifa tour in the morning. There were several educational presen
 
 We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterfront Market.
 
-<img src="/img/ip_15_2021_05_12.jpg"/>
+<img src="/img/ip_15_2021_05_12.jpg" width="800" height="800"/>
 
 <img src="/img/ip_16_2021_05_12.jpg"/>
 
