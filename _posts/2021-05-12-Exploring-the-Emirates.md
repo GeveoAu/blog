@@ -83,7 +83,6 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 <p align="center">
 <img src="/img/ip_09_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_10_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_11_2021_05_12.jpg" width="300" height="300"/>
-  <p> </p>
 <span> Dubai city view from top of Burj Khalifa </span>
 </p>
 
@@ -94,8 +93,7 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 <p align="center">
 <img src="/img/ip_12_2021_05_12.png" width="300" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="300" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="300" height="300"/>
- <p> </p>
- <span> Tour of QE II </span>
+<span> Tour of QE II </span>
 </p>
 
 
