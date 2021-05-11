@@ -64,6 +64,8 @@ It was one of the unforgettable experience in my life. I think Dubai tour withou
   <img align="left" src="/img/ip_07_2021_05_12.png" width="500" height="500"/> <img align="right" src="/img/ip_08_2021_05_12.jpg" width="500" height="500"/>
 </p>
 
+<p>
+  </p>
 
 ### **At the top of Burj Khalifa -**
 
