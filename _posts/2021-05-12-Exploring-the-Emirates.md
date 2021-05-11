@@ -4,7 +4,7 @@ title: Exploring the Emirates
 
 author: Ishan Perera
 
-linkedin: https://www.linkedin.com/in/chamil800/
+linkedin: https://www.linkedin.com/in/ishan-perera-1ab380ba/
 
 description : There is a saying that “Once a year go somewhere you have never been before.”  Unfortunately, now we all missed travelling due to this pandemic situation. Since we cannot exactly say when we can travel again like before. We have to live with the travel memories that we had before this pandemic. So, I thought to share highlights of my experience of travelling Dubai before COVID 19 Pandemic hit the world, I travelled to UAE with my wife in the latter part of the 2019 and stayed there about a week. 
 
@@ -50,7 +50,7 @@ Desert Safari was the unique experience in our journey. These Safaris are design
 
 Next day, since we have planned to go for Desert Safari, we spent the morning in the hotel and the near bazaar. Our Desert Safari driver with his Toyota Land Cruiser V8 came to pick us from the hotel around 3 pm. We travelled around one hour from Dubai city through the highway. Then we reached a camping area with full of tourists. While our driver reducing the tire pressure to enter the sandy desert, we have taken photos with falcons. Falcon is the national Emblem of the United Arab Emirates. Tourists can get Desert Quad Bike riding experience in there which we did not have the chance due to time limitation. 
 
-<img src="/img/ip_06_2021_05_12.gif" width="800" height="800"/>
+<img align="center" src="/img/ip_06_2021_05_12.gif" width="500" height="500"/>
 
 We have entered the sandy desert after another short distance drive. It was like a boat navigating through rough seas. The SUV is going over the dunes at varying speeds and flying up into the air as you bash against the golden dunes.  
 
