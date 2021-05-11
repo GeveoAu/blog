@@ -46,11 +46,11 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
 
 ### **Desert Safari -**
 
+<img align="left" src="/img/ip_06_2021_05_12.gif" width="300" height="300"/>
+
 Desert Safari was the unique experience in our journey. These Safaris are designed to offer you an electrifying and thrilling experience in the safest and most convenient way.
 
 Next day, since we have planned to go for Desert Safari, we spent the morning in the hotel and the near bazaar. Our Desert Safari driver with his Toyota Land Cruiser V8 came to pick us from the hotel around 3 pm. We travelled around one hour from Dubai city through the highway. Then we reached a camping area with full of tourists. While our driver reducing the tire pressure to enter the sandy desert, we have taken photos with falcons. Falcon is the national Emblem of the United Arab Emirates. Tourists can get Desert Quad Bike riding experience in there which we did not have the chance due to time limitation. 
-
-<img align="center" src="/img/ip_06_2021_05_12.gif" width="500" height="500"/>
 
 We have entered the sandy desert after another short distance drive. It was like a boat navigating through rough seas. The SUV is going over the dunes at varying speeds and flying up into the air as you bash against the golden dunes.  
 
