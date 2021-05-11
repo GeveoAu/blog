@@ -49,6 +49,8 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
    <img src="/img/ip_04_2021_05_12.png" width="500" height="300"/> <img src="/img/ip_05_2021_05_12.png" width="500" height="300"/>
 </p>
 
+<span align="center"> Dancing glory of The Dubai Fountain </span>
+
 
 ### **Desert Safari -**
 
