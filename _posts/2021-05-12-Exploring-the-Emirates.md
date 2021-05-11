@@ -56,7 +56,7 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
  </table>
 
 <p align="center">
-   <span> Dancing glory of The Dubai Fountain </span>
+   <span> Dancing Glory of The Dubai Fountain </span>
 </p>
 
 
@@ -76,13 +76,17 @@ After 30 minutes of Dune Bashing, we reached a camp in the middle of the desert.
 
 It was one of the unforgettable experience in my life. I think Dubai tour without going on a desert safari with BBQ Dinner is incomplete. 
 
+<table>
+  <tr>
+    <td><img src="/img/ip_07_2021_05_12.png" width="500" height="500"></td>
+    <td><img src="/img/ip_08_2021_05_12.jpg" width="500" height="500"></td>
+  </tr>
+ </table>
+
 <p align="center">
-  <img src="/img/ip_07_2021_05_12.png" width="500" height="500"/> <img src="/img/ip_08_2021_05_12.jpg" width="500" height="500"/>
   <span> Desert Safari Moments </span>
 </p>
 
-<p>
-  </p>
 
 ### **At the top of Burj Khalifa -**
 
@@ -90,9 +94,16 @@ The Burj Khalifa has been the tallest structure and building in the world since 
 
 We went the Burj Khalifa tour in the morning. On the lower levels, there were several educational presentations about information regarding Burj Khalifa and how they built it, etc. The Burj Khalifa elevator took only one minute to take us to the 124th floor where the observation point was placed. Speed is 10 meters per second, making the elevators among the fastest in the world. We were able to observe the city of Dubai, Desert and Sea and can buy souvenirs from there. 
 
+<table>
+  <tr>
+    <td><img src="/img/ip_09_2021_05_12.jpg" width="325" height="300"></td>
+    <td><img src="/img/ip_10_2021_05_12.jpg" width="325" height="300"></td>
+    <td><img src="/img/ip_11_2021_05_12.jpg" width="325" height="300"></td>
+  </tr>
+ </table>
+
 <p align="center">
-<img src="/img/ip_09_2021_05_12.jpg" width="325" height="300"/> <img src="/img/ip_10_2021_05_12.jpg" width="325" height="300"/> <img src="/img/ip_11_2021_05_12.jpg" width="325" height="300"/>
-<span> Dubai city view from top of Burj Khalifa </span>
+<span> Dubai City View From Top of Burj Khalifa </span>
 </p>
 
 
@@ -100,19 +111,32 @@ We went the Burj Khalifa tour in the morning. On the lower levels, there were se
 
 **Queen Elizabeth 2**, often referred to simply as **QE2**, is a 293.5 m long retired British luxury cruise ship active from 1969 to 2008. She had been acquired by the private equity arm of Dubai and now reopened as a floating hotel in Port Rashid. We had our dinner on the ship, and it was a quite nice experience. Visitors can tour around the ship and get a glimpse of what life was like onboard the iconic QE2 during her sailing days. 
 
+<table>
+  <tr>
+    <td><img src="/img/ip_12_2021_05_12.png" width="325" height="300"></td>
+    <td><img src="/img/ip_13_2021_05_12.jpg" width="325" height="300"></td>
+    <td><img src="/img/ip_14_2021_05_12.png" width="325" height="300"></td>
+  </tr>
+ </table>
+
 <p align="center">
-<img src="/img/ip_12_2021_05_12.png" width="325" height="300"/> <img src="/img/ip_13_2021_05_12.jpg" width="325" height="300"/> <img src="/img/ip_14_2021_05_12.png" width="325" height="300"/>
 <span> Tour of QE II </span>
 </p>
 
 
 We spent the morning half of that day visiting Jumeirah Beach, Bazaar and Waterfront Market.
 
-<p align="center">
-<img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"/> <img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"/>
-    <span align="left"> Dates of the Waterfront Market </span> 
-    <span align="right"> Dubai Skylines from the distance </span>
-</p>
+<table>
+  <tr>
+    <td><img src="/img/ip_15_2021_05_12.jpg" width="500" height="500"></td>
+    <td><img src="/img/ip_16_2021_05_12.jpg" width="500" height="500"></td>
+  </tr>
+  <tr>
+    <td>Dates of the Waterfront Market</td>
+     <td>Dubai Skylines from the Distance</td>
+  </tr>
+ </table>
+
 
 These are some of the highlights of my tour. With the time limitations and other planned works, I missed to visit the places like Dubai Museum, Jumeirah Mosque and to get Desert Quad Bike riding experience. They are already on my list for the next visit, and I am sure there are much more. Dubai can offer the kind of experience you should definitely have.
 
