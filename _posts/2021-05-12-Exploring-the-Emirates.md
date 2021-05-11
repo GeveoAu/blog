@@ -46,7 +46,7 @@ We have watched the show from Waterfront Boardwalk outside the Dubai Mall. It ha
 
 ### **Desert Safari -**
 
-<img align="left" src="/img/ip_06_2021_05_12.gif" width="300" height="300"/>
+<img align="right" src="/img/ip_06_2021_05_12.gif" width="300" height="600"/>
 
 Desert Safari was the unique experience in our journey. These Safaris are designed to offer you an electrifying and thrilling experience in the safest and most convenient way.
 
