@@ -10,7 +10,7 @@ description : If there’s one word that every human being on the earth has hear
 
 ---
 
-**Introduction (Or is one needed at all?)**
+### **Introduction (Or is one needed at all?)**
 
 If there’s one word that every human being on the earth has heard about within the past year, it is Covid. The impact of this is so large that every country in the globe is going through the roughest patch in their recent medical and in turn, economical history. Almost all the businesses, let it be restaurants, car sales, retail shops, bars, automotive repair centers, gas stations, grocery stores, hotels, bookstores, gyms, clothing stores (‘Awurudu’ season aside in Sri Lanka) and salons, are affected by this pandemic going around the world. So, is the IT sector an exception? The answer is no. But if someone asks how impactful was Covid 19 to the IT sector, you could argue that it was one of the least hit businesses around the globe. But it’s also worth noting that some IT companies working in the travel or tourism industry have been hard hit by the pandemic in its early stages. This has been a direct result of flight and hotel industry being collapsed due to limited travel and travel bans.
 
@@ -20,11 +20,11 @@ In this blog post we will have an insight on how the IT sector behaved under cov
 
 The main change that was brought over to the IT companies by the pandemic was working remotely from home. Almost all the IT companies over the world now expects their employees to work from home unless in some exceptional cases. It is not new to the industry, but the percentage of doing so has increased dramatically over the last year. 
 
-<img src="/img/bp_1_2021_05_28.png" height="742" width="1010"/>
+<img src="/img/bp_1_2021_05_28.png"/>
 
 And the most important thing is that working remotely is here to stay forever with most companies. More than half of the companies plan on working from home fully or as a hybrid model where some employees are permitted to work from home, and some are required to come to office on a roster basis.
 
-<img src="/img/bp_2_2021_05_28.png" height="793" width="1079"/>
+<img src="/img/bp_2_2021_05_28.png"/>
 
 ### **How it panned out for the techies**
 
@@ -76,7 +76,7 @@ Now that we know most companies and employees will have to carry on with these r
     
     This has resulted in more stress and in turn loss of productivity again. So, there’s a clear risk of overworking which is not good for the health of the individuals as well. This can lead to burnout and increased work-related stress.
 
-<img src="/img/bp_3_2021_05_28.png" height="674" width="918"/>
+<img src="/img/bp_3_2021_05_28.png"/>
 
 ### **Downsizing – Was it really necessary?**
 
@@ -84,7 +84,7 @@ As stated earlier, the tourism related companies were one of the hardest affecte
 
 But looking at the following charts (based on a study done by the (citing [https://codingsans.com/](https://codingsans.com/)), it is evident that not a lot of companies had to downsize as a direct result of the pandemic. And about a fourth of all companies have complained about the pandemic affecting them negatively while the other three fourths have admitted that the effect was either not significant or the negative and positive points had evened out. Even if we take our own company for an example, although we had to go through a rough patch at the very start, we have not downsized and rather have even been able to recruit newcomers amid the pandemic, which is a big positive sign. So overall, it’s safe to say that although the software industry didn’t remain unharmed by the pandemic, it seems to be in pretty good shape at the moment.
 
-<img src="/img/bp_4_2021_05_28.png" height="3918" width="5335"/>
+<img src="/img/bp_4_2021_05_28.png"/>
 
 
 ### **Not everyone has been losing amid the pandemic**
@@ -118,7 +118,7 @@ Furthermore, since more and more employees are starting to work from home and mo
 
 So, it can be concluded that the covid 19 pandemic has affected the IT industry far less than it has done for other businesses in the world. As the image below depicts, the biggest gainers in the pandemic have all been related to IT sector.
 
-<img src="/img/bp_5_2021_05_28.jpg" height="271" width="375"/>
+<img src="/img/bp_5_2021_05_28.jpg"/>
 
 It’s now time to get up from the ashes and rebuild the hard-hit areas in the industry. Employers need to start empowering and motivating the employees to work for the betterment of the companies along with helping them keep a sound head without letting the pandemic and its effects result in their mental stress. After all, happy employees mean increased productivity, and in turn happy customers!
 
