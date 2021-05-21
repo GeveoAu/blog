@@ -118,7 +118,7 @@ Furthermore, since more and more employees are starting to work from home and mo
 
 So, it can be concluded that the covid 19 pandemic has affected the IT industry far less than it has done for other businesses in the world. As the image below depicts, the biggest gainers in the pandemic have all been related to IT sector.
 
-<img src="/img/bp_5_2021_05_28.jpg"/>
+<img src="/img/bp_5_2021_05_28.jpg" width="700" height="700"/>
 
 It’s now time to get up from the ashes and rebuild the hard-hit areas in the industry. Employers need to start empowering and motivating the employees to work for the betterment of the companies along with helping them keep a sound head without letting the pandemic and its effects result in their mental stress. After all, happy employees mean increased productivity, and in turn happy customers!
 
