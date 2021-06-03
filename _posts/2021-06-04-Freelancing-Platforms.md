@@ -35,6 +35,8 @@ Summary of comparison of above freelancing platforms can be represented as follo
 | **Fee for Clients**  | Fee for Clients	Initial deposit of $500 (Basic fee)	3%	2.75%	Basic fee |   3% | 2.75% | Basic fee |
 | **Fee for Freelancers**  | Hourly rate |   20%, 10%, or 5% |  10% | 20% |
 
+---
+
 According to existing literature there is no question that most of people have discovered the benefits of freelancing. 
 - You can choose your own work hours. Also you can choose with whom you work and find a place in which you work best. 
 - No longer you have to work for a flat rate, no matter how large the projects. 
