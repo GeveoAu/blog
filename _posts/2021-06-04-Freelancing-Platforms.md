@@ -6,11 +6,8 @@ author: Nadeeshani Dayarathna
 
 linkedin: https://www.linkedin.com/in/nadeeshanikaushalya/
 
-description : In the age of technology, freelancing is an easy choice for people. Freelancers are self-employed and are not necessarily committed to a particular employer long-term. Always when entrepreneurs are first starting a new business, they tend to assign their tasks to freelancers to carry out, rather than full-time employees.  
-
-As the digital lifestyle grow with the rise of popularity, the number of freelance resources out there has increased as well. Most of the existing freelancing platforms are centralized.
+description : In the age of technology, freelancing is an easy choice for people. Freelancers are self-employed and are not necessarily committed to a particular employer long-term. Always when entrepreneurs are first starting a new business, they tend to assign their tasks to freelancers to carry out, rather than full-time employees. As the digital lifestyle grow with the rise of popularity, the number of freelance resources out there has increased as well. Most of the existing freelancing platforms are centralized.
  
-
 ---
 
 **Freelancing Platforms**
