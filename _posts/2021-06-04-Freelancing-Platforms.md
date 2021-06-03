@@ -26,6 +26,7 @@ As the digital lifestyle grow with the rise of popularity, the number of freelan
 
 Summary of comparison of above freelancing platforms can be represented as follows.
 
+{:class="table table-bordered"}
 |            |      Toptal      |  Upwork | Freelancer | Fiverr         |
 |----------|:-------------:|:------:| :-------------:| :-------------:|
 |**Creating Account** |  Free | Free |  Free | Free |
