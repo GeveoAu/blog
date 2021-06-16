@@ -1,6 +1,6 @@
 ---
 
-title: Who is Amish People? 
+title: Who are Amish People? 
 
 author: Heashan Fernando
 
@@ -10,7 +10,7 @@ description : Amish people are a group of traditionalist Christian church fellow
 
 ---
 
-**Who is Amish People?**
+**Who are Amish People?**
 
 Amish people are a group of traditionalist Christian church fellowships with Swiss German and Alsatian Anabaptist origins. They are closely related to Mennonite churches. The Amish are known for simple living, plain dress, Christian pacifism, and slowness to adopt many conveniences of modern technology, with a view to not interrupt family time, nor replace face-to-face conversations whenever possible. The Amish value rural life, manual labor, humility, and Gelassenheit, all under the auspices of living what they interpret to be God's word.
 
