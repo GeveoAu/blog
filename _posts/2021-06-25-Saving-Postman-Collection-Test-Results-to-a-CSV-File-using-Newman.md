@@ -12,7 +12,7 @@ description : What if you need to save the Response or Test Status to a file usi
 
 ### **Saving Postman Collection Test Results to a CSV File using Newman**
 
-.<img src="/img/kl_01_2021_06_25.png"/>
+<img src="/img/kl_01_2021_06_25.png"/>
 
 Using Postman, we can easily send a request and get a response from an API call within few seconds. But what if you need to save the Response or Test Status to a file using Postman? Now it is a problem, and you cannot do that with Postman.
 
@@ -43,7 +43,7 @@ To give a basic idea, Newman is a command-line collection runner for Postman. Fo
 
 When you are running Newman as a Library, easily we can capture the **Events Emitted during a Collection run.** To know more about this, refer to the [Newman Documentation in GitHub](https://github.com/postmanlabs/newman#newmanrunevents)
 
-.<img src="/img/kl_02_2021_06_25.png"/>
+<img src="/img/kl_02_2021_06_25.png"/>
 
 From the list of events, I need to capture the event that will trigger before completing the run. It is because to assert whether the API request is successful or failure.
 
@@ -75,7 +75,7 @@ But this way is a bit hard to read and understand the results. To make this more
 
 Add a breakpoint to the console.log(data) line and run the Debugger in VS Code. As shown below the image, you can access the data available and properties and their values.
 
-.<img src="/img/kl_03_2021_06_25.png"/>
+<img src="/img/kl_03_2021_06_25.png"/>
 
 After identifying the relevant object you need to access and get data, right-click on the object and **Copy it as an Expression.** Then paste inside the console.log as below.
 
@@ -83,7 +83,9 @@ After identifying the relevant object you need to access and get data, right-cli
 
 Now you can get only the necessary data as an output to your terminal.
 
+
 <script src="https://gist.github.com/kavioshanaiesecer/56d7f53fb772400edcb26d26fdcd0f83.js"></script>
+
 
 When the Collection is running, to capture the results from the execution and mark each iteration PASSED or FAILED, we can use **.reduce()** function with a call back function.
 
@@ -115,7 +117,9 @@ To update every item in the file based on the response data from Newman, we use 
 
 **jsonData.data.map((item, index) => item.testResults = testResults[index]);**
 
+
 <script src="https://gist.github.com/kavioshanaiesecer/5f3563c57a0ffc80158d77aa07289c84.js"></script>
+
 
 Now add the **writeFile()** function from the File System to write the results to the CSV File. Inside writeFile() function same error handling can be done as previous and console.log() statement can be added to make sure the function is completed.
 
@@ -125,8 +129,8 @@ Now it's time to run the script we created and see the results. To run the scrip
 
 After finishing the test run, an output file (.csv) will be created inside the Test Results folder. Following is a screenshot of what my output CSV file looked like.
 
-.<img src="/img/kl_04_2021_06_25.png"/>
+<img src="/img/kl_04_2021_06_25.png"/>
 
 #### **Referencens -**
 
-[Newman Documentation Github](https://github.com/postmanlabs/newman)
+1. [Newman Documentation Github](https://github.com/postmanlabs/newman)
