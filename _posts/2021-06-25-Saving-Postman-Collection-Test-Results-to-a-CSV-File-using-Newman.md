@@ -10,9 +10,9 @@ description : What if you need to save the Response or Test Status to a file usi
 
 ---
 
-### **Saving Postman Collection Test Results to a CSV File using Newman**
-
 <img src="/img/kl_01_2021_06_25.png"/>
+
+#### **Saving Postman Collection Test Results to a CSV File using Newman**
 
 Using Postman, we can easily send a request and get a response from an API call within few seconds. But what if you need to save the Response or Test Status to a file using Postman? Now it is a problem, and you cannot do that with Postman.
 
