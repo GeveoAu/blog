@@ -139,5 +139,5 @@ cv2.addWeighted(source_img1, alpha1, source_img2, alpha2, beta)
 
 #### **Referencens -**
 
-[OpenCv documentation](https://docs.opencv.org/3.4/)
-[Tutorial point image processing tutorial](https://www.tutorialspoint.com/dip/index.htm)
+- [OpenCv documentation](https://docs.opencv.org/3.4/)
+- [Tutorial point image processing tutorial](https://www.tutorialspoint.com/dip/index.htm)
