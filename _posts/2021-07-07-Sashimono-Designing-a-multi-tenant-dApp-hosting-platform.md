@@ -10,7 +10,7 @@ description : For one of our long-term customers, the LexAutomagica project Hot 
 
 ---
 
-**Key design goals**
+##### **Key design goals**
 
 1.	dApps must not interfere with the host.
 1.	dApps must not interfere with each other.
