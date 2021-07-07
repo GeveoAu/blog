@@ -1,6 +1,6 @@
 ---
 
-title: Sashimono: Designing a multi-tenant dApp hosting platform 
+title: Sashimono - Designing a multi-tenant dApp hosting platform
 
 author: Ravin Perera
 
@@ -10,12 +10,12 @@ description : For one of our long-term customers, the LexAutomagica project Hot 
 
 ---
 
-##### **Sashimono**
+**Sashimono - Designing a multi-tenant dApp hosting platform**
 
 For one of our long-term customers, the LexAutomagica project Hot Pocket/Sashimono, we had to come up with a secure design for multi-tenant dApp deployments on a network of hosting nodes. The basic premise of Sashimono is to provide the ability for anyone to submit a dApp (Hot Pocket smart contract) to a shared Linux hosting environment and have their dApp instance run without interfering with other dApp instances that may run on the same host. This essentially makes Sashimono a multi-tenant cloud hosting environment specialized in Hot Pocket smart contracts deployment. This article explains our thinking process as we converged on a containerization approach while also using Linux operating system security features.
 
 
-##### **Key design goals**
+**Key design goals**
 
 1.	dApps must not interfere with the host.
 1.	dApps must not interfere with each other.
