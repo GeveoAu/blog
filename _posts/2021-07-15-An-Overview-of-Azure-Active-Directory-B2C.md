@@ -67,7 +67,7 @@ Azure AD B2C is mainly for consumer scenarios
 -	Get user input from User interfaces
 -	And many more
 
-### **KEY components Of Azure AD B2C tenant**
+### **Key Components of Azure AD B2C Tenant**
 
 -	**Directory** - The directory is where Azure AD B2C stores your users' credentials and profile data, as well as your application registrations.
 
