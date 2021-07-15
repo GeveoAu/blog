@@ -54,7 +54,7 @@ Azure AD support integration with any Identity provider that support any open st
 |           |             |
 
 
-**Azure AD is mainly for enterprise scenarios such as**
+#### **Azure AD is mainly for enterprise scenarios such as**
 
 -	You are building a line of business app for your org
 -	Or a SaaS app that any org with O365 should be able to use
