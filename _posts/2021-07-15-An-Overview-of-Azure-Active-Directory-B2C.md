@@ -19,24 +19,27 @@ Azure Active Directory Business to Consumer (Azure AD B2C) provides identity as 
 ### **Why should we use Azure Active Directory B2C?**
 
 Because it’s
-•	Highly available
-•	Worldwide scaling
-•	Secure 
-•	Reliable
+
+-	Highly available
+-	Worldwide scaling
+-	Secure 
+-	Reliable
 
 **Key benefits of Azure AD B2C**
 
 Simple & Secure 
-•	Minimal application code
-•	Easy to maintain
-•	Enterprise-grade security features
+
+-	Minimal application code
+-	Easy to maintain
+-	Enterprise-grade security features
 
 You can implement and manage all your Identity scenarios using AD B2C policies without writing any code on your application at all. Because of this it’s easy to manage and maintain your identity implementation.
 
 Flexible
-•	Multiple Identity Providers
-•	.NET, iOS, and Android
-•	Open standards (Open ID Connect, OAuth 2.0, SAML)
+
+-	Multiple Identity Providers
+-	.NET, iOS, and Android
+-	Open standards (Open ID Connect, OAuth 2.0, SAML)
 
 Azure AD support integration with any Identity provider that support any open standard protocols. Also, you can use The Microsoft Authentication Library (MSAL) to configure your applications to work with AD B2C. MSAL supports many different application architectures and platforms including .NET, JavaScript, Java, Python, Android, and iOS.
 
@@ -106,7 +109,7 @@ In Azure AD B2C, there are two primary paths you can take to provide these ident
 
 Both user flows and custom policies are powered by the Identity Experience Framework, Azure AD B2C's policy orchestration engine.
 
-**User flows**
+### **User flows**
 
 To set up the most common identity tasks, the Azure portal includes several predefined and configurable policies called user flows. Applications can configure provided user flow settings to control identity experience of their users.
 Azure AD B2C includes several types of user flows such as Sign up and sign in, Profile editing, Password reset and you can configure following settings;
@@ -125,7 +128,7 @@ Azure AD B2C includes several types of user flows such as Sign up and sign in, P
 
 Most common identity scenarios for applications can be defined and implemented effectively with user flows. But if you have complex user journey scenarios or uncertainty where your login will evolve I would recommend you to use Custom policies.
 
-**Custom Policies**
+### **Custom Policies**
 
 Custom policies are configuration files (XML) that define the behavior of your Azure AD B2C tenant user experience. While user flows are predefined in the Azure AD B2C portal for the most common identity tasks, custom policies can be fully edited by an identity developer to complete many different tasks.
 
