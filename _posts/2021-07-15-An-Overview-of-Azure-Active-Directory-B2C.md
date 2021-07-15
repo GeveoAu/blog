@@ -51,6 +51,7 @@ Azure AD support integration with any Identity provider that support any open st
 | The identity provider underneath Office 365, Azure and Dynamics 365   | Integrate multiple identity providers that support standard Protocols. (OIDC, SAML, OAuth) |
 | Provides Identity and access management features   | Go beyond Identity and access management and can be used for enterprise scenarios as well. |
 | Single Sign-On for cloud services for azure/Office accounts. | It’s highly customizable thanks to custom policy capability |
+|           |             |
 
 
 **Azure AD is mainly for enterprise scenarios such as**
