@@ -59,13 +59,16 @@ Azure AD support integration with any Identity provider that support any open st
 -	You are building a line of business app for your org
 -	Or a SaaS app that any org with O365 should be able to use
 -	Or you need to be able to access Microsoft Graph API for the organization
-Azure AD B2C is mainly for consumer scenarios 
+
+#### **Azure AD B2C is mainly for consumer scenarios** 
+
 -	Any app where anyone should be able to add and use any type of account (Use any identity provider)
 -	Or use local accounts
 -	MFA
 -	Calls other Rest APIs or Graph API
 -	Get user input from User interfaces
 -	And many more
+
 
 ### **Key Components of Azure AD B2C Tenant**
 
