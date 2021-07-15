@@ -79,13 +79,13 @@ Azure AD B2C is mainly for consumer scenarios
     
     -	Use custom policies to enable user experiences not only for the common identity tasks, but also for crafting support for complex identity workflows unique to your organization, customers, employees, partners, and citizens.
     
-- 	Identity providers - Federation settings for:
+- 	**Identity providers** - Federation settings for:
 
     -	Local accounts that enable users to sign up and sign in with a username (or email address or other ID) and password.
     
     -	Social or External identity providers that support standard identity protocols like OAuth 2.0, OpenID Connect, and more (Facebook, Google, Microsoft, ADFS, or Salesforce).
     
--	Keys - Add and manage encryption keys for signing and validating tokens, client secrets, certificates, and passwords.
+-	**Keys** - Add and manage encryption keys for signing and validating tokens, client secrets, certificates, and passwords.
 
 ### **What is an Azure Identity User Journey (Identity User Experience)?**
 
