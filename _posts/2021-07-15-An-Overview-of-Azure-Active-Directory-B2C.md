@@ -46,7 +46,7 @@ Azure AD support integration with any Identity provider that support any open st
 ### **How Azure AD B2C is different from Azure AD?**
 
 | Azure AD  | Azure AD B2C |
-| :---      |         ---: |
+| :----:    | :----:       |
 | Cloud service that allows securely sign in users with a Microsoft work or school account      | More generic identity provider than standard AAD. Built for consumer-facing applications.  |
 | The identity provider underneath Office 365, Azure and Dynamics 365   | Integrate multiple identity providers that support standard Protocols. (OIDC, SAML, OAuth) |
 | Provides Identity and access management features   | Go beyond Identity and access management and can be used for enterprise scenarios as well. |
