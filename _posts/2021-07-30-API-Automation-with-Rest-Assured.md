@@ -56,7 +56,7 @@ Once Eclipse is installed follow the below steps start API automation. In this s
 
 <img src="/img/kb_4_2021_07_30.png"/>
 
-3. Add Maven Dependencies
+1. Add Maven Dependencies
 
 - Go to the pom.xml file and add the necessary dependencies. 
 - For rest assured test frameworks two it’s mandatory to have the following rest assured and testng dependencies.
@@ -77,7 +77,7 @@ Once Eclipse is installed follow the below steps start API automation. In this s
         </dependency>
 ```
 
-4.	Install TestNG to run the tests.
+1.	Install TestNG to run the tests.
 
 - Go to Help -> Install new software and give the TestNG link. To get the TestNG link go to https://github.com/cbeust/testng-eclipse/ page and get the latest release url under the Update sites.
 
@@ -87,7 +87,7 @@ Once Eclipse is installed follow the below steps start API automation. In this s
 
 <img src="/img/kb_6_2021_07_30.png"/>
 
-5.	To add test scripts should create a java class and add the tests.
+1.	To add test scripts should create a java class and add the tests.
 
 - Below is a sample method to call a GET API and assert whether the API call returns 200 success code. This is a simplest way to write a test method in Rest Assured.
 
