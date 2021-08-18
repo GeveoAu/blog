@@ -143,8 +143,11 @@ Save this HTML file along with a copy of three.js in the js/ directory, and open
 First, set up the scene, camera, and renderer. 
 There are different types of cameras like ArrayCamera, Camera, CubeCamera, OrthographicCamera, PerspectiveCamera, and StereoCamera. For now, let's use a PerspectiveCamera because it most closely mimics the real world and the human eyes. 
 
-### **Constructor**:
+``` js
+Constructor
 PerspectiveCamera( fov : Number, aspect : Number, near : Number, far : Number )
+```
+
 - fov — Camera frustum vertical field of view. The value is in degrees.
 - spect — Camera frustum aspect ratio. (window.innerWidth/ window.innerHeight)
 - near — Camera frustum near the plane.
