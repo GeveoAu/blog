@@ -54,8 +54,8 @@ Do you remember the weights attached to neurons? And how it was described that t
 
 Well, that’s pretty much it. Congratulations for making it this far. Now all you have to do is explore it on your own. If you want to learn how neural networks work in-depth, I strongly recommend the following 3 videos on youtube by the ‘3Blue1Brown’ channel. It’s one of the most easy-to-understand yet most elaborate explained content regarding a neural network out there. 
 
-- [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=467s)
-- [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-- [What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=5s)
+- [But what is a neural network? - Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=467s)
+- [Gradient descent, how neural networks learn - Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [What is backpropagation really doing? - Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=5s)
 
 If you are interested in jumping to coding right away, it would be easy to use python in the beginning. Mainly because of a large number of libraries available for python when it comes to Machine Learning. Even if your personal setup does not have python, you can use a platform like google CoLab or Kaggle. Especially Kaggle since there are many tutorials for beginners as well. The following link would provide a quick start for someone interested in coding their 1st  Neural Network. 
