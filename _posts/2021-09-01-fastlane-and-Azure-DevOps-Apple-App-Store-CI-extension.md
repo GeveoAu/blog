@@ -35,13 +35,13 @@ From early 2021 Apple made it required to have two-factor(2FA) for Apple IDs. Th
 
 There are 4 ways to connect to Apple services in fastlane documentation, but there are two Apple App Store Service Connection.
 
-1.	Basic Authentication
+1. Basic Authentication
 
 <img src="/img/ai_2_2021_09_01.png"/>
 
 Apple ID credential is used in this method. Since 2FA is enabled for AppleIDs, in this method, we have update fastlane Session from time to time when it is expired. ☹ 
 
-2.	Token Based Authentication
+1. Token Based Authentication
 
 <img src="/img/ai_3_2021_09_01.png"/>
 
