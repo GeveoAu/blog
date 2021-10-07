@@ -20,17 +20,21 @@ Similarly, the fourth dimension is a direction w perpendicular to all three x, y
 Lets start from 0D and walk our way up to 4D.
 
 **0D – the zeroth dimension**
+
 The zeroth dimension is a point. It has no dimensions; no width, no length, and no height.  
 
 **1D – the first dimension**
+
 The first dimension is a line.  The only thing that differs between objects in 1D are the differences in their length.
 
 **2D – the second dimension**
+
 A line extruded perpendicular to the first dimensional direction brings you to the second dimension. 2D objects have a length and width. A line moved perpendicular by the same length will make up a square. 
 
 * A square has 4 lines.
 
 **3D – the third dimension** 
+
 The square extruded perpendicular to the 2D plane will make up a cube. In other words, extruding the square to the z axis makes up a 3D cube. 
 It is interesting to note that when a cube is expanded to infinity, it encompasses the entirety of the 3-dimensional space. A similar concept applies for other dimensions as well.
 
@@ -47,9 +51,10 @@ We are all quite familiar with a drawing of a 3D cube on paper or on a computer 
 Extrapolating these concepts to the next dimension, we will be able to understand 4D objects and its behavior.
 
 **4D – the fourth dimension**
+
 A cube extruded perpendicular to the third dimension yields a tesseract (also called a hypercube). A tesseract is not an easy object we can easily comprehend, but it is the same as moving from 2D to 3D. We get a tesseract when a cube is protruded along the fourth dimension on the w axis.  
 
-<img src="/img/hn_3_2021_10_07.png" height="800" width="800" />
+<img src="/img/hn_3_2021_10_07.png" height="322" width="820" />
 
 Just like the square and cube, all edges in a tesseract are of the same length, and all angles are right angles.
 
