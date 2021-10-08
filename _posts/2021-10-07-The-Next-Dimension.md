@@ -68,10 +68,10 @@ Just as the rotating cube, we would see a rotating tesseract like this:
 
 <img src="/img/hn_5_2021_10_07.gif" height="256" width="256" />
 
-This might not be intuitive as the rotating cube, and our brains have a hard time understanding 4D object like this. Just as you would see a square if you look directly at a face of a solid cube, you would see a cube if you look straight at a tesseract cell.  You will see different perspectives of a tesseract when viewed from different angles.  
+This might not be intuitive as the rotating cube, and our brains have a hard time understanding 4D object like this. Just as you would see a square if you look directly at a face of a solid cube, you would see a cube if you look straight at a tesseract cell.  You will see [different perspectives of a tesseract](https://youtu.be/BjvdrhK8yws) when viewed from different angles.  
 
 Remember that this is not how a tesseract would actually look like. We are simply seeing a projection (or shadow) of a tesseract on a 2D surface.  What you are seeing is a 4D object in a 3D world shown on a 2D screen! Far from what it really is.
 
-If you are fascinated by the tesseract, you can now interact with this four-dimensional object in 3D space using virtual reality simulations.  This is the closest we can get right now to a 4D object.
+If you are fascinated by the tesseract, you can now interact with this four-dimensional object in 3D space using [virtual reality simulations](https://youtu.be/S-yRYmdsnGs?t=130).  This is the closest we can get right now to a 4D object.
 
-There are some interesting thought experiments about how we would perceive 4D objects entering our 3D world that we consider as our reality. The astrophysicist Carl Sagan explains nicely this in this classic video.
+There are some interesting thought experiments about how we would perceive 4D objects entering our 3D world that we consider as our reality. The astrophysicist Carl Sagan explains nicely this in this [classic video](https://youtu.be/N0WjV6MmCyM).
