@@ -17,6 +17,7 @@ We live in a three-dimensional world, and we perceive our world in 3D. It is our
 In mathematics, we know that a 2D plane has two perpendicular directions x, y in a cartesian coordinate system.  In the third dimension, the z axis is perpendicular to both x, y dimensions.
 
 Similarly, the fourth dimension is a direction w perpendicular to all three x, y, z dimensions.  This is hard for us to understand because we cannot visualize the fourth dimension, but we can deduce some interesting properties by walking our way up from lower dimensions. Although we can explain higher dimensions with mathematics, I will try to keep things simple in this post. 
+
 Lets start from 0D and walk our way up to 4D.
 
 **0D – the zeroth dimension**
@@ -36,6 +37,7 @@ A line extruded perpendicular to the first dimensional direction brings you to t
 **3D – the third dimension** 
 
 The square extruded perpendicular to the 2D plane will make up a cube. In other words, extruding the square to the z axis makes up a 3D cube. 
+
 It is interesting to note that when a cube is expanded to infinity, it encompasses the entirety of the 3-dimensional space. A similar concept applies for other dimensions as well.
 
 * A cube has 6 faces. Each face is a square.
