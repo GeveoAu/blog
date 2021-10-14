@@ -20,15 +20,15 @@ As QAs, we need to determine the number of devices that app must be tested on an
 
 So let’s get started.! Open up the browser and navigate to BrowserStack mobile app testing dashboard https://app-live.browserstack.com . There it is! 
 
-<img src="/img/dw_1_2021_10_14.png" height="727px" width="1366px" />
+<img src="/img/dw_1_2021_10_14.png"/>
 
 You can choose the preferred source to install your app. As you can see, there are multiple real devices with different OS versions in the dashboard. Tester can choose a device along with OS version depending on the testing requirement, install the app and start testing.
 
-<img src="/img/dw_2_2021_10_14.png" height="647px" width="1366px" />
+<img src="/img/dw_2_2021_10_14.png"/>
 
 We often test our sprint work as uploaded files, so I’ll go ahead with uploaded Apps. You can simply upload .apk or .aab files for android testing and .ipa files for iOS testing. Previously we had to release the .aab files into play store and use internal tester groups to download and test the app. This was a time-consuming approach to test PBIs and bug fixes which require immediate attention. This is same with iOS test-flight releases too. BroswerStack has saved us from following long-drawn-out processes like that. It allows us to directly upload .aab and .ipa files and install them in a preferred device. On the other hand, tester can upload multiple versions of the app and switch in between different versions to test in different devices. You don’t have to worry about any downloads or configurations to setup. Just upload and start testing 😊
 
-<img src="/img/dw_3_2021_10_14.png" height="623px" width="1266px" />
+<img src="/img/dw_3_2021_10_14.png"/>
 
 Here I have uploaded .apk file and selected Samsung S21 device with android 11. As you can see, device has installed the app. This side menu consists of features that can control device behavior. You can change device locations, kill, uninstall or install apps and so on. Terminal next to the device shows device status and displays errors if there is any. This log is important for identifying errors. Top bar contains features such as zoom in and zoom out. You can simply change device size using that. User can either switch device and test or simply stop current session and start a new test around while doing testing. Another important feature here is, it supports integrations with tools such as Jira, Git Hub, Slack and few more in the list. So bug reporting is easier with BrowserStack. You can even download screenshots or send emails attaching them. 
 
@@ -39,7 +39,7 @@ Push notifications play an important role in mobile app testing. You must be won
 *	Android published apps via Google Play Store
 *	Android unpublished apps by uploading .apk or .aab files
 
-<img src="/img/dw_4_2021_10_14.png" height="619px" width="793px" />
+<img src="/img/dw_4_2021_10_14.png"/>
 
 We in DGR often use BrowserStack for Usability, Accessibility and Device Compatibility Testing. Since Doing Good App has become a public app, our testing requirements also have extended. BrowserStack has been a great solution for covering up those test scenarios for us. It’s even better for demonstrating end to end test scenarios for sprint reviews as well. If you haven’t tried it before, give it a go and enjoy mobile app testing 😊 
 
