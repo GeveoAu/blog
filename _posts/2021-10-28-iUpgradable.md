@@ -10,7 +10,6 @@ description : Competitive software development have various challenges on keepin
 
 ---
 
-**iUpgradable**
 
 How easy is your software to be upgraded to new versions of the same technology stack? If the answer is “Hard” then it would be much harder for an entirely different technology stack also.
 
