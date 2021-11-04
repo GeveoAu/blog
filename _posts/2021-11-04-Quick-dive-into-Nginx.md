@@ -56,8 +56,6 @@ Ok, let’s begin.
 Ngingx is available in Ubuntu’s default repositories, so installation is straightforward.
 So, install nginx as follows.
 
-<img src="/img/cd_3_2021_11_04.png"/>
-
 ```
 sudo apt update
 sudo apt install nginx
@@ -65,7 +63,7 @@ sudo apt install nginx
 
 After the installation if we go to our ip address on the browser, we’ll see the default nginx page.
 
-<img src="/img/cd_4_2021_11_04.png"/>
+<img src="/img/cd_3_2021_11_04.png"/>
 
 Ok, Lets see what we have installed,
 
@@ -82,7 +80,7 @@ Any static pages or any virtual host can be placed here.
 
 **/etc/nginx** contains all the nginx configuration files.
 
-<img src="/img/cd_5_2021_11_04.png"/>
+<img src="/img/cd_4_2021_11_04.png"/>
 
 **/etc/nginx/nginx.conf** is the main configuration file. This contains the global configurations. Just see the content by
 
@@ -94,7 +92,7 @@ cat /etc/nginx/nginx.conf
 
 ***/etc/nginx/sites-enabled/*** contains server blocks of enabled sites. Usually these are links of configuration files in sites-available
 
-<img src="/img/cd_6_2021_11_04.png"/>
+<img src="/img/cd_5_2021_11_04.png"/>
 
 ***/etc/nginx/snippets*** contains configuration fragments which can be included in nginx.conf. It’s good practice to place reusable configuration segments here.
 
@@ -143,7 +141,7 @@ sudo nginx -t
 
 If the config has no issues, Output will be,
 
-<img src="/img/cd_7_2021_11_04.png"/>
+<img src="/img/cd_6_2021_11_04.png"/>
 
 Right, now about the master process...
 
