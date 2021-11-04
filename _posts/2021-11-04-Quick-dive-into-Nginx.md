@@ -25,12 +25,15 @@ Now, if you’d remember I’ve said the word reverse proxy. Ok, whats that? Let
 ##### Forward proxy and Reverse proxy
 
 *Forward Proxy*
+
 Routes traffic between clients and servers in another network. Proxy servers act as a firewall and web filter, provide shared network connections, and cache data to speed up common requests. So forward proxy is used to protect clients.
 
 *Reverse proxy*
+
 Unlike forward proxy this is used to protect servers. Reverse proxy server forwards the client request to one of many servers and return the result from the server as if the proxy server processed the request itself.
 
 *Difference*
+
 Forward proxy server acts on behalf of multiple clients and allows clients traffic to flow to an external network. On the other hand reverse proxy server routs external client’s traffic on behalf of multiple servers.
 
 <img src="/img/cd_1_2021_11_04.png"/>
@@ -67,16 +70,17 @@ After the installation if we go to our ip address on the browser, we’ll see th
 
 Ok, Lets see what we have installed,
 
-##### Content directory ##### 
+#### Content directory #### 
 
 **/var/www/html** contains the web content. By default this contains default nginx page which we’ve loaded in previous step.
 
 This can be changed by altering the configuration file.
 
 Any static pages or any virtual host can be placed here.
+
 *- Virtual host is a method of hosting multiple domain names in the same server.* 
 
-##### Configuration ##### 
+#### Configuration #### 
 
 **/etc/nginx** contains all the nginx configuration files.
 
@@ -96,7 +100,7 @@ cat /etc/nginx/nginx.conf
 
 ***/etc/nginx/snippets*** contains configuration fragments which can be included in nginx.conf. It’s good practice to place reusable configuration segments here.
 
-##### Logs #####
+#### Logs ####
 
 ***/var/log/nginx/access.log*** records every request to the web server. And also nginx can be configured not to do the logging as well.
 
@@ -152,9 +156,13 @@ nginx -s <signal>
 ```
 
 ***The signals are***
+
 stop - fast shutdown
+
 quit - graceful shutdown
+
 reload - reloading the configuration file
+
 reopen - reopening the log files
 
 When we give ***nginx -s reload*** master process reads the configuration and check the syntax, then starts new processes and send message to old processes to shut down. If the syntax check failed master process will be rolled back and starts working with old configurations.
@@ -178,9 +186,10 @@ Add following line, or edit if exists.
 
 Now we have setup the virtual host. So you can freely try following examples.
 
-#### 1st example - Creating a simple website ####
+### 1st example - Creating a simple website ###
 
 First, we create the html page to be served.
+
 Go to /var/www/html directory
 
 ```
@@ -188,6 +197,7 @@ cd /var/www/html
 ```
 
 We need sudo permission to do operations inside this directory.
+
 Lets change terminal to a super user session.
 
 ```
@@ -205,7 +215,7 @@ Then create a index.html file with html content inside this directory.
 echo This is my test site > index.html
 ```
 
-Now you can exit from the super user terminal. Type exit and ***Enter***.
+Now you can exit from the super user terminal. Type ***exit*** and ***Enter***.
 
 Then, we need to tell nginx about our web site, so that we need to add configuration.
 As we discussed you know that, we need to add configurations is sites-available and sites-enabled directories.
@@ -223,7 +233,9 @@ sudo vim mysite.conf
 ```
 
 And vim editor will be opened.
+
 Press ***I*** for edit mode.
+
 Paste the following content inside the editor and press ***Esc*** + ***:*** + ***w*** + ***q*** keys to save and exit the editor.
 
 ```
@@ -253,19 +265,24 @@ Visit the http://www.mysite.com from the browser and you’ll be directed to the
 
 <img src="/img/cd_7_2021_11_04.png"/>
 
-#### 2nd example - Serving a back end with nginx ####
+### 2nd example - Serving a back end with nginx ###
 
 Start your backend app, lets say it’s running on localhost port 3000.
 
 For example just create a simple node js server app and use it.
+
 I’ve created a simple node js express app which has a get method returns following list as response.
+
 ```
 ["Tony", "Lisa", "Michael", "Ginger", "Food"]
 ```
 
 Let me quickly tell you how it’s done.
+
 In any place you want, create a directory test-backend.
+
 Inside it create a file named app.js with following content
+
 ```
 var express = require("express");
 var app = express();
@@ -278,6 +295,7 @@ app.get("/names", (req, res, next) => {
 ```
 
 And create a package.json file with following content.
+
 ```
 {
     "name": "app",
@@ -293,6 +311,7 @@ npm i
 ```
 
 Now the backend api is ready,
+
 Then run your api.
 ```
 node app.js
@@ -302,6 +321,7 @@ So if you visit localhost:3000/names it’ll give you the list as response.
 So, this is my sample backend. You can have any backend you have and point it from nginx as follows.
 
 Same as previous example we need to create  or edit the config file in the sites-enabled directory.
+
 Go to /etc/nginx/sites-enabled directory
 ```
 cd /etc/nginx/sites-enabled
@@ -313,7 +333,9 @@ sudo vim mysite.conf
 ```
 
 And vim editor will be opened.
+
 Press ***I*** for edit mode.
+
 Paste the following content inside the editor and press ***Esc*** + ***:*** + ***w*** + ***q*** keys to save and exit the editor.
 
 ```
@@ -347,7 +369,7 @@ Now if you go to http://www.mysite.com/api/names you’ll be directed to your ba
 
 <img src="/img/cd_8_2021_11_04.png"/>
 
-#### 3rd example - Serving images #### 
+### 3rd example - Serving images ### 
 
 Create directory /usr/images/
 ```
@@ -357,6 +379,7 @@ sudo mkdir -p /usr/images/
 Place a image named test.png in this directory.
 
 Same as above example we need to create or edit the config file in the sites-enabled directory.
+
 Go to /etc/nginx/sites-enabled directory
 ```
 cd /etc/nginx/sites-enabled
@@ -415,6 +438,7 @@ sudo vim /etc/nginx/sites-available/mysite.conf
 ```
 
 Add the config content.
+
 And then do the linking
 ```
 sudo ln -s /etc/nginx/sites-available/mysite.conf/etc/nginx/sites-enabled/mysite.conf
@@ -431,7 +455,10 @@ Happy playing with **nginx**!!!
 Read these references if you hope to study further about nginx..
 
 <https://en.wikipedia.org/wiki/Nginx>
+
 <http://nginx.org/en/docs/beginners_guide.html>
+
 <https://www.strongdm.com/blog/difference-between-proxy-and-reverse-proxy>
+
 <https://medium.com/adrixus/beginners-guide-to-nginx-configuration-files-527fcd6d5efd>
     
