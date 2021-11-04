@@ -13,14 +13,15 @@ description : Have you heard of NGINX? or have you used it? Simply it's a web se
 **Quick dive into Nginx**
 
 Probably you might’ve heard nginx word, but wondering what’s it. Well, easy peasy!! it’s a web server, and also a reverse proxy, load balancer, mail proxy and HTTP cache.
-It’s a lot right! I might’ve made it more Greek for you. In that case let me azure you. If you manage to hang in all the way to the end of this blog you might realize nginx is not an alien.
+It’s a lot right! I might’ve made it more Greek for you. In that case let me assure you. If you manage to hang in all the way to the end of this blog you might realize nginx is not an alien.
 
 So let’s begin,
+
 ***Spoiler alert - The demo steps in this blog is made for Ubuntu users. But you are welcome to try read and get an understanding about the nginx. Knowledge matters right?***
 
-Let me give you how nginx came to world. It was created by Igor Sysoev. And publicly released in 2004. It’s a free open-source software released under the terms of the 2-clause BSD license.
+Let me tell you how nginx came to world. It was created by Igor Sysoev. And publicly released in 2004. It’s a free open-source software released under the terms of the 2-clause BSD license.
 
-Now, if you’d remember I’ve said the word reverse proxy. Ok, whats that? Let’s what’s a forward proxy and whats a reverse proxy.
+Now, if you’d remember I’ve said the word reverse proxy. Ok, whats that? Let’s see what’s a forward proxy and whats a reverse proxy.
 
 ##### Forward proxy and Reverse proxy
 
@@ -34,11 +35,11 @@ Unlike forward proxy this is used to protect servers. Reverse proxy server forwa
 
 *Difference*
 
-Forward proxy server acts on behalf of multiple clients and allows clients traffic to flow to an external network. On the other hand reverse proxy server routs external client’s traffic on behalf of multiple servers.
+Forward proxy server acts on behalf of multiple clients and allows client's traffic to flow to an external network. On the other hand reverse proxy server routes external client’s traffic on behalf of multiple servers.
 
 <img src="/img/cd_1_2021_11_04.png"/>
 
-Now you know whats a reverse proxy means. Let’s see how nginx work.
+Now you know what's a reverse proxy means. Let’s see how nginx work.
 
 -	Nginx has a master process and several worker processes. Master process read and evaluate configurations and maintain worker processes.
 -	The master process performs the privileged operations such as reading configuration and binding to ports, and then creates a small number of child processes (the next three types).
@@ -57,6 +58,7 @@ Ok, let’s begin.
 **Install Nginx**
 
 Ngingx is available in Ubuntu’s default repositories, so installation is straightforward.
+
 So, install nginx as follows.
 
 ```
@@ -64,7 +66,7 @@ sudo apt update
 sudo apt install nginx
 ```
 
-After the installation if we go to our ip address on the browser, we’ll see the default nginx page.
+After the installation if we go to our ip address or the localhost on the browser, we’ll see the default nginx page.
 
 <img src="/img/cd_3_2021_11_04.png"/>
 
@@ -86,7 +88,9 @@ Any static pages or any virtual host can be placed here.
 
 <img src="/img/cd_4_2021_11_04.png"/>
 
-**/etc/nginx/nginx.conf** is the main configuration file. This contains the global configurations. Just see the content by
+**/etc/nginx/nginx.conf** is the main configuration file. This contains the global configurations. 
+
+Just see the content by
 
 ```
 cat /etc/nginx/nginx.conf
@@ -218,7 +222,7 @@ echo This is my test site > index.html
 Now you can exit from the super user terminal. Type ***exit*** and ***Enter***.
 
 Then, we need to tell nginx about our web site, so that we need to add configuration.
-As we discussed you know that, we need to add configurations is sites-available and sites-enabled directories.
+As we discussed you know that, we need to add configurations in sites-available and sites-enabled directories.
 
 Here, for easiness we’ll directly setup the config in sites-enabled directory. At the end of the examples I’ll tell you how to link server file inside sites-available directory to the sites-enabled directory.
 
@@ -448,7 +452,7 @@ All done, Now it’ll work as it did before.
 
 Yeah!! simple as that. Now you have the basic knowledge about the nginx.
 
-Hope you enjoyed, Thanks for hanging up until the end. See you in an another blog.
+Hope you enjoyed, Thanks for hanging in until the end. See you in an another blog.
 
 Happy playing with **nginx**!!!
 
