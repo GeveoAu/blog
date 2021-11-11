@@ -9,6 +9,7 @@ linkedin: https://lk.linkedin.com/in/kasunprabath
 description : Today the terms “left” and “right” are used as symbolic labels for many things. It can be a direction, or as a grouping term, etc. Even In our country we frequently hear about left and right for decades in political discussions. Has anyone thought about what do they mean? Where did it begin?
 
 ---
+___  
 
 Today the terms “left” and “right” are used as symbolic labels for many things. It can be a direction, or as a grouping term, etc. Even In our country we frequently hear about left and right for decades in political discussions. Has anyone thought about what do they mean? Where did it begin? Do you believe physical seating arrangements among politicians caused the beginning of this political grouping? To get a clear idea we must go back in time to the summer of 1789, The French revolution era.
 
