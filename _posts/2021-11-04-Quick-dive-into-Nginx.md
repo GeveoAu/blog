@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/chalith-desaman/
 description : Have you heard of NGINX? or have you used it? Simply it's a web server, reverse proxy and more... Without spoiling let's touch the basics of NGINX.
 
 ---
-  
+-  
 
 Probably you might’ve heard nginx word, but wondering what’s it. Well, easy peasy!! it’s a web server, and also a reverse proxy, load balancer, mail proxy and HTTP cache.
 It’s a lot right! I might’ve made it more Greek for you. In that case let me assure you. If you manage to hang in all the way to the end of this blog you might realize nginx is not an alien.
