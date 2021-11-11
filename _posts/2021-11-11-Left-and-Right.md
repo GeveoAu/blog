@@ -15,11 +15,11 @@ Today the terms “left” and “right” are used as symbolic labels for many 
 
 Back in July of 1789, France had already experienced a rough summer that included food shortages, high taxes (as a solution to King Louis XVI’s debts), and the militarization of Paris. Sensing distress, during this time as the revolution gained steam, an angry mob had just stormed the Prison of Bastille. As a result, The National Assembly assembled to act as the revolution’s government. National Assembly had one principal goal. A new constitution. The main issue discussed in this assembly was how much power the king should have. Should he get the absolute veto power or not. This debate continued.
 
-<img src="/img/ka_1_2021_11_11.png"/>
+<img src="/img/ka_1_2021_11_11.jpg"/>
 
 Those who thought the king should not have veto power sat on the left of the president of the assembly and those who were loyal to religion and the king took up positions to the right to avoid the shouts, oaths, and indecencies. Later the National Assembly was replaced with other organizations, but the seating arrangement continued.
 
-<img src="/img/ka_2_2021_11_11.png"/>
+<img src="/img/ka_2_2021_11_11.jpg"/>
 
 Following the Insurrection of 31 May – 2 June 1793 of the French Revolution the many members sat on the right side was deserted and the remaining members had to sit in the middle of the assembly. However, after 1794 the method of seating was abolished. The new constitution was introduced, and political parties were again formed. The majority of ultra-royalists chose to sit on the right. The "constitutionals" sat in the center while independents sat on the left. The terms extreme right and extreme left as well as center-right and center-left came to be used to describe the ideologically different sections of the assembly.
 
