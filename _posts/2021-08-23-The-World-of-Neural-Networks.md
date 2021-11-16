@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/isuru-uthpala-sudasinghe/
 description : The practical applications of machine learning are really simpler than you think. They do sound very techy, however coding your first machine learning algorithm or the neural network only requires a few baby steps. This article would help those who like to explore the depths of machine learning, start doing it with more confidence than blindly start coding. And take those  baby steps faster than others. 
 
 ---
-
-**The World of Neural Networks**
+___  
 
 This article aims at readers who have not yet stepped into the world of machine learning. Although phrases like machine learning, artificial intelligence, neural networks are used very casually today, most people do not understand the basic idea behind them. In the world of machine learning, each term has its own unique meaning and there are relationships among each other that would be really helpful to clarify their purpose. Hopefully, you won’t get confused the next time you run into a buzzword like this.
 
