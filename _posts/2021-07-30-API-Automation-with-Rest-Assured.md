@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/kawshi-bandara-7b3858200/
 description : With Rest Assured we can test REST APIs using JAVA libraries. This also integrates well with Maven. There are so many number of tools that can be used in API testing. But Rest Assured is the most popular JAVA library that is used to write and monitor tests for the RESTful Web Services.
 
 ---
-
-**API Automation with Rest Assured**
+___  
 
 Testing is a crucial stage of any software development life cycle. Now that APIs have become a core aspect of a software it is necessary to do thorough API tests in all the systems. APIs impact is witnessed in all over the software and testing APIs ensure smooth functioning of business level logics. 
 
