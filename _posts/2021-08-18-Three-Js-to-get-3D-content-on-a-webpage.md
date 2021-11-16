@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/dilshanikarunarathna/
 description : Three.js is the way to go for your initial jump into learning how to deal with WebGL projects. It's powerful, and if you're coming from another 3D technology, you'll be up and running with very little time. 
 
 ---
-
-**Three Js to get 3D content on a webpage**
+___  
 
 <img src="/img/dk_1_2021_08_18.png"/>
 
