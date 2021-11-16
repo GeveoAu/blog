@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/asanka-indrajith-9510a025/
 description : Azure Active Directory Business to Consumer (Azure AD B2C) provides identity as a service (IDaaS) for business-to-customer. Azure AD B2C is an identity management service that enables you to customize and control how your customers authenticate in your consumer facing application. Azure AD B2C is as its core a flexible, policy-based, data-driven identity exchange service that help you to orchestrates authentication.
 
 ---
-
-**An Overview of Azure Active Directory B2C**
+___  
 
 ### **What is Azure Active Directory B2C?**
 
