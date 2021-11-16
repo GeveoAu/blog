@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/sandunangelo/
 description : Competitive software development have various challenges on keeping up with new business needs and technological demands. As software developers we are following various practices to achieve those demands. One topic is easiness on migrating to latest technologies and make the software compatible on new environments. Let's see how to make our software easy for upgradings.
 
 ---
-
+___  
 
 How easy is your software to be upgraded to new versions of the same technology stack? If the answer is “Hard” then it would be much harder for an entirely different technology stack also.
 
