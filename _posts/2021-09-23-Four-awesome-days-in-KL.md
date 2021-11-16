@@ -9,9 +9,8 @@ linkedin: https://www.linkedin.com/in/sithara-kalpani/
 description : Having some beautiful and unforgettable memories to spend the lockdown period fills oneself with a bit of satisfaction. Just before the outbreak of covid-19 pandemic I got the opportunity to visit Kuala Lumpur, Malaysia with one of my friends. Here are few of the highlights of our wonderful journey.
 
 ---
+___  
 
-**Four awesome days in KL**
- 
 Just before the outbreak of covid-19 pandemic I got the opportunity to visit Kuala Lumpur, Malaysia. Planning of this trip was so interesting that initially there were about 5 – 6 friends in the chat, but gradually the number declined to two. This happens for most of the trips. Thanks to Ishan, we went through the whole booking process fast and smooth, and finally took off to Malaysia on a gleeful evening in the month of December, 2019.
 
 That was such a marvelous time period to be in Kuala Lumpur, the capital of Malaysia since the entire city was decorated with breath taking Christmas decorations. We were picked up from the KL International airport by a guide and headed to the hotel in the dawn. First thing we did was finding a nice and fine Indian restaurant to have the breakfast – it was specifically Indian just to take no risk of new food at once. The Day one was a city tour, which felt like we travelled about thousand miles, yet looking into the city map we could find out all the tourist attractions we visited were close by, but the routes were one-way. The iconic Petronas towers, Harriston Chocolate Factory, KL City Gallery were my favorites of the city tour. Our tour guide was a mix Indian from whom we got to know that Malaysia is the home for a variety of nationalities, mostly from around Asia. Layali El Sham indeed had such delicious Syrian and many Middle Eastern cuisine, and Nasi Lemak Goreng was of course a mouthwatering dish among Malaysians.
