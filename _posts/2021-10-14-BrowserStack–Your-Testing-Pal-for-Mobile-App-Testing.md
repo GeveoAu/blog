@@ -9,8 +9,7 @@ linkedin: https://lk.linkedin.com/in/dinithi-weerabahu
 description : Are you tired of playing with Android Emulators for Mobile Testing? Do you often find that your emulators are stuck or it takes ages to load a single page? Yes.. we all have been there. Well.. you don’t have to do that anymore! Here comes the era of BrowserStack. A promising tool that could be your testing buddy for Mobile App Testing. 
 
 ---
-
-**BrowserStack – Your Testing Pal for Mobile App Testing**
+___  
 
 Are you tired of playing with Android Emulators for Mobile Testing? Do you often find that your emulators are stuck or it takes ages to load a single page? Yes.. we all have been there. Well.. you don’t have to do that anymore! Here comes the era of BrowserStack. A promising tool that could be your testing buddy for Mobile App Testing.
 
