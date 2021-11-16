@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/adheeb-fazlul-haq-239a3492/
 description : Wildlife traditionally refers to undomesticated animal species, but includes all plants, fungi and other organisms that grow or live wild in areas without being introduced by humans. Illegal trade of wildlife, living crime. According to the Unite Nations Convention on International Trade in Endangered Species of Wildlife Fauna and Flora (CITES) wildlife crime is now the most urgent threat of the world’s best loved species – elephant ivory, rhino horns and tiger products.
 
 ---
-
-**Let Them Live**
+___  
  
 Wildlife traditionally refers to undomesticated animal species, but includes all plants, fungi and other organisms that grow or live wild in areas without being introduced by humans. Illegal trade of wildlife, living crime. According to the Unite Nations Convention on International Trade in Endangered Species of Wildlife Fauna and Flora (CITES) wildlife crime is now the most urgent threat of the world’s best loved species – elephant ivory, rhino horns and tiger products.
 
