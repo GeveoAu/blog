@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/hethu/
 description : We live in a three-dimensional world, and we perceive our world in 3D. It is our brains that construct our world to be seen in 3D. In mathematics, we know that a 2D plane has two perpendicular directions x, y in a cartesian coordinate system.  In the third dimension, the z axis is perpendicular to both x, y dimensions. Similarly, the fourth dimension is a direction w perpendicular to all three x, y, z dimensions. This is hard for us to understand because we cannot visualize the fourth dimension, but we can deduce some interesting properties by walking our way up from lower dimensions. Although we can explain higher dimensions with mathematics, I will try to keep things simple in this post. 
 
 ---
-
-**The Next Dimension**
+___  
 
 We live in a three-dimensional world, and we perceive our world in 3D. It is our brains that construct our world to be seen in 3D. 
 
