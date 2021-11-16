@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/akilairoshan/
 description : fastlane is a tool for mobile developers to automate deployments and releases for their iOS and Android apps. It can handle tasks like generating screenshots, dealing with provisioning profiles/code signing, and releasing applications. Additionally, fastlane has support for CI integrations such as CircleCI, Jenkings, Travis CI, Azure DevOps, etc.
 
 ---
-
-**fastlane and Azure DevOps - Apple App Store CI extension**
+___  
 
 In this brief article, we will go through the authentication options available in Azure DevOps - Apple App Store CI extension. 
 
