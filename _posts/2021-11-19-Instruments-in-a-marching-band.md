@@ -54,7 +54,7 @@ Brass instruments produce sound using the vibration of air in the tubes of the i
 
 - Trumpet and Cornet
 
-Trumpet and cornet are both similar instruments in the structure and the way the sound is produced. However, a trumpet is a bit bigger than a cornet. Furthermore, a cornet produces somewhat of a warmer or mellower tone. There are 3 values in these instruments and different notes are produced by closing these values at different combinations and varying the airflow using the lips. For example, the notes such as C, G and E (about 7 notes) can be played with the same value combination, but the players must tighten or loosen their lips according to the notes they need. Trumpets can be used to play the main melody or second parts.
+Trumpet and cornet are both similar instruments in the structure and the way the sound is produced. However, a trumpet is a bit bigger than a cornet. Furthermore, a cornet produces somewhat of a warmer or mellower tone. There are 3 values in these instruments and different notes are produced by closing these values at different combinations and varying the airflow using the lips. For example, the notes such as C, G and E can be played with the same value combination, but the players must tighten or loosen their lips according to the notes they need. Trumpets can be used to play the main melody or second parts.
 
 <img src="/img/in_3_2021_11_19.jpg" height="130" width="300" />
 
@@ -62,7 +62,7 @@ Trumpet and cornet are both similar instruments in the structure and the way the
 
 This instrument is bigger than a trumpet and it has a sliding pipe at the end. Different notes can be produced by moving this slide into various positions. There are seven such positions. There are two types of trombones in a band namely, tenor trombone and bass trombone.
 
-<img src="/img/in_4_2021_11_19.jpg" height="150" width="250" />
+<img src="/img/in_4_2021_11_19.jpg" height="100" width="300" />
 
 - Tuba
 
@@ -94,6 +94,6 @@ This is a reed instrument which has a lower pitch than the flute. This instrumen
 
 - Saxophone
 
-The saxophone is also a reed instrument that has a curved tube. This is popular in jazz music as well. Two types of saxophones can be found in marching bands. They are Alto saxophone which is small and has a higher pitch and tenor which is a bit larger and has a lower pitch. 
+The saxophone is somewhat similar to the clarinet but has a curved tube. This is popular in jazz music as well. Two types of saxophones can be found in marching bands. They are Alto saxophone which is small and has a higher pitch and tenor which is a bit larger and has a lower pitch. 
 
 <img src="/img/in_9_2021_11_19.jpg" height="380" width="380" />
