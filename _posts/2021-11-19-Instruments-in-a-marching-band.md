@@ -33,15 +33,15 @@ This drum produces the lowest sound in this section and sets the tempo for the b
 
 <img src="/img/in_1_2021_11_19.jpg" height="200" width="300" />
 
-2.	Snare drum
+1.	Snare drum
 The snare drum has a set of wires which span across the lower surface. Hence, it produces a sharp sound. The wires at the bottom can be loosened using a switch to produce a more tenor sound as well. This drum is played using two sticks and the players do various stick drills such as moving their hands and tossing the sticks to make band displays more attractive. This is worn using a belt that goes over the shoulder and holds the drum at the side of the player. Therefore, these drums are also known as side drums. 
 
-3.	Tenor drum
+1.	Tenor drum
 The tenor drum is a set of either four or six small drums. These drums are mounted using a belt and these can be the heaviest drum in the percussion section. A marching band includes about one tenor drum player and sometimes none depending on the situation. These drums are used to add more colour to the music.
 
 <img src="/img/in_2_2021_11_19.jpg" height="320" width="220" />
 
-4.	Cymbals
+1.	Cymbals
 A pair of metallic circle-shaped plates that can be clashed together to produce sound. These are held using a small strap that is attached to the center of the plate. The sound can be varied using the amount of force put into the clash.
 
 ### **Brass instruments**
@@ -53,12 +53,12 @@ Trumpet and cornet are both similar instruments in the structure and the way the
 
 <img src="/img/in_3_2021_11_19.jpg" height="130" width="300" />
 
-2.	Trombone
+1.	Trombone
 This instrument is bigger than a trumpet and it has a sliding pipe at the end. Different notes can be produced by moving this slide into various positions. There are seven such positions. There are two types of trombones in a band namely, tenor trombone and bass trombone.
 
 <img src="/img/in_4_2021_11_19.jpg" height="150" width="250" />
 
-3.	Tuba
+1.	Tuba
 Tuba is the biggest and lowest-pitched interment in a marching band. It has a big horn which is turned upwards when playing. This instrument can have three to six values which are used to produce different notes. There is a smaller version of the tuba called tenor tuba or the euphonium which can also be seen in marching bands. 
 
 <img src="/img/in_5_2021_11_19.jpg" height="400" width="370" />
@@ -72,17 +72,17 @@ The flute is a very common instrument that is used in different types of musical
 
 <img src="/img/in_6_2021_11_19.jpg" height="250" width="500" />
 
-2.	Piccolo
+1.	Piccolo
 This is similar to the flute, but it is about half the size of it. This has the highest pitch in a marching band. Hence the sound of the piccolo can be easily heard even with all the other instruments playing in the background. 
 
 <img src="/img/in_7_2021_11_19.jpg" height="200" width="300" />
 
-3.	Clarinet
+1.	Clarinet
 This is a reed instrument which has a lower pitch than the flute. This instrument has a beautiful and rich tone. Hence it is used in solo performances as well. 
 
 <img src="/img/in_8_2021_11_19.jpg" height="375" width="375" />
 
-4.	Saxophone
+1.	Saxophone
 The saxophone is also a reed instrument that has a curved tube. This is popular in jazz music as well. Two types of saxophones can be found in marching bands. They are Alto saxophone which is small and has a higher pitch and tenor which is a bit larger and has a lower pitch. 
 
 <img src="/img/in_9_2021_11_19.jpg" height="380" width="380" />
