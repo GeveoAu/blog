@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/nilmanimenikge/
 description : The members of the ETF do not have to wait until they complete a specific age to withdraw their funds. To withdraw the ETF balance, you must be resigned from the current employment. If not, you can only apply for ETF benefits from past employers. The ETF balance can only be withdrawn every 5 years.
 
 ---
-
-**How to Claim ETF**
+___
 
 The members of the ETF do not have to wait until they complete a specific age to withdraw their funds. To withdraw the ETF balance, you must be resigned from the current employment. If not, you can only apply for ETF benefits from past employers. The ETF balance can only be withdrawn every 5 years.
 
