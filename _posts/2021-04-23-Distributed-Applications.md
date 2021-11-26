@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/savindasenevirathne/
 description : Distributed applications (Dapp) are applications run on multiple nodes talking to each other executing the same task or job at the same time. All the application’s decisions are based on majority voting. Due to the multi node nature, transactional data are duplicated in every node. So, in order to a data modification to take effect, the data must be changed in majority of nodes at the same time and the relevant blockchain also should be updated to match the modified data. This is near impossible due to the computational complexity and the smaller time window. 
 
 ---
-
-**Distributed Applications**
+___
 
 What do you know about an enterprise application architecture? Most of the average people think that a simple server and client connecting to it. That is our basic understanding. This is called a centralized application architecture where there is only one point which controls all the system and sits above all. (God figure in that application. Ha ha). But there is a side most of us can’t see. That is that if that server is attacked or become vulnerable, all the decisions made by the system after that becomes vulnerable. 
 
