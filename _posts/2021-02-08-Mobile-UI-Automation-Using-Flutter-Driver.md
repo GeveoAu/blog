@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/ruwanimithrasena/
 description : Flutter Driver is a testing framework specially made to test the flutter apps, it’s very similar to testing frameworks such as Selenium driver, Protractor and Google espresso. Can use to test various UI elements and helps to write end to end integrations test.
 
 ---
-
-**Mobile UI Automation Using Flutter Driver**
+___
 
 Before starting to know about how to do the UI automation using flutter driver, let’s see what is flutter and why we need to choose flutter to you app?
 
