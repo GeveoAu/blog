@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/priyadharsun-sivadasan-a1676247/
 description : Flare is a distributed network, which has the unique capability of creating a two way bridge between different networks such as Etherium and XRP Ledger.Currently XRP mainly used for the cross border payments and internet banking settlements as the aim of its parent company Ripple, at the meantime it has been limited for other types of functionalities. This is what Flare network aims to solve by introducing support for smart contracts for the XRP ecosystems.
 
 ---
-
-### **Flare Network - Spark Token and FXRP**
+___
 
 Flare is a distributed network, which has the unique capability of creating a two way bridge between different networks such as Etherium and XRP Ledger.Currently XRP mainly used for the cross border payments and internet banking settlements as the aim of its parent company Ripple, at the meantime it has been limited for other types of functionalities. This is what Flare network aims to solve by introducing support for smart contracts for the XRP ecosystems.
 
