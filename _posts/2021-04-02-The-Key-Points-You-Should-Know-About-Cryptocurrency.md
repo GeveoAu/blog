@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/ayeshan-wimalasena/
 description : With the advancement of human needs, they had to find a medium of exchange for goods and services. In the early stage, they used the barter system. But with the growth of human needs and the population, this system got changed and now it is in the modern currency stage. Modern currency includes paper currency, coins, credit/ debit cards, digital wallets, etc. All these modern currencies are controlled by banks and governments.
 
 ---
-
-**The Key Points You Should Know About Cryptocurrency**
+___
 
 <img src="/img/mw_1_2021_04_02.jpg" />
 
