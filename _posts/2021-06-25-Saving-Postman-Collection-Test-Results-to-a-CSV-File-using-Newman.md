@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/kavindra-lunuwilage/
 description : What if you need to save the Response or Test Status to a file using Postman? Now it is a problem, and you cannot do that with Postman. Unfortunately, Postman would not allow writing the responses to a file due to a security precaution that Postman has built in.But do not worry. There is a workaround to overcome this problem, and we will now explore it.
 
 ---
-___
+
 
 <img src="/img/kl_01_2021_06_25.png"/>
 
