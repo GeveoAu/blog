@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/amilaariyarathna/
 description : As the Covid19 pandemic unfolded throughout the world, many industries/businesses were adversely affected. One segment that fared differently was the ‘Online Retail/Ecommerce’ industry which saw a boom in business worldwide. There are many studies that suggest the growing trend of online shopping is going to stay even when the pandemic is over.
 
 ---
-
-**Shippit And The Logistics of Online Delivery**
+___
 
 As the Covid19 pandemic unfolded throughout the world, many industries/businesses were adversely affected. One segment that fared differently was the ‘Online Retail/Ecommerce’ industry which saw a boom in business worldwide. There are many studies that suggest the growing trend of online shopping is going to stay even when the pandemic is over.
 
