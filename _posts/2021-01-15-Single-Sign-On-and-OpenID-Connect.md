@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/hiranamarasinghe/
 description : With the growing number of applications, it’s impossible to remember different credentials to individual applications and that demands a centralized credentials management/authentication system. Your single google account can be used to access multiple applications such a YouTube, Gmail, Google maps etc. At the same time, we could use our social media account credentials such as Facebook and twitter to log in to millions of web/mobile applications. Hence, it’s imperative to understand how single sign on works.
 
 ---
-
-**Single Sign-On and OpenID Connect**
+___
 
 <img src="/img/ha_1_2021_01_15.jpg" height="600" width="618" />
 
