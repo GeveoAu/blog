@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/harinsamaranayake/
 description : Laravel is considered the PHP Framework for Web Artisans. According to hackr.io, it is the best PHP framework in 2021. It was developed by Taylor Otwell in June 2011. Laravel is free and open-source. It follows the Model–View–Controller (MVC) architectural pattern.
 
 ---
-
-**Laravel - The PHP Framework for Web Artisans**
+___
 
 <img src="/img/hs_1_2021_03_26.jpg" />
 
