@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/ishan-perera-1ab380ba/
 description : There is a saying that “Once a year go somewhere you have never been before.”  Unfortunately, now we all missed travelling due to this pandemic situation. Since we cannot exactly say when we can travel again like before. We have to live with the travel memories that we had before this pandemic. So, I thought to share highlights of my experience of travelling Dubai before COVID 19 Pandemic hit the world, I travelled to UAE with my wife in the latter part of the 2019 and stayed there about a week. 
 
 ---
-
-**Exploring the Emirates**
+___
 
 There is a saying that “Once a year go somewhere you have never been before.”  Unfortunately, now we all missed travelling due to this pandemic situation. Since we cannot exactly say when we can travel again like before. We have to live with the travel memories that we had before this pandemic. So, I thought to share highlights of my experience of travelling Dubai before COVID 19 Pandemic hit the world, I travelled to UAE with my wife in the latter part of the 2019 and stayed there about a week. 
 
