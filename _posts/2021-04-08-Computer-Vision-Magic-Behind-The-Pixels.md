@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/harsha-silva/
 description : One-third of the human brain is devoted exclusively to the task of parsing visual scenes. Even from birth, Human beings can understand the content from vision. A lot of learning and decision-making processes are based on those visuals. So, the fantasy of giving machines the ability to ‘see’ has been a hot topic for decades.
 
 ---
+___
 
 **What is Computer Vision**
 
