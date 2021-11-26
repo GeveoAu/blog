@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/kavindra-lunuwilage/
 description : The necessity of doing End to End Testing is getting more powerful each day. Development speed is evolving and the right way to keep riding that speed boost wave is to utilize End to End Testing for your applications. TestCafé is a Node.js tool for automated End to End Web Testing. It is free and open-source, easy to set up and it is working on all popular environments.
 
 ---
-
-**TestCafé Integration with Azure DevOps**
+___
 
 <img src="/img/kl_01_2021_01_29.png"/>
 
