@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/shakthi-sachintha/
 description : Flask is a lightweight web application framework written in Python. It was initially released on April 1, 2010. The mind behind this awesome framework is Armin Ronacher who is an Austrian software programmer. The initial idea behind this framework was an April fool’s joke, which was so popular enough to make it a real application. It was the most popular web framework in the Python Developers survey 2018.
 
 ---
-
-**Introduction to Flask Micro Web Framework**
+___
 
 <img src="/img/ss_1_2021_03_19.png" height="470 " width="1200 " />
 
