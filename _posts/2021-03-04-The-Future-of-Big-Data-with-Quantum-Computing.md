@@ -9,8 +9,7 @@ linkedin: https://www.linkedin.com/in/asangika-sandamini-7303aa16b/
 description : We live in the age of technology, but there's still plenty to come. In recent years, large companies have been taking small, but important steps forward in quantum computing, which looks set to revolutionize the world as we know it. Quantum computers could spur the development of new breakthroughs in science, medications to save lives, machine learning methods to diagnose illnesses sooner, materials to make more efficient devices and structures.
 
 ---
-
-**The Future of Big Data with Quantum Computing**
+___
 
 We live in the age of technology, but there's still plenty to come. In recent years, large companies have been taking small, but important steps forward in quantum computing, which looks set to revolutionize the world as we know it. Quantum computers could spur the development of new breakthroughs in science, medications to save lives, machine learning methods to diagnose illnesses sooner, materials to make more efficient devices and structures.
 
