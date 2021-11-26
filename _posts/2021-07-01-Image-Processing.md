@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/malith-rukshan-koswattegedara-7b2474167/
 description : Image processing is a field of knowledge that falls under computer vision. It is the manipulation of digital data to convert data into a suitable form for further analysis. The first recorded digital image was sent by a submarine cable from New York to London in the newspaper industry.
 
 ---
+___
 
 #### **What is Image Processing**
 
