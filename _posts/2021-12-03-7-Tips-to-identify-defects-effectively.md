@@ -13,7 +13,7 @@ ___
 
 Worst nightmare of QA engineers is finding defects in a live environment. Therefore it is necessary that you release bug/defect free application to live environment. Though it is not easy to find all the bugs in an application as QAs we should find all the bugs possible. In this article I wish to explain few tips I used to follow when testing an application.
 
-##### What is a defect
+### What is a defect
 
 According to ISTQB glossary defect definition as follows. 
 
@@ -23,7 +23,7 @@ https://glossary.istqb.org/en/search/
 
 In simple terms, defect is an error or bug which happens when application deviation from expected behavior. Bugs can arise because of so many reasons. Mainly, it will be because of miscommunication, program errors, continues change of the requirement and time pressure. To avoid repeating same bug it is important to understand the root cause of the bugs and what type of bug it is. 
 
-##### Common Types of Defects
+### Common Types of Defects
 
 Defects can be categorized based on different measures. It can be categorized based on nature, severity, priority or based on the way it found.  
 
