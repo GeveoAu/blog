@@ -19,8 +19,6 @@ According to ISTQB glossary defect definition as follows.
 
 “A flaw in a component or system that can cause the component or system to fail to perform its required function, e.g. an incorrect statement or data definition. A defect, if encountered during execution, may cause a failure of the component or system.”
 
-https://glossary.istqb.org/en/search/
-
 In simple terms, defect is an error or bug which happens when application deviation from expected behavior. Bugs can arise because of so many reasons. Mainly, it will be because of miscommunication, program errors, continues change of the requirement and time pressure. To avoid repeating same bug it is important to understand the root cause of the bugs and what type of bug it is. 
 
 ### Common Types of Defects
@@ -57,7 +55,7 @@ Following are the development-based defects.
 -	Interface Defects
 -	Performance Defects
 
-https://www.tutorialspoint.com/software_testing_dictionary/defect.htm 
+### 7 Golden Tips
 
 To avoid all those defects slipped when testing, I used to follow 7 golden tips. 
 
@@ -90,3 +88,9 @@ If you know the domain and application properly it will be very easy for you to 
 It is essential to test the application in different environment. But most of all you need to choose the correct environment and correct settings to do the testing. There can be defects based on the environment you test and settings you used. So, it is important to test in correct environment and setting conducting testing. 
 
 **Hope these 7 tips will help you to improve your testing and deliver quality product. Happy testing!**
+
+### References
+
+https://glossary.istqb.org/en/search/
+
+https://www.tutorialspoint.com/software_testing_dictionary/defect.htm 
