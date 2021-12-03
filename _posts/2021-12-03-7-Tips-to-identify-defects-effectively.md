@@ -29,19 +29,24 @@ Defects can be categorized based on different measures. It can be categorized ba
 
 Here are the defect types based on defect’s nature.
 
-1.	Functional defects 
+-	Functional defects 
+
 If the application functionality deviates from expected behavior it can be categorized as functional defects. These defects mostly arise with communication gap and frequent change of the requirement. 
 
-2.	Performance defects 
+- Performance defects 
+
 Application performance matrix related defects are categorized as performance defects. Performance matrix like speed, response time, stability, memory consumption and network consumption related issues can be identified by conducting a performance test.
 
-3.	Usability defects
+- Usability defects
+
 User experience makes inconvenience when using the application identified as usability defects. Conducting usability testing QA engineers can identify usability defects. 
 
-4.	Compatibility defects 
+- Compatibility defects 
+
 Application incompatibility with different software, hardware, devices, or network can be identify as compatibility defects.  Compatibility defects can be identified by conducting compatibility testing. 
 
-5.	Security defects
+- Security defects
+
 Weakness in system to have security attacks are identified as security defects. Penetration testing should conduct to identify the security defects in an application. 
 
 Following are the development-based defects. 
@@ -56,25 +61,32 @@ https://www.tutorialspoint.com/software_testing_dictionary/defect.htm
 
 To avoid all those defects slipped when testing, I used to follow 7 golden tips. 
 
-1.	Make a list of slipped bugs
+- Make a list of slipped bugs
+
 It is natural to slip one or two bugs while testing. But if you allow to slip the same bug again and again then that’s something to worry about. This tip has become my life savior to avoid that. Make a list of bugs which tend to slip from your hand, so you can refer that when you are doing testing or when it’s time to do production release. 
 
-2.	Developer is a good friend 
+-	Developer is a good friend 
+
 Though QA engineer feels like Developer is the worst enemy you have, trust me its otherwise. Have a good communication between developer and QA engineer will always help to minimize introducing bugs to the application. Also, the developer will also understand the QA best practices and they will also adhere to them to have a quality product. Having this good relationship between developer and QA will help prevention of defect introduction rather than finding defects. 
 
-3.	Improve test coverage 
+-	Improve test coverage 
+
 It is always needed to have a good test coverage to detect bugs in an application. When designing test cases make sure to cover acceptance criteria, impediment test scenarios and improve the test coverage. Review the test case with peers and get third party suggestion which will be helpful to improve the test case coverage.
 
-4.	Trust your gut
+- Trust your gut
+
 When you are doing testing always trust your gut. May be the feature can be very simple but if you feel like something is wrong, it can be true.  It may come with your experience or the way you think about it. But always trust your gut. 
 
-5.	Use good data to test
+- Use good data to test
+
 Selecting good test data is very important. There are different techniques to find good data. Equivalent partition, boundary value analysis and most importantly think from the use’s point to select good data set. 
 
-6.	Live with the domain
+-	Live with the domain
+
 If you know the domain and application properly it will be very easy for you to identify the potential defects in the system. Do not lose your grip from the domain. Keep it updated. It will help you to identify defects in an application. 
 
-7.	Check the environment
+-	Check the environment
+
 It is essential to test the application in different environment. But most of all you need to choose the correct environment and correct settings to do the testing. There can be defects based on the environment you test and settings you used. So, it is important to test in correct environment and setting conducting testing. 
 
 **Hope these 7 tips will help you to improve your testing and deliver quality product. Happy testing!**
