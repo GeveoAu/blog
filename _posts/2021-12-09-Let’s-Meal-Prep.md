@@ -15,7 +15,7 @@ Do you know about meal prep?
 
 Meal Prepping is a simple and easy way to schedule your meal ahead of time and portioning them out to have later on. This is a very popular method among people who spend a busy life because it saves your time. Just think about the time you can save from each day by not think about the recipes, buy food items, wash containers, cook foods and clean a messy kitchen. 
 
-<img src="/img/sp_1_2021_12_09.jpg" height="1349px" width="2023px" />
+<img src="/img/sp_1_2021_12_09.jpg" height="950px" width="2023px" />
 
 How to start meal prepping?
 
