@@ -15,7 +15,7 @@ Regression testing is carried out to make sure that changes done to the applicat
 
 Regression test is not just a retesting and it covers the entire system and has a much wider scope of activity than retesting. Regression testing can be performed using the following techniques.
 
-<img src="/img/nl_1_2021_12_24.jpg" height="2035" width="1203" />
+<img src="/img/nl_1_2021_12_24.jpg" height="900" width="1203" />
 
 *	Retest All
 
