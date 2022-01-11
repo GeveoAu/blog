@@ -33,7 +33,7 @@ There are various types of image smoothing algorithms. This article covers the f
 4.	Gaussian Filter
 
 #### **Kernel**
-In image processing, a kernel, convolutional matrix, or mask is a small matrix of size 3 * 3 , 5 * 5 or etc. Which is can be used to perform operations such as filtering. Following is a sample kernel.
+In image processing, a kernel, convolutional matrix or mask is a small matrix of size 3 * 3, 5 * 5 or etc. Which is can be used to perform operations such as filtering. Following is a sample kernel.
 
 <img src="/img/hk_2_2021_12_16.png" height="140" width="160" />
 
