@@ -81,7 +81,7 @@ Following image shows how to calculate the resulting image using gaussian filter
 
 As shown in the above figure, the pixel value is the gaussian average value of the kernel. For example, the top right pixel value of the resulting image becomes 41 because the gaussian average of the kernel is 41 ((23 * 1 + 56 * 2 + 60 * 1 + 10 * 2 + 56 * 4 + 60 * 2 + 11 * 1 + 10 * 2 + 60 * 1)/16 = **41**).  The image bellow shows before and after result of the example image.
 
-<img src="hk_12_2021_12_16.png" height="204" width="495" />
+<img src="/img/hk_12_2021_12_16.png" height="204" width="495" />
 
 #### **Summary**
 Due to some issues in image capturing devices and environments, the digital images come up with some noises which can reduce the quality of the image. In this article, I discussed about Impulse Noise and its most common version of salt-and-pepper noise. After that I discussed about four main types of image filtering algorithms that can be used to reduce the salt-and-pepper noise. They are Mode Filter, Median Filter, Mean Filter and Gaussian Filter.
