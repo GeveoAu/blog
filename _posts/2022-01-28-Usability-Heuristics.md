@@ -19,15 +19,15 @@ We must first understand usability before we can understand usability heuristics
 
 #### **Components of a usability**
 
-1.	**Learnability** <br>
+1.	**Learnability** <br> <br>
 How simple are basic tasks for users to complete the first time they encounter the UI design?
-2.	**Efficiency** <br>
+2.	**Efficiency** <br> <br>
     How quickly can users complete tasks once they've learned the design?
-3.	**Memorability** <br>
+3.	**Memorability** <br> <br>
 When users return to the design after a period of inactivity, how easy can they regain competency as they did before?
-4.	**Errors** <br>
+4.	**Errors** <br> <br>
 How often do users make mistakes, how significant are these mistakes, and how easily can they recover from them?
-5. **Satisfaction** <br>
+5. **Satisfaction** <br> <br>
 How much fun is it to work with the design? Such as if the interfaces are user-friendly, whether they are clearly visible, and whether there is a clear path to completion, such as vice versa.
 
 #### **UI, UX, & Usability** 
@@ -47,63 +47,73 @@ As a result, we should employ psychological use interactions, as well as usabili
 25 years ago, Jakob Nielsen described the 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.
 
 **01 - Visibility of system status** <br>
+<br>
 The design should always keep users informed about **what is going on**, through appropriate feedback **within a reasonable amount of time**.
 
 <img src="/img/uxp_1.png"/> 
 
 **02 - Match between system and the real world** <br>
+<br>
 The design should **speak the users' language**. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 
 <img src="/img/uxp_2.png"/> 
 
 **03 - User control & freedom** <br>
+<br>
 Users often perform actions by mistake. They need a clearly marked 
 ****"emergency exit"**** to leave the unwanted action without having to go through an extended process.
 
 <img src="/img/uxp_3.png"/> 
 
 **04 - Consistency and standards** <br>
+<br>
 Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
 
 <img src="/img/uxp_4.png"/> 
 
 **05 - Error prevention** <br>
+<br>
 Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
 <img src="/img/uxp_5.png"/> 
 
 **06 - Recognition rather than recall** <br>
+<br>
 Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.
 
 <img src="/img/uxp_6.png"/>  
 
 **07 - Flexibility and efficiency of use** <br>
+<br>
 Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that **the design can cater to both inexperienced and experienced users**. Allow users to tailor frequent actions.
 
 <img src="/img/uxp_7.png"/> 
 
 **08 - Aesthetic and minimalist design** <br>
+<br>
 Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
 
 <img src="/img/uxp_8.png"/> 
 
 **09 - Help users recognize, diagnose, and recover from errors** <br>
+<br>
 Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
 <img src="/img/uxp_9.png"/> 
 
 **10 - Help and documentation** <br>
+<br>
 It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
 
 #### **References**
 
-Nielsen Norman Group <br>
+- Nielsen Norman Group <br>
 https://www.nngroup.com/articles/ten-usability-heuristics/ 
 
-UX Collective <br>
+- UX Collective <br>
 https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53
 
-Business Config <br>
+- Business Config <br>
 https://businessconfig.com/en/blog/how-to-improve-web-usability/ 
 
 
