@@ -61,7 +61,7 @@ The design should **speak the users' language**. Use words, phrases, and concept
 **03 - User control & freedom** <br>
 <br>
 Users often perform actions by mistake. They need a clearly marked 
-****"emergency exit"**** to leave the unwanted action without having to go through an extended process.
+**emergency exit** to leave the unwanted action without having to go through an extended process.
 
 <img src="/img/uxp_3.png"/> 
 
