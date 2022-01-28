@@ -19,15 +19,15 @@ We must first understand usability before we can understand usability heuristics
 
 #### **Components of a usability**
 
-1.	**Learnability** <br> <br>
+1.	**Learnability** <br>
 How simple are basic tasks for users to complete the first time they encounter the UI design?
-2.	**Efficiency** <br> <br>
+2.	**Efficiency** <br>
     How quickly can users complete tasks once they've learned the design?
-3.	**Memorability** <br> <br>
+3.	**Memorability** <br>
 When users return to the design after a period of inactivity, how easy can they regain competency as they did before?
-4.	**Errors** <br> <br>
+4.	**Errors** <br>
 How often do users make mistakes, how significant are these mistakes, and how easily can they recover from them?
-5. **Satisfaction** <br> <br>
+5. **Satisfaction** <br>
 How much fun is it to work with the design? Such as if the interfaces are user-friendly, whether they are clearly visible, and whether there is a clear path to completion, such as vice versa.
 
 #### **UI, UX, & Usability** 
