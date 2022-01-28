@@ -47,12 +47,13 @@ As a result, we should employ psychological use interactions, as well as usabili
 25 years ago, Jakob Nielsen described the 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.
 
 1.	**Visibility of system status**
+2.	**Match between system and the real world**
+
 
 The design should always keep users informed about **what is going on**, through appropriate feedback **within a reasonable amount of time**.
 
 <img src="/img/uxp_1.png"/> 
 
-2. **Match between system and the real world**
 
 The design should **speak the users' language**. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 
@@ -106,11 +107,16 @@ Error messages should be expressed in plain language (no error codes), precisely
 It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
 
 #### **References**
-**Nielsen Norman Group**
+**Nielsen Norman Group** <br>
+
 https://www.nngroup.com/articles/ten-usability-heuristics/ 
-**UX Collective**
+
+**UX Collective** <br>
+
 https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53
-**Business Config**
+
+**Business Config** <br>
+
 https://businessconfig.com/en/blog/how-to-improve-web-usability/ 
 
 
