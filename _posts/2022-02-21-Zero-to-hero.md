@@ -6,7 +6,7 @@ author: Ravidu Lashan
 
 linkedin: https://lk.linkedin.com/in/ravidulashan
 
-description : Programming field is a vastly developing field. A new thing which you learned might be outdated with in few weeks. There is always competition among the programmers and you need to excel among others to land on your dream job and to become sustainable with in this field. There are few areas which you need to sharpen your skills to become a better programmer.
+description : Programming field is a vastly developing field. A new thing which you learned might be outdated within few weeks. There is always competition among the programmers and you need to excel among others to land on your dream job and to become sustainable within this field. There are few areas which you need to sharpen your skills to become a better programmer.
 
 ---
 ___
