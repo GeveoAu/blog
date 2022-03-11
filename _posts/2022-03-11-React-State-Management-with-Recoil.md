@@ -6,10 +6,7 @@ author: Chamika Goonetilaka
 
 linkedin: https://lk.linkedin.com/in/chamikagoonetilaka
 
-description : Over the years, the massive growth of React.JS has given birth to different state management libraries, amongst other things.
-
-The state management libraries available in React at our disposal at the time of this article are enormous. Some developers tackle the challenge using React Hooks, while others combine them with application state management libraries like Redux or the newly released Recoil. In this article, we will discuss state management using **Recoil**, the new kid on the block!!!
-
+description : Over the years, the massive growth of React.JS has given birth to different state management libraries, amongst other things. The state management libraries available in React at our disposal at the time of this article are enormous. Some developers tackle the challenge using React Hooks, while others combine them with application state management libraries like Redux or the newly released Recoil. In this article, we will discuss state management using **Recoil**, the new kid on the block!!!
 
 ---
 ___
