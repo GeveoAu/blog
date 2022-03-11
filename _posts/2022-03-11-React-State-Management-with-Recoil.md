@@ -227,8 +227,10 @@ That's all there is to it. You can handle all your React application's state man
 
 #### **References**
 
-•	[Recoil](https://recoiljs.org/)
-•	[Using Recoil instead of Redux For State Management In React Applications | by Origho precious | StackAnatomy | Medium](https://medium.com/stackanatomy/using-recoil-instead-of-redux-for-state-management-in-react-applications-91dc7ca52986) 
-•	[How to Use Recoil for State Management in Your React Projects (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-use-recoil-for-state-management-in-your-react-projects/)  
+- [Recoil](https://recoiljs.org/)
+
+- [Using Recoil instead of Redux For State Management In React Applications | by Origho precious | StackAnatomy | Medium](https://medium.com/stackanatomy/using-recoil-instead-of-redux-for-state-management-in-react-applications-91dc7ca52986) 
+
+- [How to Use Recoil for State Management in Your React Projects (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-use-recoil-for-state-management-in-your-react-projects/)  
 
 
