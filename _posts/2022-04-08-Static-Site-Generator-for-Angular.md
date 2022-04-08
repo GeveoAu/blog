@@ -46,10 +46,9 @@ The above picture depicts how it works. A set of HTML templates and raw data are
 
 
 In conclusion, we put all the content on pages. So, it makes pages available to end-users as blog posts or portfolios.
- 
-
 
 ## **Introducing Scully to Angular Application**
+
 
 Due to the popularity of static site generators, developers came up with Scully. The following figure shows how it does.
 
