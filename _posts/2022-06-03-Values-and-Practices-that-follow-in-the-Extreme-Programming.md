@@ -6,7 +6,7 @@ author: Dileepa Karunathilake
 
 linkedin: https://www.linkedin.com/in/dileepa-karunathilake/ 
 
-description : Extreme Programming is an agile software development framework that produces higher quality software in a short time while keeping the welfare of the development team. To achieve productivity extreme programming follows certain values and practices that can be also used in any other development process.
+description : Extreme Programming is an agile software development framework that produces higher quality software in a short time while keeping the welfare of the development team. To achieve productivity, extreme programming follows certain values and practices that can be also used in any other development process.
 
 ---
 ___
@@ -14,7 +14,7 @@ ___
 Extreme Programming (XP) is an **agile software development framework** that produces higher quality software in a short time while keeping the welfare of the development team.
 
 
-XP team consists of customers, managers, and developers, and all of them are equal inside the team. To achieve high productivity these teams, keep a simple, self-organized, and effective environment around. This environment courage developers to adapt to changing requirements easily.
+XP team consists of customers, managers, and developers, and all of them are equal inside the team. To achieve high productivity, these teams keep a simple, self-organized, and effective environment around. This environment courage developers to adapt to changing requirements easily.
 
 
 In the XP team, their highest priority is to keep customer satisfaction. Instead of delivering the products that need in the future, the XP delivers the products when customers need them. 
