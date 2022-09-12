@@ -59,12 +59,13 @@ There are normally two varieties of coffee beans available for purchase in super
 
 <img src="/img/SM_1_2022_09_12.png" />
 
-##### **-	Arabica**
+
+- ##### **Arabica**
 
 
 Without a doubt, Arabica coffee is the most widely consumed variety. Depending on who you talk to, a lot of coffee lovers prefer utilizing Arabica beans because of their flavour. Arabica beans provide a richer, more nuanced flavour that you may drink directly and are typically used for black coffee. Funny thing is, although being the most common, it has less caffeine than Robusta.
 
-##### **-	Robusta**
+ - ##### **Robusta**
 
 
 Arabica is the most widely used coffee, although Robusta is more affordable and robust. Robusta is commonly used for espresso drinks and in instant coffee mixes due to its bitter flavour. Grab a cup of coffee made with Robusta beans if your Monday morning is dragging. You'll be immediately awakened by their high caffeine content!
