@@ -4,7 +4,7 @@ title: Are you a coffeeholic?
 
 author: Shamini Mendis
 
-linkedin: linkedin.com/in/shamini-mendis-515484148
+linkedin: linkedin.com/in/shamini-mendis-515484148/
 
 description : People say money can’t buy happiness. They Lie. Money buys Coffee, Coffee makes Me Happy! ~ unknown
 
