@@ -4,7 +4,7 @@ title: Are you a coffeeholic?
 
 author: Shamini Mendis
 
-linkedin: linkedin.com/in/shamini-mendis-515484148/
+linkedin: linkedin.com/in/shamini-mendis-515484148
 
 description : People say money can’t buy happiness. They Lie. Money buys Coffee, Coffee makes Me Happy! ~ unknown. If you are a coffeeholic you would agree with the above quote. This blog is for the coffee lovers who out there to expound regards to some of the known and unknown facts about coffee. There’s a lot to cover, so grab a cup of coffee and read on.
 
@@ -30,6 +30,8 @@ The local monastery's abbot received Kaldi's results and used the berries to mak
 ##### **Coffee Cultivation in Arabian Peninsula**
 
 The Arabian Peninsula was the origin of coffee trade and cultivation. Coffee was being grown in the Yemeni region of Arabia by the fifteenth century, and by the sixteenth century, it was well-known in Persia, Egypt, Syria, and Turkey.
+
+
 Coffee was consumed not only in homes but also in the numerous qahveh khaneh, or public coffee houses, that started to spring up in cities all across the Near East. People frequented the coffee shops for all types of social interaction because of their unmatched popularity.
 
 
@@ -57,12 +59,12 @@ There are normally two varieties of coffee beans available for purchase in super
 
 <img src="/img/SM_1_2022_09_12.png" />
 
-##### **1.	Arabica**
+##### **-	Arabica**
 
 
 Without a doubt, Arabica coffee is the most widely consumed variety. Depending on who you talk to, a lot of coffee lovers prefer utilizing Arabica beans because of their flavour. Arabica beans provide a richer, more nuanced flavour that you may drink directly and are typically used for black coffee. Funny thing is, although being the most common, it has less caffeine than Robusta.
 
-##### **2.	Robusta**
+##### **-	Robusta**
 
 
 Arabica is the most widely used coffee, although Robusta is more affordable and robust. Robusta is commonly used for espresso drinks and in instant coffee mixes due to its bitter flavour. Grab a cup of coffee made with Robusta beans if your Monday morning is dragging. You'll be immediately awakened by their high caffeine content!
