@@ -37,7 +37,7 @@ Once you practice thoroughly with the toy drone, the next step is to buy a profe
 
 There are several professional drones manufactures, and the below list indicates some of them (My personal preference for entry-level drones is also listed)
 
-- DJI 	- 	Mavic Mini, Mini SE, Mini 2, Mini 3 Pro	< 250g
+- DJI 	- 	Mini 3 Pro	< 250g
 - Autel	- 	Evo Nano, Evo Nano +			< 250g
 - Skydio 	- 	Skydio 2+ 				> 250g
 
@@ -93,14 +93,14 @@ Below are the steps you should follow when flying the drone for the first time.
 There is only one golden rule that will make you a pro. It’s called practice. Without practice even though you have the best drone in the world it won’t help in becoming a professional.
 
 
-Fly your drone as much as possible. Try taking clips in different environmental settings. See how other pilots operate drones. Keep an eye on the manufacturer’s website for software and hardware updates. It's better if you can join a local community or an online group with drone enthusiasts. Practice for at least 6 months.
+Fly your drone as much as possible. Try taking clips in different environmental settings. See how other pilots operate their drones. Keep an eye on the manufacturer’s website for software and hardware updates. It’s better if you can join a local community or an online group with drone enthusiasts. Practice for at least 6 months.
 
 
 #### **What’s next?**
 
 
-Congratulations! Now you are a professional drone pilot. Starting with a toy drone, you learned how to fly an entry-level professional drone. At this stage, if you followed the above guidelines properly, you know exactly what the next step is. That is your next upgrade in your drone collection. It’s based on the wisdom you get while practicing. Therefore, moving forward is all on you 😉
+Congratulations! Now you are a professional drone pilot. Starting with a toy drone, you learned how to fly an entry-level professional drone. At this stage, if you followed the above guidelines properly, you know exactly what the next step is. That is you know exactly what will be your next professional drone and you have the confidence that you can fly it safely. It’s based on the wisdom you get by practicing. Therefore, moving forward is all on you 😉
 
 
-Hoping to see amazing content from you guys in the comments section. Until next time happy flying guys.
+Hoping to see amazing content from you in the comments section. Until next time happy flying.
 
