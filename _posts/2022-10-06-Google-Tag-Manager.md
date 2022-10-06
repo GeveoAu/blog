@@ -12,13 +12,13 @@ description : Web applications consist of tags to collect user behaviour data, r
 ---
 ___
 
-#### **What is a Tag?**
+### **What is a Tag?**
 
 
 Tag is a javaScript code snippet that is embedded in websites to collect information like behavior data, remarketing data, eCommerce data, etc. It is easier to use “Tags” to send data to services like Google Analytics.
 
 
-#### **What is Google Tag Manager?**
+### **What is Google Tag Manager?**
 
 Websites usually contain many tags for different data collection services. That makes the source code of the website cluttered with so many code snippets and it will be difficult to manage all the tags. Also, having all the tags in the source code will lead to performance bottlenecks. The answer to all the above problems is Google Tag Manager.
 
@@ -28,7 +28,7 @@ With the Google Tag Manager, developers will no longer need to add different tag
 The following sections will describe how you can set up a Google Tag Manager instance to create tags for the Google Analytics service.
 
 
-#### **Setup Google Tag Manager**
+### **Setup Google Tag Manager**
 
 ###### **Setup Google Analytics**
 
@@ -75,7 +75,7 @@ Then select the trigger that triggers the Tag event. Let's select the Page view 
 Once you save you are ready with the GTM configuration.
 
 
-##### **Setup a simple Web application with GTM**
+###### **Setup a simple Web application with GTM**
 
 To set up the web application with GTM, you need two code snippets from the GTM container. Let’s go inside the GTM console and locate the Tag Id around the top right of the page and click on that. That will open up a popup with code snippets with some instructions.
 
@@ -124,7 +124,7 @@ You can even see what element the user has clicked under the “Data Layer” me
 
 <img src="/img/ts_13_2022_10_07.png"  />
 
-#### **Advantages of using Google Tag Manager**
+### **Advantages of using Google Tag Manager**
 
 
 -	If you have different services subscribing for user interaction information, you don't need to configure every application in your source code.
