@@ -32,7 +32,7 @@ The following sections will describe how you can set up a Google Tag Manager ins
 ### **Setup Google Tag Manager**
 
 
-##### **Setup Google Analytics**
+**Setup Google Analytics**
 
 
 Since we are going to use Google Tag Manager for Google Analytics, let's create the Google Analytics account and take the Measurement Id. You can click the Settings option in the bottom left corner and create the account and property. Then go inside the Data Streams option and create a web data stream. You can find the measurement Id inside here.
@@ -44,7 +44,7 @@ Since we are going to use Google Tag Manager for Google Analytics, let's create 
 <img src="/img/ts_2_2022_10_07.png"  />
 
 
-##### **Setup Google Tag Manager**
+**Setup Google Tag Manager**
 
 
 Then let’s go to the Google Tag Manager and create a new account and container. (If you already have an account and container you can use those also). Since we are going to use GTM with a web application select the target platform as Web.
@@ -56,7 +56,7 @@ Then let’s go to the Google Tag Manager and create a new account and container
 After creating the container you can see the tag id at the top right of the screen.
 
 
-##### **Create a Tag in GTM for GA4**
+**Create a Tag in GTM for GA4**
 
 
 Let's first create a simple tag that gets triggered once the web application page gets loaded. Go to the Tag menu inside the container and click on new to create a new Tag. You will see a set of Tags available and select the Google Analytics G4 Configuration tag. Then add the Measurement Id you took from Google Analytics.
@@ -77,7 +77,7 @@ Then select the trigger that triggers the Tag event. Let's select the Page view 
 Once you save you are ready with the GTM configuration.
 
 
-##### **Setup a simple Web application with GTM**
+**Setup a simple Web application with GTM**
 
 To set up the web application with GTM, you need two code snippets from the GTM container. Let’s go inside the GTM console and locate the Tag Id around the top right of the page and click on that. That will open up a popup with code snippets with some instructions.
 
@@ -97,7 +97,7 @@ You only have to copy and paste these two codes inside <head> and <body> areas o
 That is what you have to do to set up GTM with your application. Let’s see how we can debug and see the tag information triggered in the application.
 
 
-##### **Run and check tag information**
+**Run and check tag information**
 
 
 You can go to the GTM console again and click the “Preview” button. Make sure your web application is up and running before doing that. This will open a new browser tab (Tag Assistance) with a popup and in the popup provide the application URL and click the “Connect” button. This will launch your application in a new browser window. Once you interact with your application you will see the tag events in the Tag Assistance window.
@@ -112,7 +112,7 @@ Also, since you have configured the tag for Google Analytics, you can see the ev
 <img src="/img/ts_11_2022_10_07.png"  />
 
 
-##### **Create Tags for custom events**
+**Create Tags for custom events**
 
 
 Previously we created a tag that triggers with page view, but if you want the tag to get triggered on the different events, you can do it without doing any changes to your application source code. What you have to do is create a new tag in GTM with different triggering. The following is a tag that gets triggered on the user clicks on the web page.
@@ -125,6 +125,7 @@ You can even see what element the user has clicked under the “Data Layer” me
 
 
 <img src="/img/ts_13_2022_10_07.png"  />
+  
 
 ### **Advantages of using Google Tag Manager**
 
