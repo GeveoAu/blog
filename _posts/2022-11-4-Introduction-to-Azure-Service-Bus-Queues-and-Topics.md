@@ -18,12 +18,12 @@ From the above three types here we after we planned to continue the blog with th
 Azure Service Bus Queues is a messaging protocol that works asynchronously. It works in the simplest way where the message sender delivers a message to the queue that will be residing in a Service Bus Namespace.  The namespace is a scoping container for all messaging components where multiple queues and topics can reside in a single namespace. Then, those messages in the queue will receive by the receiver. Also, message in the queue is processed in the FIFO (First-In-First-Out) way and messages will stay inside the queue until the receiver asks for them. Mainly Azure service buses are used to have between one-to-one entities.
 
 
-<img src="/img/dh_1_2022_11_4.png.png" height="191 px" width="786 px" />
+<img src="/img/dh_1_2022_11_4.jpg.png" height="191 px" width="786 px"  />
 
 Azure Service Bus topics are pretty much the same as the queues, but it varies on one factor where topics can have one or more independent subscriptions. Topics can have zero or more subscriptions, but one subscription can only register with one topic. In contrast to the queues, topics and subscriptions provide one-to-many communications using publish and subscribe patterns. When a message is published on the topic, a copy of that message will receive for each subscription registered to that topic. There, subscriptions can have different filters where they can filter out the messages to receive. Therefore, consumers will not receive the messages directly from the topics, instead of topic subscriptions resembles virtual queues inside them from the copy of message received from their subscribed topic.
 
 
-<img src="/img/dh_2_2022_11_4.png.png" height="191 px" width="786 px" />
+<img src="/img/dh_2_2022_11_4.jpg.png" height="191 px" width="786 px" />
 
 #### **Key difference**
 
