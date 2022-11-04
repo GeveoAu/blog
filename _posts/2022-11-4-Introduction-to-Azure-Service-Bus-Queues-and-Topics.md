@@ -6,10 +6,12 @@ author: Dilina Hirantha
 
 linkedin: https://www.linkedin.com/in/dilinahirantha/
 
-description: When we talk about modern messaging services, Microsoft Azure messaging services take a vital place in between current enterprise cloud messaging services. There, Microsoft Azure provides three different types of messaging services Azure Service Bus, Event Hub, and Event Grid.
+description:Azure Service Bus Queues and Topics can be used to implement asynchronous communication and improve durability. A queue is often used for point-to-point communication, whereas a topic is useful in multi-receiver scenarios. 
 
 ---
 ___
+
+When we talk about modern messaging services, Microsoft Azure messaging services take a vital place in between current enterprise cloud messaging services. There, Microsoft Azure provides three different types of messaging services Azure Service Bus, Event Hub, and Event Grid.
 
 
 From the above three types here we after we planned to continue the blog with the Azure Service Bus. Azure Service Bus Ques and topics. Azure Service Bus is a messaging service that relies on the cloud which is used to keep the connection between any applications, devices, and services running in the cloud to any other application or service. Service bus act as a physical postal service where data is delivered in different message formats like JSON, XML, and text even if the parties do not know each other. 
