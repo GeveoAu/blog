@@ -6,10 +6,11 @@ author: Dilina Hirantha
 
 linkedin: https://www.linkedin.com/in/dilinahirantha/
 
-description:Azure Service Bus Queues and Topics can be used to implement asynchronous communication and improve durability. A queue is often used for point-to-point communication, whereas a topic is useful in multi-receiver scenarios. 
+description: Azure Service Bus Queues and Topics can be used to implement asynchronous communication and improve durability. A queue is often used for point-to-point communication, whereas a topic is useful in multi-receiver scenarios
 
 ---
 ___
+
 
 When we talk about modern messaging services, Microsoft Azure messaging services take a vital place in between current enterprise cloud messaging services. There, Microsoft Azure provides three different types of messaging services Azure Service Bus, Event Hub, and Event Grid.
 
