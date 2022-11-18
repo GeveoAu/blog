@@ -4,7 +4,7 @@ title: Managing Project Dependencies with Git
 
 author: Udith Indrakantha
 
-linkedin: https://www.linkedin.com/in/udithindrakantha/
+linkedin: https://www.linkedin.com/in/udith-indrakantha/
 
 description: Surely, everyone who is reading this now knows Git and GitHub. Git is integrated into every developer’s daily routine. Even if it is so, nowadays we rarely use git commands manually. We have extensions and tools with nice UI to deal with Git. With these tools, most of the time, we use only a limited set of Git commands such as `git clone`, `git add`, `git pull`, `git commit`, `git push`, `git stash`, `git checkout` etc.  With this article, today, I am going to unveil another capability that comes with Git and leads to reducing the unnecessary effort in handling several Git repositories. Git submodules and Git subtrees are those two features that support our managing project dependencies.
 
@@ -30,12 +30,12 @@ I’ll explain the steps with sample demo repositories.
 
 I have three separate repositories named *parent-repository*, *submodule-one*, and *submodule-two* respectively.  I’m going to add the submodule-one repository and the submodule-two repository as two submodules within the parent repository. 
 
-Initially, the parent repository contained only the README.md file.
+Initially, the parent repository contained only the *README.md* file.
 
 
 <img  src="/img/udith_1_2022_11_18.png" height="350 px" width="786 px" />
 
-The other two repositories contain a text file named mytext.txt in addition to the README.md files.
+The other two repositories contain a text file named *mytext.txt* in addition to the *README.md* files.
 
 **Instance -1**
 
@@ -50,7 +50,7 @@ This command locally clones the child repository (submodule) into a separate fol
 
 <img  src="/img/udith_2_2022_11_18.png" height="175 px" width="586 px" />
 
-In addition to that, it creates another file named “.gitmodules”, in which the reference for the submodule is stored as follows.
+In addition to that, it creates another file named *.gitmodules*, in which the reference for the submodule is stored as follows.
 
 <img  src="/img/udith_3_2022_11_18.png" height="175 px" width="586 px" />
 
@@ -58,12 +58,12 @@ Now you can commit and push the changes. Once pushed, you can view the GitHub re
 
 <img  src="/img/udith_4_2022_11_18.png" height="350 px" width="786px" />
 
-As in the above image, you can see a folder named, “submodule-one” which is the name of the child repository, and a commit hash (after the sign @) which is the last HEAD commit of the main branch of the child repository, at the moment this submodule-adding command ran. If you click on this folder, you’ll be redirected to the relevant commit in the relevant repository.
+As in the above image, you can see a folder named, *submodule-one* which is the name of the child repository, and a commit hash (after the sign @) which is the last HEAD commit of the main branch of the child repository, at the moment this submodule-adding command ran. If you click on this folder, you’ll be redirected to the relevant commit in the relevant repository.
 
 Next, I am going to add the second submodule, just following the same command used earlier. I run, 
 git submodule add https://github.com/Udith-Gayan/submodule-two.git 
 
-Then, the .gitmodules file gets updated as follows,
+Then, the *.gitmodules* file gets updated as follows,
 
 <img  src="/img/udith_5_2022_11_18.png" height="175 px" width="586 px" />
 
@@ -102,7 +102,7 @@ Let’s see how to work with git subtree.
 **Instance -1**
 
 Here, we are going to see how to add a new sub-repository to a parent repository. 
-Initially, I have a repository named *“Parent-Repository-2”*  as the super repository used in this example. I have a sub-repository named *“submodule-one”* which I used in the previous example for the Git submodule. 
+Initially, I have a repository named *Parent-Repository-2*  as the super repository used in this example. I have a sub-repository named *submodule-one* which I used in the previous example for the Git submodule. 
 
 <img  src="/img/udith_7_2022_11_18.png" height="350 px" width="786 px" />
 
@@ -110,14 +110,14 @@ Initially, I have a repository named *“Parent-Repository-2”*  as the super r
 
 To add a sub-repository to a super repository, you must follow the steps below. It’s just a single command at the end.
 
+    git subtree add --prefix {local directory being pulled into} {remote sub-repo URL} {remotebranch}--squash
+
 1.	Specify you want to add a subtree
 2.	Specify the prefix local directory into which you want to pull the subtree
 3.	Specify the remote repository URL [of the subtree being pulled in]
 4.	Specify the remote branch [of the subtree being pulled in]
 5.	Specify you want to squash all the remote repository's [the subtree's] logs
 
-
-    git subtree add --prefix {local directory being pulled into} {remote sub-repo URL} {remotebranch}--squash
 
 For example, I run this command locally in the terminal inside my Parent-Repository-2 project.
 
@@ -138,7 +138,7 @@ If you want to pull in any new commits to the subtree from its remote, you just 
 
     git subtree pull --prefix submoduleOne https://github.com/Udith-Gayan/submodule-one.git main --squash
     
-If you make a change to anything in *‘submoduleOne’* the commit will be stored in the parent repository and its logs. That is the biggest change from submodules.
+If you make a change to anything in *submoduleOne* the commit will be stored in the parent repository and its logs. That is the biggest change from submodules.
 If you now want to update the subtree remote repository with that commit, you must run the same command, excluding --squash and replacing ‘pull’ with ‘push’
 
     git subtree push --prefix submoduleOne https://github.com/Udith-Gayan/submodule-one.git main
