@@ -150,9 +150,13 @@ If you freshly clone the parent repository using the `git clone` command, you wi
 Let’s see some differences between the git submodule and the git subtree.
 
 ●	Git submodules have a smaller repository size since they are just links that point to a specific commit in the child project, whereas Git subtrees house the entire child project along with its history.
+
 ●	Git submodules need to be accessible in a server, but subtrees are decentralized.
+
 ●	Git submodules are mostly used in component-based development, whereas Git subtrees are used in system-based development.
+
 ●	Git submodule creates a ‘.gitmodules’ file whereas no extra file is created in the git subtree.
+
 ●	Compared to git submodule commands, git subtree commands are painfully long so aliases are necessary.
 
 ### **Final Thought**
