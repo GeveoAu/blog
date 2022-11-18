@@ -33,7 +33,7 @@ I have three separate repositories named *parent-repository*, *submodule-one*, a
 Initially, the parent repository contained only the README.md file.
 
 
-<img src=”ui_1_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_1_2022_11_18.png" height="350 px" width="786 px" />
 
 The other two repositories contain a text file named mytext.txt in addition to the README.md files.
 
@@ -48,15 +48,15 @@ For me, I run,
 
 This command locally clones the child repository (submodule) into a separate folder within the parent repository, with the child repository’s name as the folder name.
 
-<img src=”ui_2_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_2_2022_11_18.png" height="175 px" width="586 px" />
 
 In addition to that, it creates another file named “.gitmodules”, in which the reference for the submodule is stored as follows.
 
-<img src=”ui_3_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_3_2022_11_18.png" height="175 px" width="586 px" />
 
 Now you can commit and push the changes. Once pushed, you can view the GitHub repo below.
 
-<img src=”ui_4_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_4_2022_11_18.png" height="350 px" width="786px" />
 
 As in the above image, you can see a folder named, “submodule-one” which is the name of the child repository, and a commit hash (after the sign @) which is the last HEAD commit of the main branch of the child repository, at the moment this submodule-adding command ran. If you click on this folder, you’ll be redirected to the relevant commit in the relevant repository.
 
@@ -65,11 +65,11 @@ git submodule add https://github.com/Udith-Gayan/submodule-two.git
 
 Then, the .gitmodules file gets updated as follows,
 
-<img src=”ui_5_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_5_2022_11_18.png" height="175 px" width="586 px" />
 
 After committing and pushing, the GitHub repo looks like this.
 
-<img src=”ui_6_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_6_2022_11_18.png" height="350 px" width="786 px" />
 
 NOTE:
 
@@ -104,9 +104,9 @@ Let’s see how to work with git subtree.
 Here, we are going to see how to add a new sub-repository to a parent repository. 
 Initially, I have a repository named *“Parent-Repository-2”*  as the super repository used in this example. I have a sub-repository named *“submodule-one”* which I used in the previous example for the Git submodule. 
 
-<img src=”ui_7_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_7_2022_11_18.png" height="350 px" width="786 px" />
 
-<img src=”ui_8_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_8_2022_11_18.png" height="350 px" width="786 px" />
 
 To add a sub-repository to a super repository, you must follow the steps below. It’s just a single command at the end.
 
@@ -125,12 +125,12 @@ For example, I run this command locally in the terminal inside my Parent-Reposit
 
 You will see, a folder named submoduleOne has been created and inside it, you have all the files in the main branch of the sub repository. This command creates two new commits including the sub-repository’s code. If you run the `git log` command, you will see a response similar to this below.
 
-<img src=”ui_9_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_9_2022_11_18.png" height="175 px" width="586 px" />
 
 By running `git push`, you can push the commits to the parent remote repository as usual.
 This is how it looks after pushing.
 
-<img src=”ui_10_2022_11_18.png” height="191 px" width="786 px" />
+<img  src="/img/udith_10_2022_11_18.png" height="350 px" width="786 px" />
 
 **Instance -2**
 
