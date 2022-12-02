@@ -11,7 +11,7 @@ description: Richardson Maturity Model is developed by Leonard Richardson, that 
 ---
 ___
 The model is introduced by Leonard Richardson, When the software industry transferring from POX (Plain Old XML) to Rest.
-To achieve the Glory of Rest, it should climb up the levels. The RMM is explained in 4 levels of Maturity.
+To achieve the glory of REST, it should climb up the levels. The RMM is explained in 4 levels of maturity.
 
 <img src="/img/sl_1_2022_12_02.png" height="398 px" width="673 px"  />
 
@@ -22,18 +22,20 @@ Ex: Soap (Simple Object Access Protocol).
 
 #### **Level 1**
 
-Applications with this level are using to use multiple endpoints (Resources). But still uses HTTP POST only.
+Applications with this level are using to use multiple endpoints (resources). But still uses HTTP POST only.
 
 
 #### **Level 2**
-This is the most used maturity in most of the applications. Application with this level can use multiple endpoints (Resources) with HTTP verbs, not restricting to POST.
+This is the most used maturity in most of the applications. Application with this level can use multiple endpoints (resources) with HTTP verbs, not restricting to POST.
 -	GET – Retrieve a resource
 -	POST – Add a resource
 -	PUT – Update a Resource
 -	DELETE – Delete a Resource.
 
 Using those with standard URLs for resources is also achieved in this level.
+
 /employees – GET (Retrieve All), POST (Add an Employee)
+
 /employees/{id} – GET (Retrieve one with ID), PUT (will update one with ID), DELETE (delete one with ID).
 
 #### **Level 3**
@@ -43,27 +45,25 @@ The point of hypermedia controls is that they tell us what we can do next, and t
 
 Ex: GET => /employees/{id} will retrieve the entity which has the given ID, with link rels which tells what can be done next.
 
->{
-    "id": 10,
-    "firstName": “Kusal”,
-    "lastName": “Janith”,
-    "departmentId": 5,
-    "designationId": 1700,
-    "links": [
-        {
-            "href": "10/promote",
-            "rel": "employees",
-            "type”: "PUT"
-        },
-       {
-            "href": "10/demote",
-            "rel": "employees",
-            "type”: "PUT"
-        }
-    ]
-} 
-
->
+    {
+       "id": 10,
+       "firstName": “Kusal”,
+       "lastName": “Janith”,
+       "departmentId": 5,
+       "designationId": 1700,
+       "links": [
+           {
+               "href": "10/promote",
+               "rel": "employees",
+               "type”: "PUT"
+           },
+          {
+               "href": "10/demote",
+               "rel": "employees",
+              "type”: "PUT"
+          }
+       ]
+    } 
 
 
 ### **For further reference**
