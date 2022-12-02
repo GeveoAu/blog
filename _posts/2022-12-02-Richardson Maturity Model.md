@@ -41,7 +41,7 @@ Using those with standard URLs for resources is also achieved in this level.
 #### **Level 3**
 
 On the top, most matured level is with HATEOAS (Hypertext as The Engine of Application State). It's also known as Hypermedia Controls, which basically consists of resource links.
-The point of hypermedia controls is that they tell us what we can do next, and the URI of the resource we need to manipulate to do it. Rather than us having to know where to post our appointment request, the hypermedia controls in the response tell us how to do it.
+The point of hypermedia controls is that they tell us what we can do next, and the URI of the resource we need to manipulate to do it. Rather than us having to know where to post our next request, the hypermedia controls in the response tell us how to do it.
 
 Ex: GET => /employees/{id} will retrieve the entity which has the given ID, with link rels which tells what can be done next.
 
