@@ -13,7 +13,7 @@ ___
 The model is introduced by Leonard Richardson, When the software industry transferring from POX (Plain Old XML) to Rest.
 To achieve the Glory of Rest, it should climb up the levels. The RMM is explained in 4 levels of Maturity.
 
-<img src=”sl_1_2022_12_02.jpg” height="191 px" width="786 px" />
+<img src="/img/sl_1_2022_12_02.png" height="398 px" width="673 px"  />
 
 #### **Level 0**
 
