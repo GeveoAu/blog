@@ -24,11 +24,11 @@ We can become lifelong learners by setting up daily schedules to learn something
 
 #### **2.Taking breaks**
 
-Working in the IT field requires intense concentration, patience, and knowledge. But it is very important to have breaks also, taking breaks can help us to have a fresh start. Because we are working while staring at the electrical screen, it is very important not to involve screen time in break time. 
+Working in the IT field requires intense concentration, patience, and knowledge. But it is very important to have breaks also, taking breaks can help us to have a fresh start. Because we are working while staring at the electrical screen, it is very important not to involve screen time in break time. At the sametime we can set hourly reminder to drink water, and take 5-10 mins break and start fresh. 
 
 
 #### **3.Develop a hobby**
 The fundamental idea behind pursuing hobbies is taking a break from your job to do what you love. In other words, your hobby time is your guilt-free, do-whatever-makes-you-happy time of the day. You can use this time to read books, make music, play games, basically anything that makes you happy!
 
-As employees of the Geveo company, we are eligible for these benefits. Geveo provides compensation for **Gym memberships**, and we have **Cricket Practices** every Friday and also **Badminton** Practices.  Geveo has an **ODoc subscription** so the employees can channel any number of Doctors/Consultants through the app, and it is totally free for the entire Geveo staff including Interns. At the same time employees can join yoga and Pilates sessions conducted by ODoc in every week. So, we would like to encourage all of you to get the maximum from these benefits. 
+As employees of the Geveo company, we are eligible for these benefits. Geveo provides compensation for **Gym memberships**, and we have **Cricket Practices** every Friday and also **Badminton** Practices.  Geveo has an **ODoc subscription** so the employees can channel any number of Doctors/Consultants through the app, and it is totally free for the entire Geveo staff including Interns. At the same time employees can join **yoga and Pilates sessions** conducted by ODoc in every week. So, we would like to encourage all of you to get the maximum from these benefits. 
 
