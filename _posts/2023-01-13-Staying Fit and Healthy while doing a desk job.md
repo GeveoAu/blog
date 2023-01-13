@@ -14,7 +14,7 @@ As we step into the new year, we all have a set of goals for 2023. I am sure tha
 
 So, the best way to stay healthy for a person with a desk job is trying to stay active throughout the day as possible. These are 5 easy steps you can incorporate into your daily life in order to stay active while doing an at desk job.
 
-<img src="/img/hs_1_2023_01_13.png" height="398 px" width="673 px"  />
+<img src="/img/hs_1_2023_01_13.png" height="249 px" width="375 px"  />
 
 #### **01.	Deskercise**
 
@@ -40,7 +40,7 @@ Try to do some activities you like during your off days and evenings. Maybe it�
 
 If you have enough money, try investing in healthy equipment’s that motivates you to stay healthy.
 
-<img src="/img/hs_2_2023_01_13.png" height="398 px" width="673 px"  />
+<img src="/img/hs_2_2023_01_13.png" height="350 px" width="1540 px"  />
 
 •	Air Frier – Useful to fry food without adding oil. You can avoid having deep fried oily food.
 •	Smart watch to track your daily activities – You can have a daily activity target. It’s a great motivation to stay active throughout the day.
