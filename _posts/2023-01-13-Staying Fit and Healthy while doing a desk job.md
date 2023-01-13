@@ -40,11 +40,14 @@ Try to do some activities you like during your off days and evenings. Maybe it�
 
 If you have enough money, try investing in healthy equipment’s that motivates you to stay healthy.
 
-<img src="/img/hs_2_2023_01_13.png" height="250 px" width="1540 px"  />
+<img src="/img/hs_2_2023_01_13.png" height="210 px" width="1340 px"  />
 
 •	Air Frier – Useful to fry food without adding oil. You can avoid having deep fried oily food.
+
 •	Smart watch to track your daily activities – You can have a daily activity target. It’s a great motivation to stay active throughout the day.
+
 •	Height adjustable standing desk – This will allow you to add some standing time to your day instead of sitting all day on a chair.
+
 •	Walking treadmill – Helps to incorporate some activities and increase the daily steps count even in a busy schedule.
 
 
