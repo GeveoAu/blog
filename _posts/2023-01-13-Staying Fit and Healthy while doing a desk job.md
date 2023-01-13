@@ -40,7 +40,7 @@ Try to do some activities you like during your off days and evenings. Maybe it�
 
 If you have enough money, try investing in healthy equipment’s that motivates you to stay healthy.
 
-<img src="/img/hs_2_2023_01_13.png" height="350 px" width="1540 px"  />
+<img src="/img/hs_2_2023_01_13.png" height="250 px" width="1540 px"  />
 
 •	Air Frier – Useful to fry food without adding oil. You can avoid having deep fried oily food.
 •	Smart watch to track your daily activities – You can have a daily activity target. It’s a great motivation to stay active throughout the day.
