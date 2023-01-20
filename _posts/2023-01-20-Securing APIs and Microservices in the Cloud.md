@@ -14,7 +14,10 @@ The data center edge, the hardware and software stack that links web application
 
 #### **The Journey of the Cloud-Native Era**
 
+
 <img src="/img/sk_1_2023_01_20.png" height="283 px" width="512 px"  />
+
+
 
 Sharing the innovations and discoveries of the broader technology community inspired the development of early API gateways. A common façade for the whole application was produced by an API gateway, which carried out the routing functionality that was in the original monolith. The API gateway served as the core location for centralized cross-cutting application-level functions such rate limitation, authentication, and routing. As a result, fewer redundant features were needed in each of the separate services.
 
