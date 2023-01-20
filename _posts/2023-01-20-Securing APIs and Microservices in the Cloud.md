@@ -41,13 +41,13 @@ A messaging platform is used to implement inter-service communication in the pre
 
 Different strategies may be used to establish security for north-south transportation. The three methods listed below are widely used in the business sector.
     
- 1. Implement security at each microservice level.
+ 1.Implement security at each microservice level.
 
 <img src="/img/sk_3_2023_01_20.png" height="314 px" width="512 px"  />
- 2. Implement security using a sidecar.
+ 2.Implement security using a sidecar.
 
 <img src="/img/sk_4_2023_01_20.png" height="370 px" width="512 px"  />
- 3. Implement security using a shared gateway.
+ 3.Implement security using a shared gateway.
 
 <img src="/img/sk_5_2023_01_20.png" height="370 px" width="512 px"  />
 
@@ -55,13 +55,13 @@ Different strategies may be used to establish security for north-south transport
 
 Different security considerations might be made for inter-service communication when compared to external consumer traffic (north-south). It is often acceptable to use merely the necessary degree of security rather than hard security for this when both the consumer and the supplier live in an internal secured network. However, it relies on the corporate platform's security requirements and general security standards. With the following methods, we may provide security for east-west traffic.
 
-1. Transport layer security.
+1.Transport layer security.
 
 <img src="/img/sk_6_2023_01_20.png" height="398 px" width="512 px"  />
-2. Transport layer security with message layer security using authentication.
+2.Transport layer security with message layer security using authentication.
 
 <img src="/img/sk_7_2023_01_20.png" height="411 px" width="512 px"  />
-3. Transport layer security with message layer security using authentication and authorization.
+3.Transport layer security with message layer security using authentication and authorization.
 
 <img src="/img/sk_8_2023_01_20.png" height="447 px" width="512 px"  />
 
