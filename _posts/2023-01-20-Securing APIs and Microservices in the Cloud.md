@@ -14,7 +14,7 @@ The data center edge, the hardware and software stack that links web application
 
 #### **The Journey of the Cloud-Native Era**
 
-<img src="/img/sk_1_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_1_2023_01_20.png" height="283 px" width="512 px"  />
 
 Sharing the innovations and discoveries of the broader technology community inspired the development of early API gateways. A common façade for the whole application was produced by an API gateway, which carried out the routing functionality that was in the original monolith. The API gateway served as the core location for centralized cross-cutting application-level functions such rate limitation, authentication, and routing. As a result, fewer redundant features were needed in each of the separate services.
 
@@ -33,7 +33,7 @@ Since microservices interact via API calls, when you split your monolith archite
 
 As shown in the accompanying graphic, there are two layers of security that need to be provided in a typical microservices-based application.
 
-<img src="/img/sk_2_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_2_2023_01_20.png" height="483 px" width="512 px"  />
 
 A messaging platform is used to implement inter-service communication in the previous illustration. As a result, the message platform and the microservice are secured for east-west traffic. In the absence of such a messaging platform, security must be implemented at the microservices layer. We'll assume for the sake of this essay that your design includes a message platform for inter-service communication.   
 
@@ -43,13 +43,13 @@ Different strategies may be used to establish security for north-south transport
     
  1. Implement security at each microservice level.
 
-<img src="/img/sk_3_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_3_2023_01_20.png" height="314 px" width="512 px"  />
  2. Implement security using a sidecar.
 
-<img src="/img/sk_4_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_4_2023_01_20.png" height="370 px" width="512 px"  />
  3. Implement security using a shared gateway.
 
-<img src="/img/sk_5_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_5_2023_01_20.png" height="370 px" width="512 px"  />
 
 #### **Securing the east-west traffic**
 
@@ -57,13 +57,13 @@ Different security considerations might be made for inter-service communication 
 
 1. Transport layer security.
 
-<img src="/img/sk_6_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_6_2023_01_20.png" height="398 px" width="512 px"  />
 2. Transport layer security with message layer security using authentication.
 
-<img src="/img/sk_7_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_7_2023_01_20.png" height="411 px" width="512 px"  />
 3. Transport layer security with message layer security using authentication and authorization.
 
-<img src="/img/sk_8_2023_01_20.png" height="398 px" width="673 px"  />
+<img src="/img/sk_8_2023_01_20.png" height="447 px" width="512 px"  />
 
 #### **Summary**
 If you consider the individuals that make up an organization, you won't post everyone's contract on the open Google Drive. HR may have access to that, and a user might read a contract, for instance. Thinking about who can do what and how is highly prevalent. Finally, since security is a shared duty, it is best to consider how you personally may contribute to reducing attack surfaces.
