@@ -17,9 +17,9 @@ The world has grown intrigued about Artificial Intelligence and Machine Learning
 Generative Adversarial Networks (GANs) are a subset of Machine Learning in which we feed the training dataset to the model and the model learns to generate new data with the same features as the training set it was fed. GANs are a type of Deep Generative Model that is much more powerful in generating new images. GANs were first presented by Goodfellow et al. in 2014 and the proposed architecture consists of two networks: 1) A generative network, called Generator (G) and 2) A discriminative network called a Discriminator (D).
 The generator can learn the underlying data distribution in training data while the discriminator can classify the output as a real sample or fake sample. The generator tries to generate fake data that look realistic, to fool the discriminator, while the discriminator tries to identify the real data (training data) from generated fake data. 
 
-<img src="/img/cj_1_2023_02_10.png" height="370 px" width="850 px"  />
+<img src="/img/cj_1_2023_02_10.png" height="370 px" width="850 px" />
 
-#### **GAN Architecture**
+
 
 The market for Generative Adversarial Networks (GANs) applications has seen a significant rise in the last couple of years, which has made this technology successful for high-fidelity natural image synthesis, text-to-image translation, music generation, video generation, 3D generation, and more practical applications. Let’s see some applications of GANs.
 
