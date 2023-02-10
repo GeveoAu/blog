@@ -17,7 +17,7 @@ The world has grown intrigued about Artificial Intelligence and Machine Learning
 Generative Adversarial Networks (GANs) are a subset of Machine Learning in which we feed the training dataset to the model and the model learns to generate new data with the same features as the training set it was fed. GANs are a type of Deep Generative Model that is much more powerful in generating new images. GANs were first presented by Goodfellow et al. in 2014 and the proposed architecture consists of two networks: 1) A generative network, called Generator (G) and 2) A discriminative network called a Discriminator (D).
 The generator can learn the underlying data distribution in training data while the discriminator can classify the output as a real sample or fake sample. The generator tries to generate fake data that look realistic, to fool the discriminator, while the discriminator tries to identify the real data (training data) from generated fake data. 
 
-<img src="/img/cj_1_2023_02_10.png" height="850 px" width="370 px"  />
+<img src="/img/cj_1_2023_02_10.png" height="370 px" width="850 px"  />
 
 #### **GAN Architecture**
 
@@ -29,18 +29,18 @@ Most of the applications in this industry are mainly lying on computer vision. T
 
 - Creation of music, realistic pictures, 2D and 3D objects, and human faces for anime.
 
-<img src="/img/cj_2_2023_02_10.png" height="318 px" width="158 px"  />
+<img src="/img/cj_2_2023_02_10.png" height="158 px" width="318 px"  />
 
 - Recognizing instances of fraud when hackers conduct an aggressive attack to get data.
 - The identification of tumors in human bodies by comparing picture datasets with those of organs in good health.
 - Media translations such as text-to-image and image-to-image translations.
 
-<img src="/img/cj_3_2023_02_10.png" height="714 px" width="268 px"  />
+<img src="/img/cj_3_2023_02_10.png" height="268 px" width="714 px"  />
 
 - Using super-resolution, photo mixing, and enhancing the existing image data in photographs.
 - Transforming images of people into Emojis or using filters from Instagram or Faceapp, etc. 
 
-<img src="/img/cj_4_2023_02_10.png" height="714 px" width="268 px"  />
+<img src="/img/cj_4_2023_02_10.png" height="268 px" width="714 px"  />
 
 #### **Reasons for the excitement over GANs**
 
