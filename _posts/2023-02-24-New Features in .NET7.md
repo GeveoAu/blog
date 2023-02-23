@@ -2,11 +2,11 @@
 
 title: Why is it important to study GANs?
 
-author: Chamodi Jayathilaka
+author: a
 
 linkedin: https://www.linkedin.com/in/chamodi-jayamini-515529173/
 
-description: Microsoft's .NET platform is a powerful and versatile tool for building a wide range of applications. With each new release, .NET continues to evolve and add new features and improvements that make it even better. The latest release, .NET 7, brings several new features and improvements that developers should be excited about.
+description: a
 
 ---
 ___
