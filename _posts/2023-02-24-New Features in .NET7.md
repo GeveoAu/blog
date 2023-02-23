@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/chamodi-jayamini-515529173/
 description: Microsoft's .NET platform is a powerful and versatile tool for building a wide range of applications. With each new release, .NET continues to evolve and add new features and improvements that make it even better. The latest release, .NET 7, brings several new features and improvements that developers should be excited about.
 
 ---
+___
 Microsoft's .NET platform is a powerful and versatile tool for building a wide range of applications. With each new release, .NET continues to evolve and add new features and improvements that make it even better. The latest release, .NET 7, brings several new features and improvements that developers should be excited about.
 
 In this article, we'll take a closer look at the most important new features of .NET 7 and how they can help developers build better applications.
