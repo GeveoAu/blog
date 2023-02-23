@@ -1,6 +1,6 @@
 ---
 
-title: New Features in .NET7.
+title: New Features in DotNET7.
 
 author: Sachintha Gunathilaka
 
