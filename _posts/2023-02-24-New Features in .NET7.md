@@ -1,8 +1,8 @@
 ---
 
-title: New Features in DOTNET7
+title: Why is it important to study GANs?
 
-author: Sachintha Gunathilaka
+author: Chamodi Jayathilaka
 
 linkedin: https://www.linkedin.com/in/chamodi-jayamini-515529173/
 
