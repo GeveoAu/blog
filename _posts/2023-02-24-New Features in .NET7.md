@@ -1,7 +1,13 @@
 ---
-title: Xamarin Forms, Use ListView control to display items like a Collection View
-author: Suthakaran
-linkedin: https://www.linkedin.com/in/suthakaransivabalan/
+
+title: Why is it important to study GANs?
+
+author: Chamodi Jayathilaka
+
+linkedin: https://www.linkedin.com/in/chamodi-jayamini-515529173/
+
+description: The world has grown intrigued about Artificial Intelligence and Machine Learning since the widespread release of ChatGPT. ChatGPT extends the GANs concept to text-based communication. It converses with humans in a natural manner by using GANs to produce responses to input text.  This blog will explain why it is important to study GANs.
+
 ---
 ___
 Microsoft's .NET platform is a powerful and versatile tool for building a wide range of applications. With each new release, .NET continues to evolve and add new features and improvements that make it even better. The latest release, .NET 7, brings several new features and improvements that developers should be excited about.
