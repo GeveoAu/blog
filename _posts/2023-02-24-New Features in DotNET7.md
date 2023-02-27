@@ -4,7 +4,7 @@ title: New Features in .NET7.
 
 author: Sachintha Gunathilaka
 
-linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/sachintha-madhushanka-91ab9b16a/
 
 description: Microsoft's .NET platform is a powerful and versatile tool for building a wide range of applications. With each new release, .NET continues to evolve and add new features and improvements that make it even better. The latest release, .NET 7, brings several new features and improvements that developers should be excited about.
 
