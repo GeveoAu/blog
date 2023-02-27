@@ -28,15 +28,15 @@ Regular expressions, or regex, are a powerful tool for searching and manipulatin
 
 One of the main improvements to the .NET regex engine is the addition of the "*balanced groups*" syntax. Balanced groups allow you to match nested constructs, even if the text contains other nested pairs of the same construct. For example, suppose you have a string with nested parentheses, and you want to match the contents of the innermost pair of parentheses:
 
-<img src="/img/sg_1_2023_02_24.png" height="850 px" width="370 px"  />
+<img src="/img/sg_1_2023_02_24.png" height="595 px" width="2148px"  />
 
 Another improvement to the .NET regex engine is the addition of the "*skip*" quantifier. The skip quantifier allows you to match a pattern but exclude it from the final match result. For example, suppose you have a string with a value between two delimiters, and you want to extract the value.
 
-<img src="/img/sg_2_2023_02_24.png" height="850 px" width="370 px"  />
+<img src="/img/sg_2_2023_02_24.png" height="213 px" width="780 px"  />
 
 Another performance improvement is the use of "*jit*" or "*just-in-time*" compilation for regular expression patterns. It allows the regex engine to compile patterns into machine code at runtime, improving performance. For example, suppose you have a large string, and you want to find all occurrences of the word "*hello*".
 
-<img src="/img/sg_3_2023_02_24.png" height="850 px" width="370 px"  />
+<img src="/img/sg_3_2023_02_24.png" height="187 px" width="780 px"  />
 
 #### **Simplified LINQ Ordering**
 
@@ -44,11 +44,11 @@ LINQ, or Language-Integrated Query, is a powerful feature of .NET that allows yo
 
 In previous versions of .NET, sorting data in descending order required the use of the **OrderByDescending** method, followed by the **ThenBy** or **ThenByDescending** methods to specify additional sorting criteria. 
 
-<img src="/img/sg_4_2023_02_24.png" height="850 px" width="370 px"  />
+<img src="/img/sg_4_2023_02_24.png" height="108 px" width="780 px"  />
 
 In .NET 7, you can now use the Order method to sort data in either ascending or descending order, with the direction specified by a new keyword: ascending or descending.
 
-<img src="/img/sg_5_2023_02_24.png" height="850 px" width="370 px"  />
+<img src="/img/sg_5_2023_02_24.png" height="100 px" width="780 px"  />
 
 The new syntax makes it easier to read and write LINQ queries, especially for complex sorting scenarios where multiple sorting criteria are involved. Additionally, the Order method allows you to mix ascending and descending sorting directions within a single query, which was not possible with the previous syntax.
 
