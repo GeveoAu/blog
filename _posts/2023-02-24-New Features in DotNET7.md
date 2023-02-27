@@ -28,7 +28,7 @@ Regular expressions, or regex, are a powerful tool for searching and manipulatin
 
 One of the main improvements to the .NET regex engine is the addition of the "*balanced groups*" syntax. Balanced groups allow you to match nested constructs, even if the text contains other nested pairs of the same construct. For example, suppose you have a string with nested parentheses, and you want to match the contents of the innermost pair of parentheses:
 
-<img src="/img/sg_1_2023_02_24.png" height="595 px" width="2148px"  />
+<img src="/img/sg_1_2023_02_24.png" height="199 px" width="780px"  />
 
 Another improvement to the .NET regex engine is the addition of the "*skip*" quantifier. The skip quantifier allows you to match a pattern but exclude it from the final match result. For example, suppose you have a string with a value between two delimiters, and you want to extract the value.
 
