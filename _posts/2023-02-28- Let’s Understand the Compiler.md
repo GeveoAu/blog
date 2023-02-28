@@ -41,7 +41,7 @@ These compilers make multiple passes over the source code to perform various tas
 
 Now let’s dive into the internals of a compiler. This will help you to understand the above compiler types more clearly. To translate source code into target code compiles, have several components. Refer to the below picture. 
 
-<img src="/img/bc_1_2023_02_23.png" height="661 px" width="761 px"  />
+<img src="/img/bc_1_2023_02_23.png" height="330 px" width="380 px"  />
 
 These components together work to translate source code to the target code. Now you know as mentioned in the image it’s no need to be the Assembly code every time at the end of the compiler. It may be any target code. Sometimes a high-level code, remember the transpilers?
 
@@ -62,7 +62,7 @@ He&emsp;&emsp;&emsp;&nbsp;&nbsp;plays&emsp;&emsp;cricket
 
 If there were any mistakes in the tokens or the order we can’t understand the meaning of the sentence. Now as humans, we are capable of that. But computers are not. We humans beans are intelligent to do that. Refer to the following image. Even though there is N number of spelling mistakes, still we can read that.
 
-<img src="/img/bc_2_2023_02_23.png" height="674 px" width="553 px"  />
+<img src="/img/bc_2_2023_02_23.png" height="390 px" width="275 px"  />
 
 Again let’s go to our example. Anyway, if there were any mistakes in the tokens or the order the sentence became meaningless. Refer to the following sentence, which has correct tokens, but the wrong order.
 
@@ -76,7 +76,7 @@ We also call the syntax analyzer, the parser. As a result of parsing, syntax ana
 
 This is a sample AST.
 
-<img src="/img/bc_3_2023_02_23.png" height="1354 px" width="1200 px"  />
+<img src="/img/bc_3_2023_02_23.png" height="380 px" width="300 px"  />
 
 After the syntax analyzing stage, we come to the semantic analyzing stage. The semantic analyzer checks whether the program has a proper meaning. Look at the following sentence.
 
@@ -97,7 +97,7 @@ After the semantic analyzer stage, we have an AST which can be used to generate 
 
 Before generating the target code why do we need an intermediate code? The reason is it is more standardized and its platform independent. So when we have the intermediate code we can use that to generate target codes for multiple platforms. Refer to the following image.
 
-<img src="/img/bc_4_2023_02_23.png" height="661 px" width="690 px"  />
+<img src="/img/bc_4_2023_02_23.png" height="330 px" width="350 px"  />
 
 Here the CIL is the common intermediate language, which is a specification developed by Microsoft. When a source code is compiled to the CIL, then the next target code generation is already implemented. PL developers do not have to worry about that. 
 
