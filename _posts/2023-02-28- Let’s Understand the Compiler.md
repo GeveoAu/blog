@@ -74,7 +74,7 @@ Again let’s go to our example. Anyway, if there were any mistakes in the token
 
 This sentence is meaningless. To understand the source code correctly compiler has to make sure that, the source code has the correct tokens in the correct order. In a compiler Lexical analyzer does the token verification part and a Syntax analyzer does the token order verification part.
 
-draw
+<img src="/img/bc_5_2023_02_23.png" height="89 px" width="609 px"  />
 
 We also call the syntax analyzer, the parser. As a result of parsing, syntax analysis happens. If there is any syntax error, we can’t do the parsing properly. As a result of parsing, we get a respective AST of the source code. AST means Abstract Syntax Tree. This is a tree data structure. The parser turns our source code into a tree data structure so that we can traverse the tree much easier than analyzing the source code as a string. 
 
