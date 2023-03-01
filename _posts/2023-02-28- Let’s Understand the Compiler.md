@@ -51,13 +51,17 @@ Now let’s see how these components translate source code into target code. For
 
 How do humans understand this sentence? When we look at the sentence, we can identify each word separated from space. 
 
-*He*  => word 1
-*plays* => word 2
-*Cricket* => word 3
+*He*  => word 1 (token 1)
+
+*plays* => word 2 (token 2)
+
+*Cricket* => word 3 (token 3)
+
 
 We call these tokens. Then we know these tokens are ordered in a known rule. Which is Subject Verb Object.
 
 He&emsp;&emsp;&emsp;&nbsp;&nbsp;plays&emsp;&emsp;cricket
+
 [Subject]&emsp;[Verb]&emsp;[Object]
 
 If there were any mistakes in the tokens or the order we can’t understand the meaning of the sentence. Now as humans, we are capable of that. But computers are not. We humans beans are intelligent to do that. Refer to the following image. Even though there is N number of spelling mistakes, still we can read that.
