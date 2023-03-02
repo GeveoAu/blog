@@ -47,7 +47,7 @@ These components together work to translate source code to the target code. Now 
 
 Now let’s see how these components translate source code into target code. For that let’s use a real-world analogy, how human translators translate one language to another. Consider the following sentence.
 
-##### *He plays cricket*
+**He plays cricket**
 
 How do humans understand this sentence? When we look at the sentence, we can identify each word separated from space. 
 
