@@ -11,7 +11,7 @@ description: APIs have become a fundamental building block of modern web and mob
 ---
 ___
 
-<img src="/img/sw_1_2023_02_31.jpg" height="366 px" width="436 px"  />
+<img src="/img/sw_1_2023_03_31.jpg" height="366 px" width="436 px"  />
 
 APIs have become a fundamental building block of modern web and mobile applications, and they play a critical role in enabling data exchange and integration between different applications and systems. However, they create potential entry points for cyber-attacks. Therefore, securing APIs has become vital to pursue confidentiality, integrity, and availability of the data that rely on them.
 
