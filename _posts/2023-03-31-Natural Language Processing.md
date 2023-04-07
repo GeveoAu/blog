@@ -1,12 +1,12 @@
 ---
 
-title:Natural Language Processing.
+title: Natural Language Processing.
 
-author:Kumuthu Priyasoma.
+author: Kumuthu Priyasoma.
 
-linkedin:https://www.linkedin.com/in/Kumuthu Priyasoma/
+linkedin:
 
-description:Natural Language Processing (NLP) is a branch of computer science that is concerned with giving computers the ability to understand and interpret text and spoken words in a similar manner that humans. It is an interdisciplinary field that draws on linguistics, computer science, artificial intelligence, and machine learning to develop algorithms and techniques that enable computers to understand, interpret, and generate human language.
+description: APIs have become a fundamental building block of modern web and mobile applications, and they play a critical role in enabling data exchange and integration between different applications and systems. However, they create potential entry points for cyber-attacks. Therefore, securing APIs has become vital to pursue confidentiality, integrity, and availability of the data that rely on them.
 
 ---
 ___
