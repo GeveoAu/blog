@@ -1,10 +1,10 @@
 ---
 
-title: Natural Language Processing.
+title:Natural Language Processing.
 
-author: Kumuthu Priyasoma.
+author:Kumuthu Priyasoma.
 
-linkedin: https://www.linkedin.com/in/Kumuthu Priyasoma/
+linkedin:https://www.linkedin.com/in/Kumuthu Priyasoma/
 
 description:Natural Language Processing (NLP) is a branch of computer science that is concerned with giving computers the ability to understand and interpret text and spoken words in a similar manner that humans. It is an interdisciplinary field that draws on linguistics, computer science, artificial intelligence, and machine learning to develop algorithms and techniques that enable computers to understand, interpret, and generate human language.
 
