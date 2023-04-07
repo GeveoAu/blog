@@ -25,16 +25,20 @@ Both NLU and NLG are subcomponents of NLP. Though the topics themselves are dist
 Since human languages can get so complex it can be challenging to design software that can deal with the irregularities present in human languages. Because of these complexities, developers often use several techniques to break down the human text and voice data in ways that help the computer make sense of what it’s dealing with. Some of these tasks are as follows,
 
 **Tokenization** - This is the process of breaking down the text into individual words or tokens. This is a fundamental step in many NLP tasks as it allows the computer to understand the meaning of each word in the text.
-<img src="/img/kp_1_2023_04_06.png" height="100 px" width="500 px"  />
+
+<img src="/img/kp_2_2023_04_06.png" height="100 px" width="500 px"  />
 
 **Part of speech tagging** – This is the process of breaking down the verbs and nouns in a sentence based on how the sentence is arranged. For instance, the word ‘make’ in “How do I make a cup of tea?” is identified as a verb whilst “make” in “What make of car is most popular” is interpreted as a noun. 
-<img src="/img/kp_1_2023_04_06.png" height="300 px" width="700px" />
+
+<img src="/img/kp_3_2023_04_06.png" height="300 px" width="700px" />
 
 **Word sense Disambiguation** – This refers to the selection of, the meaning of a word with multiple meanings by analysing semantics. This enables the computer to distinguish the meaning of “make” in “Make a finance website” and “make” in “What make of car is most popular?”
-<img src="/img/kp_1_2023_04_06.png" height="300 px" width="700px"  />
+
+<img src="/img/kp_4_2023_04_06.png" height="300 px" width="700px"  />
 
 **Name Entity Recognition** – Helps identify names, locations etc. NER identifies “Samantha” as a person’s name and “Colombo” as a location.
-<img src="/img/kp_1_2023_04_06.png" height="100 px" width="500 px"  />
+
+<img src="/img/kp_5_2023_04_06.png" height="100 px" width="500 px"  />
 
 **Sentiment Analysis** – This technique attempts to extract subjective traits such as sarcasm, attitudes, suspicion etc.
 
@@ -56,12 +60,13 @@ NLP is a rapidly evolving field, with new techniques and algorithms being develo
 
 In conclusion, Natural Language Processing is a rapidly growing field that uses various technologies to process and understand human language. These technologies are used in various applications, such as chatbots, sentiment analysis, machine translation, and speech recognition. As NLP technology continues to evolve, we can expect to see even more sophisticated applications emerge in the future.
 
-References 
-[1].	"What is Natural Language Processing?”, https://www.ibm.com/topics/natural-language-processing,  (28 March 2023).
-[2].	R.Gruetzemacher, https://hbr.org/2022/04/the-power-of-natural-language-processing, ( 28 March 2023)
-[3].	"Natural Language Processing. What is it and why it matters”, https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html,  (28 March 2023)
-[4].	"A Complete Guide to Natural Language Processing”, https://www.deeplearning.ai/resources/natural-language-processing/, (29 March 2023)
-[5].	"Natural Language Processing Overview”, https://www.geeksforgeeks.org/natural-language-processing-overview/, (29 March 2023)
+#### **References.**
+
+1.	"What is Natural Language Processing?”, https://www.ibm.com/topics/natural-language-processing,  (28 March 2023).
+2.	R.Gruetzemacher, https://hbr.org/2022/04/the-power-of-natural-language-processing, ( 28 March 2023)
+3.	"Natural Language Processing. What is it and why it matters”, https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html,  (28 March 2023)
+4.	"A Complete Guide to Natural Language Processing”, https://www.deeplearning.ai/resources/natural-language-processing/, (29 March 2023)
+5.	"Natural Language Processing Overview”, https://www.geeksforgeeks.org/natural-language-processing-overview/, (29 March 2023)
 
 
 
