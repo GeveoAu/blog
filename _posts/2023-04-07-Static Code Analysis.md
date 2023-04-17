@@ -1,8 +1,8 @@
 ---
 
-title:Static Code Analysis.
+title: Static Code Analysis.
 
-author: Kumuthu Priyasoma.
+author: Buddhika Chathuranga.
 
 linkedin: https://www.linkedin.com/in/buddhikac96/
 
