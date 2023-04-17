@@ -56,17 +56,17 @@ These are just a few examples of the many static code analysis tools available. 
 - In the Azure DevOps pipeline, SonarQube getting triggered.
 
 Here is the code. Let’s see how SonarQube catches vulnerabilities in Program.cs file
-<img src="/img/bc_1_2023_04_17.png" height="1000 px" width="700 px"  />
+<img src="/img/bc_3_2023_04_17.png" height="647 px" width="761 px"  />
 Here is the summary from SonarQube.
-<img src="/img/bc_2_2023_04_17.png" height="1000 px" width="700 px"  />
+<img src="/img/bc_6_2023_04_17.png" height="617 px" width="1153 px"  />
 I have not written any unit tests for the Program class. Hence you can see the code coverage percentage is 0. Also, you can see, SonarQube has found 5 code smells. Let’s look inside the code smells tab.
-<img src="/img/bc_3_2023_04_17.png" height="700 px" width="600 px"  />
+<img src="/img/bc_5_2023_04_17.png" height="562 px" width="1143 px"  />
 These are the code smells, that SonarQube has found. Let’s look at that code smells with more details.
-<img src="/img/bc_4_2023_04_17.png" height="400 px" width="600 px"  />
+<img src="/img/bc_1_2023_04_17.png" height="700 px" width="1000 px"  />
 SonarQube provides information about the code smell. Also, it explains why it is an issue.
-<img src="/img/bc_5_2023_04_17.png" height="1000 px" width="500 px"  />
+<img src="/img/bc_2_2023_04_17.png" height="700 px" width="1000 px"  />
 Now, this is a tiny example of using SonarQube for SCA. We can use SonarQube like SCA tools to improve the code quality of our projects. Refer to the following report which I download from the internet.
-<img src="/img/bc_6_2023_04_17.png" height="1000 px" width="500 px"  />
+<img src="/img/bc_4_2023_04_17.png" height="600 px" width="800 px"  />
 In this article, you can find how to integrate SonarQube into the Azure DevOps pipeline.
 
 Integrate SonaQube into Azure DevOps.
