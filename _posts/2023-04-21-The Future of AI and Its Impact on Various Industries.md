@@ -10,7 +10,7 @@ description: Artificial intelligence (AI) is rapidly changing the world and impa
 
 ---
 ___
-<img src="/img/as_1_2023_04_21.png" height="548 px" width="1086 px"  />
+<img src="/img/as_1_2023_04_21.png" height="274 px" width="543 px"  />
 Artificial intelligence (AI) is rapidly changing the world and impacting various industries. It is an umbrella term for a set of technologies that can learn, reason, perceive, and adapt, making it possible to automate tasks, identify patterns, and make predictions based on large amounts of data. AI has the potential to revolutionize industries by improving efficiency, decision-making, and productivity. In this blog post, we will discuss how AI is transforming healthcare, finance, retail, manufacturing, transportation, and education industries. Additionally, we will explore the advantages and disadvantages of AI in different industries and how it can impact the future of work.
 
 #### **Healthcare Industry**
