@@ -1,6 +1,6 @@
 ---
 
-title:The Future of AI and Its Impact on Various Industries.
+title: The Future of AI and Its Impact on Various Industries.
 
 author: Akila Sachintha.
 
