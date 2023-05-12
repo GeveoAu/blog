@@ -1,6 +1,6 @@
 ---
 
-title:Design Patterns and Practices.
+title: Design Patterns and Practices.
 
 author: Kanchana Kariyawasam.
 
