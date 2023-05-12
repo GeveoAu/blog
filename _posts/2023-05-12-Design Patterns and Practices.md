@@ -10,7 +10,6 @@ description: In this blog, I will discuss Software Design Patterns that are esse
 
 ---
 ___
-<img src="/img/as_1_2023_04_21.png" height="548 px" width="1086 px"  />
 In this blog, I will discuss Software Design Patterns that are essential in coding. Design patterns are common solutions to problems that software engineers face during the development process. These types of solutions have been identified by many experienced Software Engineers. In addition, Experienced software engineers who mainly use object-oriented concepts use Design Patterns as one of the best practices.
 
 Furthermore, there are 25 design patterns that can be categorized into 3 main categories such as,
