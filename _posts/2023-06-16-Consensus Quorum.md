@@ -55,11 +55,10 @@ In this scenario, Party A and Party B are the part of the transaction AB while C
     1.	  Generating a symmetric key(tx-key) and two random nonces. 
     2.	Encrypting the tx payload with the tx-key and one of the nonce. 
     3.	Encrypt the tx-key separately for each recipient by:
-
--  Sender’s Private key and Receiver Public key and get shared-key. 
--  Encrypt the shared-key with tx-key and the other nonce. 
--  Repeat for all the recipients. 
--  Return this to transaction manager 
+        -  Sender’s Private key and Receiver Public key and get shared-key. 
+        -  Encrypt the shared-key with tx-key and the other nonce. 
+        -  Repeat for all the recipients. 
+        -  Return this to transaction manager 
 5.	Transaction manager store the response from the enclave and forwards to the private transaction recipients
 6.	After that, the transaction manager of the party A send the encrypted payload to the GoQuorum Node and it will replace the data field of the transaction with that hash.  
 7. 	Then tx is propagated to the network. 
