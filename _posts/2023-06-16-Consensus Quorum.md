@@ -1,6 +1,6 @@
 ---
 
-title:Consensus Quorum.
+title: Consensus Quorum.
 
 author: Priyadharsun Sivadasan.
 
