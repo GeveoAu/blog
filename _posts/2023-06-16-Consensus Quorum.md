@@ -24,7 +24,7 @@ ConsenSys Quorum is an open-source protocol layer that enables enterprises to le
 
 #### **Hyperledger Besu vs Go-Quorum**
 
-<img src="/img/ps_1_2023_06_16.png" height="548 px" width="1086 px"  />
+<img src="/img/ps_1_2023_06_16.png" height="577 px" width="1086 px"  />
 
 Hyperledger Besu Stack Includes Hyperledger Besu, Orion and EthSigner. Hyperledger Besu is an open source Ethereum client maintained by the Hyperledger community, including ConsenSys. Besu is compatible with Mainnet, is based on Java, has obtained the Apache 2.0 license, and can be extended through its Java plug-in framework. As a production Ethereum client with mainnet function, Hyperledger Besu allows enterprises to use the value network and ecosystem of the Ethereum public chain and DApps on the chain with enterprise-level software. With the upgrade of Ethereum to Ethereum 2.0, Hyperledger Besu will have interoperability to ensure the seamless scalability and technical updates of the DApps built today. Orion is a private transaction manager for Hyperledger Besu client, developed under the Apache 2.0 license and written in Java. 
 GoQuorum stack includes GoQuorum, Tessera and EthSigner. GoQuorum is an open source Ethereum client maintained by ConsenSys. GoQuorum is based on Go and is licensed under GPL. Tessera is a private transaction manager for the GoQuorum client, developed under the Apache 2.0 license and written in Java. 
@@ -38,13 +38,13 @@ EthSigner is a client-agnostic Ethereum transaction signer, written with Java an
 -	**Better Privacy**: Quorum provides on-chain public and private transactions. The open transactions are similar to Ethereum, whereas private transactions are not exposed to the public. It uses Constellation technology which encrypts specific messages in a place called an enclave and stores information about previous transactions.
 
 #### **Quorum High level Architecture**
-<img src="/img/ps_2_2023_06_16.png" height="548 px" width="1086 px"  />
+<img src="/img/ps_2_2023_06_16.png" height="378 px" width="975 px"  />
 -   **Quorum Node**: It is a command-line tool that is a lightweight fork of Geth. It is configured only to allow connection from permission nodes, ditching the P2P connectivity.
 -   **Constellation**: It kept the transaction manager and enclave. It ensures that information added to the blockchain remains secure in every possible way.
 -   **Transaction Manager**: It takes care of the transaction privacy and ensures that the transaction data is encrypted during the process by storing the allowed access and other important data to facilitate the transactions.
 -   **Enclave**: It provides different cryptographic techniques such as participant authentication, transaction history, and other key functions to ensure that all the operations are performed optimally with a focus on scalability.
 
-<img src="/img/ps_3_2023_06_16.png" height="548 px" width="1086 px"  />
+<img src="/img/ps_3_2023_06_16.png" height="951 px" width="989 px"  />
 
 In this scenario, Party A and Party B are the part of the transaction AB while C is not included in this tx. 
 1.	Part A sends a Transaction Quorum Node A with the payload and setting privateFor to be the public keys for parties A and B. 
