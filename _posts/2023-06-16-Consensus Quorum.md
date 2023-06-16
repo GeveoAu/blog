@@ -51,21 +51,21 @@ In this scenario, Party A and Party B are the part of the transaction AB while C
 2.	Quorum Node A pass that transaction to the Transaction Manager, requesting that it encrypt and store the transaction payload before forwarding it to the recipients of the transaction. 
 3.	Transaction manager of A will request Enclave to encrypt the payload for the given recipients.  
 4.	Enclave of party A encrypts the private tx payload by:  
-1.	  Generating a symmetric key(tx-key) and two random nonces. 
-2.	Encrypting the tx payload with the tx-key and one of the nonce. 
-3.	Encrypt the tx-key separately for each recipient by:
+    1.	  Generating a symmetric key(tx-key) and two random nonces. 
+    2.	Encrypting the tx payload with the tx-key and one of the nonce. 
+    3.	Encrypt the tx-key separately for each recipient by:
 
 -  Sender’s Private key and Receiver Public key and get shared-key. 
 -  Encrypt the shared-key with tx-key and the other nonce. 
 -  Repeat for all the recipients. 
-=  Return this to transaction manager 
-5.	Transaction manager store the response from the enclave and forwards to the private transaction recipients  
-6.	After that, the transaction manager of the party A send the encrypted payload to the GoQuorum Node and it will replace the data field of the transaction with that hash.  
-7.	Then tx is propagated to the network. 
-8.	The block containing tx AB is distributed to each GoQuorum node. 
-9.	Each GoQuorum will process that transaction and the transaction manager determine whether this node included in that transaction. 
-10.	Tx Manager of A&B are part of the transaction so they make a call to the enclave to decrypt the payload 
-11.	Party A&B’s enclaves decrypt the private tx. 
-12.	The transaction manager’s return their result to their GoQuorum Nodes. 
+-  Return this to transaction manager 
+  5.	Transaction manager store the response from the enclave and forwards to the private transaction recipients  
+  6.	After that, the transaction manager of the party A send the encrypted payload to the GoQuorum Node and it will replace the data field of the transaction with that hash.  
+  7.	Then tx is propagated to the network. 
+  8.	The block containing tx AB is distributed to each GoQuorum node. 
+  9.	Each GoQuorum will process that transaction and the transaction manager determine whether this node included in that transaction. 
+  10.	Tx Manager of A&B are part of the transaction so they make a call to the enclave to decrypt the payload 
+  11.	Party A&B’s enclaves decrypt the private tx.
+  12. The transaction manager’s return their result to their GoQuorum Nodes. 
 
 
