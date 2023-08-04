@@ -1,11 +1,12 @@
 ---
 
-title:The Future of User Interfaces: Voice, Gesture, and Brain-Computer Interfaces.
-author: Kumuthu Priyasoma.
+title: The Future of User Interfaces Voice, Gesture, and Brain-Computer Interfaces.
+
+author: Dilini Karunarathne.
+
 linkedin: https://www.linkedin.com/in/dilinikarunarathna/
 
-description: In a world that moves at the speed of technology, user interfaces play a pivotal role in shaping our interactions with the digital realm. As we continue to push the boundaries of innovation, three exciting technologies have emerged as potential frontrunners in the future of user interfaces: Voice, Gesture, and Brain-Computer Interfaces (BCIs). In this blog post, we will explore how these cutting-edge interfaces are revolutionizing the way we interact with technology and what lies ahead in this captivating journey.
-
+description: The human biological clock, also known as the circadian rhythm, is an intricate system that regulates our body's functions, from sleep and wakefulness to hormone production and metabolism. It is a fundamental aspect of our biology, dictating our daily patterns and influencing our overall well-being. In this article, we will explore the mechanisms behind the biological clock, its impact on various bodily processes, and the importance of maintaining a healthy circadian rhythm.
 
 ---
 ___
