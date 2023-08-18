@@ -75,6 +75,7 @@ As the US and British armies started advancing toward Germany from the Western b
 
 
 **“Stalin killed more people than Hitler. He killed an estimated 25 million people versus Hitler’s 12 million.”**
+
 **“Only 20% of the males born in the Soviet Union in 1923 survived the war.”**
 
 **“The Siege of Stalingrad resulted in more Russian deaths (military and civilian) than the US and Britain sustained (combined) in all of World War II.”**
