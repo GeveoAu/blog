@@ -1,12 +1,14 @@
 ---
 
-title:WW2 - Less known facts.
+title: Less Known Facts about world war two.
+
 author: Biman Pathirage.
+
 linkedin: https://www.linkedin.com/in/bimanpathirage/
 
-description: **September 1, 1939 – September 2, 1945** – The most hated 6 years of human history in the past century.
-People named World War 1 ‘The Great War’, taking in to account the casualties that it had caused. Little did they know that an even greater war would take place within just 25 years which would see four times greater lives lost and much more sophisticated technologies used. This was the deadliest war that has taken place in the world so far in the known human history.
-It all started when the Nazi leader invaded Poland in late 1939. Few days later, honoring an agreement with Poland, France and Great Britain declared war on Germany. Later that month, Soviet Russia (who already had a non-aggression agreement with Germany known as the German-Soviet pact) started invading Poland from the East.
+description: People named World War 1 ‘The Great War’,taking into account the casualties that it had caused. Little did they know that an even greater war would take place within just 25 years which would see four times greater lives lost and much more sophisticated technologies used. This was the deadliest war that has taken place in the world so far in known human history.
+
+
 ---
 ___
 
@@ -18,7 +20,7 @@ It all started when the Nazi leader invaded Poland in late 1939. Few days later,
 
 Germany and Soviet Russia then occupied Poland on 29th September and divided the country between them. At this point of time, the Allies were Britain and France and the Axis powers were Germany and Italy, with Soviets having an agreement with Germany that they will not go against them. On November, the Soviets invaded Finland as well. Germans then took control of Denmark and Norway on April next year.
 
-<img src="/img/bp_1_2023_08_18.gif" height="200 px" width="290 px"  />
+<img src="/img/bp_1_2023_08_18.gif" height="300 px" width="390 px"  />
 
 **1939 – 1941 – Axis powers cruising through the world.**
 After these quickfire attacks on Eastern Europe, Germany started attacking Western European countries like the Netherlands, Luxemburg, and most notably France. France, even though having declared war against Germany earlier last year, surrendered itself to the advancing great German power. Seeing the opportunity, Italy invaded France from the other side and occupied another part of the country. In the meantime, Soviet Russia took control of several other Eastern European countries such as Latvia and Lithuania. Some previously neutral countries like Hungary, Bulgaria, Slovakia, and Romania started joining the Axis forces in this time period.
@@ -30,7 +32,7 @@ After these quickfire attacks on Eastern Europe, Germany started attacking Weste
 On September 27, 1940, another important milestone in world war 2 took place, when the governments of Italy, Germany, and Japan signed the Tripartite Act. This is also known as the Berlin Pact and enabled the three emperors to declare war on Allied countries together in their journey of capturing control of the whole world. Italy had already started to dominate the African continent against the British with the help of German troops and Japan had already seized power in many Asian countries like Indonesia, Philippines, Malaysia, Singapore, Hong Kong, and some parts of China as well. The three allied forces were advancing as they could never be stopped.
 The map shows the advancement of Japan inside China in WW2.
 
-<img src="/img/bp_2_2023_08_18.png" height="380 px" width="390 px"  />
+<img src="/img/bp_2_2023_08_18.jpg" height="410 px" width="359 px"  />
 
 **“Around 6 million Jews were killed by Nazis in the war. Wonder how many Chinese were killed by the Japanese? 10 million!”**
 
@@ -69,7 +71,9 @@ As the US and British armies started advancing toward Germany from the Western b
 **“The Soviet Union declared war on Japan in 1945 even after Hitler had committed suicide. The Japanese were enroute to surrender to the Allies, but as soon as the USSR declared war against them and the atomic bombs were dropped, they made an unconditional surrender which would cause less bloodshed.”**
 
 **“Japan were fighting the war for 3 months even after the Germans surrendered.”**
-<img src="/img/bp_4_2023_08_18.png" height="363 px" width="491 px"  />
+<img src="/img/bp_4_2023_08_18.jpg" height="363 px" width="491 px"  />
+
+
 **“Stalin killed more people than Hitler. He killed an estimated 25 million people versus Hitler’s 12 million.”**
 **“Only 20% of the males born in the Soviet Union in 1923 survived the war.”**
 
