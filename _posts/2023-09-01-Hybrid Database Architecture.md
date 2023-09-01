@@ -54,27 +54,27 @@ These examples showcase how various industries leverage hybrid database architec
 **Database Combinations:**
 Here are a few examples of database combinations that can be used in a hybrid database architecture:
 
-1.	MySQL (On-Premises) + Amazon DynamoDB (Cloud):
+•	MySQL (On-Premises) + Amazon DynamoDB (Cloud):
 
 A small e-commerce startup stores its critical transactional data in an on-premises MySQL database for fast and reliable access. However, it offloads its product catalog, user reviews, and other less critical data to Amazon DynamoDB in the cloud to take advantage of its flexible scalability and pay-as-you-go pricing.
 
-2.	Microsoft SQL Server (On-Premises) + Azure Cosmos DB (Cloud):
+•	Microsoft SQL Server (On-Premises) + Azure Cosmos DB (Cloud):
 
 A large enterprise manages its customer profiles and order history in an on-premises Microsoft SQL Server database to ensure data privacy and compliance. Meanwhile, it uses Azure Cosmos DB in the cloud to store user-generated content like comments, images, and social interactions. This approach allows them to maintain control over sensitive data while benefiting from Cosmos DB's global distribution and low-latency access.
 
-3.	Oracle Database (On-Premises) + Google Cloud Firestore (Cloud):
+•	Oracle Database (On-Premises) + Google Cloud Firestore (Cloud):
 
 An educational institution keeps student records and academic data in an on-premises Oracle Database for security and performance reasons. Simultaneously, it utilizes Google Cloud Firestore to store student engagement data, class schedules, and extracurricular activity information. This hybrid setup enables them to handle dynamic workloads during registration periods and leverage Firestore's NoSQL capabilities for flexible data structures.
 
-4.	MongoDB Atlas (Cloud) + Redis (On-Premises):
+•	MongoDB Atlas (Cloud) + Redis (On-Premises):
 
 A real-time analytics company stores its constantly changing data in a MongoDB Atlas cloud database to handle the high volume of incoming data. However, it uses an on-premises Redis cache to store frequently accessed results and metadata, ensuring low-latency responses for their analytical queries.
 
-5.	PostgreSQL (On-Premises) + Snowflake (Cloud):
+•	PostgreSQL (On-Premises) + Snowflake (Cloud):
 
 A financial services company stores sensitive financial transaction data in an on-premises PostgreSQL database to adhere to strict regulatory requirements. To analyze and visualize data for decision-making, they utilize Snowflake's cloud-based data warehousing capabilities, allowing them to consolidate data from various sources while keeping critical data in-house.
 
-6.	MariaDB (On-Premises) + Microsoft Azure SQL Database (Cloud):
+•	MariaDB (On-Premises) + Microsoft Azure SQL Database (Cloud):
 
 An online media streaming platform stores user authentication and subscription data in an on-premises MariaDB database. At the same time, they utilize Microsoft Azure SQL Database in the cloud to manage user-generated content metadata, playlists, and recommendations, taking advantage of Azure's global availability and advanced analytics features.
 
