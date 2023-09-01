@@ -26,43 +26,56 @@ At its core, hybrid database architecture is the strategic integration of on-pre
 
 
 **Use cases:**
+
 Here are a few examples of organizations that have successfully implemented hybrid database architecture to address their specific needs:
-•	Retail Industry:
+
+•	*Retail Industry :*
+
 A retail company experiences seasonal spikes in sales, particularly during holidays. To handle the increased demand for their online platform, they adopt a hybrid database architecture. The critical customer data and transaction records are stored on-premises to ensure data security and low latency. However, product information and less-sensitive data are stored in the cloud, allowing the company to scale up their resources during peak periods without investing in additional on-premises hardware.
 
-•	Healthcare Sector:
+•	*Healthcare Sector :*
+
 A healthcare organization deals with sensitive patient records that need to comply with strict data privacy regulations. They utilize a hybrid database architecture to store patient records and sensitive medical information on-premises. This guarantees full control over patient data security. At the same time, they use a cloud-based database for research data, non-sensitive information, and collaborative projects, benefiting from the cloud's scalability and cost-efficiency.
 
-•	Gaming Company:
+•	*Gaming Company :*
+
 A gaming company faces fluctuating user activity based on game releases and updates. By implementing a hybrid database architecture, they keep user profiles, authentication data, and in-game purchases in their on-premises database for faster performance. However, less time-sensitive data such as leaderboards and game statistics are stored in the cloud, allowing them to easily scale resources during high-traffic events.
 
-•	Financial Institution:
+•	*Financial Institution :*
+
 A financial institution requires high-speed transactions and real-time analytics. They adopt a hybrid database approach by storing transactional data in their on-premises database for immediate processing. Simultaneously, they use cloud-based databases for big data analytics, regulatory reporting, and historical data storage. This setup enables them to maintain low-latency transaction processing while leveraging the cloud's power for complex analysis.
 
+•	*Manufacturing Company :*
 
-•	Manufacturing Company:
 A manufacturing company operates across multiple locations and needs to monitor equipment performance in real-time. They implement a hybrid database architecture, where on-premises databases store data from critical machinery for instant insights and control. Simultaneously, they use the cloud to store less critical data like equipment logs and historical maintenance records, enabling them to analyze trends and optimize operations across the board.
 
 These examples showcase how various industries leverage hybrid database architecture to tailor their data management strategies to their specific requirements. By carefully choosing where to store different types of data, these organizations achieve a balance between performance, security, scalability, and cost-effectiveness.
 
 **Database Combinations:**
 Here are a few examples of database combinations that can be used in a hybrid database architecture:
+
 1.	MySQL (On-Premises) + Amazon DynamoDB (Cloud):
+
 A small e-commerce startup stores its critical transactional data in an on-premises MySQL database for fast and reliable access. However, it offloads its product catalog, user reviews, and other less critical data to Amazon DynamoDB in the cloud to take advantage of its flexible scalability and pay-as-you-go pricing.
 
 2.	Microsoft SQL Server (On-Premises) + Azure Cosmos DB (Cloud):
+
 A large enterprise manages its customer profiles and order history in an on-premises Microsoft SQL Server database to ensure data privacy and compliance. Meanwhile, it uses Azure Cosmos DB in the cloud to store user-generated content like comments, images, and social interactions. This approach allows them to maintain control over sensitive data while benefiting from Cosmos DB's global distribution and low-latency access.
 
 3.	Oracle Database (On-Premises) + Google Cloud Firestore (Cloud):
+
 An educational institution keeps student records and academic data in an on-premises Oracle Database for security and performance reasons. Simultaneously, it utilizes Google Cloud Firestore to store student engagement data, class schedules, and extracurricular activity information. This hybrid setup enables them to handle dynamic workloads during registration periods and leverage Firestore's NoSQL capabilities for flexible data structures.
 
 4.	MongoDB Atlas (Cloud) + Redis (On-Premises):
+
 A real-time analytics company stores its constantly changing data in a MongoDB Atlas cloud database to handle the high volume of incoming data. However, it uses an on-premises Redis cache to store frequently accessed results and metadata, ensuring low-latency responses for their analytical queries.
 
 5.	PostgreSQL (On-Premises) + Snowflake (Cloud):
+
 A financial services company stores sensitive financial transaction data in an on-premises PostgreSQL database to adhere to strict regulatory requirements. To analyze and visualize data for decision-making, they utilize Snowflake's cloud-based data warehousing capabilities, allowing them to consolidate data from various sources while keeping critical data in-house.
 
 6.	MariaDB (On-Premises) + Microsoft Azure SQL Database (Cloud):
+
 An online media streaming platform stores user authentication and subscription data in an on-premises MariaDB database. At the same time, they utilize Microsoft Azure SQL Database in the cloud to manage user-generated content metadata, playlists, and recommendations, taking advantage of Azure's global availability and advanced analytics features.
 
 
