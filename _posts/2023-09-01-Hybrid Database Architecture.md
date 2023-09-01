@@ -1,6 +1,6 @@
 ---
 
-title:Hybrid Database Architecture.
+title: Hybrid Database Architecture.
 author: Thisuri Bandaranayake.
 linkedin: https://www.linkedin.com/in/thisuri-bandaranayake/
 
