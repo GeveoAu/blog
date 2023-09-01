@@ -54,6 +54,7 @@ A manufacturing company operates across multiple locations and needs to monitor 
 These examples showcase how various industries leverage hybrid database architecture to tailor their data management strategies to their specific requirements. By carefully choosing where to store different types of data, these organizations achieve a balance between performance, security, scalability, and cost-effectiveness.
 
 **Database Combinations:**
+
 Here are a few examples of database combinations that can be used in a hybrid database architecture:
 
 •	MySQL (On-Premises) + Amazon DynamoDB (Cloud):
