@@ -11,14 +11,16 @@ ___
 In the ever-evolving landscape of data management, organizations are faced with the challenge of selecting the right database architecture to suit their needs. One such solution gaining significant traction is the hybrid database architecture. Combining the strengths of both on-premises and cloud-based databases, the hybrid approach offers a balance between performance and flexibility, empowering businesses to adapt to dynamic requirements while maintaining control over sensitive data.
 
 **Understanding Hybrid Database Architecture:**
+
 At its core, hybrid database architecture is the strategic integration of on-premises and cloud databases. It enables organizations to store their data both locally within their own infrastructure and in the cloud. This arrangement facilitates seamless data movement, scalability, and redundancy, catering to the diverse needs of modern businesses.
 
 **Benefits of Hybrid Database Architecture:**
+
 1.	**Flexibility:** One of the primary advantages of hybrid database architecture is its flexibility. Businesses can choose where to host different types of data based on factors such as compliance regulations, performance requirements, and cost considerations. Critical or sensitive data can be stored on-premises, ensuring tight control, while less sensitive data can be stored in the cloud for scalability.
 
 2.	**Scalability:** Hybrid architecture offers the best of both worlds when it comes to scalability. Cloud databases provide virtually limitless storage and computing resources, making it easy to accommodate sudden spikes in data volume. This is particularly beneficial for businesses with seasonal demands or those experiencing rapid growth.
 
-3.	**FCost Efficiency:** Managing data in the cloud can be cost-effective, especially for variable workloads. Instead of investing heavily in on-premises hardware that might remain underutilized during non-peak times, organizations can scale up or down in the cloud as needed, paying only for the resources consumed.
+3.	**Cost Efficiency:** Managing data in the cloud can be cost-effective, especially for variable workloads. Instead of investing heavily in on-premises hardware that might remain underutilized during non-peak times, organizations can scale up or down in the cloud as needed, paying only for the resources consumed.
 
 4.	**Disaster Recovery:** The hybrid approach enhances disaster recovery capabilities. Storing data in both on-premises and cloud environments reduces the risk of data loss due to hardware failures, outages, or other unforeseen events. Organizations can implement data replication and backups across multiple locations for enhanced resiliency.
 
@@ -80,6 +82,7 @@ An online media streaming platform stores user authentication and subscription d
 
 
 **Implementation Challenges:**
+
 While the benefits of hybrid database architecture are substantial, implementation can pose challenges. Ensuring data consistency and synchronization between on-premises and cloud databases demands careful planning. Organizations must establish robust data integration strategies, implement effective security measures, and optimize data migration processes.
 
 **Key Considerations:**
