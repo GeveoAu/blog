@@ -1,6 +1,6 @@
 ---
 
-title:The History of Christmas Carols.
+title: The History of Christmas Carols.
 author: Heashan Fernando.
 linkedin: https://www.linkedin.com/in/heashan-fernando-aba1a9a9/
 
