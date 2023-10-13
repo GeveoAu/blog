@@ -1,6 +1,6 @@
 ---
 
-title: Benefits, Challenges, and Adoption Strategies for evolving world of software development.
+title: Understanding Open Source Software Benefits, Challenges, and Adoption Strategies.
 author: Ovindu Wijethunge.
 linkedin: https://www.linkedin.com/in/ovinduwijethunge/
 
