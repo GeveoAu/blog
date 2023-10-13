@@ -1,14 +1,17 @@
 ---
 
 title: Benefits, Challenges, and Adoption Strategies for evolving world of software development.
-author: ovindu wijethunge.
+author: Ovindu Wijethunge.
 linkedin: https://www.linkedin.com/in/ovinduwijethunge/
 
 description: In the rapidly evolving world of software development, open-source software (OSS) has emerged as a powerful force to be reckoned with. From Linux and Apache to Python and WordPress, open-source projects have left an indelible mark on the technology landscape. But what exactly is open-source software, and why is it gaining such widespread attention and adoption?
 
-In this blog post, we will explore the world of open-source software, shedding light on its numerous benefits, the challenges it presents, and strategies for successful adoption within organizations.
 ---
 ___
+In the rapidly evolving world of software development, open-source software (OSS) has emerged as a powerful force to be reckoned with. From Linux and Apache to Python and WordPress, open-source projects have left an indelible mark on the technology landscape. But what exactly is open-source software, and why is it gaining such widespread attention and adoption?
+
+In this blog post, we will explore the world of open-source software, shedding light on its numerous benefits, the challenges it presents, and strategies for successful adoption within organizations.
+
 **Benefits of Open-Source Software:**
 
 1.  **Cost Savings:**
