@@ -4,8 +4,7 @@ title: A Simple Guide to Object Detection in Computer Vision.
 author: Anupaddra Thathsarani.
 linkedin: https://www.linkedin.com/in/anupaddra-thathsarani-726642254/
 
-description: Fundamentally, YOLO is transforming computers' perception of the world, much like a superhero would. Imagine being able to identify objects in a picture. Conventional approaches are akin to piecemeal puzzle assembly, analyzing the image gradually. Conversely, YOLO says, "I got it!" after taking a quick look at the entire image. YOLO's core feature is its ability to process the entire image at once, which makes it incredibly quick and effective.
-The YOLO journey doesn't stop there. It has developed into several iterations over time, from YOLOv1 to YOLOv8. Every iteration function as a modern-day superhero, possessing enhanced abilities to identify objects quickly and precisely.
+description: undamentally, YOLO is transforming computers' perception of the world, much like a superhero would. Imagine being able to identify objects in a picture. Conventional approaches are akin to piecemeal puzzle assembly, analyzing the image gradually. Conversely, YOLO says, "I got it!" after taking a quick look at the entire image. YOLO's core feature is its ability to process the entire image at once, which makes it incredibly quick and effective.
 
 ---
 ___
@@ -15,7 +14,7 @@ ___
 Fundamentally, YOLO is transforming computers' perception of the world, much like a superhero would. Imagine being able to identify objects in a picture. Conventional approaches are akin to piecemeal puzzle assembly, analyzing the image gradually. Conversely, YOLO says, "I got it!" after taking a quick look at the entire image. YOLO's core feature is its ability to process the entire image at once, which makes it incredibly quick and effective.
 The YOLO journey doesn't stop there. It has developed into several iterations over time, from YOLOv1 to YOLOv8. Every iteration function as a modern-day superhero, possessing enhanced abilities to identify objects quickly and precisely.
 
-{{ img src="at_1_2023_12_15.jpg" height="522" width="1280" / }}
+<img src="/img/at_1_2023_12_15.jpg" height="261" width="640"  />
 
 **How YOLO Works**
 Now let's explore the workings of YOLO's magic. Imagine that YOLO overlays an image, which is a grid. Every square in the grid takes on the role of a detective, searching its borders for objects. YOLO recognizes an object's type and anticipates its location within each square. Discovering every object in the picture is akin to a group of investigators cooperating.
@@ -43,7 +42,7 @@ Then it is required to import the required libraries or modules that the selecte
 6.	Data Preprocessing 
 In this step, we draw bounding boxes around the interesting objects in photos to annotate them. Make sure the annotations, which include the object class and bounding box coordinates, follow the YOLO format.
 
-{{ img src="at_2_2023_12_15.jpg" height="368" width="867" / }}
+<img src="/img/at_2_2023_12_15.jpg" height="368" width="867"  />
 
 7.	Training
 After data preprocessing, we make use of the prepared dataset to train the YOLO model. To increase detection accuracy, this entails feeding the network with the annotated images, it is required to modify the model's parameters during training and updating the weights. The complexity of the dataset and the hardware specifications can affect training times.
