@@ -58,7 +58,8 @@ Finally, we can use the trained and successfully evaluated YOLO model for real-t
 
 **YOLO Challenges and Improvements**
 YOLO algorithm also has obstacles to overcome. It faces challenging assignments, but researchers act as mentors, helping YOLO get over challenges and improve. 
-•	YOLO has trouble identifying objects of different sizes, particularly when they are present in the same image.
-•	For YOLO, recognizing fine-grained details, that is, minute details within objects can be difficult.
-•	When there are a lot of objects closely grouped together in a scene, YOLO may have trouble, which could result in incorrect classifications or missed detections.
-•	YOLO faces an ongoing challenge in weighing the trade-off between speed and accuracy, particularly in real-time applications.
+
+    •	YOLO has trouble identifying objects of different sizes, particularly when they are present in the same image.
+    •	For YOLO, recognizing fine-grained details, that is, minute details within objects can be difficult.
+    •	When there are a lot of objects closely grouped together in a scene, YOLO may have trouble, which could result in incorrect classifications or missed detections.
+    •	YOLO faces an ongoing challenge in weighing the trade-off between speed and accuracy, particularly in real-time applications.
