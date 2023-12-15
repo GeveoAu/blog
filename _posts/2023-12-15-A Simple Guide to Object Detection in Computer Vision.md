@@ -42,7 +42,7 @@ Then it is required to import the required libraries or modules that the selecte
 6.	Data Preprocessing 
 In this step, we draw bounding boxes around the interesting objects in photos to annotate them. Make sure the annotations, which include the object class and bounding box coordinates, follow the YOLO format.
 
-<img src="/img/at_2_2023_12_15.jpg" height="368" width="867"  />
+    <img src="/img/at_2_2023_12_15.jpg" height="368" width="867"  />
 
 7.	Training
 After data preprocessing, we make use of the prepared dataset to train the YOLO model. To increase detection accuracy, this entails feeding the network with the annotated images, it is required to modify the model's parameters during training and updating the weights. The complexity of the dataset and the hardware specifications can affect training times.
