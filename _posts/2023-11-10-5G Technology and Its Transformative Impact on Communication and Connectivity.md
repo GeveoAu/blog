@@ -14,7 +14,7 @@ ___
 5G, short for fifth generation, represents a revolutionary advancement in wireless communication technology. It's not merely an incremental upgrade; it's a comprehensive reimagining of how data is transmitted and received wirelessly. At its core, 5G aims to provide significantly higher data speeds, incredibly low latency, increased capacity, and improved reliability compared to its predecessors, 3G and 4G.
 
 **Differences from Previous Generations**
-<img src="/img/PS_1_2023_11_03.jpg" height="510 px" width="360 px"  />
+<img src="/img/PS_1_2023_11_03.jpg" height="710 px" width="410 px"  />
 
 **Key Benefits of 5G**
 
@@ -34,7 +34,7 @@ With the ability to handle a massive number of connected devices simultaneously.
 
 **Revolutionizing Industries Through 5G Technology**
 
-<img src="/img/PS_2_2023_11_03.png" height="405 px" width="422 px"  />{{ img src="PS_2_2023_11_03" height="2047" width="2246" / }}
+<img src="/img/PS_2_2023_11_03.png" height="510 px" width="522 px"  />{{ img src="PS_2_2023_11_03" height="2047" width="2246" / }}
 
 Challenges and Considerations in Implementing 5G Technology
 While 5G technology holds immense promise, its deployment and adoption also come with a set of challenges and considerations that need to be addressed. These factors can impact the successful rollout and utilization of 5G networks. Here are some key challenges to keep in mind:
