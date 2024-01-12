@@ -1,6 +1,6 @@
 ---
 
-title: Unveiling the Power of AI Architecture: Building Intelligent Systems
+title: Unveiling the Power of AI Architecture.
 author: Isuru Pathirana.
 linkedin: https://www.linkedin.com/in/isurupathirana/
 
