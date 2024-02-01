@@ -1,7 +1,6 @@
 ---
 
-title: Harmonizing Development and Quality 
-      (The symbiotic relationship between software and QA engineers)
+title: Harmonizing Development and Quality
 author: Chinthaka Chandrasekara.
 linkedin: https://www.linkedin.com/in/chinthakac/
 
