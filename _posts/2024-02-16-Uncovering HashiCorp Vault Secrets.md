@@ -1,12 +1,13 @@
 ---
 
-title: Uncovering HashiCorp Vault Secrets 
+title: Uncovering HashiCorp Vault Secrets
 author: Himasha Nahallage.
 linkedin: https://www.linkedin.com/in/himashanahallage/
 
-The management of secrets and sensitive data has become a significant concern in the fast-paced IT world. A reliable and safe secret management solution is more important than ever as businesses adopt microservices and cloud-native architectures. We will look at HashiCorp Vault in this blog article, as it is an effective tool made to handle the challenges of managing secrets within modern IT settings.
+description: The management of secrets and sensitive data has become a significant concern in the fast-paced IT world. A reliable and safe secret management solution is more important than ever as businesses adopt microservices and cloud-native architectures. We will look at HashiCorp Vault in this blog article, as it is an effective tool made to handle the challenges of managing secrets within modern IT settings.
 ---
 ___
+
 
 The management of secrets and sensitive data has become a significant concern in the fast-paced IT world. A reliable and safe secret management solution is more important than ever as businesses adopt microservices and cloud-native architectures. We will look at HashiCorp Vault in this blog article, as it is an effective tool made to handle the challenges of managing secrets within modern IT settings.
 
