@@ -16,11 +16,30 @@ The management of secrets and sensitive data has become a significant concern in
 The expansion of applications and services in the age of digital transformation increases the number of secrets-Passwords, PKI Certificates, SSH Keys, Key Value, API Keys, Encryption Keys (Symmetric and Asymmetric), Time-based One-Time Password (TOTP) and TLS Certs-that must be securely maintained. Traditional methods of managing secrets, such as storing credentials in configuration files or environment variables, are no longer adequate. The constant risk of data leaks and security breaches highlights the need for a centralized, secure solution.
 
 **Introducing HashiCorp and HashiCorp Vault**
-{{ img src=" hn_1_2024_02_16.jpg" height="458_pixels" width="231_pixels " / }}
+
+               
+<center><img src="/img/hn_1_2024_02_16.jpg" height="231 px" width="458 px"  /></center>
 
 HashiCorp plays major role in the IT infrastructure sector and has its headquarters in San Francisco, California. As per the information available on various sources, in-order to help developers, operators, and security experts effectively manage cloud computing infrastructure, Mitchell Hashimoto and Armon Dadgar founded HashiCorp in 2012. 
 
 Their product line includes the following items, which they use to support various stages of the DevOps process:
+- **Terraform** : This simplifies provisioning by allowing cloud infrastructure to be created by code.
+- **Packer** : Increases productivity by making it easier to create reusable images for deployment.
+- **Nomad** : This tool makes application management easier by providing container orchestration features.
+- **Vault** : Offers strong secret management features that guarantee the protection of sensitive data.
+- **Vagrant** : Makes testing and debugging easier by aiding in the creation of micro development environments.
+- **Consul** : Facilitates communication by serving as a service mesh for container orchestrations.
+- **Waypoint** : Enhances the software delivery pipeline by streamlining the development, deployment, and release of applications.
+- **Boundary** : Controls user access to systems, improving access control and security.
+
+Overall, HashiCorp's collection of solutions enables enterprises to optimize workflows, improve security, and accelerate cloud-based application deployments.
+
+<img align="justify" src="/img/hn_2_2024_02_16.jpg" height="54 px" width="121 px"  />
+
+HashiCorp Vault is a solution designed to handle secrets and protect sensitive data in a variety of settings. Vault restricts access to secrets and encryption keys by authenticating against trusted sources of identification. This includes well-known authentication techniques including Active Directory, LDAP (Lightweight Directory Access Protocol), Kubernetes, CloudFoundry, and numerous cloud platforms. Vault ensures that only authorized users and applications have access to sensitive information, improving organizational security and compliance.
+
+**Key Features of HashiCorp Vault**
+
 - **Secrets Management** - The Vault is highly proficient in the secure storage and retrieval of sensitive information. A centralized vault is provided for the storage of secrets, with strict control over who can access them. There are two types of storages named as Integrated Storage (local or Consul) and External Storage (AWS, Azure, GCP).
 - **Dynamic Secrets** - The ability to produce dynamic, on-demand credentials (for AWS which is one of Vault's best features) and TOTP (Revoke after). This strategy improves security by limiting the duration of credentials and lowering the risk associated with long-lived secrets.
 
@@ -52,7 +71,7 @@ Vault simplifies cryptographic key management by offering a safe and centralized
 
 **Vault Architecture**
 
-{{ img src=" hn_3_2024_02_16.jpg" height="596_pixels" width="342_pixels " / }}
+<img src="/img/hn_3_2024_02_16.jpg" height="342 px" width="596 px"  />
 
 1. Vault's core engine contains storage, which acts as a vital layer for keeping sensitive data like passwords. The storage is loosely coupled, which allows for flexibility in implementation. However, the issue arises: where does this storage exist within Vault?
 
