@@ -41,18 +41,22 @@ Their product line includes the following items, which they use to support vario
 <img align="justify" src="/img/hn_2_2024_02_16.jpg" height="54 px" width="121 px"  />
 
 <p align="justify">
-HashiCorp Vault is a solution designed to handle secrets and protect sensitive data in a variety of settings. Vault restricts access to secrets and encryption keys by authenticating against trusted sources of identification. This includes well-known authentication techniques including Active Directory, LDAP (Lightweight Directory Access Protocol), Kubernetes, CloudFoundry, and numerous cloud platforms. Vault ensures that only authorized users and applications have access to sensitive information, improving organizational security and compliance.
-</p>
+HashiCorp Vault is a solution designed to handle secrets and protect sensitive data in a variety of settings. Vault restricts access to secrets and encryption keys by authenticating against trusted sources of identification. This includes well-known authentication techniques including Active Directory, LDAP (Lightweight Directory Access Protocol), Kubernetes, CloudFoundry, and numerous cloud platforms. Vault ensures that only authorized users and applications have access to sensitive information, improving organizational security and compliance.</p>
 
 **Key Features of HashiCorp Vault**
 
-- **Secrets Management**  <p align="justify">The Vault is highly proficient in the secure storage and retrieval of sensitive information. A centralized vault is provided for the storage of secrets, with strict control over who can access them. There are two types of storages named as Integrated Storage (local or Consul) and External Storage (AWS, Azure, GCP).</p>
-- **Dynamic Secrets**  <p align="justify">The ability to produce dynamic, on-demand credentials (for AWS which is one of Vault's best features) and TOTP (Revoke after). This strategy improves security by limiting the duration of credentials and lowering the risk associated with long-lived secrets.</p>
-- **Encrytion as a Service**  <p align="justify">Vault has strong encryption capabilities for both data at rest and data in transit. Vault offers a complete data protection solution, whether encrypting sensitive information or managing cryptographic keys.</p>
-     - *Data at Rest*: <p align="justify">When data is stored or saved, Vault ensures that it is encrypted, adding an extra layer of protection. This prevents unauthorized access to the stored data, even if someone gains physical access to the storage medium.</p>
-     - *Data in Transit*: <p align="justify">When data is being transmitted or moved from one point to another, Vault ensures that it is encrypted during the transfer. This safeguards the information from potential interception or eavesdropping by unauthorized parties.</p>
-- **Leasing and Renewal**  <p align="justify">Based on the lease, each secret may be valid for certain period (3 months, 6 months, etc.)</p>
-- **Revocation**  <p align="justify">Revoke secrets based on the user, bulk, type etc.</p>
+- **Secrets Management**
+  The Vault is highly proficient in the secure storage and retrieval of sensitive information. A centralized vault is provided for the storage of secrets, with strict control over who can access them. There are two types of storages named as Integrated Storage (local or Consul) and External Storage (AWS, Azure, GCP).
+- **Dynamic Secrets**  
+  The ability to produce dynamic, on-demand credentials (for AWS which is one of Vault's best features) and TOTP (Revoke after). This strategy improves security by limiting the duration of credentials and lowering the risk associated with long-lived secrets.
+- **Encrytion as a Service**  
+  Vault has strong encryption capabilities for both data at rest and data in transit. Vault offers a complete data protection solution, whether encrypting sensitive information or managing cryptographic keys.</p>
+     - *Data at Rest*: When data is stored or saved, Vault ensures that it is encrypted, adding an extra layer of protection. This prevents unauthorized access to the stored data, even if someone gains physical access to the storage medium.
+     - *Data in Transit*: When data is being transmitted or moved from one point to another, Vault ensures that it is encrypted during the transfer. This safeguards the information from potential interception or eavesdropping by unauthorized parties.
+- **Leasing and Renewal**
+  Based on the lease, each secret may be valid for certain period (3 months, 6 months, etc.)
+- **Revocation**
+  Revoke secrets based on the user, bulk, type etc.
 
 **Use Cases**
 
@@ -63,15 +67,18 @@ HashiCorp Vault is a solution designed to handle secrets and protect sensitive d
   sensitive data is only accessible by authorized entities.</p>
 
 
-  *1. Authentication Methods*:  <p align="justify">Vault offers a variety of authentication methods, which is critical for meeting differing security needs and infrastructures. Tokens and LDAP (Lightweight Directory Access Protocol) can be given as examples, although Vault additionally offers a variety of authentication solutions.</p>
-    - *Token* :  <p align="justify">These are cryptographic identifiers that used to authenticate users or entities. They offer a safe way to confirm identity and are frequently used in conjunction with other authentication methods.</p>
-    - *LDAP* :  <p align="justify">A protocol called LDAP is used to maintain and provide access to distributed directory information services. By integrating with LDAP, Vault can use existing directory services for authentication purposes.</p>
+  *1. Authentication Methods*:
+   Vault offers a variety of authentication methods, which is critical for meeting differing security needs and infrastructures. Tokens and LDAP (Lightweight Directory Access Protocol) can be given as examples, although Vault additionally offers a variety of authentication solutions.
+    - *Token* :  These are cryptographic identifiers that used to authenticate users or entities. They offer a safe way to confirm identity and are frequently used in conjunction with other authentication methods.</p>
+    - *LDAP* :  A protocol called LDAP is used to maintain and provide access to distributed directory information services. By integrating with LDAP, Vault can use existing directory services for authentication purposes.
       
-    *2. Ensuring Authorized Access*: <p align="justify">By allowing different authentication methods, Vault ensures that only authorized entities, such as users, apps, or services, have access to sensitive information stored in the vault.</p>
-    - *Role-Based Access Control (RBAC)* :  <p align="justify">Administrators can build roles and assign rights based on job functions by using the RBAC concepts that Vault frequently applies. This ensures that people or systems can only access the resources required to complete their tasks.</p>
-    - *Fine-Grained Access Control* :  <p align="justify">Administrators can use Vault to build fine-grained access controls, determining who can access certain secrets and conduct specific operations. This level of granularity improves security by reducing the likelihood of unwanted access.</p>
+    *2. Ensuring Authorized Access*:
+     By allowing different authentication methods, Vault ensures that only authorized entities, such as users, apps, or services, have access to sensitive information stored in the vault.
+    - *Role-Based Access Control (RBAC)* :  Administrators can build roles and assign rights based on job functions by using the RBAC concepts that Vault frequently applies. This ensures that people or systems can only access the resources required to complete their tasks.
+    - *Fine-Grained Access Control* :  Administrators can use Vault to build fine-grained access controls, determining who can access certain secrets and conduct specific operations. This level of granularity improves security by reducing the likelihood of unwanted access.
     
-    *3. Dynamic Secrets*:  <p align="justify">The ability of Vault to produce dynamic, short-lived credentials adds an extra degree of security. Vault can create unique credentials dynamically for every request, eliminating the risk of extended exposure to sensitive data by doing away with the need for static, long-lasting credentials.</p>
+    *3. Dynamic Secrets*:
+  The ability of Vault to produce dynamic, short-lived credentials adds an extra degree of security. Vault can create unique credentials dynamically for every request, eliminating the risk of extended exposure to sensitive data by doing away with the need for static, long-lasting credentials.
 
 
 - **Data Protection**
