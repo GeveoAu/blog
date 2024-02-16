@@ -9,19 +9,23 @@ description: The management of secrets and sensitive data has become a significa
 ___
 
 
+<p align="justify">
 The management of secrets and sensitive data has become a significant concern in the fast-paced IT world. A reliable and safe secret management solution is more important than ever as businesses adopt microservices and cloud-native architectures. We will look at HashiCorp Vault in this blog article, as it is an effective tool made to handle the challenges of managing secrets within modern IT settings.
+</p>
 
 **Understanding the Need for Secret Management**
 
+<p align="justify">
 The expansion of applications and services in the age of digital transformation increases the number of secrets-Passwords, PKI Certificates, SSH Keys, Key Value, API Keys, Encryption Keys (Symmetric and Asymmetric), Time-based One-Time Password (TOTP) and TLS Certs-that must be securely maintained. Traditional methods of managing secrets, such as storing credentials in configuration files or environment variables, are no longer adequate. The constant risk of data leaks and security breaches highlights the need for a centralized, secure solution.
-
+</p>
 **Introducing HashiCorp and HashiCorp Vault**
 
                
 <center><img src="/img/hn_1_2024_02_16.jpg" height="231 px" width="458 px"  /></center>
 
+<p align="justify">
 HashiCorp plays major role in the IT infrastructure sector and has its headquarters in San Francisco, California. As per the information available on various sources, in-order to help developers, operators, and security experts effectively manage cloud computing infrastructure, Mitchell Hashimoto and Armon Dadgar founded HashiCorp in 2012. 
-
+</p>
 Their product line includes the following items, which they use to support various stages of the DevOps process:
 - **Terraform** : This simplifies provisioning by allowing cloud infrastructure to be created by code.
 - **Packer** : Increases productivity by making it easier to create reusable images for deployment.
@@ -36,7 +40,9 @@ Overall, HashiCorp's collection of solutions enables enterprises to optimize wor
 
 <img align="justify" src="/img/hn_2_2024_02_16.jpg" height="54 px" width="121 px"  />
 
+<p align="justify">
 HashiCorp Vault is a solution designed to handle secrets and protect sensitive data in a variety of settings. Vault restricts access to secrets and encryption keys by authenticating against trusted sources of identification. This includes well-known authentication techniques including Active Directory, LDAP (Lightweight Directory Access Protocol), Kubernetes, CloudFoundry, and numerous cloud platforms. Vault ensures that only authorized users and applications have access to sensitive information, improving organizational security and compliance.
+</p>
 
 **Key Features of HashiCorp Vault**
 
@@ -74,7 +80,6 @@ Vault simplifies cryptographic key management by offering a safe and centralized
 <img src="/img/hn_3_2024_02_16.jpg" height="342 px" width="596 px"  />
 
 1. Vault's core engine contains storage, which acts as a vital layer for keeping sensitive data like passwords. The storage is loosely coupled, which allows for flexibility in implementation. However, the issue arises: where does this storage exist within Vault?
-
 2. Raft storage is one option for storage within Vault; it is an in-built storage solution given by Vault. Raft storage is included by default with any Vault installation. Consul, another product from HashiCorp, can also be used to manage data storage. These two choices are known as HashiCorp-supported internal storage solutions. Vault also supports integration with other databases such as Oracle and MySQL, as well as cloud databases such as DynamoDB, Aurora, and Google Spanner, a multi-regional database. These external databases provide Vault with greater flexibility and scalability when it comes to storage management.
 3. Auth is the entryway or entrance to Vault, and it determines how people connect to it. Users can login to Vault via a variety of identity providers, including Azure, GCP, AWS, Alibaba Cloud, and GitHub Authentication etc. By establishing trust, these identity providers make Vault secure.
 4. The main function of Vault is to manage secrets, which it does by using a secret engine. The secret engine is loosely coupled, allowing you to manage a variety of secrets such as key-value pairs, database passwords, encryption keys for transit data, SSH keys, and more. 
@@ -86,15 +91,21 @@ Vault simplifies cryptographic key management by offering a safe and centralized
 HashiCorp Vault works smoothly with other DevOps tools and services. Let's look at its interactions with Datadog and OpenShift.
 
 - *Datadog Integration*
-The integration of HashiCorp Vault and Datadog enables extensive monitoring and observability of Vault's operations and security posture. Users can use this connection to obtain insight into Vault's performance metrics, such as request rates, latency, and error rates, as well as monitor security-related events like secret access and authentication attempts. The dashboards and alarms offered by Datadog assist guarantee the availability and adherence to security protocols of Vault while offering insight into its overall health. Users can also use Datadog's logging and tracing features to correlate Vault activities with other components of their infrastructure, which helps with troubleshooting and performance optimization.
+<p align="justify">
+The integration of HashiCorp Vault and Datadog enables extensive monitoring and observability of Vault's operations and security posture. Users can use this connection to obtain insight into Vault's performance metrics, such as request rates, latency, and error rates, as well as monitor security-related events like secret access and authentication attempts. The dashboards and alarms offered by Datadog assist guarantee the availability and adherence to security protocols of Vault while offering insight into its overall health. Users can also use Datadog's logging and tracing features to correlate Vault activities with other components of their infrastructure, which helps with troubleshooting and performance optimization.</p>
 
 - *OpenShift Integration*
-Vault works smoothly with OpenShift, allowing enterprises to use Vault's features in containerized deployments. Vault delivers a secure foundation for OpenShift applications by managing microservice secrets and providing encryption for containerized data.
+<p align="justify">
+Vault works smoothly with OpenShift, allowing enterprises to use Vault's features in containerized deployments. Vault delivers a secure foundation for OpenShift applications by managing microservice secrets and providing encryption for containerized data.</p>
 
 **Security Best Practices**
-The HashiCorp Vault must also be secured, just like any other powerful tool. By putting security best practices into effect, such as multi-factor authentication, frequent audits, and appropriate disaster recovery planning, we can make sure that Vault alone stays a reliable and secure component of our infrastructure.
+
+<p align="justify">
+The HashiCorp Vault must also be secured, just like any other powerful tool. By putting security best practices into effect, such as multi-factor authentication, frequent audits, and appropriate disaster recovery planning, we can make sure that Vault alone stays a reliable and secure component of our infrastructure.</p>
 
 **Conclusion**
+
+<p align="justify">
 HashiCorp Vault stands out in the secret management arena due to its extensive feature set and adaptability. It's a crucial tool for companies looking to strengthen their security posture in a quickly changing IT environment, thanks to its features, use cases, and integrations. For more information, see the sources and official documentation listed below, as well as the community.
 
 **References**
