@@ -16,17 +16,17 @@ The management of secrets and sensitive data has become a significant concern in
 **Understanding the Need for Secret Management**
 
 <p align="justify">
-The expansion of applications and services in the age of digital transformation increases the number of secrets-Passwords, PKI Certificates, SSH Keys, Key Value, API Keys, Encryption Keys (Symmetric and Asymmetric), Time-based One-Time Password (TOTP) and TLS Certs-that must be securely maintained. Traditional methods of managing secrets, such as storing credentials in configuration files or environment variables, are no longer adequate. The constant risk of data leaks and security breaches highlights the need for a centralized, secure solution.
-</p>
-**Introducing HashiCorp and HashiCorp Vault**
+The expansion of applications and services in the age of digital transformation increases the number of secrets-Passwords, PKI Certificates, SSH Keys, Key Value, API Keys, Encryption Keys (Symmetric and Asymmetric), Time-based One-Time Password (TOTP) and TLS Certs-that must be securely maintained. Traditional methods of managing secrets, such as storing credentials in configuration files or environment variables, are no longer adequate. The constant risk of data leaks and security breaches highlights the need for a centralized, secure solution.</p>
 
-               
+**Introducing HashiCorp and HashiCorp Vault**
+            
 <center><img src="/img/hn_1_2024_02_16.jpg" height="231 px" width="458 px"  /></center>
 
 <p align="justify">
 HashiCorp plays major role in the IT infrastructure sector and has its headquarters in San Francisco, California. As per the information available on various sources, in-order to help developers, operators, and security experts effectively manage cloud computing infrastructure, Mitchell Hashimoto and Armon Dadgar founded HashiCorp in 2012. 
 </p>
 Their product line includes the following items, which they use to support various stages of the DevOps process:
+
 - **Terraform** : This simplifies provisioning by allowing cloud infrastructure to be created by code.
 - **Packer** : Increases productivity by making it easier to create reusable images for deployment.
 - **Nomad** : This tool makes application management easier by providing container orchestration features.
@@ -36,7 +36,7 @@ Their product line includes the following items, which they use to support vario
 - **Waypoint** : Enhances the software delivery pipeline by streamlining the development, deployment, and release of applications.
 - **Boundary** : Controls user access to systems, improving access control and security.
 
-Overall, HashiCorp's collection of solutions enables enterprises to optimize workflows, improve security, and accelerate cloud-based application deployments.
+<p align="justify">Overall, HashiCorp's collection of solutions enables enterprises to optimize workflows, improve security, and accelerate cloud-based application deployments.</p>
 
 <img align="justify" src="/img/hn_2_2024_02_16.jpg" height="54 px" width="121 px"  />
 
@@ -58,22 +58,29 @@ HashiCorp Vault is a solution designed to handle secrets and protect sensitive d
 **Use Cases**
 
 - **Authentication and Authorization**
-Vaults play an important role in securely managing resources. Through the inclusion of many authentication techniques, such as tokens and LDAP (Lightweight Directory Access Protocol), Vault guarantees that sensitive data is only accessible by authorized entities.
+  
+  <p align="justify">
+  Vaults play an important role in securely managing resources. Through the inclusion of many authentication techniques, such as tokens and LDAP (Lightweight Directory Access Protocol), Vault guarantees that     
+  sensitive data is only accessible by authorized entities.</p>
 
-  *1. Authentication Methods*: Vault offers a variety of authentication methods, which is critical for meeting differing security needs and infrastructures. Tokens and LDAP (Lightweight Directory Access Protocol) can be given as examples, although Vault additionally offers a variety of authentication solutions.
-    - *Token*: These are cryptographic identifiers that used to authenticate users or entities. They offer a safe way to confirm identity and are frequently used in conjunction with other authentication methods.
-    - *LDAP*: A protocol called LDAP is used to maintain and provide access to distributed directory information services. By integrating with LDAP, Vault can use existing directory services for authentication purposes.
+
+  *1. Authentication Methods*:  <p align="justify">Vault offers a variety of authentication methods, which is critical for meeting differing security needs and infrastructures. Tokens and LDAP (Lightweight Directory Access Protocol) can be given as examples, although Vault additionally offers a variety of authentication solutions.</p>
+    - *Token* :  <p align="justify">These are cryptographic identifiers that used to authenticate users or entities. They offer a safe way to confirm identity and are frequently used in conjunction with other authentication methods.</p>
+    - *LDAP* :  <p align="justify">A protocol called LDAP is used to maintain and provide access to distributed directory information services. By integrating with LDAP, Vault can use existing directory services for authentication purposes.</p>
+      
+    *2. Ensuring Authorized Access*: <p align="justify">By allowing different authentication methods, Vault ensures that only authorized entities, such as users, apps, or services, have access to sensitive information stored in the vault.</p>
+    - *Role-Based Access Control (RBAC)* :  <p align="justify">Administrators can build roles and assign rights based on job functions by using the RBAC concepts that Vault frequently applies. This ensures that people or systems can only access the resources required to complete their tasks.</p>
+    - *Fine-Grained Access Control* :  <p align="justify">Administrators can use Vault to build fine-grained access controls, determining who can access certain secrets and conduct specific operations. This level of granularity improves security by reducing the likelihood of unwanted access.</p>
     
-    *2. Ensuring Authorized Access*: By allowing different authentication methods, Vault ensures that only authorized entities, such as users, apps, or services, have access to sensitive information stored in the vault.
-    - *Role-Based Access Control (RBAC)*: Administrators can build roles and assign rights based on job functions by using the RBAC concepts that Vault frequently applies. This ensures that people or systems can only access the resources required to complete their tasks.
-    - *Fine-Grained Access Control*: Administrators can use Vault to build fine-grained access controls, determining who can access certain secrets and conduct specific operations. This level of granularity improves security by reducing the likelihood of unwanted access.
+    *3. Dynamic Secrets*:  <p align="justify">The ability of Vault to produce dynamic, short-lived credentials adds an extra degree of security. Vault can create unique credentials dynamically for every request, eliminating the risk of extended exposure to sensitive data by doing away with the need for static, long-lasting credentials.</p>
 
-    *3. Dynamic Secrets*: The ability of Vault to produce dynamic, short-lived credentials adds an extra degree of security. Vault can create unique credentials dynamically for every request, eliminating the risk of extended exposure to sensitive data by doing away with the need for static, long-lasting credentials.
 
 - **Data Protection**
+  
     Vault has the ability to encrypt data both in transit and at rest. This is especially helpful in situations where data privacy and compliance are top priorities.
 - **Secure Key Management**
-Vault simplifies cryptographic key management by offering a safe and centralized store for handling encryption and decryption processes.
+  
+    Vault simplifies cryptographic key management by offering a safe and centralized store for handling encryption and decryption processes.
 
 **Vault Architecture**
 
@@ -88,7 +95,8 @@ Vault simplifies cryptographic key management by offering a safe and centralized
 7. The HTTPS REST API can be used to securely access the vault. This provides a straightforward way to connect with Vault's functions programmatically, allowing users to automate operations and link Vault with other systems and tools in their network.
 
 **Other Integrations**
-HashiCorp Vault works smoothly with other DevOps tools and services. Let's look at its interactions with Datadog and OpenShift.
+<p align="justify">
+HashiCorp Vault works smoothly with other DevOps tools and services. Let's look at its interactions with Datadog and OpenShift.</p>
 
 - *Datadog Integration*
 <p align="justify">
@@ -106,9 +114,10 @@ The HashiCorp Vault must also be secured, just like any other powerful tool. By 
 **Conclusion**
 
 <p align="justify">
-HashiCorp Vault stands out in the secret management arena due to its extensive feature set and adaptability. It's a crucial tool for companies looking to strengthen their security posture in a quickly changing IT environment, thanks to its features, use cases, and integrations. For more information, see the sources and official documentation listed below, as well as the community.
+HashiCorp Vault stands out in the secret management arena due to its extensive feature set and adaptability. It's a crucial tool for companies looking to strengthen their security posture in a quickly changing IT environment, thanks to its features, use cases, and integrations. For more information, see the sources and official documentation listed below, as well as the community.</p>
 
 **References**
+
 -	HashiCorp Website: https://www.hashicorp.com/
 -	HashiCorp Vault Official Website: https://www.vaultproject.io/
 -	HashiCorp Vault Official Documentation: https://developer.hashicorp.com/vault/docs  
