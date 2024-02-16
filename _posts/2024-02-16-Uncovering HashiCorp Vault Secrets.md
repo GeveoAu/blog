@@ -46,14 +46,13 @@ HashiCorp Vault is a solution designed to handle secrets and protect sensitive d
 
 **Key Features of HashiCorp Vault**
 
-- **Secrets Management** - The Vault is highly proficient in the secure storage and retrieval of sensitive information. A centralized vault is provided for the storage of secrets, with strict control over who can access them. There are two types of storages named as Integrated Storage (local or Consul) and External Storage (AWS, Azure, GCP).
-- **Dynamic Secrets** - The ability to produce dynamic, on-demand credentials (for AWS which is one of Vault's best features) and TOTP (Revoke after). This strategy improves security by limiting the duration of credentials and lowering the risk associated with long-lived secrets.
-
-- **Encrytion as a Service** - Vault has strong encryption capabilities for both data at rest and data in transit. Vault offers a complete data protection solution, whether encrypting sensitive information or managing cryptographic keys.
-     - *Data at Rest*: When data is stored or saved, Vault ensures that it is encrypted, adding an extra layer of protection. This prevents unauthorized access to the stored data, even if someone gains physical access to the storage medium.
-     - *Data in Transit*: When data is being transmitted or moved from one point to another, Vault ensures that it is encrypted during the transfer. This safeguards the information from potential interception or eavesdropping by unauthorized parties.
-- **Leasing and Renewal** - Based on the lease, each secret may be valid for certain period (3 months, 6 months, etc.)
-- **Revocation** - Revoke secrets based on the user, bulk, type etc.
+- **Secrets Management**  <p align="justify">The Vault is highly proficient in the secure storage and retrieval of sensitive information. A centralized vault is provided for the storage of secrets, with strict control over who can access them. There are two types of storages named as Integrated Storage (local or Consul) and External Storage (AWS, Azure, GCP).</p>
+- **Dynamic Secrets**  <p align="justify">The ability to produce dynamic, on-demand credentials (for AWS which is one of Vault's best features) and TOTP (Revoke after). This strategy improves security by limiting the duration of credentials and lowering the risk associated with long-lived secrets.</p>
+- **Encrytion as a Service**  <p align="justify">Vault has strong encryption capabilities for both data at rest and data in transit. Vault offers a complete data protection solution, whether encrypting sensitive information or managing cryptographic keys.</p>
+     - *Data at Rest*: <p align="justify">When data is stored or saved, Vault ensures that it is encrypted, adding an extra layer of protection. This prevents unauthorized access to the stored data, even if someone gains physical access to the storage medium.</p>
+     - *Data in Transit*: <p align="justify">When data is being transmitted or moved from one point to another, Vault ensures that it is encrypted during the transfer. This safeguards the information from potential interception or eavesdropping by unauthorized parties.</p>
+- **Leasing and Renewal**  <p align="justify">Based on the lease, each secret may be valid for certain period (3 months, 6 months, etc.)</p>
+- **Revocation**  <p align="justify">Revoke secrets based on the user, bulk, type etc.</p>
 
 **Use Cases**
 
@@ -86,13 +85,19 @@ HashiCorp Vault is a solution designed to handle secrets and protect sensitive d
 
 <img src="/img/hn_3_2024_02_16.jpg" height="342 px" width="596 px"  />
 
-1. Vault's core engine contains storage, which acts as a vital layer for keeping sensitive data like passwords. The storage is loosely coupled, which allows for flexibility in implementation. However, the issue arises: where does this storage exist within Vault?
-2. Raft storage is one option for storage within Vault; it is an in-built storage solution given by Vault. Raft storage is included by default with any Vault installation. Consul, another product from HashiCorp, can also be used to manage data storage. These two choices are known as HashiCorp-supported internal storage solutions. Vault also supports integration with other databases such as Oracle and MySQL, as well as cloud databases such as DynamoDB, Aurora, and Google Spanner, a multi-regional database. These external databases provide Vault with greater flexibility and scalability when it comes to storage management.
-3. Auth is the entryway or entrance to Vault, and it determines how people connect to it. Users can login to Vault via a variety of identity providers, including Azure, GCP, AWS, Alibaba Cloud, and GitHub Authentication etc. By establishing trust, these identity providers make Vault secure.
-4. The main function of Vault is to manage secrets, which it does by using a secret engine. The secret engine is loosely coupled, allowing you to manage a variety of secrets such as key-value pairs, database passwords, encryption keys for transit data, SSH keys, and more. 
-5. Vault's System Backend is responsible for keeping internal policies. These policies describe Vault's access control and authorization rules, determining which individuals or entities have permission to access certain secrets or execute specific operations.
-6. Vault also includes auditing tools, which allow users to trace and monitor access to secrets. This audit functionality is useful for both compliance and security purposes. For example, if you want to know who accessed your AWS credentials three months ago, Vault can give detailed audit logs of access occurrences. These audit logs can be exported to multiple platforms, including Splunk, Syslog, Elasticsearch, and other audit plugins, for additional analysis and compliance reporting.
-7. The HTTPS REST API can be used to securely access the vault. This provides a straightforward way to connect with Vault's functions programmatically, allowing users to automate operations and link Vault with other systems and tools in their network.
+1. <p align="justify">Vault's core engine contains storage, which acts as a vital layer for keeping sensitive data like passwords. The storage is loosely coupled, which allows for flexibility in implementation. However, the issue arises: where does this storage exist within Vault?</p>
+   
+2. <p align="justify">Raft storage is one option for storage within Vault; it is an in-built storage solution given by Vault. Raft storage is included by default with any Vault installation. Consul, another product from HashiCorp, can also be used to manage data storage. These two choices are known as HashiCorp-supported internal storage solutions. Vault also supports integration with other databases such as Oracle and MySQL, as well as cloud databases such as DynamoDB, Aurora, and Google Spanner, a multi-regional database. These external databases provide Vault with greater flexibility and scalability when it comes to storage management.</p>
+   
+3. <p align="justify">Auth is the entryway or entrance to Vault, and it determines how people connect to it. Users can login to Vault via a variety of identity providers, including Azure, GCP, AWS, Alibaba Cloud, and GitHub Authentication etc. By establishing trust, these identity providers make Vault secure.</p>
+   
+4. <p align="justify">The main function of Vault is to manage secrets, which it does by using a secret engine. The secret engine is loosely coupled, allowing you to manage a variety of secrets such as key-value pairs, database passwords, encryption keys for transit data, SSH keys, and more.</p>
+   
+5. <p align="justify">Vault's System Backend is responsible for keeping internal policies. These policies describe Vault's access control and authorization rules, determining which individuals or entities have permission to access certain secrets or execute specific operations.</p>
+   
+6. <p align="justify">Vault also includes auditing tools, which allow users to trace and monitor access to secrets. This audit functionality is useful for both compliance and security purposes. For example, if you want to know who accessed your AWS credentials three months ago, Vault can give detailed audit logs of access occurrences. These audit logs can be exported to multiple platforms, including Splunk, Syslog, Elasticsearch, and other audit plugins, for additional analysis and compliance reporting.</p>
+   
+7. <p align="justify">The HTTPS REST API can be used to securely access the vault. This provides a straightforward way to connect with Vault's functions programmatically, allowing users to automate operations and link Vault with other systems and tools in their network.</p>
 
 **Other Integrations**
 <p align="justify">
