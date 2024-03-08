@@ -13,7 +13,7 @@ In the rapidly evolving landscape of technology, smart homes have emerged as a b
 
 <center><img src="/img/cd_1_2024_03_08.png" height="179 px" width="268 px"  /></center>
 
-**AI-Powered Home Assistants**
+#### **AI-Powered Home Assistants**
 
 <p align="justify">
 Forget about giving static voice commands; nowadays, AI home assistants are like smart buddies that get what we need without us even saying it. In 2024, they're going to be even better at blending into our daily lives. Using fancy language skills and clever algorithms, they'll handle chores like adjusting the temperature, ordering groceries, and suggesting stuff we like. These smart helpers are about to become must-haves in our homes.
@@ -36,7 +36,7 @@ Forget about giving static voice commands; nowadays, AI home assistants are like
 - **Microsoft Cortana:**
 <p align="justify">Cortana is Microsoft's virtual assistant, and it can be used with various smart home devices and platforms. It can help with tasks like managing calendars, setting reminders, sending emails, and controlling smart home devices.</p>
  
-**Enhanced Energy Management**
+#### **Enhanced Energy Management**
 
 <p align="justify">
 As everyone focuses more on being eco-friendly, smart homes are stepping up to save energy and help the planet. In 2024, there will be lots of new ways to use energy better, like smart thermostats that adjust automatically and solar panels that give us power from the sun. These changes don't just save money on bills; they also make the world cleaner and healthier for the future. </p>
@@ -58,7 +58,7 @@ As everyone focuses more on being eco-friendly, smart homes are stepping up to s
 -  **Integration with Renewable Energy Sources:** 
 <p align="justify">Smart home systems can seamlessly integrate with renewable energy sources like solar panels or wind turbines. By coordinating energy production with household consumption patterns, these systems maximize the use of clean energy and minimize reliance on fossil fuels, contributing to a more sustainable energy ecosystem.</p>
 
-**Seamless Integration of IoT Devices**
+#### **Seamless Integration of IoT Devices**
 
 <p align="justify">
 The Internet of Things (IoT) is growing fast, connecting everything from smart appliances to security cameras. In 2024, the focus will be on making all these devices work together smoothly. Whether you're using your phone to control your smart locks or getting alerts from different devices, the goal is to create easy-to-use smart home systems that make life simpler and more secure.
@@ -81,7 +81,7 @@ The Internet of Things (IoT) is growing fast, connecting everything from smart a
 - **Home Automation Platforms:** 
 <p align="justify">Comprehensive home automation platforms like Home Assistant, OpenHAB, and Hubitat Elevation provide advanced customization and integration capabilities for IoT devices. These platforms allow users to create complex automation routines, establish device triggers and conditions, and unify control of diverse IoT devices through a centralized dashboard or interface.</p>
 
-**Personalized Home Automation**
+#### **Personalized Home Automation**
 
 <p align="justify">
 As smart homes get better, people will have more chances to customize them to fit their lives perfectly. In 2024, look out for AI-powered systems that learn from how you live and create personalized routines. They might adjust lights to match your daily rhythms, make security smarter based on when you're home, or set up entertainment just how you like it. There are so many ways to make your home work just for you.
@@ -104,7 +104,7 @@ As smart homes get better, people will have more chances to customize them to fi
 - **Health and Wellness Integration:** 
 <p align="justify">Smart home devices like fitness trackers, sleep monitors, and smart scales can integrate with automation platforms to provide personalized insights and recommendations for health and wellness. For example, data from sleep tracking devices can be used to adjust bedroom lighting and temperature settings to promote better sleep quality, while fitness goals can trigger reminders for physical activity or healthy eating habits.</p>
 
-**Enhanced Privacy and Security Measures**
+#### **Enhanced Privacy and Security Measures**
 
 <p align="justify">
 As smart homes connect more, keeping them safe will be a big worry for owners. In 2024, there'll be more attention on using strong security measures like encryption and authentication to protect personal info. Companies will work on new ways, like biometrics and blockchain, to make sure your data stays private and safe, so you can enjoy the perks of a connected home worry-free.
