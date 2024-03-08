@@ -60,6 +60,10 @@ The Internet of Things (IoT) is growing fast, connecting everything from smart a
 
 **Personalized Home Automation**
 
+<p align="justify">
+As smart homes get better, people will have more chances to customize them to fit their lives perfectly. In 2024, look out for AI-powered systems that learn from how you live and create personalized routines. They might adjust lights to match your daily rhythms, make security smarter based on when you're home, or set up entertainment just how you like it. There are so many ways to make your home work just for you.
+</p>
+
 <center><img src="/img/cd_5_2024_03_08.png" height="141 px" width="250 px"  /></center>
 
 - **Adaptive Lightning:** Smart lighting systems like Philips Hue or LIFX can be programmed to adjust brightness, color, and timing based on user preferences and daily routines. For example, lights can gradually brighten in the morning to simulate sunrise, dim in the evening to promote relaxation, and change colors to match specific activities or moods
