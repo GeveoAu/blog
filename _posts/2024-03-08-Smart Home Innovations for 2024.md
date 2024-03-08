@@ -1,10 +1,9 @@
 ---
 
-title: Smart Home Innovations for 2024 
-author: Chalith Desaman
+title: Smart Home Innovations for 2024
+author: Chalith Desaman.
 linkedin: https://www.linkedin.com/in/chalith-desaman/
-
-In the rapidly evolving landscape of technology, smart homes have emerged as a beacon of convenience, efficiency, and sustainability. As we step into 2024, the realm of smart home innovations continues to expand, offering homeowners an unprecedented level of connectivity and control over their living spaces.
+description: In the rapidly evolving landscape of technology, smart homes have emerged as a beacon of convenience, efficiency, and sustainability. As we step into 2024, the realm of smart home innovations continues to expand, offering homeowners an unprecedented level of connectivity and control over their living spaces.
 ---
 ___
 
