@@ -1,12 +1,12 @@
 ---
 
-title: Unleashing the Power of Edge Computing: Revolutionizing Connectivity Beyond the Cloud
+title: Unleashing the Power of Edge Computing:Revolutionizing Connectivity Beyond the Cloud
 author: Dinooli Uduwarage
 linkedin: https://www.linkedin.com/in/dinooli-uduwarage-829368140/
-
-Edge computing redistributes processing power closer to data sources, reducing latency and enhancing efficiency. It's pivotal in autonomous vehicles, healthcare, smart cities, retail, and IIoT. Tools like edge gateways, analytics platforms, and security solutions facilitate deployment. Integration with the cloud, device management, and data governance are key considerations for future adoption and innovation.
+description: Edge computing redistributes processing power closer to data sources, reducing latency and enhancing efficiency. It's pivotal in autonomous vehicles, healthcare, smart cities, retail, and IIoT. Tools like edge gateways, analytics platforms, and security solutions facilitate deployment. Integration with the cloud, device management, and data governance are key considerations for future adoption and innovation.
 ---
 ___
+
 
 ### **Introduction**
 
