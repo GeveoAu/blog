@@ -4,7 +4,7 @@ title: Information Overload
 author: Kavindu Fernando
 linkedin: https://www.linkedin.com/in/kavindubimsarafernando/
 
-Have you been in a situation where you have to go through a lot of emails, and countless notifications on social media? Or, have you been in a situation where you cannot choose where to put your attention because there are so many options and recommendations? Have you ever felt overwhelmed by those? Then you might have already faced an information overloaded situation.
+description: Have you been in a situation where you have to go through a lot of emails, and countless notifications on social media? Or, have you been in a situation where you cannot choose where to put your attention because there are so many options and recommendations? Have you ever felt overwhelmed by those? Then you might have already faced an information overloaded situation.
 ---
 ___
 
