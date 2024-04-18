@@ -2,9 +2,7 @@
 title: Evernode Tokenomics
 author: Hethu Nanayakkara
 linkedin: https://www.linkedin.com/in/hethu/
-description: Evernode is a layer-2 smart contract platform that provides infrastructure for hosting decentralized applications (DApps).  It uses the Xahau network, the sidechain of the XRP Ledger (XRPL) for transactions and for Hooks implementation.
-Fueling the Evernode ecosystem is Evers (EVR), the platform's native digital currency used for all transactions within the platform. 
-This article delves into Evernode Tokenomics explaining the EVR token supply, earning opportunities through Evernode Hosts, and options for trading Evers in crypto exchanges.
+description: Evernode is a layer-2 smart contract platform that provides infrastructure for hosting decentralized applications (DApps).  It uses the Xahau network, the sidechain of the XRP Ledger (XRPL) for transactions and for Hooks implementation.Fueling the Evernode ecosystem is Evers (EVR), the platform's native digital currency used for all transactions within the platform. This article delves into Evernode Tokenomics explaining the EVR token supply, earning opportunities through Evernode Hosts, and options for trading Evers in crypto exchanges.
 
 ---
 ___
@@ -49,6 +47,7 @@ Evernode is a layer-2 smart contract platform that provides infrastructure for h
 ###  2.Lease hosting instances for DApps
 
 <p align="justify">In addition to earning host rewards, a host offers a specific number of "hosting slots" to be utilized by DApps.  The DApp developers would lease out the slots by paying lease fees to the hosts.</p>
+
 - **Lease price:**  Hosts have the flexibility to set the hourly lease fee, considering the quality of the infrastructure and the desired return on investment (ROI).  The market will ultimately determine the optimal pricing based on supply and demand. If the host offers high-quality resources at competitive rates, it will likely attract more tenants seeking to deploy their DApps.  
 -  **Leasing to tenants:**  DApp developers seeking to deploy their applications can lease the slots for any duration in hourly blocks. They will acquire a lease NFT by paying the lease amount in EVR while the Evernode platform facilitates the transactions securely through the Xahau ledger.
 
