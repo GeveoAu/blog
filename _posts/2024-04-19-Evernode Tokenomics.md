@@ -35,7 +35,7 @@ The remaining significant portion of 51,609,600 Evers (72% of the total supply) 
 
 ### **Become an Evernode Host and Earn EVR**
 
-As of 15th April 2024, there are over [10,000 Evernode hosts](https://geveo.io/). Hosts participate in the network to provide resources for DApps and to earn Evers (EVR).
+As of 15th April 2024, there are over [10,000 Evernode hosts](https://geveo.io/#network). Hosts participate in the network to provide resources for DApps and to earn Evers (EVR).
 
 There are two main ways to earn Evers by being part of the Evernode network:
 
