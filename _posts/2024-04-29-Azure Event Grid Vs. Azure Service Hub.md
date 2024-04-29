@@ -70,7 +70,7 @@ Both Service Bus and Event Grid have a safety net feature called Dead-letter que
 
 Many azure resources have default integration with Event Grid. 
 
-<center><img src="/img/sp_2_2024_04_29.png" height="734 px" width="1306 px"  /></center>
+<center><img src="/img/sp_2_2024_04_29.png" height="405 px" width="720 px"  /></center>
 
 ### **When to use what**
 
