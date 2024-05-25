@@ -3,7 +3,7 @@ title: Test title
 author: Rushen Samodya
 external_link: https://medium.com/@rushenssamodya/usenavigate-hook-by-react-router-dom-858c17ca6a69?source=social.linkedin
 linkedin: https://www.linkedin.com/in/samodyawar/
-content: description Test description
+description: description Test description
 
 ---
 ___
