@@ -1,5 +1,5 @@
 ---
-title: Embracing Remote Collaboration in UI/UX Design: Tools and Strategies
+title: Embracing Remote Collaboration in UI/UX Design - Tools and Strategies
 author: Eashan Rajapakshe
 external_link: https://www.linkedin.com/pulse/embracing-remote-collaboration-uiux-design-tools-eashan-rajapakshe-egltf/
 linkedin: https://www.linkedin.com/in/eashan/
