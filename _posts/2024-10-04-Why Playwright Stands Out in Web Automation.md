@@ -1,5 +1,5 @@
 ---
-title:Why Playwright Stands Out in Web Automation
+title: Why Playwright Stands Out in Web Automation
 author: Nishadi Lakshika
 external_link: https://www.linkedin.com/pulse/why-playwright-stands-out-web-automation-nishadi-lakshika-block-dbngc/
 linkedin: https://www.linkedin.com/in/nishadiblock/
