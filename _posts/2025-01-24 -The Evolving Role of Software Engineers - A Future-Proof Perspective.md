@@ -1,5 +1,5 @@
 ---
-title: The Evolving Role of Software Engineers; A Future-Proof Perspective
+title: The Evolving Role of Software Engineers - A Future-Proof Perspective
 author: Saumye Navarathna
 external_link: https://www.linkedin.com/pulse/evolving-role-software-engineers-future-proof-saumye-navarathna-hrzkc/
 linkedin: https://www.linkedin.com/in/saumye-navarathna/
