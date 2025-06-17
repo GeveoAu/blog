@@ -1,5 +1,5 @@
 ---
-title: Exploring, Developing & Deploying Azure Functions
+title: Exploring,Developing & Deploying Azure Functions
 author: Sachini Amarasinghe 
 external_link: https://www.linkedin.com/pulse/exploring-developing-deploying-azurefunctions-sachini-amarasinghe-o3ipc/?
 linkedin: https://www.linkedin.com/in/sachiniamarasinghe/?
