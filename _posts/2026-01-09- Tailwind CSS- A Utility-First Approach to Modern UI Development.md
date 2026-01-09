@@ -1,5 +1,5 @@
 ---
-title: RTailwind CSS- A Utility-First Approach to Modern UI Development
+title: Tailwind CSS- A Utility-First Approach to Modern UI Development
 author: Sasha Sawindi
 external_link: https://www.linkedin.com/pulse/tailwind-css-utility-first-approach-modern-ui-sasha-sawindi-vnxkc/?trackingId=3bNYHFJWTB2Yo%2FjxHtJASQ%3D%3D
 linkedin: https://www.linkedin.com/in/sasha-sawindi-b85880281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bb0ebdNHDQRaAgNaQkgtq5g%3D%3D
@@ -14,3 +14,4 @@ ___
 
 
                  
+
